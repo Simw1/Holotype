@@ -65,7 +65,8 @@
    "text": "Trench (2021) describes dramatic strings, a shuddering rhythm and rapid-fire MCing from So Solid members.",
    "url": "https://trenchtrenchtrench.com/news/heritage-oxide-neutrino-recruit-more-of-the-so-solid-family-on-this-classic-rap-dis-2001",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "12 Nov 2021"
   }
  ],
  "context": [
@@ -73,19 +74,22 @@
    "text": "Official Singles Chart peak no. 12 (first chart date 8 Dec 2001, 8 weeks).",
    "url": "https://www.officialcharts.com/songs/oxide-and-neutrino-rap-disonly-wanna-know-u-cos-ure/",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "chart record (OCC database)"
   },
   {
    "text": "Trench (2021) places it at the point where garage 'had been getting darker and laying the foundations for grime since the turn of the millennium'.",
    "url": "https://trenchtrenchtrench.com/news/heritage-oxide-neutrino-recruit-more-of-the-so-solid-family-on-this-classic-rap-dis-2001",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "12 Nov 2021"
   },
   {
    "text": "'Only Wanna Know U Cos Ure Famous' had already appeared on the Dance Singles chart on 9 Jun 2001 (peak 32).",
    "url": "https://officialcharts.com/artist/9084/oxide-and-neutrino",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "chart record (OCC database)"
   }
  ],
  "calls": [

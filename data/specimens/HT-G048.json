@@ -27,19 +27,22 @@
    "text": "The Quietus (2020) hears a maximal record of sub bass, distorted synth lines and serrated drum hits, with drums drawing on dancehall, 2-step, house and hip hop.",
    "url": "https://thequietus.com/?p=28201",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "14 May 2020"
   },
   {
    "text": "The Quietus singles out 'Deeper' (two-step beat, bass thump; 'grime avant la lettre') and 'In My Life' (metallic bass recalling early dubstep).",
    "url": "https://thequietus.com/?p=28201",
-   "g": "B",
-   "checked": false
+   "g": "C",
+   "checked": true,
+   "pub": "14 May 2020"
   },
   {
    "text": "Vice (2017) describes 'a raw and forward-facing futurism' and calls the title track a blend of ragga, garage beats, clipped delivery and R&B.",
    "url": "https://www.vice.com/en/article/the-complicated-legacy-of-so-solid-crew",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "31 May 2017"
   }
  ],
  "context": [
@@ -47,19 +50,22 @@
    "text": "Official Albums Chart peak no. 6 (first chart date 1 Dec 2001, 23 weeks). The title-track single reached no. 3 (17 Nov 2001) and no. 1 on the Dance chart.",
    "url": "https://www.officialcharts.com/artist/9989/so-solid-crew",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "chart record (OCC database)"
   },
   {
    "text": "Certified Platinum by the BPI, per Wikipedia.",
    "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/They_Don't_Know_(So_Solid_Crew_album)",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
   },
   {
    "text": "Vice (2017) frames So Solid as active before grime had a formal identity, in the gap between UKG's peak and grime's birth.",
    "url": "https://www.vice.com/en/article/the-complicated-legacy-of-so-solid-crew",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "31 May 2017"
   }
  ],
  "calls": [

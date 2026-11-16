@@ -216,25 +216,29 @@
      "text": "Built around a sample of the BBC Casualty theme plus a spoken skit from the Lock, Stock and Two Smoking Barrels soundtrack; Neutrino voiced it in one take over Oxide's beat (Guardian 'How we made' interview, c. 2019).",
      "url": "https://www.inkl.com/news/oxide-neutrino-how-we-made-bound-4-da-reload-casualty",
      "g": "B",
-     "checked": false
+     "checked": true,
+     "pub": "undated on inkl; Guardian 'How we made' piece c. Jan 2019 (mn2s post on it dated 29 Jan 2019)"
     },
     {
-     "text": "Tom Ewing (Popular, 2015) hears a sparse, skeletal beat with deep, hollow bass, time-stretched samples and gunshot effects; the film clip sits where a chorus would be, and the structure feels fragmented rather than built up.",
+     "text": "Tom Ewing (Popular, 2015) hears deep bass that leaves the track feeling empty and jagged, with time-stretched samples, skeletal keyboard refrains and gunshot sounds; the Lock, Stock sample 'blasts a hole' where the chorus should be.",
      "url": "https://popular-number1s.com/2015/03/02/oxide-and-neutrino-bound-4-da-reload-casualty/",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2 Mar 2015"
     },
     {
      "text": "Ewing describes Neutrino's rough, congested delivery as true to pirate-radio MCing: prepared bars, scatting, call-and-response and simply riding the beat (Popular, 2015).",
      "url": "https://popular-number1s.com/2015/03/02/oxide-and-neutrino-bound-4-da-reload-casualty/",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2 Mar 2015"
     },
     {
      "text": "Wikipedia's infobox labels it 2-step garage; many radio stations reportedly refused to play it because of the spoken sample.",
      "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Bound_4_Da_Reload_(Casualty).html",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
     }
    ],
    "context": [
@@ -242,25 +246,29 @@
      "text": "Entered the Official Singles Chart at no. 1 on 6 May 2000 (15 weeks).",
      "url": "https://officialcharts.com/artist/9084/oxide-and-neutrino",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     },
     {
      "text": "Began as a dubplate for a pirate radio show; the pair met at the pirate station Supreme FM and were members of So Solid Crew before signing as a duo (Guardian interview).",
      "url": "https://www.inkl.com/news/oxide-neutrino-how-we-made-bound-4-da-reload-casualty",
      "g": "B",
-     "checked": false
+     "checked": true,
+     "pub": "undated on inkl; Guardian 'How we made' piece c. Jan 2019 (mn2s post on it dated 29 Jan 2019)"
     },
     {
      "text": "Dan Hancox (RBMA Daily, 2019) names it, with 'I Don't Smoke', as the straws that broke the camel's back in the 'garage wars' between the UKG old guard and MC-led crews; Timmi Magic dismissed it as 'kiddie stuff, going backwards'.",
      "url": "https://daily.redbullmusicacademy.com/2019/06/ukg-committee-garage-wars",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "17 Jun 2019"
     },
     {
      "text": "In the Guardian retrospective Neutrino says the track 'sounds like the start of what was becoming grime'.",
      "url": "https://www.inkl.com/news/oxide-neutrino-how-we-made-bound-4-da-reload-casualty",
-     "g": "C",
-     "checked": false
+     "g": "B",
+     "checked": true,
+     "pub": "undated on inkl; Guardian 'How we made' piece c. Jan 2019 (mn2s post on it dated 29 Jan 2019)"
     }
    ],
    "calls": [
@@ -442,32 +450,36 @@
     "status": "Transitional",
     "of": "Grime",
     "holotype": null,
-    "basis": "Produced by Wiley. Reynolds lists it in his 2005 Grime Primer as garage rap; FACT (2013) calls it vanguard grime. Its string hook and MC-first space anticipate Wiley's later records."
+    "basis": "Produced by Wiley. Simon Reynolds lists it in his Grime Primer for The Wire (dated 2005 on one reposting, 2013 on another); FACT (2013) calls it vanguard grime. Its string hook and MC-first space anticipate Wiley's later records."
    },
    "sound": [
     {
      "text": "Reynolds (Wire 'Grime Primer', 2005, reposted 2015): simple programmed beats and a single violin-flourish hook, with the MCs carrying the track.",
      "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
-     "g": "A",
-     "checked": false
+     "g": "C",
+     "checked": true,
+     "pub": "7 Feb 2015 (reprints Wire Grime Primer, 2005)"
     },
     {
      "text": "Trench (2019): ominous string riffs and harder-hitting drum sequences, like 'a rap cypher in a rave'.",
      "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "12 Jun 2019"
     },
     {
      "text": "FACT (2013): gritty and gruff, with a skeletal rhythm and bass drone and the MC as the focus.",
      "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "4 Oct 2013"
     },
     {
      "text": "Mixmag (2018): 'clearly demarcated space for MCs to fill with complex rhymes'.",
      "url": "https://mixmag.net/feature/history-of-grime",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "6 Jun 2018"
     }
    ],
    "context": [
@@ -475,31 +487,36 @@
      "text": "A dubplate circulated from late 1999 before the official 2000 release; the crew grew out of shows on the pirate station Rinse FM (Wikipedia).",
      "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
     },
     {
-     "text": "Reynolds (2005) says it was on dubplate from 1999 and in constant pirate rotation before release; Trench (2019) notes that members Geeneus and Slimzee co-founded Rinse FM.",
+     "text": "Reynolds (Wire Grime Primer, 2005, reposted 2015) says it circulated on dubplate as early as 1999 and was in constant pirate rotation by its release.",
      "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
-     "g": "A",
-     "checked": false
+     "g": "C",
+     "checked": true,
+     "pub": "7 Feb 2015 (reprints Wire Grime Primer, 2005)"
     },
     {
      "text": "Crew members included Wiley, Maxwell D, Flowdan, God's Gift, Slimzee, DJ Target, Geeneus, Breeze, Plague, Bubbles and Major Ace; remnants later formed Roll Deep.",
      "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "12 Jun 2019"
     },
     {
-     "text": "Mixmag's Dan Hancox (2018) claims it as the first grime track: a paradigm shift from dark garage to MC-centred tracks.",
+     "text": "In Mixmag (2018) Dan Hancox reports that Geeneus claims it as the first ever grime track; Hancox himself calls it a paradigm shift towards tracks built around MCs.",
      "url": "https://mixmag.net/feature/history-of-grime",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "6 Jun 2018"
     },
     {
-     "text": "RBMA (2015): 'Know We' started a buzz for the Pay As U Go and Bow crews, with Wiley selling white labels directly to shops.",
+     "text": "RBMA (Emma Warren, 2015): Maxwell D says the tune 'started a buzz'; the article says it cemented the Pay As U Go and Bow crews, and that Wiley sold copies direct to record shops.",
      "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
-     "g": "C",
-     "checked": false
+     "g": "B",
+     "checked": true,
+     "pub": "26 May 2015"
     }
    ],
    "calls": [
@@ -620,14 +637,16 @@
    "key": "so-solid-crew-oh-no-dilemma-2000",
    "sort": "2000-12-16",
    "year": 2000,
-   "date": "2000 (chart entry 16 Dec 2000)",
+   "date": "2000 (Hip Hop and R&B Albums chart from 16 Dec 2000)",
    "kind": "Single",
    "artist": "So Solid Crew",
    "title": "Oh No (Sentimental Things) / Dilemma",
    "label": "Relentless",
    "cat": "RELENT8CDS",
    "format": "CD single (earliest format verified); other formats not verified",
-   "producers": [],
+   "producers": [
+    "Megaman (per his Complex interview)"
+   ],
    "lane": "transition",
    "geno": [
     {
@@ -675,32 +694,36 @@
     "status": "Transitional",
     "of": "Grime",
     "holotype": null,
-    "basis": "Coded for Dilemma. Kode9 called it ultra-minimal in 2001; FACT (2013) calls it a proto-grime flip; the Quietus (2020) reports Wiley saying Oh No started grime. A strong candidate for the earliest record in the grime type series."
+    "basis": "Coded for Dilemma. Kode9 called it ultra-minimal in 2001 (known now through an undated reprint); FACT (2013) calls it a proto-grime flip; the Quietus (2020) calls it a precursor to Pulse X and reports, without a source, that Wiley later said the A-side Oh No started grime. Its producer, Megaman, says the crew still called it garage. A candidate for the start of the grime series, and the clearest test of where the boundary sits."
    },
    "sound": [
     {
      "text": "Steve Goodman (Kode9), writing in Deuce in 2001, calls 'Dilemma' 'ultra-minimal'.",
      "url": "https://fabriclondon.com/posts/hyperdub-archive-21st-century-skank-the-haunting-of-uk-garage-2001",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated fabric reprint of Deuce magazine, 2001"
     },
     {
-     "text": "The Quietus (2020): 'Dilemma' is a bare-bones rush of spartan drum hits and a mutating bassline, a moody precursor to minimal grime.",
+     "text": "The Quietus (Ben Cardew, 2020): 'Dilemma' is a bare-bones rush of little more than spartan drum hits and a mutating bassline, a precursor to the minimal filth of Youngstar's 'Pulse X'.",
      "url": "https://thequietus.com/?p=28201",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "14 May 2020"
     },
     {
      "text": "The Quietus (2020): 'Oh No' is sharp-angled, with rumbling bass and MC braggadocio, over a beat sitting between Timbaland-style R&B and UK garage two-step; Lisa Maffia sings the chorus.",
      "url": "https://thequietus.com/?p=28201",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "14 May 2020"
     },
     {
      "text": "FACT (2013) calls 'Dilemma' the 'freakishly minimalist proto-grime flip'.",
      "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "4 Oct 2013"
     }
    ],
    "context": [
@@ -708,25 +731,29 @@
      "text": "So Solid Crew are from Battersea, south London, and made their name on the pirate station Delight FM ('So Solid Sundays'), having also been on Supreme FM.",
      "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/So_Solid_Crew.html",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
     },
     {
      "text": "The Quietus (2020) reports that Wiley later called 'Oh No' the record that started grime.",
      "url": "https://thequietus.com/?p=28201",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "14 May 2020"
     },
     {
-     "text": "Megaman (Complex, 2021) places the turning point towards grime at 'Oh No (Sentimental Things)', not '21 Seconds', and says the crew still called their music garage at the time.",
+     "text": "In Complex (2021) the interviewer, Joseph JP Patterson, calls 'Oh No' the turning point that mutated UK garage into grime; Megaman, who produced it, says the crew 'still called it garage'.",
      "url": "https://www.complex.com/music/a/joseph-jp-patterson/so-solid-crew-21-seconds-at-20",
      "g": "C",
-     "checked": false
+     "checked": false,
+     "pub": "6 Aug 2021"
     },
     {
-     "text": "OCC lists 'Oh No (Sentimental Things)' on its Hip Hop & R&B chart from 16 Dec 2000 (peak 6, 9 weeks); it did not enter the main singles chart.",
+     "text": "OCC lists 'Oh No (Sentimental Things)' on its Hip Hop and R&B Albums Chart from 16 Dec 2000 (peak 6, 9 weeks); Wikipedia says the CD single was ineligible for the singles chart because of its number of remixes.",
      "url": "https://www.officialcharts.com/artist/9989/so-solid-crew",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     }
    ],
    "calls": [
@@ -920,7 +947,8 @@
      "text": "Wikipedia notes its sample of 'Gravedigger' by the New York Rock & Roll Ensemble; no further sound description was found.",
      "url": "https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Boom_Selection",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "Wikipedia mirror (kiwix snapshot 2023-10)"
     }
    ],
    "context": [
@@ -928,13 +956,15 @@
      "text": "Official Singles Chart peak no. 12 (first chart date 3 Feb 2001); Dance chart no. 1 (2 weeks at the top, 11 weeks in all).",
      "url": "https://officialcharts.com/songs/genius-cru-boom-selection",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     },
     {
      "text": "Reynolds (2015, reusing his 2013 Wire Grime Primer) calls it 'the immortal Boom Selection' and places Genius Cru's playful bonhomie just before the grimy era; he treats garage rap as a flavour of 2-step and UKG.",
      "url": "https://blissout.blogspot.com/2015/02/garage-rap-7.html",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "15 Feb 2015 (reuses Wire Grime Primer entry; page calls it a Wire April 2013 'director's cut')"
     }
    ],
    "calls": [
@@ -1073,26 +1103,29 @@
     "status": "Outgroup",
     "of": "UK garage",
     "holotype": null,
-    "basis": "A no. 1 garage single at about 140 BPM with each MC taking a short slot. Sources call it garage that helped usher in what became grime. Held as an outgroup; its tempo and 8-bar relay already match grime's."
+    "basis": "A no. 1 garage single at about 140 BPM with each MC taking a short slot (8 bars by Megaman's memory, 12 by Wikipedia's count). Sources call it garage that helped usher in what became grime. Held as an outgroup whose tempo and MC relay sit close to grime's."
    },
    "sound": [
     {
      "text": "Wikipedia: fairly stripped-back 2-step garage at about 140 BPM in G minor; each MC gets a short slot (the title's 21 seconds).",
      "url": "https://en.wikipedia.org/wiki/21_Seconds",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "live Wikipedia, accessed 16 Nov 2026"
     },
     {
      "text": "Complex (2021) describes synthesised keys, skeletal drums and a barrage of garage MCs; Megaman says everyone did 8 bars each.",
      "url": "https://www.complex.com/music/a/joseph-jp-patterson/so-solid-crew-21-seconds-at-20",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "6 Aug 2021"
     },
     {
      "text": "The Quietus (2020) has ten MCs each taking a turn over a 'rinkadink garage backing'.",
      "url": "https://thequietus.com/?p=28201",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "14 May 2020"
     }
    ],
    "context": [
@@ -1100,25 +1133,29 @@
      "text": "Official Singles Chart no. 1 (first chart date 18 Aug 2001, 18 weeks) and Dance chart no. 1. It also appears on the Independent Singles chart from 19 May 2001, earlier than the commercial release.",
      "url": "https://www.officialcharts.com/artist/9989/so-solid-crew",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     },
     {
      "text": "Complex (2021) says the track helped usher in the sound and scene 'that later became known as grime'.",
      "url": "https://www.complex.com/music/a/joseph-jp-patterson/so-solid-crew-21-seconds-at-20",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "6 Aug 2021"
     },
     {
      "text": "The Quietus (2020) calls it a blueprint for crew grime records such as More Fire Crew's 'Pow!'.",
      "url": "https://thequietus.com/?p=28201",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "14 May 2020"
     },
     {
      "text": "Vice (2017) places So Solid in the gap between UK garage's peak and grime's birth, arguing 'they did it first'.",
      "url": "https://www.vice.com/en/article/the-complicated-legacy-of-so-solid-crew",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "31 May 2017"
     }
    ],
    "calls": [
@@ -1297,7 +1334,8 @@
      "text": "FACT (2013) calls it one of the fattest rollers 'from that period where garage was spawning grime' (no finer detail).",
      "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "4 Oct 2013"
     }
    ],
    "context": [
@@ -1305,13 +1343,15 @@
      "text": "Official Independent Singles Chart peak no. 48 (first chart date 25 Aug 2001).",
      "url": "https://www.officialcharts.com/artist/675/jaimeson/",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     },
     {
-     "text": "Jameson attended the 2000-era UK Garage Committee meetings with Matt Mason, Viper and Maxwell D, aiming to be 'a voice' for the next generation (RBMA, 2019).",
+     "text": "RBMA (Dan Hancox, 2019) names Jameson among those who attended UK Garage Committee meetings with Matt Mason, Viper and Maxwell D; Mason says 'We wanted to be a voice' for the next generation.",
      "url": "https://daily.redbullmusicacademy.com/2019/06/ukg-committee-garage-wars",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "17 Jun 2019"
     }
    ],
    "calls": [
@@ -1411,19 +1451,22 @@
      "text": "The Quietus (2020) hears a maximal record of sub bass, distorted synth lines and serrated drum hits, with drums drawing on dancehall, 2-step, house and hip hop.",
      "url": "https://thequietus.com/?p=28201",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "14 May 2020"
     },
     {
      "text": "The Quietus singles out 'Deeper' (two-step beat, bass thump; 'grime avant la lettre') and 'In My Life' (metallic bass recalling early dubstep).",
      "url": "https://thequietus.com/?p=28201",
-     "g": "B",
-     "checked": false
+     "g": "C",
+     "checked": true,
+     "pub": "14 May 2020"
     },
     {
      "text": "Vice (2017) describes 'a raw and forward-facing futurism' and calls the title track a blend of ragga, garage beats, clipped delivery and R&B.",
      "url": "https://www.vice.com/en/article/the-complicated-legacy-of-so-solid-crew",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "31 May 2017"
     }
    ],
    "context": [
@@ -1431,19 +1474,22 @@
      "text": "Official Albums Chart peak no. 6 (first chart date 1 Dec 2001, 23 weeks). The title-track single reached no. 3 (17 Nov 2001) and no. 1 on the Dance chart.",
      "url": "https://www.officialcharts.com/artist/9989/so-solid-crew",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     },
     {
      "text": "Certified Platinum by the BPI, per Wikipedia.",
      "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/They_Don't_Know_(So_Solid_Crew_album)",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
     },
     {
      "text": "Vice (2017) frames So Solid as active before grime had a formal identity, in the gap between UKG's peak and grime's birth.",
      "url": "https://www.vice.com/en/article/the-complicated-legacy-of-so-solid-crew",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "31 May 2017"
     }
    ],
    "calls": [
@@ -1612,7 +1658,8 @@
      "text": "Trench (2021) describes dramatic strings, a shuddering rhythm and rapid-fire MCing from So Solid members.",
      "url": "https://trenchtrenchtrench.com/news/heritage-oxide-neutrino-recruit-more-of-the-so-solid-family-on-this-classic-rap-dis-2001",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "12 Nov 2021"
     }
    ],
    "context": [
@@ -1620,19 +1667,22 @@
      "text": "Official Singles Chart peak no. 12 (first chart date 8 Dec 2001, 8 weeks).",
      "url": "https://www.officialcharts.com/songs/oxide-and-neutrino-rap-disonly-wanna-know-u-cos-ure/",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     },
     {
      "text": "Trench (2021) places it at the point where garage 'had been getting darker and laying the foundations for grime since the turn of the millennium'.",
      "url": "https://trenchtrenchtrench.com/news/heritage-oxide-neutrino-recruit-more-of-the-so-solid-family-on-this-classic-rap-dis-2001",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "12 Nov 2021"
     },
     {
      "text": "'Only Wanna Know U Cos Ure Famous' had already appeared on the Dance Singles chart on 9 Jun 2001 (peak 32).",
      "url": "https://officialcharts.com/artist/9084/oxide-and-neutrino",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     }
    ],
    "calls": [
@@ -1783,14 +1833,15 @@
     "status": "Transitional",
     "of": "Grime",
     "holotype": null,
-    "basis": "Produced by Wiley; Reynolds (2005) pairs it with Know We as garage rap in his Grime Primer. Release year is uncertain."
+    "basis": "Produced by Wiley; Reynolds pairs it with Know We in his Grime Primer. Release year is uncertain."
    },
    "sound": [
     {
      "text": "Reynolds (Wire Grime Primer, 2005) pairs it with 'Know We' as 'chip-off-the-same-block': simple programmed beats, MC-carried, with a Puff Daddy soundbite.",
      "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
-     "g": "A",
-     "checked": false
+     "g": "C",
+     "checked": true,
+     "pub": "7 Feb 2015 (reprints Wire Grime Primer, 2005)"
     }
    ],
    "context": [
@@ -1798,19 +1849,22 @@
      "text": "Record shops treated it as the follow-up to 'Know We', but Wiley did not want it released under the Pay As U Go name; Flowdan suggested 'Roll Deep', after a phrase popular in bashment songs, so this record is the origin of the Roll Deep name.",
      "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
     },
     {
      "text": "Wikipedia's Pay As U Go article says it was recorded in 2001.",
      "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
     },
     {
-     "text": "RBMA (2015): Wiley signed 'Terrible' to Teebone with 'Know We' and 'Wickedest Ting' for a reported £300.",
+     "text": "Per Maxwell D (RBMA, 2015), Wiley signed 'Know We' to Teebone in a bundle with 'Terrible' and 'Wickedest Ting' for £300.",
      "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
-     "g": "C",
-     "checked": false
+     "g": "B",
+     "checked": true,
+     "pub": "26 May 2015"
     }
    ],
    "calls": [
@@ -2577,13 +2631,15 @@
      "text": "Trench (2019): a memorable sung hook over bouncy, summery production, the crew's party-friendly garage mode as opposed to their darker material.",
      "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "12 Jun 2019"
     },
     {
      "text": "RBMA (2015): recorded at Island's Fallout Shelter studio with Geeneus and Wiley, with Matthew Herbert on keys.",
      "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "26 May 2015"
     }
    ],
    "context": [
@@ -2591,19 +2647,22 @@
      "text": "Official Singles Chart peak no. 13 (first chart date 27 Apr 2002, 5 weeks); Dance chart peak no. 5.",
      "url": "https://officialcharts.com/songs/pay-as-u-go-champagne-dance",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     },
     {
      "text": "Per RBMA (2015), Island's MD rejected it and Sony signed it.",
      "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "26 May 2015"
     },
     {
      "text": "Wikipedia calls it the crew's only charting hit before they split; members went on to the grime crew Roll Deep.",
      "url": "https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Champagne_Dance",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "Wikipedia mirror (kiwix snapshot 2023-10)"
     }
    ],
    "calls": [
@@ -2761,13 +2820,15 @@
      "text": "Trench (2022): high-speed patois and a catchy hook; a mission statement for the crew's inclusive, multi-genre approach.",
      "url": "https://trenchtrenchtrench.com/features/how-heartless-crew-united-all-strands-of-bass-music-with-crisp-biscuit-vol-1",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "6 Oct 2022"
     },
     {
      "text": "FACT (2013): spartan and bass-heavy, 'Too spartan to be called garage, too breezy to qualify as grime'.",
      "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "4 Oct 2013"
     }
    ],
    "context": [
@@ -2775,25 +2836,29 @@
      "text": "Official Singles Chart peak no. 21 (first chart date 25 May 2002, 3 weeks); Dance chart peak no. 3.",
      "url": "https://www.officialcharts.com/songs/heartless-crew-the-heartless-crew-theme/",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     },
     {
      "text": "North London crew (MC Bushkin, MC Mighty Moe, DJ Fonti), on the pirate station Mission 90.6 FM by 1998; Wikipedia says they are credited with paving the way for grime alongside So Solid and Pay As U Go.",
      "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Heartless_Crew",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
     },
     {
      "text": "Line Noise (2024) calls their 2001 clash with Pay As U Go 'another pivotal moment in the transition from UKG to grime'.",
      "url": "https://linenoise.substack.com/p/heartless-crew-where-garage-met-grime",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "27 Nov 2024"
     },
     {
      "text": "Trench (2022) says it spread mostly via pirate radio, local shops and raves; by 2002 the crew had a 1Xtra Sunday show.",
      "url": "https://trenchtrenchtrench.com/features/how-heartless-crew-united-all-strands-of-bass-music-with-crisp-biscuit-vol-1",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "6 Oct 2022"
     }
    ],
    "calls": [
@@ -4841,14 +4906,15 @@
     "status": "Voucher",
     "of": "Grime",
     "holotype": null,
-    "basis": "Evidence specimen; a white-label instrumental with prominent strings."
+    "basis": "Evidence specimen; a 12-inch with prominent strings and a vocal B-side."
    },
    "sound": [
     {
      "text": "The NTS bio says the production uses 'very noticeable strings'.",
      "url": "https://nts.live/artists/22929-dj-marsta",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated NTS bio"
     }
    ],
    "context": [
@@ -4856,13 +4922,15 @@
      "text": "DJ Marsta is a grime DJ and producer from East London; NTS says Gridlock has been played at major events ever since its 2003 release.",
      "url": "https://nts.live/artists/22929-dj-marsta",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated NTS bio"
     },
     {
      "text": "NTS lists other Marsta releases, including 'Fibre (Terror Danjah Mix)' (East Iz East / Total Package, 2002) and 'Flames' (A.R.M.Y Bullet, 2004).",
      "url": "https://nts.live/artists/22929-dj-marsta",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated NTS bio"
     }
    ],
    "calls": [
@@ -6383,19 +6451,22 @@
      "text": "The Brooklyn Rail (Dominic Umile, June 2010) describes Kode9's four tracks as crude and wordless, mixing film dialogue and Eastern reed instruments with heavy bass lines, with no vocalists.",
      "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "June 2010 (page metadata 20 Aug 2024)"
     },
     {
-     "text": "XLR8R (Brion Paul, July 2005) points to Eastern-tinged hip-hop touches, acoustic-guitar R&B smoothness and jungle-style 'precision bass blasts'.",
+     "text": "XLR8R (Brion Paul, July 2005) hears 'Eastern-fetishizing hip-hop', acoustic guitar-strumming R&B and 'the precision bass blasts of jungle' echoing through the nine tracks.",
      "url": "https://xlr8r.com/reviews/grime-2/",
-     "g": "C",
-     "checked": false
+     "g": "A",
+     "checked": true,
+     "pub": "17 Jul 2005"
     },
     {
      "text": "RA (Emeka Okonkwo, 2021) calls Digital Mystikz's 'CR7 Chamber' 'dark and glacial'.",
      "url": "https://ra.co/reviews/34235",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "1 Sep 2021"
     }
    ],
    "context": [
@@ -6403,25 +6474,29 @@
      "text": "Rephlex Records discography (Wikipedia mirror) lists CAT 156 'Grime' and CAT 160 'Grime 2' as consecutive various-artist releases.",
      "url": "https://bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze.ipfs.ipfs.hypha.coop/wiki/Rephlex_Records_discography",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
     },
     {
      "text": "The Brooklyn Rail says Rephlex 'understandably misidentified' the music as grime, and links the comp to the infancy of what became dubstep.",
      "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "June 2010"
     },
     {
      "text": "RA says CR7 Chamber was among the tracks that first hooked audiences, and the duo stayed underground until DJs worldwide noticed in 2006.",
      "url": "https://ra.co/reviews/34235",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "1 Sep 2021"
     },
     {
      "text": "Comments under k-punk's April 2004 post on the first Rephlex 'Grime' comp were already disputing whether the FWD/dubstep producers and the MC-led grime scene were the same thing; Hyperdub's steve_hyperdub says Slaughter Mob saw themselves as dubstep.",
      "url": "https://k-punk.org/rephlex-grime",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "24 Apr 2004 (comments 26-29 Apr 2004)"
     }
    ],
    "calls": [
@@ -6732,14 +6807,15 @@
     "status": "Context artefact",
     "of": "Grime",
     "holotype": null,
-    "basis": "Album; reviewed in a 2004 grime round-up. One of the first major-label albums by a woman MC from the scene."
+    "basis": "Album on a major label (Polydor), reviewed in a 2004 grime round-up."
    },
    "sound": [
     {
-     "text": "A contemporary Vice review (2004) says she 'can rap' but finds much of the album so fast and high-pitched it is hard to follow; it singles out a game-show track and a live track with guitars as the standouts.",
+     "text": "A contemporary Vice grime round-up (Tosh Lyons & Peter Shilton, 2004) says she 'can rap' but is often 'so fast and whiney' that she is hard to follow; when she slows down, on a game-show track and a live track with guitars, she 'smashes it'.",
      "url": "https://www.vice.com/sv/article/beats-v11n4",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "30 Nov 2004 (metadata 1 Dec 2004)"
     }
    ],
    "context": [
@@ -6747,25 +6823,29 @@
      "text": "Lead single 'One Wish' entered the Official Singles Chart at no. 40 on 17/07/2004 (2 weeks) and reached no. 15 on the Official Hip Hop and R&B Singles Chart (OCC).",
      "url": "https://officialcharts.com/songs/shystie-one-wish",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "chart record (OCC database)"
     },
     {
      "text": "Wikipedia says 'One Wish' had no mainstream radio or music-TV support besides Channel U and MTV Base; it was later used in the 2006 film Kidulthood and on Dubplate Drama Vol. 1.",
      "url": "https://en.wikipedia.org/wiki/Shystie",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "live Wikipedia, accessed 16 Nov 2026"
     },
     {
      "text": "Shystie, from Hackney, first became known in 2003 for a white-label answer to Dizzee Rascal's 'I Luv U'; touring with Basement Jaxx, The Streets and 50 Cent led to her Polydor deal. The album sold about 60,000 UK copies and she was nominated for Best Newcomer at the 2004 MOBO Awards (Wikipedia).",
      "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Shystie",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
     },
     {
      "text": "Complex (2014) says she began on London pirate radio, getting her first break on Freek FM at about 17, and calls her 'the First Lady of grime'.",
      "url": "https://www.complex.com/music/a/kieran-yates/shystie-interview",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "18 Sep 2014"
     }
    ],
    "calls": [

@@ -60,14 +60,15 @@
   "status": "Transitional",
   "of": "Grime",
   "holotype": null,
-  "basis": "Produced by Wiley; Reynolds (2005) pairs it with Know We as garage rap in his Grime Primer. Release year is uncertain."
+  "basis": "Produced by Wiley; Reynolds pairs it with Know We in his Grime Primer. Release year is uncertain."
  },
  "sound": [
   {
    "text": "Reynolds (Wire Grime Primer, 2005) pairs it with 'Know We' as 'chip-off-the-same-block': simple programmed beats, MC-carried, with a Puff Daddy soundbite.",
    "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
-   "g": "A",
-   "checked": false
+   "g": "C",
+   "checked": true,
+   "pub": "7 Feb 2015 (reprints Wire Grime Primer, 2005)"
   }
  ],
  "context": [
@@ -75,19 +76,22 @@
    "text": "Record shops treated it as the follow-up to 'Know We', but Wiley did not want it released under the Pay As U Go name; Flowdan suggested 'Roll Deep', after a phrase popular in bashment songs, so this record is the origin of the Roll Deep name.",
    "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
   },
   {
    "text": "Wikipedia's Pay As U Go article says it was recorded in 2001.",
    "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
   },
   {
-   "text": "RBMA (2015): Wiley signed 'Terrible' to Teebone with 'Know We' and 'Wickedest Ting' for a reported £300.",
+   "text": "Per Maxwell D (RBMA, 2015), Wiley signed 'Know We' to Teebone in a bundle with 'Terrible' and 'Wickedest Ting' for £300.",
    "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
-   "g": "C",
-   "checked": false
+   "g": "B",
+   "checked": true,
+   "pub": "26 May 2015"
   }
  ],
  "calls": [

@@ -60,26 +60,29 @@
   "status": "Outgroup",
   "of": "UK garage",
   "holotype": null,
-  "basis": "A no. 1 garage single at about 140 BPM with each MC taking a short slot. Sources call it garage that helped usher in what became grime. Held as an outgroup; its tempo and 8-bar relay already match grime's."
+  "basis": "A no. 1 garage single at about 140 BPM with each MC taking a short slot (8 bars by Megaman's memory, 12 by Wikipedia's count). Sources call it garage that helped usher in what became grime. Held as an outgroup whose tempo and MC relay sit close to grime's."
  },
  "sound": [
   {
    "text": "Wikipedia: fairly stripped-back 2-step garage at about 140 BPM in G minor; each MC gets a short slot (the title's 21 seconds).",
    "url": "https://en.wikipedia.org/wiki/21_Seconds",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "live Wikipedia, accessed 16 Nov 2026"
   },
   {
    "text": "Complex (2021) describes synthesised keys, skeletal drums and a barrage of garage MCs; Megaman says everyone did 8 bars each.",
    "url": "https://www.complex.com/music/a/joseph-jp-patterson/so-solid-crew-21-seconds-at-20",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "6 Aug 2021"
   },
   {
    "text": "The Quietus (2020) has ten MCs each taking a turn over a 'rinkadink garage backing'.",
    "url": "https://thequietus.com/?p=28201",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "14 May 2020"
   }
  ],
  "context": [
@@ -87,25 +90,29 @@
    "text": "Official Singles Chart no. 1 (first chart date 18 Aug 2001, 18 weeks) and Dance chart no. 1. It also appears on the Independent Singles chart from 19 May 2001, earlier than the commercial release.",
    "url": "https://www.officialcharts.com/artist/9989/so-solid-crew",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "chart record (OCC database)"
   },
   {
    "text": "Complex (2021) says the track helped usher in the sound and scene 'that later became known as grime'.",
    "url": "https://www.complex.com/music/a/joseph-jp-patterson/so-solid-crew-21-seconds-at-20",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "6 Aug 2021"
   },
   {
    "text": "The Quietus (2020) calls it a blueprint for crew grime records such as More Fire Crew's 'Pow!'.",
    "url": "https://thequietus.com/?p=28201",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "14 May 2020"
   },
   {
    "text": "Vice (2017) places So Solid in the gap between UK garage's peak and grime's birth, arguing 'they did it first'.",
    "url": "https://www.vice.com/en/article/the-complicated-legacy-of-so-solid-crew",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "31 May 2017"
   }
  ],
  "calls": [

@@ -60,14 +60,15 @@
   "status": "Voucher",
   "of": "Grime",
   "holotype": null,
-  "basis": "Evidence specimen; a white-label instrumental with prominent strings."
+  "basis": "Evidence specimen; a 12-inch with prominent strings and a vocal B-side."
  },
  "sound": [
   {
    "text": "The NTS bio says the production uses 'very noticeable strings'.",
    "url": "https://nts.live/artists/22929-dj-marsta",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated NTS bio"
   }
  ],
  "context": [
@@ -75,13 +76,15 @@
    "text": "DJ Marsta is a grime DJ and producer from East London; NTS says Gridlock has been played at major events ever since its 2003 release.",
    "url": "https://nts.live/artists/22929-dj-marsta",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated NTS bio"
   },
   {
    "text": "NTS lists other Marsta releases, including 'Fibre (Terror Danjah Mix)' (East Iz East / Total Package, 2002) and 'Flames' (A.R.M.Y Bullet, 2004).",
    "url": "https://nts.live/artists/22929-dj-marsta",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated NTS bio"
   }
  ],
  "calls": [

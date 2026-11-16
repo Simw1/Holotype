@@ -65,13 +65,15 @@
    "text": "Trench (2019): a memorable sung hook over bouncy, summery production, the crew's party-friendly garage mode as opposed to their darker material.",
    "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "12 Jun 2019"
   },
   {
    "text": "RBMA (2015): recorded at Island's Fallout Shelter studio with Geeneus and Wiley, with Matthew Herbert on keys.",
    "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "26 May 2015"
   }
  ],
  "context": [
@@ -79,19 +81,22 @@
    "text": "Official Singles Chart peak no. 13 (first chart date 27 Apr 2002, 5 weeks); Dance chart peak no. 5.",
    "url": "https://officialcharts.com/songs/pay-as-u-go-champagne-dance",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "chart record (OCC database)"
   },
   {
    "text": "Per RBMA (2015), Island's MD rejected it and Sony signed it.",
    "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "26 May 2015"
   },
   {
    "text": "Wikipedia calls it the crew's only charting hit before they split; members went on to the grime crew Roll Deep.",
    "url": "https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Champagne_Dance",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "Wikipedia mirror (kiwix snapshot 2023-10)"
   }
  ],
  "calls": [

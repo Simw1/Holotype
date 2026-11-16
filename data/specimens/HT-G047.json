@@ -65,7 +65,8 @@
    "text": "FACT (2013) calls it one of the fattest rollers 'from that period where garage was spawning grime' (no finer detail).",
    "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "4 Oct 2013"
   }
  ],
  "context": [
@@ -73,13 +74,15 @@
    "text": "Official Independent Singles Chart peak no. 48 (first chart date 25 Aug 2001).",
    "url": "https://www.officialcharts.com/artist/675/jaimeson/",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "chart record (OCC database)"
   },
   {
-   "text": "Jameson attended the 2000-era UK Garage Committee meetings with Matt Mason, Viper and Maxwell D, aiming to be 'a voice' for the next generation (RBMA, 2019).",
+   "text": "RBMA (Dan Hancox, 2019) names Jameson among those who attended UK Garage Committee meetings with Matt Mason, Viper and Maxwell D; Mason says 'We wanted to be a voice' for the next generation.",
    "url": "https://daily.redbullmusicacademy.com/2019/06/ukg-committee-garage-wars",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "17 Jun 2019"
   }
  ],
  "calls": [

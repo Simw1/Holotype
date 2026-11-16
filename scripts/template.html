@@ -393,7 +393,7 @@ function renderStats(){
   const coded=SPEC.filter(s=>s.geno).length;
   const srcs=new Set(SPEC.flatMap(s=>s.sources.map(x=>x.url))).size;
   $('#stats').innerHTML=`<span><b>${SPEC.length}</b>specimens</span><span><b>${coded}</b>coded</span><span><b>${ev}</b>graded evidence items</span><span><b>${srcs}</b>cited pages</span><span><b>${EDGES.length}</b>documented links</span>`;
-  $('#built').textContent=`Built ${DATA.built} from desk research (AI-assisted), with every round-one statement checked against its source`;
+  $('#built').textContent=`Built ${DATA.built} from desk research (AI-assisted), with every statement checked against its source`;
 }
 
 /* ---------- filters + picker ---------- */
@@ -516,7 +516,7 @@ function renderTypes(){
     {n:'UK garage (outgroup)',items:SPEC.filter(s=>s.type.status==='Outgroup').sort((a,b)=>a.sort.localeCompare(b.sort)).map(s=>[s,'Outgroup',0])}];
   $('#typelist').innerHTML=groups.map(g=>{const v=SPEC.filter(s=>s.type.of===g.n&&s.type.status==='Voucher').length;
     return `<div class="tname"><div><h3>${esc(g.n)}</h3><p class="panel-note">${g.n.startsWith('UK garage')?'Reference records that root the comparison.':`${v} further specimen${v===1?'':'s'} held as vouchers.`}</p></div><div class="series">${g.items.map(([s,st,strong])=>row(s,st,strong)).join('')}</div></div>`;}).join('');
-  $('#priority').innerHTML=`<b>The first question for review: where does grime begin?</b><span>Pulse X (March 2002) is the proposed anchor, but the register now holds five transitional records that may have priority. So Solid Crew's Dilemma (2000) was called ultra-minimal by Kode9 in 2001 and proto-grime by FACT in 2013, and the Quietus reports Wiley saying Oh No started grime. Pay As U Go's Know We (2000) and Roll Deep Entourage's Terrible (2001), both produced by Wiley, are listed as garage rap in Reynolds's 2005 Grime Primer. Oi! circulated as a promo in 2001, and Venom was made in 2001. If reviewers accept any of these as grime, priority moves the lectotype to it; if they are garage, they stay transitional. Either answer is a finding.</span>`;
+  $('#priority').innerHTML=`<b>The first question for review: where does grime begin?</b><span>Pulse X (March 2002) is the proposed anchor. Five earlier records sit on the boundary. So Solid Crew's Dilemma (2000) was called ultra-minimal by Kode9 in 2001 and proto-grime by FACT in 2013, and the Quietus calls it a precursor to Pulse X; yet its producer says the crew still called it garage. Pay As U Go's Know We (2000) and Roll Deep Entourage's Terrible (2001), both produced by Wiley, appear in Simon Reynolds's Grime Primer. Oi! circulated as a promo in 2001, and Venom was made in 2001. If reviewers accept any of these as grime, priority moves the lectotype to it; if they are garage, they stay transitional. Either answer is a finding.</span>`;
 }
 
 /* ---------- lineage ---------- */

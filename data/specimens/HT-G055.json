@@ -17,14 +17,15 @@
   "status": "Context artefact",
   "of": "Grime",
   "holotype": null,
-  "basis": "Album; reviewed in a 2004 grime round-up. One of the first major-label albums by a woman MC from the scene."
+  "basis": "Album on a major label (Polydor), reviewed in a 2004 grime round-up."
  },
  "sound": [
   {
-   "text": "A contemporary Vice review (2004) says she 'can rap' but finds much of the album so fast and high-pitched it is hard to follow; it singles out a game-show track and a live track with guitars as the standouts.",
+   "text": "A contemporary Vice grime round-up (Tosh Lyons & Peter Shilton, 2004) says she 'can rap' but is often 'so fast and whiney' that she is hard to follow; when she slows down, on a game-show track and a live track with guitars, she 'smashes it'.",
    "url": "https://www.vice.com/sv/article/beats-v11n4",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "30 Nov 2004 (metadata 1 Dec 2004)"
   }
  ],
  "context": [
@@ -32,25 +33,29 @@
    "text": "Lead single 'One Wish' entered the Official Singles Chart at no. 40 on 17/07/2004 (2 weeks) and reached no. 15 on the Official Hip Hop and R&B Singles Chart (OCC).",
    "url": "https://officialcharts.com/songs/shystie-one-wish",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "chart record (OCC database)"
   },
   {
    "text": "Wikipedia says 'One Wish' had no mainstream radio or music-TV support besides Channel U and MTV Base; it was later used in the 2006 film Kidulthood and on Dubplate Drama Vol. 1.",
    "url": "https://en.wikipedia.org/wiki/Shystie",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "live Wikipedia, accessed 16 Nov 2026"
   },
   {
    "text": "Shystie, from Hackney, first became known in 2003 for a white-label answer to Dizzee Rascal's 'I Luv U'; touring with Basement Jaxx, The Streets and 50 Cent led to her Polydor deal. The album sold about 60,000 UK copies and she was nominated for Best Newcomer at the 2004 MOBO Awards (Wikipedia).",
    "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Shystie",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
   },
   {
    "text": "Complex (2014) says she began on London pirate radio, getting her first break on Freek FM at about 17, and calls her 'the First Lady of grime'.",
    "url": "https://www.complex.com/music/a/kieran-yates/shystie-interview",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "18 Sep 2014"
   }
  ],
  "calls": [

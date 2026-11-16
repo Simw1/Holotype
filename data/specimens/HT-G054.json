@@ -28,19 +28,22 @@
    "text": "The Brooklyn Rail (Dominic Umile, June 2010) describes Kode9's four tracks as crude and wordless, mixing film dialogue and Eastern reed instruments with heavy bass lines, with no vocalists.",
    "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "June 2010 (page metadata 20 Aug 2024)"
   },
   {
-   "text": "XLR8R (Brion Paul, July 2005) points to Eastern-tinged hip-hop touches, acoustic-guitar R&B smoothness and jungle-style 'precision bass blasts'.",
+   "text": "XLR8R (Brion Paul, July 2005) hears 'Eastern-fetishizing hip-hop', acoustic guitar-strumming R&B and 'the precision bass blasts of jungle' echoing through the nine tracks.",
    "url": "https://xlr8r.com/reviews/grime-2/",
-   "g": "C",
-   "checked": false
+   "g": "A",
+   "checked": true,
+   "pub": "17 Jul 2005"
   },
   {
    "text": "RA (Emeka Okonkwo, 2021) calls Digital Mystikz's 'CR7 Chamber' 'dark and glacial'.",
    "url": "https://ra.co/reviews/34235",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "1 Sep 2021"
   }
  ],
  "context": [
@@ -48,25 +51,29 @@
    "text": "Rephlex Records discography (Wikipedia mirror) lists CAT 156 'Grime' and CAT 160 'Grime 2' as consecutive various-artist releases.",
    "url": "https://bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze.ipfs.ipfs.hypha.coop/wiki/Rephlex_Records_discography",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
   },
   {
    "text": "The Brooklyn Rail says Rephlex 'understandably misidentified' the music as grime, and links the comp to the infancy of what became dubstep.",
    "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "June 2010"
   },
   {
    "text": "RA says CR7 Chamber was among the tracks that first hooked audiences, and the duo stayed underground until DJs worldwide noticed in 2006.",
    "url": "https://ra.co/reviews/34235",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "1 Sep 2021"
   },
   {
    "text": "Comments under k-punk's April 2004 post on the first Rephlex 'Grime' comp were already disputing whether the FWD/dubstep producers and the MC-led grime scene were the same thing; Hyperdub's steve_hyperdub says Slaughter Mob saw themselves as dubstep.",
    "url": "https://k-punk.org/rephlex-grime",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "24 Apr 2004 (comments 26-29 Apr 2004)"
   }
  ],
  "calls": [

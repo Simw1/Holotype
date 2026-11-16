@@ -120,3 +120,15 @@ OVERRIDE.update({
  'wiley-da-2nd-phaze-2006': {'of': 'Grime', 'basis': 'Album; Wikipedia tags it grime and eskibeat, but no source checked ties it to the eski style directly, so it is held under grime.'},
 })
 CALL_DROP = {('dj-target-poltergeist-aim002-2004', 0), ('aftershock-payback-remix-ep-2004', 0)}
+
+# Fact-check overrides to round-2 specimens (h4)
+OVERRIDE.update({
+ 'so-solid-crew-oh-no-dilemma-2000': {'date': '2000 (Hip Hop and R&B Albums chart from 16 Dec 2000)',
+    'basis': 'Coded for Dilemma. Kode9 called it ultra-minimal in 2001 (known now through an undated reprint); FACT (2013) calls it a proto-grime flip; the Quietus (2020) calls it a precursor to Pulse X and reports, without a source, that Wiley later said the A-side Oh No started grime. Its producer, Megaman, says the crew still called it garage. A candidate for the start of the grime series, and the clearest test of where the boundary sits.'},
+ 'pay-as-u-go-know-we-2000': {'basis': 'Produced by Wiley. Simon Reynolds lists it in his Grime Primer for The Wire (dated 2005 on one reposting, 2013 on another); FACT (2013) calls it vanguard grime. Its string hook and MC-first space anticipate Wiley\'s later records.'},
+ 'roll-deep-entourage-terrible': {'basis': 'Produced by Wiley; Reynolds pairs it with Know We in his Grime Primer. Release year is uncertain.'},
+ 'so-solid-crew-21-seconds-2001': {'basis': 'A no. 1 garage single at about 140 BPM with each MC taking a short slot (8 bars by Megaman\'s memory, 12 by Wikipedia\'s count). Sources call it garage that helped usher in what became grime. Held as an outgroup whose tempo and MC relay sit close to grime\'s.'},
+ 'dj-marsta-gridlock-2003': {'basis': 'Evidence specimen; a 12-inch with prominent strings and a vocal B-side.'},
+ 'shystie-diamond-in-the-dirt-2004': {'basis': 'Album on a major label (Polydor), reviewed in a 2004 grime round-up.'},
+})
+PRODUCER_FIX['so-solid-crew-oh-no-dilemma-2000'] = ['Megaman (per his Complex interview)']

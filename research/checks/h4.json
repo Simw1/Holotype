@@ -1,0 +1,1013 @@
+[
+ {
+  "key": "oxide-neutrino-bound-4-da-reload-2000",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "",
+  "release_field": "artist/title/label/date/kind",
+  "release_value": "Oxide & Neutrino; Bound 4 Da Reload (Casualty); East West; 6 May 2000; Single",
+  "note": "OCC: Official Singles Chart from 6 May 2000, peak 1 (1 week at no. 1), 15 weeks. Wikipedia infobox: East West, May 2000 CD single, producers Oxide & Neutrino. Wikipedia's text says it peaked 'in April 2000', which conflicts with OCC; trust OCC. No catalogue number found; null stands."
+ },
+ {
+  "key": "oxide-neutrino-bound-4-da-reload-2000",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "undated on inkl; Guardian 'How we made' piece c. Jan 2019 (mn2s post on it dated 29 Jan 2019)",
+  "note": "Oxide: Casualty theme + Lock, Stock skit; Neutrino: 'I did the whole song in one take'; the beat was Oxide's."
+ },
+ {
+  "key": "oxide-neutrino-bound-4-da-reload-2000",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2 Mar 2015",
+  "new_text": "Tom Ewing (Popular, 2015) hears deep bass that leaves the track feeling empty and jagged, with time-stretched samples, skeletal keyboard refrains and gunshot sounds; the Lock, Stock sample 'blasts a hole' where the chorus should be.",
+  "note": "'Sparse', 'hollow bass' and 'not built up' are not Ewing's words; he says 'empty and jagged' and 'ideas and incidents splintered'."
+ },
+ {
+  "key": "oxide-neutrino-bound-4-da-reload-2000",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2 Mar 2015",
+  "note": "Ewing's words are 'thick, phlegm-clotted rapping'; 'congested' is a fair paraphrase. He lists prepared bars, scatting, call and response and 'simply marking time over the beat'."
+ },
+ {
+  "key": "oxide-neutrino-bound-4-da-reload-2000",
+  "field": "sound",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated Wikipedia mirror, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "oxide-neutrino-bound-4-da-reload-2000",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "note": "Also 1 week at no. 1; 16 weeks on the Physical Singles Chart."
+ },
+ {
+  "key": "oxide-neutrino-bound-4-da-reload-2000",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "undated on inkl; Guardian 'How we made' piece c. Jan 2019 (mn2s post on it dated 29 Jan 2019)",
+  "note": "Oxide: 'We initially made Reload as a dub plate for the pirate radio show'; met at Supreme FM; both joined So Solid Crew, becoming a separate entity on signing."
+ },
+ {
+  "key": "oxide-neutrino-bound-4-da-reload-2000",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "17 Jun 2019",
+  "note": "Timmi Magic's remark refers to the Dreem Teem playing it at Notting Hill Carnival without realising it was Oxide & Neutrino."
+ },
+ {
+  "key": "oxide-neutrino-bound-4-da-reload-2000",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "undated on inkl; Guardian 'How we made' piece c. Jan 2019 (mn2s post on it dated 29 Jan 2019)",
+  "note": "Grade should be B, not C: it is Neutrino speaking later about his own record."
+ },
+ {
+  "key": "oxide-neutrino-bound-4-da-reload-2000",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": "",
+  "pub_date": null,
+  "note": "'No. 1' (OCC), '2-step garage' (Wikipedia infobox) and 'one later reader comment calls it proto-grime' (commenter 'Ricardo', Popular, 2 Mar 2015) are all supported. The basis leaves out that Neutrino himself (Guardian, c. 2019) says it 'sounds like the start of what was becoming grime'. That is a maker's claim (B) and should be mentioned for balance, though it does not by itself overturn the outgroup status."
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "",
+  "release_field": "label/date/producers/kind",
+  "release_value": "Solid City per Reynolds (header 'Solid City 2001'); FACT 'Self-released'; 2000 per Wikipedia and Trench; Wiley per Reynolds; 12-inch",
+  "note": "Kind is not stated outright; RBMA says Wiley sold copies direct to record shops (white labels), which fits vinyl. Reynolds's header calls the act 'Pay As U Go Kartel'."
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "7 Feb 2015 (reprints Wire Grime Primer, 2005)",
+  "note": "Grade should be C, not A: the citable page is a 2015 blog repost. The original is Reynolds, 'Grime Primer', The Wire, 2005 (would be A if cited directly). Reynolds: 'simple programmed beats', 'the solitary hook of a violin flourish', 'functioning purely as a vehicle for the MCs'."
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "12 Jun 2019",
+  "note": "Trench, Yemi Abiade."
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "4 Oct 2013",
+  "note": "FACT: 'gritty, and (g)ruff piece of vanguard grime', 'skeletal rhythm', 'blue-screen-of-death bass drone'; the MC went 'from champagne-swilling accessory to main event'."
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "sound",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Jun 2018",
+  "note": "Hancox's own description."
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated Wikipedia mirror, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "7 Feb 2015 (reprints Wire Grime Primer, 2005)",
+  "new_text": "Reynolds (Wire Grime Primer, 2005, reposted 2015) says it circulated on dubplate as early as 1999 and was in constant pirate rotation by its release.",
+  "note": "The Trench half (Geeneus and Slimzee co-founded Rinse FM) is not on this page; move it to a separate item citing https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk (C, 12 Jun 2019). Grade should be C, not A (2015 repost). Note Reynolds dates the release 2001."
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "12 Jun 2019",
+  "note": ""
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "context",
+  "index": 3,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "6 Jun 2018",
+  "new_text": "In Mixmag (2018) Dan Hancox reports that Geeneus claims it as the first ever grime track; Hancox himself calls it a paradigm shift towards tracks built around MCs.",
+  "note": "Wrong speaker: the 'first grime track' claim is Geeneus's (a crew member, as reported), not Hancox's. 'Paradigm shift' is Hancox's."
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "context",
+  "index": 4,
+  "verdict": "partly",
+  "grade": "B",
+  "pub_date": "26 May 2015",
+  "new_text": "RBMA (Emma Warren, 2015): Maxwell D says the tune 'started a buzz'; the article says it cemented the Pay As U Go and Bow crews, and that Wiley sold copies direct to record shops.",
+  "note": "'Started a buzz' is Maxwell D's own phrase (participant speaking later, B); the article links it to the two crews with 'cemented'."
+ },
+ {
+  "key": "pay-as-u-go-know-we-2000",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": "",
+  "pub_date": null,
+  "new_text": "Produced by Wiley (per Reynolds). Reynolds includes it in his 2005 Wire Grime Primer; FACT (2013) calls it 'vanguard grime'; Geeneus claims it as the first grime track (Mixmag, 2018). Its string hook and MC-first space anticipate Wiley's later records.",
+  "note": "The Wire excerpt does not call it 'garage rap'. That label comes from the 2015 blog series it was reposted in, where Reynolds treats garage rap as what 'in time would become grime'. 'Produced by Wiley' and FACT's 'vanguard grime' are supported. The last sentence is the register's own reading, with no source."
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "",
+  "release_field": "label/cat/date/kind",
+  "release_value": "Relentless; RELENT8CDS; 2000; CD single with Dilemma as track 4",
+  "note": "Shop listing (rarevinyl): RELENT8CDS, Relentless, 2000, tracks Radio Edit / Full Length / Oxide Remix / Dilemma. Note that OCC files 'Oh No (Sentimental Things)' on its Hip Hop and R&B ALBUMS chart (see context[3])."
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "B",
+  "pub_date": "6 Aug 2021",
+  "release_field": "producers",
+  "release_value": "Megaman",
+  "note": "producers[] is empty, but Megaman tells Complex (2021) 'When I produced that song' about 'Oh No'. That says nothing about who produced 'Dilemma', the side this specimen is coded for."
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated fabric reprint of Deuce magazine, 2001",
+  "note": "Grade by page is C (undated reprint); the original is Steve Goodman, Deuce magazine, 2001, which would be A. Wording: 'So Solid's ultra-minimal 'Dilemma''."
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "14 May 2020",
+  "new_text": "The Quietus (Ben Cardew, 2020): 'Dilemma' is a bare-bones rush of little more than spartan drum hits and a mutating bassline, a precursor to the minimal filth of Youngstar's 'Pulse X'.",
+  "note": "The Quietus names a specific later grime record (Pulse X), not 'minimal grime' in general; 'moody' is not in the text."
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 May 2020",
+  "note": ""
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "sound",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "4 Oct 2013",
+  "note": ""
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated Wikipedia mirror, accessed 16 Nov 2026",
+  "note": "Page says 'Battersea, London'; 'south London' is an accurate gloss but not the page's wording."
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 May 2020",
+  "note": "The Quietus says Wiley, 'in a rare attack of modesty, would later call' Oh No the record that started grime, but gives no source or quote. Treat it as hearsay."
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "context",
+  "index": 2,
+  "verdict": "unsupported",
+  "grade": "C",
+  "pub_date": "6 Aug 2021",
+  "new_text": "In Complex (2021) the interviewer, Joseph JP Patterson, calls 'Oh No' the turning point that mutated UK garage into grime; Megaman, who produced it, says the crew 'still called it garage'.",
+  "note": "Wrong speaker: the turning-point claim is the interviewer's, not Megaman's, and nothing on the page contrasts it with '21 Seconds'. Megaman's 'we still called it garage' is supported (B)."
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "context",
+  "index": 3,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "new_text": "OCC lists 'Oh No (Sentimental Things)' on its Hip Hop and R&B Albums Chart from 16 Dec 2000 (peak 6, 9 weeks); Wikipedia says the CD single was ineligible for the singles chart because of its number of remixes.",
+  "note": "It is the Albums chart, not a singles chart. The ineligibility reason is on the They Don't Know Wikipedia mirror (https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/They_Don't_Know_(So_Solid_Crew_album))."
+ },
+ {
+  "key": "so-solid-crew-oh-no-dilemma-2000",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": "",
+  "pub_date": null,
+  "new_text": "Coded for Dilemma. Kode9 called Dilemma 'ultra-minimal' in Deuce (2001, reprinted by fabric); FACT (2013) calls it a proto-grime flip; the Quietus (2020) says, without a source, that Wiley later called the A-side, Oh No, the record that started grime. Megaman says the crew still called their music garage. A candidate for the earliest record in the grime type series.",
+  "note": "Kode9 2001: supported (it is in a 2001 piece, now read through an undated reprint). FACT: supported. The Quietus/Wiley claim is accurately reported, but it is the author's unsourced aside and concerns Oh No, not Dilemma, so it should not prop up a Dilemma coding. 'Strong candidate for the earliest' is the register's own judgement; the Quietus casts Dilemma as a PRECURSOR to grime (Pulse X), and the producer says they called it garage. Soften to 'a candidate'."
+ },
+ {
+  "key": "genius-cru-boom-selection-2001",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "",
+  "release_field": "label/cat/date/kind/producers",
+  "release_value": "Incentive (Kronik); CENT17CDS; 3 Feb 2001; Single; Genius Cru",
+  "note": "OCC: Incentive, CENT17CDS. Wikipedia mirror: Kronik, Incentive Records; producer Genius Cru."
+ },
+ {
+  "key": "genius-cru-boom-selection-2001",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "Wikipedia mirror (kiwix snapshot 2023-10)",
+  "note": ""
+ },
+ {
+  "key": "genius-cru-boom-selection-2001",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "note": "Dance chart runs total 5+3+2+1 = 11 weeks, 2 weeks at no. 1. Singles chart: 5 weeks."
+ },
+ {
+  "key": "genius-cru-boom-selection-2001",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "15 Feb 2015 (reuses Wire Grime Primer entry; page calls it a Wire April 2013 'director's cut')",
+  "note": "Quotes found: 'the immortal Boom Selection', 'playful bonhomie', 'Just before the grimy era', garage rap as 'a subset of 2step, a flavour of UKG'. Dating conflict: this post presents the Primer entry as Wire April 2013 ('director's cut'), while garage-rap-5 calls the Grime Primer The Wire, 2005. The register uses both dates; reconcile before citing either year."
+ },
+ {
+  "key": "genius-cru-boom-selection-2001",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": "",
+  "pub_date": null,
+  "note": "Wikipedia genre 'UK garage'; Reynolds 'just before the grimy era'."
+ },
+ {
+  "key": "so-solid-crew-21-seconds-2001",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia, accessed 16 Nov 2026",
+  "release_field": "label/cat/date/kind/producers",
+  "release_value": "Relentless; RELENT16CD; 6 Aug 2001; Single; Synth",
+  "note": "Catalogue number is in Wikipedia's citations, not its infobox. Megaman (Complex 2021) describes organising the session himself but does not say 'produced'."
+ },
+ {
+  "key": "so-solid-crew-21-seconds-2001",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia, accessed 16 Nov 2026",
+  "note": "Wikipedia's own count is '12 bars of 4 beats' per MC, while it quotes Megaman saying 'eight bars each'."
+ },
+ {
+  "key": "so-solid-crew-21-seconds-2001",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Aug 2021",
+  "note": "The '8 bars each' part is Megaman's own words (B)."
+ },
+ {
+  "key": "so-solid-crew-21-seconds-2001",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 May 2020",
+  "note": ""
+ },
+ {
+  "key": "so-solid-crew-21-seconds-2001",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "note": "Independent Singles chart from 19 May 2001, peak 29, 5 weeks."
+ },
+ {
+  "key": "so-solid-crew-21-seconds-2001",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Aug 2021",
+  "note": ""
+ },
+ {
+  "key": "so-solid-crew-21-seconds-2001",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 May 2020",
+  "note": ""
+ },
+ {
+  "key": "so-solid-crew-21-seconds-2001",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "31 May 2017",
+  "note": "Vice (Francisco Garcia): 'they did it first'; an 'interregnum' between garage's high watermark and grime's 'birth pangs'."
+ },
+ {
+  "key": "so-solid-crew-21-seconds-2001",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": "",
+  "pub_date": null,
+  "new_text": "A no. 1 garage single at about 140 BPM, with each MC taking a short slot (eight bars each, per Megaman; Wikipedia counts 12). Complex (2021) says it helped usher in what became grime. Held as an outgroup.",
+  "note": "'8-bar relay' is supported only by Megaman's recollection; Wikipedia counts 12 bars. 'Already match grime's' is the register's own inference, with no source."
+ },
+ {
+  "key": "jaimeson-urban-hero-2001",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "",
+  "release_field": "title/label/date/kind",
+  "release_value": "Urban Hero/Slow Jam; Lifestyle (per FACT); 25 Aug 2001; Single",
+  "note": "OCC title is 'URBAN HERO/SLOW JAM'. FACT spells the artist 'Jameson' in this entry."
+ },
+ {
+  "key": "jaimeson-urban-hero-2001",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "4 Oct 2013",
+  "note": "FACT's wording: 'one of the fattest bastard rollers from that period where garage was spawning grime'."
+ },
+ {
+  "key": "jaimeson-urban-hero-2001",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "note": "2 weeks."
+ },
+ {
+  "key": "jaimeson-urban-hero-2001",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "17 Jun 2019",
+  "new_text": "RBMA (Dan Hancox, 2019) names Jameson among those who attended UK Garage Committee meetings with Matt Mason, Viper and Maxwell D; Mason says 'We wanted to be a voice' for the next generation.",
+  "note": "The 'a voice' quote is Mason's, not Jameson's aim. The article does not say this Jameson is the 'Urban Hero' artist; OCC's Jaimeson artist page does include 'Selecta (Urban Heroes)' by 'Jameson and Viper', which supports the identification."
+ },
+ {
+  "key": "jaimeson-urban-hero-2001",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": "",
+  "pub_date": null,
+  "note": ""
+ },
+ {
+  "key": "so-solid-crew-they-dont-know-album-2001",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated Wikipedia mirror, accessed 16 Nov 2026",
+  "release_field": "label/date/producers",
+  "release_value": "Independiente, Relentless; 19 Nov 2001; 'Megaman G-Man'",
+  "note": "The So Solid Crew Wikipedia mirror says the album came out in October 2001, which conflicts; the album article and OCC (first chart date 1 Dec 2001) fit 19 Nov."
+ },
+ {
+  "key": "so-solid-crew-they-dont-know-album-2001",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 May 2020",
+  "note": ""
+ },
+ {
+  "key": "so-solid-crew-they-dont-know-album-2001",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 May 2020",
+  "note": "Grade should be C, not B: this is the critic Ben Cardew's description, not a participant's. The Quietus compares 'In My Life' to early Coki or Loefah productions."
+ },
+ {
+  "key": "so-solid-crew-they-dont-know-album-2001",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "31 May 2017",
+  "note": "Vice calls the single 'They Don't Know' 'arguably the most complete example' of a blend of ragga, garage beats, 'frantically clipped' delivery and R&B. Vice wrongly dates the album 2002."
+ },
+ {
+  "key": "so-solid-crew-they-dont-know-album-2001",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "note": ""
+ },
+ {
+  "key": "so-solid-crew-they-dont-know-album-2001",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated Wikipedia mirror, accessed 16 Nov 2026",
+  "note": "BPI Platinum (300,000)."
+ },
+ {
+  "key": "so-solid-crew-they-dont-know-album-2001",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "31 May 2017",
+  "note": "Vice: grime 'was yet to arrive at its formal christening'."
+ },
+ {
+  "key": "so-solid-crew-they-dont-know-album-2001",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": "",
+  "pub_date": null,
+  "note": ""
+ },
+ {
+  "key": "oxide-neutrino-rap-dis-2001",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "",
+  "release_field": "label/cat/date/kind",
+  "release_value": "East West; OXIDE08CD1; 8 Dec 2001; Single",
+  "note": "OCC song page. Trench names the So Solid members as Kaish, Harvey, Scat D and Swiss."
+ },
+ {
+  "key": "oxide-neutrino-rap-dis-2001",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "12 Nov 2021",
+  "note": "Trench, no byline."
+ },
+ {
+  "key": "oxide-neutrino-rap-dis-2001",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "note": ""
+ },
+ {
+  "key": "oxide-neutrino-rap-dis-2001",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "12 Nov 2021",
+  "note": "The original sentence opens 'Regardless of where you pinpoint it', so it is a general statement about garage, not about this record."
+ },
+ {
+  "key": "oxide-neutrino-rap-dis-2001",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "note": ""
+ },
+ {
+  "key": "oxide-neutrino-rap-dis-2001",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": "",
+  "pub_date": null,
+  "note": "Accurate, but thin: Trench's statement is about garage in general, and the Wikipedia artist page files the duo as UK garage. Nothing ties this record specifically to grime, so the 'Transitional' status rests on the register's reading."
+ },
+ {
+  "key": "roll-deep-entourage-terrible",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "7 Feb 2015 (reprints Wire Grime Primer, 2005)",
+  "release_field": "artist/label/date/kind",
+  "release_value": "Reynolds: 'Wiley and Roll Deep', Solid City 2001; Wikipedia Pay As U Go: 2001; Wikipedia Roll Deep: implies 2002",
+  "note": "Reynolds credits 'Wiley and Roll Deep', not 'Roll Deep Entourage'. The two Wikipedia articles also give different line-ups (Bubbles vs Jamakabi). No source checked states the format (12-inch)."
+ },
+ {
+  "key": "roll-deep-entourage-terrible",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "7 Feb 2015 (reprints Wire Grime Primer, 2005)",
+  "note": "Grade should be C, not A (2015 repost of Wire Grime Primer, 2005)."
+ },
+ {
+  "key": "roll-deep-entourage-terrible",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated Wikipedia mirror, accessed 16 Nov 2026",
+  "note": "The Roll Deep article places the recording two years after Know We (i.e. 2002)."
+ },
+ {
+  "key": "roll-deep-entourage-terrible",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated Wikipedia mirror, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "roll-deep-entourage-terrible",
+  "field": "context",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "B",
+  "pub_date": "26 May 2015",
+  "new_text": "Per Maxwell D (RBMA, 2015), Wiley signed 'Know We' to Teebone in a bundle with 'Terrible' and 'Wickedest Ting' for £300.",
+  "note": "The figure is Maxwell D's account; say so rather than 'reported'. Participant speaking later = B."
+ },
+ {
+  "key": "roll-deep-entourage-terrible",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": "",
+  "pub_date": null,
+  "new_text": "Produced by Wiley (per Reynolds); Reynolds pairs it with Know We as a 'chip-off-the-same-block' track in his 2005 Wire Grime Primer. Release year is uncertain (2001 per Reynolds; Wikipedia's Roll Deep article implies 2002).",
+  "note": "As with Know We, the Wire excerpt does not label it 'garage rap'."
+ },
+ {
+  "key": "pay-as-u-go-champagne-dance-2002",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "",
+  "release_field": "label/cat/date/kind",
+  "release_value": "So Urban (Sony); 6721362; 27 Apr 2002; Single",
+  "note": "Wikipedia: released 2002, recorded 2001, Sony Music. Trench dates it 2001."
+ },
+ {
+  "key": "pay-as-u-go-champagne-dance-2002",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "12 Jun 2019",
+  "note": ""
+ },
+ {
+  "key": "pay-as-u-go-champagne-dance-2002",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "26 May 2015",
+  "note": ""
+ },
+ {
+  "key": "pay-as-u-go-champagne-dance-2002",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "note": "5 weeks = a 4-week run plus 1 week at no. 100 on 15 Jun 2002."
+ },
+ {
+  "key": "pay-as-u-go-champagne-dance-2002",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "26 May 2015",
+  "note": "The MD is not named."
+ },
+ {
+  "key": "pay-as-u-go-champagne-dance-2002",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "Wikipedia mirror (kiwix snapshot 2023-10)",
+  "note": ""
+ },
+ {
+  "key": "pay-as-u-go-champagne-dance-2002",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": "",
+  "pub_date": null,
+  "note": "'Recorded with Wiley and Geeneus' matches RBMA. 'Same year as Eskimo' depends on Eskimo's date in its own record; not checked here."
+ },
+ {
+  "key": "heartless-crew-heartless-theme-2002",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "",
+  "release_field": "title/label/cat/date",
+  "release_value": "OCC title 'The Heartless Crew Theme'; East West; HEART02CD; 25 May 2002",
+  "note": "Wikipedia and Line Noise use 'The Heartless Theme' / 'Superglue Riddim'; OCC's title differs. Consider adding it as an alias."
+ },
+ {
+  "key": "heartless-crew-heartless-theme-2002",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Oct 2022",
+  "note": "Trench, Son Raw."
+ },
+ {
+  "key": "heartless-crew-heartless-theme-2002",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "4 Oct 2013",
+  "note": "FACT also mentions a 'squelching bassline' and 'coiling Far East touches', and compares it to 'Get Ur Freak On'."
+ },
+ {
+  "key": "heartless-crew-heartless-theme-2002",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "note": "Dance chart: 4 weeks."
+ },
+ {
+  "key": "heartless-crew-heartless-theme-2002",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated Wikipedia mirror, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "heartless-crew-heartless-theme-2002",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "27 Nov 2024",
+  "note": "Line Noise, Ben Cardew. He also says the Theme's genre depends on context, between UKG and grime, which supports the type basis."
+ },
+ {
+  "key": "heartless-crew-heartless-theme-2002",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Oct 2022",
+  "note": ""
+ },
+ {
+  "key": "heartless-crew-heartless-theme-2002",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": "",
+  "pub_date": null,
+  "note": "The FACT quote is exact. 'Recorded exactly on the boundary' is the register's gloss."
+ },
+ {
+  "key": "dj-marsta-gridlock-2003",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "Discogs release 1384414 (undated); NTS bio (undated)",
+  "new_url": "https://www.discogs.com/release/1384414",
+  "release_field": "cat/kind",
+  "release_value": "TPC001; 12-inch white label",
+  "note": "The only cited source (NTS) gives the label and the year 2003 but not TPC001. Discogs confirms Total Package Recordings TPC001, 12-inch, 'White Label', A: Gridlock / B: Gridlock (Vocal); Discogs gives no year. Add Discogs to sources."
+ },
+ {
+  "key": "dj-marsta-gridlock-2003",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated NTS bio",
+  "note": ""
+ },
+ {
+  "key": "dj-marsta-gridlock-2003",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated NTS bio",
+  "note": "NTS says he 'was' a grime DJ and producer and now directs music videos as Patrick Odur."
+ },
+ {
+  "key": "dj-marsta-gridlock-2003",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated NTS bio",
+  "note": ""
+ },
+ {
+  "key": "dj-marsta-gridlock-2003",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": "",
+  "pub_date": null,
+  "new_text": "Evidence specimen; a white-label 12-inch (Discogs) whose title track has prominent strings (NTS); the B-side is a vocal version.",
+  "note": "'White-label' is supported only by Discogs, which is not cited. 'Instrumental' is overstated: Discogs lists a vocal B-side."
+ },
+ {
+  "key": "rephlex-grime-2-cat160-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "",
+  "release_field": "cat/date/artists",
+  "release_value": "CAT 160; 2004; Kode9, Loefah, Digital Mystikz",
+  "note": "The Wikipedia discography gives no date for CAT 160. The year 2004 comes from Kode9's Bandcamp ('Off Rephlex's Grime 2 compilation from 2004'; tracks Dislokated, Ping, Sub Kontinent, Swarm) and RA. XLR8R (2005) names the three artists."
+ },
+ {
+  "key": "rephlex-grime-2-cat160-2004",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "June 2010 (page metadata 20 Aug 2024)",
+  "note": ""
+ },
+ {
+  "key": "rephlex-grime-2-cat160-2004",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "17 Jul 2005",
+  "new_text": "XLR8R (Brion Paul, July 2005) hears 'Eastern-fetishizing hip-hop', acoustic guitar-strumming R&B and 'the precision bass blasts of jungle' echoing through the nine tracks.",
+  "note": "Grade should be A (contemporary review, 2005), not C. 'Eastern-tinged' softens the reviewer's 'Eastern-fetishizing'."
+ },
+ {
+  "key": "rephlex-grime-2-cat160-2004",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "1 Sep 2021",
+  "note": "The RA piece reviews the 2021 DMZ release of 'CR7 Chamber', not Grime 2."
+ },
+ {
+  "key": "rephlex-grime-2-cat160-2004",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated Wikipedia mirror, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "rephlex-grime-2-cat160-2004",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "June 2010",
+  "note": ""
+ },
+ {
+  "key": "rephlex-grime-2-cat160-2004",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "1 Sep 2021",
+  "note": ""
+ },
+ {
+  "key": "rephlex-grime-2-cat160-2004",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "24 Apr 2004 (comments 26-29 Apr 2004)",
+  "note": "steve_hyperdub (26 Apr 2004): Slaughter Mob 'have always considered themselves purveyors of dubstep'. Only the handle is shown. Woebot vs k-punk dispute is on 29 Apr."
+ },
+ {
+  "key": "rephlex-grime-2-cat160-2004",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": "",
+  "pub_date": null,
+  "note": "Supported (Brooklyn Rail, June 2010: 'understandably misidentified', 'a new sound in its infancy'). It could be strengthened with A-grade evidence that the boundary was disputed at the time: k-punk comments (Apr 2004), XLR8R (Jul 2005), and a Vice column (Tosh Lyons & Peter Shilton, 30 Nov 2004, https://www.vice.com/sv/article/beats-v11n4) calling a Rephlex 'Grime compilation' a 'misnomer'. That column does not say which volume it means."
+ },
+ {
+  "key": "shystie-diamond-in-the-dirt-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia, accessed 16 Nov 2026",
+  "release_field": "label/date/kind",
+  "release_value": "Polydor; 12 Jul 2004; Album",
+  "note": ""
+ },
+ {
+  "key": "shystie-diamond-in-the-dirt-2004",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "30 Nov 2004 (metadata 1 Dec 2004)",
+  "new_text": "A contemporary Vice grime round-up (Tosh Lyons & Peter Shilton, 2004) says she 'can rap' but is often 'so fast and whiney' that she is hard to follow; when she slows down, on a game-show track and a live track with guitars, she 'smashes it'.",
+  "note": "'High-pitched' is not the review's word ('whiney'). The review misnames the album 'Diamond In the Dust'."
+ },
+ {
+  "key": "shystie-diamond-in-the-dirt-2004",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record (OCC database)",
+  "note": "Polydor 9866875; Hip Hop and R&B chart: 5 weeks."
+ },
+ {
+  "key": "shystie-diamond-in-the-dirt-2004",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "shystie-diamond-in-the-dirt-2004",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated Wikipedia mirror, accessed 16 Nov 2026",
+  "note": "The page says she 'became famous' in 2003 with the white label."
+ },
+ {
+  "key": "shystie-diamond-in-the-dirt-2004",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "18 Sep 2014",
+  "note": "'First Lady of grime' is Kieran Yates's phrase in the introduction. The Freek FM detail ('gave me my first break', aged about 17) is Shystie's own recollection (B)."
+ },
+ {
+  "key": "shystie-diamond-in-the-dirt-2004",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": "",
+  "pub_date": null,
+  "new_text": "Album on Polydor; reviewed in a December 2004 grime round-up in Vice.",
+  "note": "'Reviewed in a 2004 grime round-up' is supported. 'One of the first major-label albums by a woman MC from the scene' is not supported by any cited source; remove it or source it."
+ }
+]

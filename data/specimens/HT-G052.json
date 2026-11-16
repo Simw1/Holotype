@@ -67,13 +67,15 @@
    "text": "Trench (2022): high-speed patois and a catchy hook; a mission statement for the crew's inclusive, multi-genre approach.",
    "url": "https://trenchtrenchtrench.com/features/how-heartless-crew-united-all-strands-of-bass-music-with-crisp-biscuit-vol-1",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "6 Oct 2022"
   },
   {
    "text": "FACT (2013): spartan and bass-heavy, 'Too spartan to be called garage, too breezy to qualify as grime'.",
    "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "4 Oct 2013"
   }
  ],
  "context": [
@@ -81,25 +83,29 @@
    "text": "Official Singles Chart peak no. 21 (first chart date 25 May 2002, 3 weeks); Dance chart peak no. 3.",
    "url": "https://www.officialcharts.com/songs/heartless-crew-the-heartless-crew-theme/",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "chart record (OCC database)"
   },
   {
    "text": "North London crew (MC Bushkin, MC Mighty Moe, DJ Fonti), on the pirate station Mission 90.6 FM by 1998; Wikipedia says they are credited with paving the way for grime alongside So Solid and Pay As U Go.",
    "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Heartless_Crew",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
   },
   {
    "text": "Line Noise (2024) calls their 2001 clash with Pay As U Go 'another pivotal moment in the transition from UKG to grime'.",
    "url": "https://linenoise.substack.com/p/heartless-crew-where-garage-met-grime",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "27 Nov 2024"
   },
   {
    "text": "Trench (2022) says it spread mostly via pirate radio, local shops and raves; by 2002 the crew had a 1Xtra Sunday show.",
    "url": "https://trenchtrenchtrench.com/features/how-heartless-crew-united-all-strands-of-bass-music-with-crisp-biscuit-vol-1",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "6 Oct 2022"
   }
  ],
  "calls": [

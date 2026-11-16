@@ -67,7 +67,8 @@
    "text": "Wikipedia notes its sample of 'Gravedigger' by the New York Rock & Roll Ensemble; no further sound description was found.",
    "url": "https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Boom_Selection",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "Wikipedia mirror (kiwix snapshot 2023-10)"
   }
  ],
  "context": [
@@ -75,13 +76,15 @@
    "text": "Official Singles Chart peak no. 12 (first chart date 3 Feb 2001); Dance chart no. 1 (2 weeks at the top, 11 weeks in all).",
    "url": "https://officialcharts.com/songs/genius-cru-boom-selection",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "chart record (OCC database)"
   },
   {
    "text": "Reynolds (2015, reusing his 2013 Wire Grime Primer) calls it 'the immortal Boom Selection' and places Genius Cru's playful bonhomie just before the grimy era; he treats garage rap as a flavour of 2-step and UKG.",
    "url": "https://blissout.blogspot.com/2015/02/garage-rap-7.html",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "15 Feb 2015 (reuses Wire Grime Primer entry; page calls it a Wire April 2013 'director's cut')"
   }
  ],
  "calls": [

@@ -60,32 +60,36 @@
   "status": "Transitional",
   "of": "Grime",
   "holotype": null,
-  "basis": "Produced by Wiley. Reynolds lists it in his 2005 Grime Primer as garage rap; FACT (2013) calls it vanguard grime. Its string hook and MC-first space anticipate Wiley's later records."
+  "basis": "Produced by Wiley. Simon Reynolds lists it in his Grime Primer for The Wire (dated 2005 on one reposting, 2013 on another); FACT (2013) calls it vanguard grime. Its string hook and MC-first space anticipate Wiley's later records."
  },
  "sound": [
   {
    "text": "Reynolds (Wire 'Grime Primer', 2005, reposted 2015): simple programmed beats and a single violin-flourish hook, with the MCs carrying the track.",
    "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
-   "g": "A",
-   "checked": false
+   "g": "C",
+   "checked": true,
+   "pub": "7 Feb 2015 (reprints Wire Grime Primer, 2005)"
   },
   {
    "text": "Trench (2019): ominous string riffs and harder-hitting drum sequences, like 'a rap cypher in a rave'.",
    "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "12 Jun 2019"
   },
   {
    "text": "FACT (2013): gritty and gruff, with a skeletal rhythm and bass drone and the MC as the focus.",
    "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "4 Oct 2013"
   },
   {
    "text": "Mixmag (2018): 'clearly demarcated space for MCs to fill with complex rhymes'.",
    "url": "https://mixmag.net/feature/history-of-grime",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "6 Jun 2018"
   }
  ],
  "context": [
@@ -93,31 +97,36 @@
    "text": "A dubplate circulated from late 1999 before the official 2000 release; the crew grew out of shows on the pirate station Rinse FM (Wikipedia).",
    "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
   },
   {
-   "text": "Reynolds (2005) says it was on dubplate from 1999 and in constant pirate rotation before release; Trench (2019) notes that members Geeneus and Slimzee co-founded Rinse FM.",
+   "text": "Reynolds (Wire Grime Primer, 2005, reposted 2015) says it circulated on dubplate as early as 1999 and was in constant pirate rotation by its release.",
    "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
-   "g": "A",
-   "checked": false
+   "g": "C",
+   "checked": true,
+   "pub": "7 Feb 2015 (reprints Wire Grime Primer, 2005)"
   },
   {
    "text": "Crew members included Wiley, Maxwell D, Flowdan, God's Gift, Slimzee, DJ Target, Geeneus, Breeze, Plague, Bubbles and Major Ace; remnants later formed Roll Deep.",
    "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "12 Jun 2019"
   },
   {
-   "text": "Mixmag's Dan Hancox (2018) claims it as the first grime track: a paradigm shift from dark garage to MC-centred tracks.",
+   "text": "In Mixmag (2018) Dan Hancox reports that Geeneus claims it as the first ever grime track; Hancox himself calls it a paradigm shift towards tracks built around MCs.",
    "url": "https://mixmag.net/feature/history-of-grime",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "6 Jun 2018"
   },
   {
-   "text": "RBMA (2015): 'Know We' started a buzz for the Pay As U Go and Bow crews, with Wiley selling white labels directly to shops.",
+   "text": "RBMA (Emma Warren, 2015): Maxwell D says the tune 'started a buzz'; the article says it cemented the Pay As U Go and Bow crews, and that Wiley sold copies direct to record shops.",
    "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
-   "g": "C",
-   "checked": false
+   "g": "B",
+   "checked": true,
+   "pub": "26 May 2015"
   }
  ],
  "calls": [

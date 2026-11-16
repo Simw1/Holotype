@@ -3,14 +3,16 @@
  "key": "so-solid-crew-oh-no-dilemma-2000",
  "sort": "2000-12-16",
  "year": 2000,
- "date": "2000 (chart entry 16 Dec 2000)",
+ "date": "2000 (Hip Hop and R&B Albums chart from 16 Dec 2000)",
  "kind": "Single",
  "artist": "So Solid Crew",
  "title": "Oh No (Sentimental Things) / Dilemma",
  "label": "Relentless",
  "cat": "RELENT8CDS",
  "format": "CD single (earliest format verified); other formats not verified",
- "producers": [],
+ "producers": [
+  "Megaman (per his Complex interview)"
+ ],
  "lane": "transition",
  "geno": [
   {
@@ -58,32 +60,36 @@
   "status": "Transitional",
   "of": "Grime",
   "holotype": null,
-  "basis": "Coded for Dilemma. Kode9 called it ultra-minimal in 2001; FACT (2013) calls it a proto-grime flip; the Quietus (2020) reports Wiley saying Oh No started grime. A strong candidate for the earliest record in the grime type series."
+  "basis": "Coded for Dilemma. Kode9 called it ultra-minimal in 2001 (known now through an undated reprint); FACT (2013) calls it a proto-grime flip; the Quietus (2020) calls it a precursor to Pulse X and reports, without a source, that Wiley later said the A-side Oh No started grime. Its producer, Megaman, says the crew still called it garage. A candidate for the start of the grime series, and the clearest test of where the boundary sits."
  },
  "sound": [
   {
    "text": "Steve Goodman (Kode9), writing in Deuce in 2001, calls 'Dilemma' 'ultra-minimal'.",
    "url": "https://fabriclondon.com/posts/hyperdub-archive-21st-century-skank-the-haunting-of-uk-garage-2001",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated fabric reprint of Deuce magazine, 2001"
   },
   {
-   "text": "The Quietus (2020): 'Dilemma' is a bare-bones rush of spartan drum hits and a mutating bassline, a moody precursor to minimal grime.",
+   "text": "The Quietus (Ben Cardew, 2020): 'Dilemma' is a bare-bones rush of little more than spartan drum hits and a mutating bassline, a precursor to the minimal filth of Youngstar's 'Pulse X'.",
    "url": "https://thequietus.com/?p=28201",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "14 May 2020"
   },
   {
    "text": "The Quietus (2020): 'Oh No' is sharp-angled, with rumbling bass and MC braggadocio, over a beat sitting between Timbaland-style R&B and UK garage two-step; Lisa Maffia sings the chorus.",
    "url": "https://thequietus.com/?p=28201",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "14 May 2020"
   },
   {
    "text": "FACT (2013) calls 'Dilemma' the 'freakishly minimalist proto-grime flip'.",
    "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "4 Oct 2013"
   }
  ],
  "context": [
@@ -91,25 +97,29 @@
    "text": "So Solid Crew are from Battersea, south London, and made their name on the pirate station Delight FM ('So Solid Sundays'), having also been on Supreme FM.",
    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/So_Solid_Crew.html",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated Wikipedia mirror, accessed 16 Nov 2026"
   },
   {
    "text": "The Quietus (2020) reports that Wiley later called 'Oh No' the record that started grime.",
    "url": "https://thequietus.com/?p=28201",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "14 May 2020"
   },
   {
-   "text": "Megaman (Complex, 2021) places the turning point towards grime at 'Oh No (Sentimental Things)', not '21 Seconds', and says the crew still called their music garage at the time.",
+   "text": "In Complex (2021) the interviewer, Joseph JP Patterson, calls 'Oh No' the turning point that mutated UK garage into grime; Megaman, who produced it, says the crew 'still called it garage'.",
    "url": "https://www.complex.com/music/a/joseph-jp-patterson/so-solid-crew-21-seconds-at-20",
    "g": "C",
-   "checked": false
+   "checked": false,
+   "pub": "6 Aug 2021"
   },
   {
-   "text": "OCC lists 'Oh No (Sentimental Things)' on its Hip Hop & R&B chart from 16 Dec 2000 (peak 6, 9 weeks); it did not enter the main singles chart.",
+   "text": "OCC lists 'Oh No (Sentimental Things)' on its Hip Hop and R&B Albums Chart from 16 Dec 2000 (peak 6, 9 weeks); Wikipedia says the CD single was ineligible for the singles chart because of its number of remixes.",
    "url": "https://www.officialcharts.com/artist/9989/so-solid-crew",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "chart record (OCC database)"
   }
  ],
  "calls": [
