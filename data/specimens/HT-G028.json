@@ -176,6 +176,7 @@
    "level": "album",
    "url": "https://music.apple.com/us/album/pow-forward-single/724304734",
    "retrieved": "2026-11-16",
+   "note": "Visible line 'Hip-Hop/Rap · 2004'; ℗ 2004 Universal Music Operations.",
    "verdict": "broad"
   },
   {
@@ -186,7 +187,8 @@
    "release": null,
    "level": null,
    "url": "https://www.qobuz.com/ie-en/album/best-of-bizzle-lethal-bizzle/am5c07hvvgv4a",
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Original single not found. 'Best of Bizzle' (Genre: Hip-Hop/Rap) contains 'POW 2011', a different later recording."
   },
   {
    "platform": "Bandcamp",
@@ -196,7 +198,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced). Third-party flips of POW 2011 exist."
   }
  ],
  "round": 1

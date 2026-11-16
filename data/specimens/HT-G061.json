@@ -4,9 +4,9 @@
  "sort": "2005-09-01",
  "year": 2005,
  "date": "2005",
- "kind": "Single",
+ "kind": "Track and video (release format unconfirmed)",
  "artist": "Southside Allstars",
- "title": "Southside",
+ "title": "Southside Allstars (Southside Riddim)",
  "label": "Unconfirmed",
  "cat": null,
  "format": null,
@@ -60,40 +60,45 @@
   "status": "Voucher",
   "of": "Grime",
   "holotype": null,
-  "basis": "Evidence specimen; South London's answer to an East London-centred scene, on Alias's Southside Riddim."
+  "basis": "Evidence specimen; Mixmag says it reflected the south-versus-east tensions in the scene, over Alias's Southside Riddim."
  },
  "sound": [
   {
-   "text": "Dan Hancox in the Guardian calls it 'so grimey'. Producer Alias left off his usual audio logo, reportedly fearing east London DJs would shut it down.",
+   "text": "In the Guardian, co-creator Nikki S calls it 'so grimey'; Nyke says producer Alias left off his audio logo, fearing Slimzee and Geeneus would shut it down.",
    "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "c.2017 (inkl reprint of Guardian; page undated)"
   },
   {
    "text": "Mixmag (2018) calls it perhaps the most ostentatious example of grime's neighbourhood pride.",
    "url": "https://mixmag.net/feature/history-of-grime",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2018-06-06"
   }
  ],
  "context": [
   {
-   "text": "Written in response to south-versus-east London rivalry in early-2000s grime (Mixmag, 2018).",
+   "text": "It reflected the south-versus-east London tensions of early-2000s grime (Mixmag, 2018).",
    "url": "https://mixmag.net/feature/history-of-grime",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2018-06-06"
   },
   {
    "text": "Complex (2014) lists the 'Southside' video as a 2005 Channel U anthem representing south London, paired with B.M.D.'s north London 'North Weezee'.",
    "url": "https://www.complex.com/music/2014/09/15-channel-u-videos-we-will-never-forget",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2014-09-05"
   },
   {
    "text": "The Guardian piece argues that Channel U all-star videos put faces to voices and were early steps in grime's move towards pop.",
    "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "c.2017 (inkl reprint of Guardian)"
   }
  ],
  "calls": [
@@ -142,6 +147,40 @@
    "domain": "complex.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple. Qobuz 'Southside' artist entries are unrelated."
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

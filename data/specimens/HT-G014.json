@@ -131,6 +131,7 @@
    "level": "album",
    "url": "https://music.apple.com/gb/album/boy-in-da-corner/1438903422",
    "retrieved": "2026-11-16",
+   "note": "Visible line 'Hip-Hop/Rap · 2003'. A 20th Anniversary Edition also exists.",
    "verdict": "broad"
   },
   {
@@ -144,6 +145,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/us-en/interpreter/dizzee-rascal/108698",
    "retrieved": "2026-11-16",
+   "note": "Read from the artist discography listing (2003 entry). The 20th Anniversary Edition album page also shows Genre: Hip-Hop/Rap.",
    "verdict": "broad"
   },
   {
@@ -154,7 +156,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
   }
  ],
  "round": 1

@@ -100,3 +100,23 @@ OVERRIDE = {
 }
 PRODUCER_FIX = {'dizzee-rascal-fix-up-look-sharp': ['Dizzee Rascal']}
 DROP_KEYS = {'wiley-morgue'}
+
+# Fact-check overrides to round-2 specimens (h5)
+OVERRIDE.update({
+ 'dj-target-poltergeist-aim002-2004': {'kind': 'Single (format not stated)'},
+ 'aftershock-payback-remix-ep-2004': {'kind': 'Remix EP (format not stated)'},
+ 'low-deep-straight-flush-2005': {'date': '2005 (tracklist metadata only)'},
+ 'lady-sovereign-9-to-5-2005': {'basis': 'Evidence specimen at the pop edge of the scene: one 2006 review calls it peppy pop and contrasts it with her earlier, scatter-mouthed grime.'},
+ 'lethal-bizzle-against-all-oddz-2005': {'cat': 'JAD1033592', 'label': 'J-DID / V2',
+    'basis': 'Album; before release, Reynolds (2005) reported Bizzle promising some grime and rock fusions.'},
+ 'southside-allstars-southside-2005': {'title': 'Southside Allstars (Southside Riddim)', 'kind': 'Track and video (release format unconfirmed)',
+    'basis': 'Evidence specimen; Mixmag says it reflected the south-versus-east tensions in the scene, over Alias\'s Southside Riddim.'},
+ 'ghetto-2000-and-life-2005': {'date': '2005 (Vice lists it among 2006 mixtapes)', 'label': None,
+    'basis': 'Mixtape; Link Up TV says it mixed original beats with US hip-hop instrumentals.'},
+ 'roll-deep-shake-a-leg-2005': {'basis': 'Evidence specimen; a pop single built on a salsa-quoting sample, filed as pop by a 2005 trade sheet and as grime by sources on its album.'},
+ 'rebound-x-rhythm-and-gash-2006': {'kind': 'Single or EP track (format not stated)'},
+ 'skepta-duppy-2006': {'kind': 'Track or single (format not stated)',
+    'basis': 'Evidence specimen; a drum-and-bass-feel riddim voiced by a crowd of MCs (sources count eight or nine).'},
+ 'wiley-da-2nd-phaze-2006': {'of': 'Grime', 'basis': 'Album; Wikipedia tags it grime and eskibeat, but no source checked ties it to the eski style directly, so it is held under grime.'},
+})
+CALL_DROP = {('dj-target-poltergeist-aim002-2004', 0), ('aftershock-payback-remix-ep-2004', 0)}

@@ -182,6 +182,7 @@
    "level": "track",
    "url": "https://music.apple.com/zm/song/i-luv-u/1438903430",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Album track (page date 26 May 2003); 2002 test pressing not separately available. Many remix/mixed versions exist.",
    "verdict": "broad"
   },
   {
@@ -195,6 +196,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/gb-en/album/boy-in-da-corner-dizzee-rascal/s6mv77cqg11vc",
    "retrieved": "2026-11-16",
+   "note": "Album-level genre; reissue edition (Qobuz date 21/07/2004 on this page). Original 2003 album also listed as Hip-Hop/Rap on the Dizzee Rascal discography page.",
    "verdict": "broad"
   },
   {
@@ -205,7 +207,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced). Third-party reworks exist."
   }
  ],
  "round": 1

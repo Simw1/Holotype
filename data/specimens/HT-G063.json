@@ -61,26 +61,29 @@
   "status": "Voucher",
   "of": "Grime",
   "holotype": null,
-  "basis": "Evidence specimen; a pop single built on a lounge-salsa sample, filed as grime by its album's sources and as pop by a 2005 trade review."
+  "basis": "Evidence specimen; a pop single built on a salsa-quoting sample, filed as pop by a 2005 trade sheet and as grime by sources on its album."
  },
  "sound": [
   {
    "text": "Built on a sample of 'Mambo Craze' by De Phazz featuring Pat Appleton (45worlds sleeve notes; Wikipedia; Record of the Day, 2005).",
    "url": "https://mail.45worlds.com/cdsingle/cd/relcd22",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated listing"
   },
   {
    "text": "Record of the Day (2005) calls it summer fun and pop, but 'smart and witty'.",
    "url": "https://www.recordoftheday.com/record-of-the-day/2005-08-25/shake-a-leg",
-   "g": "C",
-   "checked": false
+   "g": "A",
+   "checked": true,
+   "pub": "2005-08-25"
   },
   {
    "text": "PopMatters (2006) hears the salsa-quoting hook as reminiscent of 'Mambo No. 5'.",
    "url": "https://popmatters.com/rolldeep_inatthedeep-2495674581.html",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "2006-01-13"
   }
  ],
  "context": [
@@ -88,19 +91,22 @@
    "text": "Official Singles Chart peak no. 24 (first chart date 22/10/2005, 5 weeks); no. 18 on the Physical Singles Chart and no. 31 on Downloads (OCC).",
    "url": "https://www.officialcharts.com/songs/roll-deep-shake-a-leg/",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "2005 chart record"
   },
   {
    "text": "Record of the Day (Oct 2005) notes it ranked seventh on the pre-release airplay chart despite a modest midweek chart position.",
    "url": "https://www.recordoftheday.com/record-of-the-day/2005-10-13/shake-a-leg",
-   "g": "C",
-   "checked": false
+   "g": "A",
+   "checked": true,
+   "pub": "2005-10-13"
   },
   {
    "text": "Simon Reynolds (Spin, 2005) wrote that the parent album 'skimps on uncut grime' in favour of conventional hip hop and novelty tunes.",
    "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
-   "g": "A",
-   "checked": false
+   "g": "C",
+   "checked": true,
+   "pub": "2017-10-31 (repost of Spin, Aug 2005)"
   }
  ],
  "calls": [
@@ -176,6 +182,46 @@
    "domain": "reynoldsretro.blogspot.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Rock"
+   ],
+   "match": "version",
+   "release": "In At the Deep End",
+   "level": "album",
+   "url": "https://music.apple.com/gm/album/in-at-the-deep-end/714654803",
+   "retrieved": "2026-11-16",
+   "note": "Single not listed on the artist page; parent album page shows 'Rock · 2005', ℗ 2005 Universal Music Operations Limited (15 songs; track list not visible, so the track's presence is not confirmed on Apple). A 'Shake a Leg' music video is listed on the album page.",
+   "verdict": "wrong"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Shake A Leg",
+   "level": "album",
+   "url": "https://www.qobuz.com/fi-en/interpreter/roll-deep/227066",
+   "retrieved": "2026-11-16",
+   "note": "Read from the artist discography listing: Relentless/Virgin, 1 Jan 2005 (likely placeholder date). Also 'Shake A Leg (Radio Edit)' (Hip-Hop/Rap). On Qobuz the album In At The Deep End is Hip-Hop/Rap.",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

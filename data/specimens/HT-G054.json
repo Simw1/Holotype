@@ -146,6 +146,49 @@
    "domain": "k-punk.org"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Compilation not found. Kode9's Apple artist page (id 219581817) does not list Grime 2 or its tracks."
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://www.qobuz.com/gb-en/interpreter/kode9/605613",
+   "retrieved": "2026-11-16",
+   "note": "Compilation not found; not in page 1 (21 of 26) of Kode9's discography, and no Rephlex release appears there."
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "found",
+   "labels": [
+    "electronic",
+    "bass",
+    "drill",
+    "dubstep",
+    "footwork",
+    "grime",
+    "London"
+   ],
+   "match": "version",
+   "release": "trax from Grime 2 [2004]",
+   "level": "tags",
+   "url": "https://kode9.bandcamp.com/album/trax-from-grime-2-2004",
+   "retrieved": "2026-11-16",
+   "note": "Partial: Kode9's own 2020 upload of his four tracks from the compilation ('Off Rephlex's Grime 2 compilation from 2004'); no label named. Loefah and Digital Mystikz sides not found.",
+   "verdict": "correct"
+  }
+ ],
  "round": 2
 }

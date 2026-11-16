@@ -4,7 +4,7 @@
  "sort": "2006-03-01",
  "year": 2006,
  "date": "2006",
- "kind": "12-inch",
+ "kind": "Single or EP track (format not stated)",
  "artist": "Rebound X",
  "title": "Rhythm & Gash (Pt. 1)",
  "label": "White label",
@@ -67,13 +67,15 @@
    "text": "RA (2020) describes a bouncy, traditional eight-bar grime structure with a very impactful drop, a heaving drums-and-bass push and a diva-style vocal sample; a source quoted by RA calls it 'a really unique way of using a vocal sample'.",
    "url": "https://ra.co/reviews/25204",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2020-11-20"
   },
   {
    "text": "Complex (Joseph JP Patterson, April 2016) calls it a lyric-free, 'rolling, bass-bouncing' and haunting riddim.",
    "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2016-04-08"
   }
  ],
  "context": [
@@ -81,25 +83,29 @@
    "text": "RA (Carlos Hawthorn, 'Rewind', 20 Nov 2020): Rebound X posted on the RWD and VIP2 forums and appears to have left the internet around 2008; Mr. Mitch said the tune 'didn't really get no love' when first shared on the forums; some say it was never registered with PRS.",
    "url": "https://ra.co/reviews/25204",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2020-11-20"
   },
   {
    "text": "RA says Skepta named it 'tune of the month' on a 2007 Rinse FM recording and that Skepta and JME's 'Spaceship Freestyle' was the turning point; DJ Logan Sama describes it as a dependable call-and-response dancefloor record.",
    "url": "https://ra.co/reviews/25204",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2020-11-20"
   },
   {
    "text": "VICE (Josh Baines, 27 Nov 2015): Elijah of Butterz suggests it may be the biggest grime instrumental, says it 'came out back in 2006', and notes DJ EZ playing Flava D's remix revived it.",
    "url": "https://www.vice.com/en/article/elijah-and-skilliams-essential-grime-instrumentals",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2015-11-27"
   },
   {
    "text": "Complex (2016) quotes Faze Miyake calling it 'one of the most universal grime tunes out' and Plastician saying its popularity may not yet have peaked.",
    "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2016-04-08"
   }
  ],
  "calls": [
@@ -164,6 +170,40 @@
    "domain": "musicismysanctuary.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

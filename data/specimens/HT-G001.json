@@ -159,6 +159,7 @@
    "level": "track",
    "url": "https://music.apple.com/ie/song/oi-feat-more-fire-crew/1232977876",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Credited to Lethal Bizzle, not Platinum 45; page date 27 Jan 2003. Many DJ-mix versions also exist.",
    "verdict": "broad"
   },
   {
@@ -172,6 +173,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
    "retrieved": "2026-11-16",
+   "note": "Album-level genre of 2017 compilation 'Kurupt FM present The Lost Tape' (XL Recordings); Qobuz shows genre only per album. Also on 'Best of Bizzle' (Lethal Bizzle, 2011) as 'Oi (feat. More Fire Crew)', Genre: Hip-Hop/Rap, https://www.qobuz.com/ie-en/album/best-of-bizzle-lethal-bizzle/am5c07hvvgv4a",
    "verdict": "broad"
   },
   {
@@ -182,7 +184,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not searched individually; no official release surfaced in grime searches of bandcamp.com."
   }
  ],
  "round": 1

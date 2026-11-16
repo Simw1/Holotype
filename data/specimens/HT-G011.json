@@ -126,6 +126,7 @@
    "level": "album",
    "url": "https://music.apple.com/ca/album/plasticman-remastered/910468283",
    "retrieved": "2026-11-16",
+   "note": "Album page shows 'Electronic · 2014' but no track list visible; Hard Graft not confirmed on Apple.",
    "verdict": "uncertain match"
   },
   {
@@ -136,7 +137,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
   },
   {
    "platform": "Bandcamp",
@@ -155,6 +157,7 @@
    "level": "tags",
    "url": "https://plastician.bandcamp.com/track/hard-graft",
    "retrieved": "2026-11-16",
+   "note": "Track-page tags (differ from the album's longer tag list). 2014 remaster.",
    "verdict": "correct"
   }
  ],

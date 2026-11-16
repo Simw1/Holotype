@@ -147,7 +147,8 @@
    "release": null,
    "level": null,
    "url": "https://www.qobuz.com/gb-en/interpreter/jammer/697137",
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not seen on the first page (21 of 123) of the Jammer discography; Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
   },
   {
    "platform": "Bandcamp",
@@ -157,7 +158,8 @@
    "release": null,
    "level": null,
    "url": "https://jammer.bandcamp.com/",
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not on Jammer's Bandcamp (album 'Top Producer')."
   }
  ],
  "round": 1

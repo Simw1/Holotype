@@ -137,6 +137,7 @@
    "level": "track",
    "url": "https://music.apple.com/gb/song/pies/1136793596",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Album track; separate single release not found.",
    "verdict": "broad"
   },
   {
@@ -150,6 +151,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/us-en/interpreter/wiley/172614",
    "retrieved": "2026-11-16",
+   "note": "Single not found; album-level genre of parent album (track 11). The French album page (https://www.qobuz.com/fr-fr/album/treddin-on-thin-ice-wiley/0634904017880) shows the localised 'Électronique'; English discography listing shows 'Electronic'.",
    "verdict": "broad"
   },
   {
@@ -160,7 +162,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not searched individually; no official Wiley (grime) Bandcamp found."
   }
  ],
  "round": 1

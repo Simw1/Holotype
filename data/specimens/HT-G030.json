@@ -127,6 +127,7 @@
    "level": "track",
    "url": "https://music.apple.com/tm/song/anna/579398641",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). 2012 compilation; page dates track 1 Sep 2004. 'Down' also on the compilation (not fetched).",
    "verdict": "broad"
   },
   {
@@ -140,6 +141,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/gb-en/album/white-label-classics-ruff-sqwad/bkuuqkzzi9b2a",
    "retrieved": "2026-11-16",
+   "note": "Album-level genre; 2012 compilation. 'Down' is also on it.",
    "verdict": "broad"
   },
   {
@@ -155,6 +157,7 @@
    "level": "tags",
    "url": "https://nohatsnohoods.bandcamp.com/album/white-label-classics",
    "retrieved": "2026-11-16",
+   "note": "Album tags of 2012 compilation; tracks 1 'Anna' and 9 'Down'.",
    "verdict": "correct"
   }
  ],

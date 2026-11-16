@@ -135,6 +135,7 @@
    "level": "track",
    "url": "https://music.apple.com/us/song/creeper/1308395835",
    "retrieved": "2026-11-16",
+   "note": "Track page genre is taken from the page's meta keywords (Apple does not print a genre line on song pages). The GB album page for the same compilation (id 1312108944) shows 'Dance · 2017'; the song page links to a different album id, so album and track labels differ. Credited 'Cage & Danny Weed'.",
    "verdict": "broad"
   },
   {
@@ -148,6 +149,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
    "retrieved": "2026-11-16",
+   "note": "Album-level genre of 2017 compilation 'Kurupt FM present The Lost Tape' (XL Recordings); Qobuz shows genre only per album. Credited to Cage on the track list.",
    "verdict": "broad"
   },
   {
@@ -158,7 +160,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
   }
  ],
  "round": 1

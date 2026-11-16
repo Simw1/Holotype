@@ -145,6 +145,7 @@
    "level": "album",
    "url": "https://music.apple.com/us/album/murkle-man-single/1327398749",
    "retrieved": "2026-11-16",
+   "note": "Visible line 'Hip-Hop/Rap · 2005'; date 30 May 2005; ℗ 2005 Jahmek The World.",
    "verdict": "broad"
   },
   {
@@ -158,6 +159,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/gb-en/interpreter/jammer/697137",
    "retrieved": "2026-11-16",
+   "note": "Read from artist discography listing: 'Murkle Man', Hip-Hop/Rap, 30 May 2005.",
    "verdict": "broad"
   },
   {
@@ -174,6 +176,7 @@
    "level": "tags",
    "url": "https://jammer.bandcamp.com/track/murkle-man",
    "retrieved": "2026-11-16",
+   "note": "On artist album 'Top Producer' released 30 Mar 2014; not confirmed to be the same recording as the 2005 release. A 'Murkle Man (Remix) Ft Dizzee Rascal & D Double E' is also on the album.",
    "verdict": "uncertain match"
   }
  ],

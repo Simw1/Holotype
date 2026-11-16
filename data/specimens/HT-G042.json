@@ -188,6 +188,46 @@
    "domain": "officialcharts.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Pop"
+   ],
+   "match": "version",
+   "release": "Execute",
+   "level": "album",
+   "url": "https://music.apple.com/sa/album/execute/140844595",
+   "retrieved": "2026-11-16",
+   "note": "Album page shows 'Pop · 2000' (26 songs; track list not visible); 'Execute' identified as the parent album via Shazam (Apple-owned) song page 358344138, which also shows label EastWest U.K. and genre Pop. Apple also lists 'Bound 4 da Reload - EP' (2025, id 1793129587) showing 'House · 2025', ℗ 2025 Warner Music UK Ltd, track 4 a 'Casualty Remix'.",
+   "verdict": "wrong"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Pop"
+   ],
+   "match": "version",
+   "release": "Execute",
+   "level": "album",
+   "url": "https://www.qobuz.com/at-de/album/execute-oxide-and-neutrino/0685738855964",
+   "retrieved": "2026-11-16",
+   "note": "Track 7 on Execute (EastWest U.K., 01.12.00); Qobuz shows genre only per album (German page: Pop, under Pop/Rock). A second Execute listing exists (0685738856169), also Pop. Original single not listed; the separate 'Oxide & Neutrino' artist entry (1567474) has only later releases.",
+   "verdict": "wrong"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://djoxide.bandcamp.com/music",
+   "retrieved": "2026-11-16",
+   "note": "Not found. djoxide.bandcamp.com (Oxide's own page) lists later productions only."
+  }
+ ],
  "round": 2
 }

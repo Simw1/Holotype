@@ -132,6 +132,7 @@
    "level": "album",
    "url": "https://music.apple.com/us/album/jus-a-rascal/311185968",
    "retrieved": "2026-11-16",
+   "note": "Visible line 'Hip-Hop/Rap · 2003'; date 24 Nov 2003; ℗ 2003 XL.",
    "verdict": "broad"
   },
   {
@@ -145,6 +146,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/gb-en/album/boy-in-da-corner-dizzee-rascal/s6mv77cqg11vc",
    "retrieved": "2026-11-16",
+   "note": "Single release not found; album-level genre of reissue edition containing the track.",
    "verdict": "broad"
   },
   {
@@ -155,7 +157,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not searched individually; no official Dizzee Rascal release surfaced in Bandcamp searches."
   }
  ],
  "round": 1

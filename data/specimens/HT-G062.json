@@ -3,11 +3,11 @@
  "key": "ghetto-2000-and-life-2005",
  "sort": "2005-10-01",
  "year": 2005,
- "date": "2005",
+ "date": "2005 (Vice lists it among 2006 mixtapes)",
  "kind": "Mixtape",
  "artist": "Ghetto (Ghetts)",
  "title": "2000 & Life",
- "label": "Self-released",
+ "label": null,
  "cat": null,
  "format": "Mixtape (sold in shops, e.g. Deal Real, per Link Up TV); physical format not stated",
  "producers": [],
@@ -17,20 +17,22 @@
   "status": "Context artefact",
   "of": "Grime",
   "holotype": null,
-  "basis": "Mixtape sold in shops; mixes grime beats with US hip-hop instrumentals."
+  "basis": "Mixtape; Link Up TV says it mixed original beats with US hip-hop instrumentals."
  },
  "sound": [
   {
-   "text": "Link Up TV (2019) says it mixed original grime beats with US hip-hop instrumentals and showed Ghetts 'at his raw best'.",
+   "text": "Link Up TV (2019) says it mixed original beats with well-known US hip-hop instrumentals (Kanye West's '2 Words', Mobb Deep) and showed Ghetts 'at his raw best'.",
    "url": "https://www.thelinkup.com/content/533/home",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2019-11-28"
   },
   {
-   "text": "Stereogum (2016) cites it as proof of the uncompromising, complex lyricism Ghetts was known for from his N.A.S.T.Y. Crew days.",
+   "text": "Stereogum (2016) names 2000 & Life, his 2005 debut, as showing Ghetts is 'one of the best', in an entry noting his complex, hard-hitting lyrics since his N.A.S.T.Y. Crew days.",
    "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2016-03-14"
   }
  ],
  "context": [
@@ -38,19 +40,22 @@
    "text": "His first release, made after leaving prison in 2003; Ghetts is from Plaistow, Newham, and was in N.A.S.T.Y. Crew before founding The Movement (Wikipedia).",
    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Ghetts.html",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2026 (IPFS Wikipedia snapshot)"
   },
   {
    "text": "Listed in Vice's 'Top 10 Mixtapes' of 2006 (published Jan 2007).",
    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
-   "g": "A",
-   "checked": false
+   "g": "C",
+   "checked": true,
+   "pub": "2007-01-02"
   },
   {
    "text": "Link Up TV (2019) bought it at Deal Real, the Carnaby Street hip-hop shop, and says it 'garnered some buzz'.",
    "url": "https://www.thelinkup.com/content/533/home",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2019-11-28"
   }
  ],
  "calls": [
@@ -104,6 +109,40 @@
    "domain": "thelinkup.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://music.apple.com/us/artist/ghetts/306419632",
+   "retrieved": "2026-11-16",
+   "note": "Not listed on the Ghetts artist page (id 306419632); earliest releases there are 2014."
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://www.qobuz.com/gb-en/interpreter/ghetts/697142",
+   "retrieved": "2026-11-16",
+   "note": "Not in page 1 (21 of 36) of the Ghetts discography; the Qobuz biography names it as a 2005 mixtape released as Ghetto. Page 2 not checked."
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

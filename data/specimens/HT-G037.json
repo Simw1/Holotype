@@ -127,6 +127,7 @@
    "level": "album",
    "url": "https://music.apple.com/us/album/home-sweet-home/259713834",
    "retrieved": "2026-11-16",
+   "note": "Visible line 'Hip-Hop/Rap · 2005'; date 27 Jun 2005; ℗ 2007 679 Recordings.",
    "verdict": "broad"
   },
   {
@@ -140,6 +141,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/ie-en/album/home-sweet-home-kano/0643443518468",
    "retrieved": "2026-11-16",
+   "note": "Header 'Genre: Dance'; About section lists 'Electronic' and 'Dance'. 679 Recordings, 17/06/2005.",
    "verdict": "broad"
   },
   {
@@ -150,7 +152,8 @@
    "release": null,
    "level": null,
    "url": "https://kano.bandcamp.com/music",
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "kano.bandcamp.com lists only two other releases; not found."
   }
  ],
  "round": 1

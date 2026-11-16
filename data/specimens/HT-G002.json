@@ -191,6 +191,7 @@
    "level": "track",
    "url": "https://music.apple.com/us/song/252829705",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Artist compilation dated 2006; credited Youngstar.",
    "verdict": "broad"
   },
   {
@@ -204,6 +205,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
    "retrieved": "2026-11-16",
+   "note": "Album-level genre of 2017 compilation 'Kurupt FM present The Lost Tape' (XL Recordings); Qobuz shows genre only per album.",
    "verdict": "broad"
   },
   {
@@ -222,6 +224,7 @@
    "level": "tags",
    "url": "https://whitepeach.bandcamp.com/track/pulse-x-2",
    "retrieved": "2026-11-16",
+   "note": "Track tags on a 2016 label compilation. Bootlegs/remixes by others also exist.",
    "verdict": "correct"
   }
  ],

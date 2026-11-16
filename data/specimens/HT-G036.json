@@ -143,6 +143,7 @@
    "level": "track",
    "url": "https://music.apple.com/au/song/random/1443899084",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Collection named Public Warning; page date 14 Mar 2005.",
    "verdict": "wrong"
   },
   {
@@ -156,6 +157,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/nz-en/album/public-warning-lady-sovereign/o1ostk7sitlsa",
    "retrieved": "2026-11-16",
+   "note": "Album-level genre; clean version on parent album. A separate 'Random' release page (https://www.qobuz.com/dk-en/album/random-lady-sovereign/q6mlf7ioo5hoa) surfaced but could not be fetched.",
    "verdict": "broad"
   },
   {
@@ -166,7 +168,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
   }
  ],
  "round": 1

@@ -145,6 +145,7 @@
    "level": "track",
    "url": "https://music.apple.com/us/song/pied-piper/579398648",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). 2012 compilation; page dates track 1 Jan 2003.",
    "verdict": "broad"
   },
   {
@@ -158,6 +159,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/gb-en/album/white-label-classics-ruff-sqwad/bkuuqkzzi9b2a",
    "retrieved": "2026-11-16",
+   "note": "Album-level genre; 2012 compilation, No Hats No Hoods Records.",
    "verdict": "broad"
   },
   {
@@ -173,6 +175,7 @@
    "level": "tags",
    "url": "https://nohatsnohoods.bandcamp.com/album/white-label-classics",
    "retrieved": "2026-11-16",
+   "note": "Album tags of 2012 compilation (No Hats No Hoods).",
    "verdict": "correct"
   }
  ],

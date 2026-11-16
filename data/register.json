@@ -337,7 +337,47 @@
      "domain": "officialcharts.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "found",
+     "labels": [
+      "Pop"
+     ],
+     "match": "version",
+     "release": "Execute",
+     "level": "album",
+     "url": "https://music.apple.com/sa/album/execute/140844595",
+     "retrieved": "2026-11-16",
+     "note": "Album page shows 'Pop · 2000' (26 songs; track list not visible); 'Execute' identified as the parent album via Shazam (Apple-owned) song page 358344138, which also shows label EastWest U.K. and genre Pop. Apple also lists 'Bound 4 da Reload - EP' (2025, id 1793129587) showing 'House · 2025', ℗ 2025 Warner Music UK Ltd, track 4 a 'Casualty Remix'.",
+     "verdict": "wrong"
+    },
+    {
+     "platform": "Qobuz",
+     "status": "found",
+     "labels": [
+      "Pop"
+     ],
+     "match": "version",
+     "release": "Execute",
+     "level": "album",
+     "url": "https://www.qobuz.com/at-de/album/execute-oxide-and-neutrino/0685738855964",
+     "retrieved": "2026-11-16",
+     "note": "Track 7 on Execute (EastWest U.K., 01.12.00); Qobuz shows genre only per album (German page: Pop, under Pop/Rock). A second Execute listing exists (0685738856169), also Pop. Original single not listed; the separate 'Oxide & Neutrino' artist entry (1567474) has only later releases.",
+     "verdict": "wrong"
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://djoxide.bandcamp.com/music",
+     "retrieved": "2026-11-16",
+     "note": "Not found. djoxide.bandcamp.com (Oxide's own page) lists later productions only."
+    }
+   ],
    "round": 2
   },
   {
@@ -538,7 +578,41 @@
      "domain": "wikipedia (mirror)"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two). No Pay As U Go artist page surfaced."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -734,7 +808,47 @@
      "domain": "wikipedia (mirror)"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "found",
+     "labels": [
+      "Electronic"
+     ],
+     "match": "exact",
+     "release": "Oh No (Sentimental Things) - EP",
+     "level": "album",
+     "url": "https://music.apple.com/gb/album/oh-no-sentimental-things-ep/1458134790",
+     "retrieved": "2026-11-16",
+     "note": "EP page shows 'Electronic · 2000'; ℗ 2000 Craft Recordings; track 4 is 'Dilemma'. Same artist's albums show Hip-Hop/Rap. Remix versions also appear on They Don't Know and Oxide & Neutrino's Execute.",
+     "verdict": "broad"
+    },
+    {
+     "platform": "Qobuz",
+     "status": "found",
+     "labels": [
+      "Hip-Hop/Rap"
+     ],
+     "match": "uncertain",
+     "release": "Oh No (Sentimental Things)",
+     "level": "album",
+     "url": "https://www.qobuz.com/nz-en/interpreter/so-solid-crew/172673",
+     "retrieved": "2026-11-16",
+     "note": "Read from the artist discography listing (Craft Recordings, dated 1/01/2000, likely a placeholder date). Album page could not be fetched, so presence of 'Dilemma' on this release is not confirmed. Differs from Apple's 'Electronic' for the same EP.",
+     "verdict": "uncertain match"
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -860,7 +974,41 @@
      "domain": "blissout.blogspot.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two). A Soundcharts page lists 'Boom Selection (Original Vocal)' (Kronik Music, ISRC GBKQU1703945), which suggests a digital release exists, but no Apple Music page surfaced."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -1039,7 +1187,47 @@
      "domain": "wikipedia (mirror)"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "found",
+     "labels": [
+      "Hip-Hop/Rap"
+     ],
+     "match": "exact",
+     "release": "21 Seconds - Single",
+     "level": "album",
+     "url": "https://music.apple.com/gb/album/21-seconds-single/1503425038",
+     "retrieved": "2026-11-16",
+     "note": "Single page shows 'Hip-Hop/Rap · 2001', release date 6 Aug 2001, ℗ 2020 Craft Recordings (reissue rights line); 6 songs incl. a BBC Radio 1 live version. Track also on They Don't Know (Hip-Hop/Rap).",
+     "verdict": "broad"
+    },
+    {
+     "platform": "Qobuz",
+     "status": "found",
+     "labels": [
+      "Hip-Hop/Rap"
+     ],
+     "match": "exact",
+     "release": "21 Seconds",
+     "level": "album",
+     "url": "https://www.qobuz.com/nz-en/interpreter/so-solid-crew/172673",
+     "retrieved": "2026-11-16",
+     "note": "Read from the artist discography listing (Craft Recordings). Also listed: '21 Seconds EP' (18/09/2001) and '21 Seconds (Live At BBC Radio 1 Lamacq Live / 2002)' (6/08/2001), both Hip-Hop/Rap.",
+     "verdict": "broad"
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -1157,7 +1345,41 @@
      "domain": "daily.redbullmusicacademy.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -1280,7 +1502,47 @@
      "domain": "wikipedia (mirror)"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "found",
+     "labels": [
+      "Hip-Hop/Rap"
+     ],
+     "match": "exact",
+     "release": "They Don't Know",
+     "level": "album",
+     "url": "https://music.apple.com/gb/album/they-dont-know/1458137896",
+     "retrieved": "2026-11-16",
+     "note": "Album page shows 'Hip-Hop/Rap · 2001', release 19 Nov 2001, ℗ 2001 Craft Recordings, 20 songs.",
+     "verdict": "broad"
+    },
+    {
+     "platform": "Qobuz",
+     "status": "found",
+     "labels": [
+      "Hip-Hop/Rap"
+     ],
+     "match": "exact",
+     "release": "They Don't Know",
+     "level": "album",
+     "url": "https://www.qobuz.com/no-en/album/they-dont-know-so-solid-crew/fs6gpoxx9wdcc",
+     "retrieved": "2026-11-16",
+     "note": "Label shown: Craft Recordings (Qobuz biography says Relentless Records). Release 11/19/01; 20 tracks.",
+     "verdict": "broad"
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -1419,7 +1681,44 @@
      "domain": "officialcharts.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://music.apple.com/sa/artist/oxide-neutrino/14751823",
+     "retrieved": "2026-11-16",
+     "note": "Single not listed on the Oxide & Neutrino artist page (id 14751823). 'Only Wanna Know U Cos Ure Famous' is presumably on the Execute album ('Pop · 2000') but Apple's track list was not visible."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "found",
+     "labels": [
+      "Pop"
+     ],
+     "match": "exact",
+     "release": "Rap Dis (U Can't Stop Dis Shit) / Only Wanna Know U Cos Ure Famous",
+     "level": "album",
+     "url": "https://www.qobuz.com/dk-en/interpreter/oxide-and-neutrino/360480",
+     "retrieved": "2026-11-16",
+     "note": "Read from the artist discography listing: Atlantic Records UK, 26 Nov 2001. Release page not fetchable, so featured-artist credits (Kaish, Harvey, Scat D, Swiss) not checked. 'Only Wanna Know U Cos Ure Famous' is also track 14 on Execute (Pop).",
+     "verdict": "wrong"
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -1554,7 +1853,47 @@
      "domain": "daily.redbullmusicacademy.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "found",
+     "labels": [
+      "Breakbeat"
+     ],
+     "match": "uncertain",
+     "release": "Terrible - Single",
+     "level": "album",
+     "url": "https://music.apple.com/gm/album/terrible-single/1332892626",
+     "retrieved": "2026-11-16",
+     "note": "Single page shows 'Breakbeat · 2018', release 6 Jan 2018, ℗ 2018 Stone Villager Records; 2 songs, track 2 apparently 'Terrible (Teebone Remix)'. A 2018 release, not the 2001/2002 original; identity with the Roll Deep Entourage record not confirmed.",
+     "verdict": "uncertain match"
+    },
+    {
+     "platform": "Qobuz",
+     "status": "found",
+     "labels": [
+      "Miscellaneous"
+     ],
+     "match": "uncertain",
+     "release": "Terrible",
+     "level": "album",
+     "url": "https://www.qobuz.com/fi-en/interpreter/roll-deep/227066",
+     "retrieved": "2026-11-16",
+     "note": "Read from the artist discography listing: Stone Villager, 6 Jan 2018. Apparently the same 2018 release as on Apple (where it is 'Breakbeat'); identity with the original not confirmed.",
+     "verdict": "uncertain match"
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -1718,6 +2057,7 @@
      "level": "track",
      "url": "https://music.apple.com/ie/song/oi-feat-more-fire-crew/1232977876",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Credited to Lethal Bizzle, not Platinum 45; page date 27 Jan 2003. Many DJ-mix versions also exist.",
      "verdict": "broad"
     },
     {
@@ -1731,6 +2071,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
      "retrieved": "2026-11-16",
+     "note": "Album-level genre of 2017 compilation 'Kurupt FM present The Lost Tape' (XL Recordings); Qobuz shows genre only per album. Also on 'Best of Bizzle' (Lethal Bizzle, 2011) as 'Oi (feat. More Fire Crew)', Genre: Hip-Hop/Rap, https://www.qobuz.com/ie-en/album/best-of-bizzle-lethal-bizzle/am5c07hvvgv4a",
      "verdict": "broad"
     },
     {
@@ -1741,7 +2082,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not searched individually; no official release surfaced in grime searches of bandcamp.com."
     }
    ],
    "round": 1
@@ -1939,6 +2281,7 @@
      "level": "track",
      "url": "https://music.apple.com/us/song/252829705",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Artist compilation dated 2006; credited Youngstar.",
      "verdict": "broad"
     },
     {
@@ -1952,6 +2295,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
      "retrieved": "2026-11-16",
+     "note": "Album-level genre of 2017 compilation 'Kurupt FM present The Lost Tape' (XL Recordings); Qobuz shows genre only per album.",
      "verdict": "broad"
     },
     {
@@ -1970,6 +2314,7 @@
      "level": "tags",
      "url": "https://whitepeach.bandcamp.com/track/pulse-x-2",
      "retrieved": "2026-11-16",
+     "note": "Track tags on a 2016 label compilation. Bootlegs/remixes by others also exist.",
      "verdict": "correct"
     }
    ],
@@ -2119,6 +2464,7 @@
      "level": "album",
      "url": "https://music.apple.com/ca/album/plasticman-remastered/910468283",
      "retrieved": "2026-11-16",
+     "note": "Album page shows 'Electronic · 2014' (21 songs) but no track list was visible, so presence of Venom and Shockwave is not confirmed on Apple; inferred from the Bandcamp deluxe edition track list. 2014 remastered reissue.",
      "verdict": "uncertain match"
     },
     {
@@ -2129,7 +2475,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple. Searches for Plastician returned only Plastikman."
     },
     {
      "platform": "Bandcamp",
@@ -2157,6 +2504,7 @@
      "level": "tags",
      "url": "https://plastician.bandcamp.com/album/plasticman-remastered-deluxe-edition",
      "retrieved": "2026-11-16",
+     "note": "Album tags (tracks 1 and 2) of 2014 remastered reissue by the artist.",
      "verdict": "correct"
     }
    ],
@@ -2307,7 +2655,41 @@
      "domain": "factmag.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two). No Pay As U Go artist page surfaced."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -2480,7 +2862,41 @@
      "domain": "factmag.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -2620,6 +3036,7 @@
      "level": "track",
      "url": "https://music.apple.com/us/song/creeper/1308395835",
      "retrieved": "2026-11-16",
+     "note": "Track page genre is taken from the page's meta keywords (Apple does not print a genre line on song pages). The GB album page for the same compilation (id 1312108944) shows 'Dance · 2017'; the song page links to a different album id, so album and track labels differ. Credited 'Cage & Danny Weed'.",
      "verdict": "broad"
     },
     {
@@ -2633,6 +3050,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
      "retrieved": "2026-11-16",
+     "note": "Album-level genre of 2017 compilation 'Kurupt FM present The Lost Tape' (XL Recordings); Qobuz shows genre only per album. Credited to Cage on the track list.",
      "verdict": "broad"
     },
     {
@@ -2643,7 +3061,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -2856,6 +3275,7 @@
      "level": "track",
      "url": "https://music.apple.com/gb/song/eskimo/1308395522",
      "retrieved": "2026-11-16",
+     "note": "Track page genre is taken from the page's meta keywords (Apple does not print a genre line on song pages). The GB album page for the same compilation (id 1312108944) shows 'Dance · 2017'; the song page links to a different album id, so album and track labels differ. Another version (4:19) on compilation 'I Love Grime' (2012), https://music.apple.com/ru/song/eskimo/1684381282, shows 'Хип-хоп' (Russian storefront, localised Hip-Hop).",
      "verdict": "broad"
     },
     {
@@ -2869,6 +3289,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
      "retrieved": "2026-11-16",
+     "note": "Album-level genre of 2017 compilation 'Kurupt FM present The Lost Tape' (XL Recordings); Qobuz shows genre only per album.",
      "verdict": "broad"
     },
     {
@@ -2879,7 +3300,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced). Several third-party refixes/bootlegs of Eskimo exist."
     }
    ],
    "round": 1
@@ -3024,7 +3446,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (only Eskimo and Eskimo Dance surfaced)."
     },
     {
      "platform": "Qobuz",
@@ -3034,7 +3457,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -3044,7 +3468,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -3179,7 +3604,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com."
     },
     {
      "platform": "Qobuz",
@@ -3189,7 +3615,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -3199,7 +3626,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced). Third-party Ice Pole bootlegs/refixes exist."
     }
    ],
    "round": 1
@@ -3388,6 +3816,7 @@
      "level": "track",
      "url": "https://music.apple.com/zm/song/i-luv-u/1438903430",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Album track (page date 26 May 2003); 2002 test pressing not separately available. Many remix/mixed versions exist.",
      "verdict": "broad"
     },
     {
@@ -3401,6 +3830,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/gb-en/album/boy-in-da-corner-dizzee-rascal/s6mv77cqg11vc",
      "retrieved": "2026-11-16",
+     "note": "Album-level genre; reissue edition (Qobuz date 21/07/2004 on this page). Original 2003 album also listed as Hip-Hop/Rap on the Dizzee Rascal discography page.",
      "verdict": "broad"
     },
     {
@@ -3411,7 +3841,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced). Third-party reworks exist."
     }
    ],
    "round": 1
@@ -3563,6 +3994,7 @@
      "level": "track",
      "url": "https://music.apple.com/us/song/pied-piper/579398648",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). 2012 compilation; page dates track 1 Jan 2003.",
      "verdict": "broad"
     },
     {
@@ -3576,6 +4008,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/gb-en/album/white-label-classics-ruff-sqwad/bkuuqkzzi9b2a",
      "retrieved": "2026-11-16",
+     "note": "Album-level genre; 2012 compilation, No Hats No Hoods Records.",
      "verdict": "broad"
     },
     {
@@ -3591,6 +4024,7 @@
      "level": "tags",
      "url": "https://nohatsnohoods.bandcamp.com/album/white-label-classics",
      "retrieved": "2026-11-16",
+     "note": "Album tags of 2012 compilation (No Hats No Hoods).",
      "verdict": "correct"
     }
    ],
@@ -3768,6 +4202,7 @@
      "level": "track",
      "url": "https://music.apple.com/us/song/dizzee-rascal-ice-rink/290943817",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Vocal version on 2008 mixtape, not the 2003 Ice Rink release.",
      "verdict": "broad"
     },
     {
@@ -3778,7 +4213,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found as a release. Treddin' On Thin Ice contains 'Icerink (Interlude)', a different track. Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -3788,7 +4224,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not searched individually; no official Wiley (grime) Bandcamp found (wileyband.bandcamp.com is an unrelated US act)."
     }
    ],
    "round": 1
@@ -3921,6 +4358,7 @@
      "level": "album",
      "url": "https://music.apple.com/ca/album/plasticman-remastered/910468283",
      "retrieved": "2026-11-16",
+     "note": "Album page shows 'Electronic · 2014' but no track list visible; Hard Graft not confirmed on Apple.",
      "verdict": "uncertain match"
     },
     {
@@ -3931,7 +4369,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -3950,6 +4389,7 @@
      "level": "tags",
      "url": "https://plastician.bandcamp.com/track/hard-graft",
      "retrieved": "2026-11-16",
+     "note": "Track-page tags (differ from the album's longer tag list). 2014 remaster.",
      "verdict": "correct"
     }
    ],
@@ -4084,7 +4524,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found. Searches surfaced Plastician 'Plasticman Remixed I - EP' (Electronic · 2014) but its track list was not visible, so a match could not be confirmed."
     },
     {
      "platform": "Qobuz",
@@ -4094,7 +4535,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -4121,6 +4563,7 @@
      "level": "tags",
      "url": "https://mrk1music.bandcamp.com/album/fight",
      "retrieved": "2026-11-16",
+     "note": "Artist's own page; 'released November 1, 2003', catalogue TERR001, both tracks.",
      "verdict": "correct"
     }
    ],
@@ -4297,7 +4740,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found; Jon E Cash artist pages and 'Still at War' (DA Black OP's) surfaced, not War."
     },
     {
      "platform": "Qobuz",
@@ -4307,7 +4751,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple. Kurupt FM compilation has a different Jon E Cash track ('Cash Beat AKA: Hoods Up Dub')."
     },
     {
      "platform": "Bandcamp",
@@ -4328,6 +4773,7 @@
      "level": "tags",
      "url": "https://blackopssublow.bandcamp.com/album/war",
      "retrieved": "2026-11-16",
+     "note": "Digital re-release dated 21 Dec 2023, notes say '2003 release'; includes 'WAR BONUS'. A track 'WAR' on album SUBLOW (2025) has tags: edm, electronic, ukg, grime, instrumental, sublow, London (https://jonecash.bandcamp.com/track/war).",
      "verdict": "correct"
     }
    ],
@@ -4453,7 +4899,41 @@
      "domain": "nts.live"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple. Qobuz 'Gridlock' artist entries are unrelated."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com. Unrelated 'Gridlock' tracks only."
+    }
+   ],
    "round": 2
   },
   {
@@ -4589,6 +5069,7 @@
      "level": "album",
      "url": "https://music.apple.com/gb/album/boy-in-da-corner/1438903422",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Hip-Hop/Rap · 2003'. A 20th Anniversary Edition also exists.",
      "verdict": "broad"
     },
     {
@@ -4602,6 +5083,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/us-en/interpreter/dizzee-rascal/108698",
      "retrieved": "2026-11-16",
+     "note": "Read from the artist discography listing (2003 entry). The 20th Anniversary Edition album page also shows Genre: Hip-Hop/Rap.",
      "verdict": "broad"
     },
     {
@@ -4612,7 +5094,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -4763,6 +5246,7 @@
      "level": "album",
      "url": "https://music.apple.com/us/album/fix-up-look-sharp-single/1500458578",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Hip-Hop/Rap · 2003'; ℗ 2003 XL Recordings.",
      "verdict": "broad"
     },
     {
@@ -4776,6 +5260,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/gb-en/album/boy-in-da-corner-dizzee-rascal/s6mv77cqg11vc",
      "retrieved": "2026-11-16",
+     "note": "Single release not found; album-level genre of reissue edition containing the track.",
      "verdict": "broad"
     },
     {
@@ -4786,7 +5271,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not searched individually; no official Dizzee Rascal release surfaced in Bandcamp searches."
     }
    ],
    "round": 1
@@ -4941,7 +5427,8 @@
      "release": null,
      "level": null,
      "url": "https://music.apple.com/gb/artist/nasty-crew/1445578480",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Nasty Crew artist page (id 1445578480) lists no releases; Cock Back not found."
     },
     {
      "platform": "Qobuz",
@@ -4951,7 +5438,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -4961,7 +5449,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -5100,6 +5589,7 @@
      "level": "album",
      "url": "https://music.apple.com/us/album/jus-a-rascal/311185968",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Hip-Hop/Rap · 2003'; date 24 Nov 2003; ℗ 2003 XL.",
      "verdict": "broad"
     },
     {
@@ -5113,6 +5603,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/gb-en/album/boy-in-da-corner-dizzee-rascal/s6mv77cqg11vc",
      "retrieved": "2026-11-16",
+     "note": "Single release not found; album-level genre of reissue edition containing the track.",
      "verdict": "broad"
     },
     {
@@ -5123,7 +5614,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not searched individually; no official Dizzee Rascal release surfaced in Bandcamp searches."
     }
    ],
    "round": 1
@@ -5326,6 +5818,7 @@
      "level": "album",
      "url": "https://music.apple.com/ng/album/wot-do-u-call-it-single/1450123666",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Electronic · 2004'; date 5 Apr 2004; ℗ 2004 XL.",
      "verdict": "broad"
     },
     {
@@ -5339,6 +5832,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/us-en/interpreter/wiley/172614",
      "retrieved": "2026-11-16",
+     "note": "Single not found; album-level genre of parent album (track 3). The French album page (https://www.qobuz.com/fr-fr/album/treddin-on-thin-ice-wiley/0634904017880) shows the localised 'Électronique'; English discography listing shows 'Electronic'.",
      "verdict": "broad"
     },
     {
@@ -5349,7 +5843,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced). A DJ mix track by DJ Fricktion includes the instrumental."
     }
    ],
    "round": 1
@@ -5480,6 +5975,7 @@
      "level": "album",
      "url": "https://music.apple.com/gb/album/treddin-on-thin-ice/1136792572",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Electronic · 2004'. Page date 5 Apr 2004 (differs from register's 26 Apr 2004).",
      "verdict": "broad"
     },
     {
@@ -5493,6 +5989,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/us-en/interpreter/wiley/172614",
      "retrieved": "2026-11-16",
+     "note": "XL Recordings, 05/04/2004. The French album page (https://www.qobuz.com/fr-fr/album/treddin-on-thin-ice-wiley/0634904017880) shows the localised 'Électronique'; English discography listing shows 'Electronic'.",
      "verdict": "broad"
     },
     {
@@ -5503,7 +6000,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -5657,7 +6155,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found; only artist pages and editorial 'Grime' playlists surfaced."
     },
     {
      "platform": "Qobuz",
@@ -5667,7 +6166,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -5677,7 +6177,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced). Kode9's 'trax from Grime 2 [2004]' relates to the follow-up Grime 2, not this record."
     }
    ],
    "round": 1
@@ -5821,6 +6322,7 @@
      "level": "track",
      "url": "https://music.apple.com/gb/song/pies/1136793596",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Album track; separate single release not found.",
      "verdict": "broad"
     },
     {
@@ -5834,6 +6336,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/us-en/interpreter/wiley/172614",
      "retrieved": "2026-11-16",
+     "note": "Single not found; album-level genre of parent album (track 11). The French album page (https://www.qobuz.com/fr-fr/album/treddin-on-thin-ice-wiley/0634904017880) shows the localised 'Électronique'; English discography listing shows 'Electronic'.",
      "verdict": "broad"
     },
     {
@@ -5844,7 +6347,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not searched individually; no official Wiley (grime) Bandcamp found."
     }
    ],
    "round": 1
@@ -5997,7 +6501,50 @@
      "domain": "k-punk.org"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Compilation not found. Kode9's Apple artist page (id 219581817) does not list Grime 2 or its tracks."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://www.qobuz.com/gb-en/interpreter/kode9/605613",
+     "retrieved": "2026-11-16",
+     "note": "Compilation not found; not in page 1 (21 of 26) of Kode9's discography, and no Rephlex release appears there."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "found",
+     "labels": [
+      "electronic",
+      "bass",
+      "drill",
+      "dubstep",
+      "footwork",
+      "grime",
+      "London"
+     ],
+     "match": "version",
+     "release": "trax from Grime 2 [2004]",
+     "level": "tags",
+     "url": "https://kode9.bandcamp.com/album/trax-from-grime-2-2004",
+     "retrieved": "2026-11-16",
+     "note": "Partial: Kode9's own 2020 upload of his four tracks from the compilation ('Off Rephlex's Grime 2 compilation from 2004'); no label named. Loefah and Digital Mystikz sides not found.",
+     "verdict": "correct"
+    }
+   ],
    "round": 2
   },
   {
@@ -6138,7 +6685,8 @@
      "release": null,
      "level": null,
      "url": "https://music.apple.com/us/album/industry-standard-part-4-ep/712459222",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Only 'Industry Standard Part 4 - EP' found (a later release); original 2004 EP not found."
     },
     {
      "platform": "Qobuz",
@@ -6148,7 +6696,8 @@
      "release": null,
      "level": null,
      "url": "https://www.qobuz.com/gb-en/interpreter/terror-danjah/427376",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Artist discography lists 'Industry Standard Part 4' (Electronic, 2009) and 'Gremlinz (The Instrumentals 2003-2009)' (Electronic), but not the 2004 EP."
     },
     {
      "platform": "Bandcamp",
@@ -6158,7 +6707,8 @@
      "release": null,
      "level": null,
      "url": "https://terrordanjah.bandcamp.com/releases",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Terror Danjah's Bandcamp lists other releases (Red Card Riddim, Invasion, Scene 1, Module); no Industry Standard EP."
     }
    ],
    "round": 1
@@ -6277,7 +6827,30 @@
      "domain": "complex.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -6434,7 +7007,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com."
     },
     {
      "platform": "Qobuz",
@@ -6444,7 +7018,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -6454,7 +7029,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -6606,6 +7182,7 @@
      "level": "album",
      "url": "https://music.apple.com/ca/album/plasticman-remastered/910468283",
      "retrieved": "2026-11-16",
+     "note": "Album page shows 'Electronic · 2014' but no track list visible; Cha not confirmed on Apple; EP as such not found.",
      "verdict": "uncertain match"
     },
     {
@@ -6616,7 +7193,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -6644,6 +7222,7 @@
      "level": "tags",
      "url": "https://plastician.bandcamp.com/album/plasticman-remastered-deluxe-edition",
      "retrieved": "2026-11-16",
+     "note": "Album tags; tracks 10 'Cha' and 23 'Cha VIP'. The EP itself not found.",
      "verdict": "correct"
     }
    ],
@@ -6827,6 +7406,7 @@
      "level": "track",
      "url": "https://music.apple.com/be/song/functions-on-the-low/1308395520",
      "retrieved": "2026-11-16",
+     "note": "Track page genre is taken from the page's meta keywords (Apple does not print a genre line on song pages). The GB album page for the same compilation (id 1312108944) shows 'Dance · 2017'; the song page links to a different album id, so album and track labels differ.",
      "verdict": "broad"
     },
     {
@@ -6840,6 +7420,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
      "retrieved": "2026-11-16",
+     "note": "Album-level genre of 2017 compilation 'Kurupt FM present The Lost Tape' (XL Recordings); Qobuz shows genre only per album. Ruff Sqwad's vocal 'Functions On The Low' is on White Label Classics (Electronic).",
      "verdict": "broad"
     },
     {
@@ -6850,7 +7431,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "XTC instrumental not found; Ruff Sqwad vocal 'Functions On The Low' is on No Hats No Hoods' White Label Classics."
     }
    ],
    "round": 1
@@ -6961,6 +7543,7 @@
      "level": "album",
      "url": "https://music.apple.com/us/album/one-way/724042162",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Electronic · 2004'; 27 Sep 2004; ℗ 2004 Planet Mu Records.",
      "verdict": "broad"
     },
     {
@@ -6971,7 +7554,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple. Only 'Planet Mu 30' and unrelated 'One Way' releases surfaced."
     },
     {
      "platform": "Bandcamp",
@@ -6981,7 +7565,8 @@
      "release": null,
      "level": null,
      "url": "https://planetmu.bandcamp.com/music",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found; Planet Mu Bandcamp music page did not show it."
     }
    ],
    "round": 1
@@ -7135,7 +7720,8 @@
      "release": null,
      "level": null,
      "url": "https://www.qobuz.com/gb-en/interpreter/jammer/697137",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not seen on the first page (21 of 123) of the Jammer discography; Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -7145,7 +7731,8 @@
      "release": null,
      "level": null,
      "url": "https://jammer.bandcamp.com/",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not on Jammer's Bandcamp (album 'Top Producer')."
     }
    ],
    "round": 1
@@ -7328,6 +7915,7 @@
      "level": "album",
      "url": "https://music.apple.com/us/album/pow-forward-single/724304734",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Hip-Hop/Rap · 2004'; ℗ 2004 Universal Music Operations.",
      "verdict": "broad"
     },
     {
@@ -7338,7 +7926,8 @@
      "release": null,
      "level": null,
      "url": "https://www.qobuz.com/ie-en/album/best-of-bizzle-lethal-bizzle/am5c07hvvgv4a",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Original single not found. 'Best of Bizzle' (Genre: Hip-Hop/Rap) contains 'POW 2011', a different later recording."
     },
     {
      "platform": "Bandcamp",
@@ -7348,7 +7937,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced). Third-party flips of POW 2011 exist."
     }
    ],
    "round": 1
@@ -7359,7 +7949,7 @@
    "sort": "2004-10-25",
    "year": 2004,
    "date": "2004 or earlier",
-   "kind": "12-inch",
+   "kind": "Single (format not stated)",
    "artist": "DJ Target",
    "title": "Poltergeist",
    "label": "Aim High Recordings",
@@ -7420,32 +8010,28 @@
    "sound": [],
    "context": [
     {
-     "text": "Chantelle Fiddy ('Hitting the Target', first in Touch magazine, posted 25 Oct 2004) lists Poltergeist/Runaway and a Terror Danjah remix among releases on Target's Aim High label.",
+     "text": "Chantelle Fiddy ('Hitting the Target', 25 Oct 2004; a version also ran in Touch magazine) lists Poltergeist/Runaway and 'the Poltergeist Remix by Terror Danger' [sic] among Aim High releases then available.",
      "url": "https://chantellefiddy.blogspot.com/2004/10/hitting-target.html",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "2004-10-25"
     },
     {
      "text": "The Aim High Vol. 2 press release posted by Fiddy (7 Jan 2005) gives Aim High's catalogue: AIM001 'Pick Yourself Up', AIM002 'Poltergeist', AIM003 'Chosen One' feat. Riko, AIM004 'Poltergeist Rmx' by Terror Danjah, AIM005 'STDS' feat. OT Crew.",
      "url": "https://chantellefiddy.blogspot.com/2005/01/aim-high-2-press-release.html?m=1",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "2005-01-07"
     },
     {
-     "text": "DJ Target (Darren Joseph) is an East London producer, formerly of Pay As U Go, and a co-founder of Roll Deep with Wiley.",
+     "text": "DJ Target (Darren Joseph) is an East London grime producer, formerly of Pay As U Go, who formed Roll Deep with Wiley, Breeze and Flow Dan after PAUG broke up.",
      "url": "https://www.nts.live/artists/21097-dj-target",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated (page shows 2015-2016 activity)"
     }
    ],
-   "calls": [
-    {
-     "label": "grime (Planet Mu frames the Gremlinz VIP among Terror Danjah's grime instrumentals)",
-     "source": "Planet Mu",
-     "year": 2009,
-     "url": "https://planet.mu/?p=1062"
-    }
-   ],
+   "calls": [],
    "rels": [
     {
      "type": "remix",
@@ -7478,7 +8064,47 @@
      "domain": "planet.mu"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "found",
+     "labels": [
+      "Electronic"
+     ],
+     "match": "uncertain",
+     "release": "Gremlinz (The Instrumentals 2003-2009)",
+     "level": "album",
+     "url": "https://music.apple.com/us/album/gremlinz-the-instrumentals-2003-2009/712691193",
+     "retrieved": "2026-11-16",
+     "note": "Original Aim High release not found. Album page shows 'Electronic · 2009', ℗ 2009 Planet Mu Records; track list not visible and 'Poltergeist' does not appear on the page. Link to this album rests on a Last.fm search-result title listing 'Poltergeist (Terror Danjah V.I.P. Remix)' on Gremlinz (Last.fm not fetched).",
+     "verdict": "uncertain match"
+    },
+    {
+     "platform": "Qobuz",
+     "status": "found",
+     "labels": [
+      "Electronic"
+     ],
+     "match": "uncertain",
+     "release": "Gremlinz (The Instrumentals 2003-2009)",
+     "level": "album",
+     "url": "https://www.qobuz.com/gb-en/interpreter/terror-danjah/427376",
+     "retrieved": "2026-11-16",
+     "note": "Original not found. Genre from the round-one reading of the Terror Danjah discography (not re-fetched this round); track list not checked. Same evidence basis as the Apple entry.",
+     "verdict": "uncertain match"
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -7669,6 +8295,7 @@
      "level": "track",
      "url": "https://music.apple.com/ug/song/ps-and-qs/160984787",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Appears on the 2005 Typical Me single, not the Nov 2004 P's and Q's release.",
      "verdict": "wrong"
     },
     {
@@ -7682,6 +8309,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/ie-en/album/home-sweet-home-kano/0643443518468",
      "retrieved": "2026-11-16",
+     "note": "Album version on 2005 album; album header 'Genre: Dance', About section lists 'Electronic' and 'Dance'.",
      "verdict": "broad"
     },
     {
@@ -7692,7 +8320,8 @@
      "release": null,
      "level": null,
      "url": "https://kano.bandcamp.com/music",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "kano.bandcamp.com lists only two other releases; not found."
     }
    ],
    "round": 1
@@ -7703,7 +8332,7 @@
    "sort": "2004-11-01",
    "year": 2004,
    "date": "2004",
-   "kind": "12-inch EP",
+   "kind": "Remix EP (format not stated)",
    "artist": "Various (Aftershock)",
    "title": "Payback (remix EP)",
    "label": "Aftershock",
@@ -7763,45 +8392,44 @@
    },
    "sound": [
     {
-     "text": "In FACT (2009), Simon Reynolds calls the synth on the Frontline remix 'harmonically rich'. Terror says it is a normal synth that he processes and textures heavily, and he declines to explain how.",
+     "text": "In FACT (2009) Simon Reynolds hears a 'harmonically rich', edge-of-dissonance synth on Terror Danjah's 'Creep Crawler' remix of 'Frontline'. Terror says it is a normal synth that he processes and textures, and won't say how.",
      "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2",
-     "g": "C",
-     "checked": false
+     "g": "B",
+     "checked": true,
+     "pub": "2009-09-02"
     },
     {
-     "text": "Planet Mu (2009) describes Terror Danjah's style as a small set of signature sounds, shifting syncopated rhythms, around 140 bpm, and a gremlin-cackle audio logo.",
+     "text": "Planet Mu (2009) describes Terror Danjah's general style: a signature palette of sounds he adds to occasionally, shifting syncopated rhythms around 140 bpm, and a gremlin-cackle audio logo.",
      "url": "https://planet.mu/?p=1062",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2009-09-28"
     }
    ],
    "context": [
     {
-     "text": "Terror Danjah tells FACT that Payback was 'one of Aftershock's top sellers', especially the Frontline remix, and places it after the Industry Standard EP (2004).",
+     "text": "Terror Danjah tells FACT (2009) that Payback, which followed the Industry Standard EP (2004), 'was the biggest' and one of Aftershock's top sellers; he singles out his 'Creep Crawler' remix of 'Frontline'.",
      "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2",
-     "g": "C",
-     "checked": false
+     "g": "B",
+     "checked": true,
+     "pub": "2009-09-02"
     },
     {
      "text": "The Aftershock (group) Wikipedia article lists Payback as a 2004 various-artist remix EP and repeats that it was one of the label's top sellers. It describes the original 'Frontline' (2003) as Big E-D featuring D Double E.",
      "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Aftershock_(group)",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2026-03 (Wikipedia snapshot)"
     },
     {
-     "text": "FACT: Big E.D.'s 'Frontline' followed Crazy Titch's 'I Can C U' and N.A.S.T.Y.'s 'Cock Back' as an early Aftershock release.",
+     "text": "Terror Danjah (FACT, 2009): after Crazy Titch's 'I Can C U' and N.A.S.T.Y.'s 'Cock Back', Aftershock's third release was Big E.D.'s 'Frontline'.",
      "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2",
-     "g": "C",
-     "checked": false
+     "g": "B",
+     "checked": true,
+     "pub": "2009-09-02"
     }
    ],
    "calls": [
-    {
-     "label": "grime (Aftershock described as a grime label/collective; Industry Standard called 'headphone grime')",
-     "source": "FACT (Simon Reynolds interview)",
-     "year": 2009,
-     "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2"
-    },
     {
      "label": "grime instrumental (on Gremlinz)",
      "source": "Planet Mu",
@@ -7846,7 +8474,41 @@
      "domain": "planet.mu"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://music.apple.com/us/artist/203865229",
+     "retrieved": "2026-11-16",
+     "note": "Not found. Terror Danjah's artist page (id 203865229) lists 'Creepy Crawler (Jungle Mix)' on Undeniable (2011), a different track; no Payback or Frontline release."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://terrordanjah.bandcamp.com",
+     "retrieved": "2026-11-16",
+     "note": "Not found; terrordanjah.bandcamp.com (16 releases) has no Payback, Frontline or Creepy Crawler release."
+    }
+   ],
    "round": 2
   },
   {
@@ -7978,6 +8640,7 @@
      "level": "track",
      "url": "https://music.apple.com/tm/song/anna/579398641",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). 2012 compilation; page dates track 1 Sep 2004. 'Down' also on the compilation (not fetched).",
      "verdict": "broad"
     },
     {
@@ -7991,6 +8654,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/gb-en/album/white-label-classics-ruff-sqwad/bkuuqkzzi9b2a",
      "retrieved": "2026-11-16",
+     "note": "Album-level genre; 2012 compilation. 'Down' is also on it.",
      "verdict": "broad"
     },
     {
@@ -8006,6 +8670,7 @@
      "level": "tags",
      "url": "https://nohatsnohoods.bandcamp.com/album/white-label-classics",
      "retrieved": "2026-11-16",
+     "note": "Album tags of 2012 compilation; tracks 1 'Anna' and 9 'Down'.",
      "verdict": "correct"
     }
    ],
@@ -8130,7 +8795,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Lord of the Mics III–VIII albums found, but not Vol. 1."
     },
     {
      "platform": "Qobuz",
@@ -8140,7 +8806,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -8150,7 +8817,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -8302,6 +8970,7 @@
      "level": "album",
      "url": "https://music.apple.com/us/album/murkle-man-single/1327398749",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Hip-Hop/Rap · 2005'; date 30 May 2005; ℗ 2005 Jahmek The World.",
      "verdict": "broad"
     },
     {
@@ -8315,6 +8984,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/gb-en/interpreter/jammer/697137",
      "retrieved": "2026-11-16",
+     "note": "Read from artist discography listing: 'Murkle Man', Hip-Hop/Rap, 30 May 2005.",
      "verdict": "broad"
     },
     {
@@ -8331,6 +9001,7 @@
      "level": "tags",
      "url": "https://jammer.bandcamp.com/track/murkle-man",
      "retrieved": "2026-11-16",
+     "note": "On artist album 'Top Producer' released 30 Mar 2014; not confirmed to be the same recording as the 2005 release. A 'Murkle Man (Remix) Ft Dizzee Rascal & D Double E' is also on the album.",
      "verdict": "uncertain match"
     }
    ],
@@ -8458,7 +9129,8 @@
      "release": null,
      "level": null,
      "url": "https://music.apple.com/us/album/run-the-road-vol-2/120196591",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Only 'Run the Road, Vol. 2' found (shows 'Hip-Hop/Rap · 2005'); Vol. 1 not found."
     },
     {
      "platform": "Qobuz",
@@ -8468,7 +9140,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -8478,7 +9151,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -8622,6 +9296,7 @@
      "level": "album",
      "url": "https://music.apple.com/gb/album/typical-me-cd-1-single/49314962",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Electronic · 2005'; date 14 Mar 2005; ℗ 2005 679 Recordings. A 'Typical Me (CD 2) - EP' and a 'Typical Me - Single' (id 160984783) also exist and were not fetched.",
      "verdict": "broad"
     },
     {
@@ -8635,6 +9310,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/gb-en/interpreter/kano/25020",
      "retrieved": "2026-11-16",
+     "note": "Read from artist discography listing: 'Typical Me: Rock, 28 Feb 2005'. That discography page merges several artists named Kano. Home Sweet Home album (Dance) also contains 'Typical Me (Feat. Ghetto Main Mix album & single version)'.",
      "verdict": "wrong"
     },
     {
@@ -8645,7 +9321,8 @@
      "release": null,
      "level": null,
      "url": "https://kano.bandcamp.com/music",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "kano.bandcamp.com lists only two other releases; not found."
     }
    ],
    "round": 1
@@ -8746,7 +9423,8 @@
      "release": null,
      "level": null,
      "url": "https://music.apple.com/us/artist/ruff-sqwad/125323722",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not listed on Ruff Sqwad artist page (id 125323722)."
     },
     {
      "platform": "Qobuz",
@@ -8756,7 +9434,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -8766,7 +9445,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -8916,6 +9596,7 @@
      "level": "track",
      "url": "https://music.apple.com/au/song/random/1443899084",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Collection named Public Warning; page date 14 Mar 2005.",
      "verdict": "wrong"
     },
     {
@@ -8929,6 +9610,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/nz-en/album/public-warning-lady-sovereign/o1ostk7sitlsa",
      "retrieved": "2026-11-16",
+     "note": "Album-level genre; clean version on parent album. A separate 'Random' release page (https://www.qobuz.com/dk-en/album/random-lady-sovereign/q6mlf7ioo5hoa) surfaced but could not be fetched.",
      "verdict": "broad"
     },
     {
@@ -8939,7 +9621,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -8949,7 +9632,7 @@
    "key": "low-deep-straight-flush-2005",
    "sort": "2005-06-01",
    "year": 2005,
-   "date": "2005",
+   "date": "2005 (tracklist metadata only)",
    "kind": "12-inch",
    "artist": "Low Deep",
    "title": "Straight Flush",
@@ -9014,25 +9697,29 @@
      "text": "The beat began as eight bars Low Deep made at 17 for a producer challenge on the RWD Forum.",
      "url": "https://www.last.fm/music/Low+Deep/+wiki",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated (bio c.2008)"
     },
     {
      "text": "The vinyl came out on Colourful State Records, the label he had just signed to, and sold over 2,000 copies.",
      "url": "https://www.nts.live/artists/7246-low-deep",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated"
     },
     {
      "text": "Low Deep is from Luton; his beats were later used on BBC Top Gear and in the 2007 film Mr. Lonely.",
      "url": "https://www.last.fm/music/Low+Deep/+wiki",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated (bio c.2008)"
     },
     {
      "text": "Low Deep's 'Jedi' appears in Son Raw's 2014 'Classic Grime Riddims' mix.",
      "url": "https://www.musicismysanctuary.com/?p=42268",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2014-10-13"
     }
    ],
    "calls": [
@@ -9066,7 +9753,41 @@
      "domain": "musicismysanctuary.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -9198,6 +9919,7 @@
      "level": "album",
      "url": "https://music.apple.com/us/album/home-sweet-home/259713834",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Hip-Hop/Rap · 2005'; date 27 Jun 2005; ℗ 2007 679 Recordings.",
      "verdict": "broad"
     },
     {
@@ -9211,6 +9933,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/ie-en/album/home-sweet-home-kano/0643443518468",
      "retrieved": "2026-11-16",
+     "note": "Header 'Genre: Dance'; About section lists 'Electronic' and 'Dance'. 679 Recordings, 17/06/2005.",
      "verdict": "broad"
     },
     {
@@ -9221,7 +9944,8 @@
      "release": null,
      "level": null,
      "url": "https://kano.bandcamp.com/music",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "kano.bandcamp.com lists only two other releases; not found."
     }
    ],
    "round": 1
@@ -9356,6 +10080,7 @@
      "level": "album",
      "url": "https://music.apple.com/gh/album/the-avenue-single/716196434",
      "retrieved": "2026-11-16",
+     "note": "Visible line 'Hip-Hop/Rap · 2005'; ℗ 2005 Universal Music Operations.",
      "verdict": "broad"
     },
     {
@@ -9369,6 +10094,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/gb-en/album/in-at-the-deep-end-roll-deep/0724347731259",
      "retrieved": "2026-11-16",
+     "note": "Single not found; album-level genre of parent album (Relentless/Virgin, 2005).",
      "verdict": "broad"
     },
     {
@@ -9379,7 +10105,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -9533,6 +10260,7 @@
      "level": "track",
      "url": "https://music.apple.com/gb/song/when-im-ere/714655101",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Album track; other entries exist (id 716532386, 1286390978, a DJ-mix version).",
      "verdict": "wrong"
     },
     {
@@ -9546,6 +10274,7 @@
      "level": "album",
      "url": "https://www.qobuz.com/gb-en/album/in-at-the-deep-end-roll-deep/0724347731259",
      "retrieved": "2026-11-16",
+     "note": "Album-level genre (album track).",
      "verdict": "broad"
     },
     {
@@ -9556,7 +10285,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -9623,26 +10353,29 @@
     "status": "Voucher",
     "of": "Grime",
     "holotype": null,
-    "basis": "Evidence specimen at the pop edge of the scene; reviews call it peppy pop with grime roots."
+    "basis": "Evidence specimen at the pop edge of the scene: one 2006 review calls it peppy pop and contrasts it with her earlier, scatter-mouthed grime."
    },
    "sound": [
     {
      "text": "Contains a sample from the film Time Bandits (Wikipedia).",
      "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "Wikipedia (undated)"
     },
     {
      "text": "PopMatters (2006) places it at the poppy end of her range, calling it 'peppy pop'.",
      "url": "https://www.popmatters.com/lady-sovereign-public-warning-2495703251.html",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "2006-10-16"
     },
     {
      "text": "The FADER (2005) says her sing-song choruses temper the roughness associated with grime, and that her album draws on ska, electro and new wave.",
      "url": "https://thefader.com/2005/11/15/a-common-phenomenon",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "2005-11-15"
     }
    ],
    "context": [
@@ -9650,19 +10383,22 @@
      "text": "Official Singles Chart peak no. 33 (first chart date 20/08/2005, 3 weeks); no. 17 on the Official Dance Singles Chart (OCC).",
      "url": "https://www.officialcharts.com/songs/lady-sovereign-9-to-5/",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "2005 chart record"
     },
     {
      "text": "A re-recorded Ordinary Boys version, 'Nine2Five' (2006), reached UK no. 6 (Wikipedia); The FADER (2005) reported the Ordinary Boys had been commissioned to cover it.",
      "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "Wikipedia (undated)"
     },
     {
      "text": "NPR (2007) introduces her as coming out of Britain's grime scene.",
      "url": "https://www.npr.org/2007/01/29/7061254/lady-sovereign-little-rapper-with-a-big-voice",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2007-01-29 (from URL; page shows no date)"
     }
    ],
    "calls": [
@@ -9730,7 +10466,44 @@
      "domain": "reynoldsretro.blogspot.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "found",
+     "labels": [
+      "Hip-Hop/Rap"
+     ],
+     "match": "version",
+     "release": "Public Warning",
+     "level": "album",
+     "url": "https://music.apple.com/us/album/public-warning/1445866050",
+     "retrieved": "2026-11-16",
+     "note": "Single not listed; artist page links '9 To 5' to a Public Warning album id 1444047621 (different from the album id 1445866050 shown here). Album page shows 'Hip-Hop/Rap · 2006', ℗ 2006 Universal Island Records. Also 'Nine2Five (feat. Lady Sovereign)' by The Ordinary Boys (2006).",
+     "verdict": "broad"
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://www.qobuz.com/ca-en/interpreter/lady-sovereign/94748",
+     "retrieved": "2026-11-16",
+     "note": "Single not in the Lady Sovereign discography (5 releases, all Hip-Hop/Rap). Public Warning is listed twice (Universal-Island Records Ltd., Hip-Hop/Rap) but its track list was not checked."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -9742,8 +10515,8 @@
    "kind": "Album",
    "artist": "Lethal Bizzle",
    "title": "Against All Oddz",
-   "label": "V2",
-   "cat": null,
+   "label": "J-DID / V2",
+   "cat": "JAD1033592",
    "format": "Album (format of the earliest release not stated in sources opened)",
    "producers": [
     "Sticky",
@@ -9761,20 +10534,22 @@
     "status": "Context artefact",
     "of": "Grime",
     "holotype": null,
-    "basis": "Album; promoted as grime crossing into rock."
+    "basis": "Album; before release, Reynolds (2005) reported Bizzle promising some grime and rock fusions."
    },
    "sound": [
     {
-     "text": "Simon Reynolds (Spin, 2005), before release, reported Bizzle promising grime/rock fusions, citing Green Day and Nirvana as influences.",
+     "text": "Simon Reynolds (Spin, Aug 2005; blog repost 2017), writing before release, reported that Bizzle promised 'some grime/rock fusions' on the album and was a big fan of Green Day and Nirvana.",
      "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
-     "g": "A",
-     "checked": false
+     "g": "C",
+     "checked": true,
+     "pub": "2017-10-31 (repost of Spin, Aug 2005)"
     },
     {
      "text": "Complex (2015) describes a balance between 'head-rushing cuts' and calmer tracks such as 'Should Of Known'.",
      "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2015-08-19"
     }
    ],
    "context": [
@@ -9782,19 +10557,22 @@
      "text": "Official Albums Chart peak no. 89 (first chart date 27/08/2005, 1 week); no. 7 on the Independent Albums Chart (17 weeks) and no. 15 on Dance Albums (OCC).",
      "url": "https://www.officialcharts.com/albums/lethal-bizzle-against-all-oddz/",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "2005 chart record"
     },
     {
      "text": "Single 'Fire' (J-DID/V2, JAD5035653) reached no. 34 on the Official Singles Chart from 29/10/2005, and no. 8 Dance and no. 4 Independent (OCC).",
      "url": "https://officialcharts.com/songs/lethal-bizzle-fire",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "2005 chart record"
     },
     {
      "text": "Complex (2015) says the album 'barely scraped into the top 90' and calls Bizzle grime's most successful singles act and arguably the first grime act to take DIY to social media.",
      "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2015-08-19"
     }
    ],
    "calls": [
@@ -9858,7 +10636,47 @@
      "domain": "reynoldsretro.blogspot.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "found",
+     "labels": [
+      "Hip-Hop/Rap"
+     ],
+     "match": "exact",
+     "release": "Against All Oddz",
+     "level": "album",
+     "url": "https://music.apple.com/us/album/against-all-oddz/1552878059",
+     "retrieved": "2026-11-16",
+     "note": "Album page shows 'Hip-Hop/Rap · 2005', release 15 Aug 2005, ℗ 2005 Dench Records.",
+     "verdict": "broad"
+    },
+    {
+     "platform": "Qobuz",
+     "status": "found",
+     "labels": [
+      "Hip-Hop/Rap"
+     ],
+     "match": "exact",
+     "release": "Against All Oddz",
+     "level": "album",
+     "url": "https://www.qobuz.com/us-en/interpreter/lethal-bizzle/189194",
+     "retrieved": "2026-11-16",
+     "note": "Read from the artist discography listing: Stay Dench Recordings, 15 Aug 2005.",
+     "verdict": "broad"
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -9998,6 +10816,7 @@
      "level": "track",
      "url": "https://music.apple.com/us/song/ghetto-kyote/1500424992",
      "retrieved": "2026-11-16",
+     "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Duration 0:27 on a 2007 compilation; probably an excerpt, not the full record.",
      "verdict": "uncertain match"
     },
     {
@@ -10008,7 +10827,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -10029,6 +10849,7 @@
      "level": "tags",
      "url": "https://kyoteguy.bandcamp.com/album/ghetto-kyote",
      "retrieved": "2026-11-16",
+     "note": "Producer's own digital release dated 31 Jan 2014 of the 2004 record (instrumental, remix, Kamikaze vocal). Tags listed as shown, including duplicates 'garage' and 'grime'.",
      "verdict": "correct"
     }
    ],
@@ -10040,9 +10861,9 @@
    "sort": "2005-09-01",
    "year": 2005,
    "date": "2005",
-   "kind": "Single",
+   "kind": "Track and video (release format unconfirmed)",
    "artist": "Southside Allstars",
-   "title": "Southside",
+   "title": "Southside Allstars (Southside Riddim)",
    "label": "Unconfirmed",
    "cat": null,
    "format": null,
@@ -10096,40 +10917,45 @@
     "status": "Voucher",
     "of": "Grime",
     "holotype": null,
-    "basis": "Evidence specimen; South London's answer to an East London-centred scene, on Alias's Southside Riddim."
+    "basis": "Evidence specimen; Mixmag says it reflected the south-versus-east tensions in the scene, over Alias's Southside Riddim."
    },
    "sound": [
     {
-     "text": "Dan Hancox in the Guardian calls it 'so grimey'. Producer Alias left off his usual audio logo, reportedly fearing east London DJs would shut it down.",
+     "text": "In the Guardian, co-creator Nikki S calls it 'so grimey'; Nyke says producer Alias left off his audio logo, fearing Slimzee and Geeneus would shut it down.",
      "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "c.2017 (inkl reprint of Guardian; page undated)"
     },
     {
      "text": "Mixmag (2018) calls it perhaps the most ostentatious example of grime's neighbourhood pride.",
      "url": "https://mixmag.net/feature/history-of-grime",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2018-06-06"
     }
    ],
    "context": [
     {
-     "text": "Written in response to south-versus-east London rivalry in early-2000s grime (Mixmag, 2018).",
+     "text": "It reflected the south-versus-east London tensions of early-2000s grime (Mixmag, 2018).",
      "url": "https://mixmag.net/feature/history-of-grime",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2018-06-06"
     },
     {
      "text": "Complex (2014) lists the 'Southside' video as a 2005 Channel U anthem representing south London, paired with B.M.D.'s north London 'North Weezee'.",
      "url": "https://www.complex.com/music/2014/09/15-channel-u-videos-we-will-never-forget",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2014-09-05"
     },
     {
      "text": "The Guardian piece argues that Channel U all-star videos put faces to voices and were early steps in grime's move towards pop.",
      "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "c.2017 (inkl reprint of Guardian)"
     }
    ],
    "calls": [
@@ -10178,7 +11004,41 @@
      "domain": "complex.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple. Qobuz 'Southside' artist entries are unrelated."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -10186,11 +11046,11 @@
    "key": "ghetto-2000-and-life-2005",
    "sort": "2005-10-01",
    "year": 2005,
-   "date": "2005",
+   "date": "2005 (Vice lists it among 2006 mixtapes)",
    "kind": "Mixtape",
    "artist": "Ghetto (Ghetts)",
    "title": "2000 & Life",
-   "label": "Self-released",
+   "label": null,
    "cat": null,
    "format": "Mixtape (sold in shops, e.g. Deal Real, per Link Up TV); physical format not stated",
    "producers": [],
@@ -10200,20 +11060,22 @@
     "status": "Context artefact",
     "of": "Grime",
     "holotype": null,
-    "basis": "Mixtape sold in shops; mixes grime beats with US hip-hop instrumentals."
+    "basis": "Mixtape; Link Up TV says it mixed original beats with US hip-hop instrumentals."
    },
    "sound": [
     {
-     "text": "Link Up TV (2019) says it mixed original grime beats with US hip-hop instrumentals and showed Ghetts 'at his raw best'.",
+     "text": "Link Up TV (2019) says it mixed original beats with well-known US hip-hop instrumentals (Kanye West's '2 Words', Mobb Deep) and showed Ghetts 'at his raw best'.",
      "url": "https://www.thelinkup.com/content/533/home",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2019-11-28"
     },
     {
-     "text": "Stereogum (2016) cites it as proof of the uncompromising, complex lyricism Ghetts was known for from his N.A.S.T.Y. Crew days.",
+     "text": "Stereogum (2016) names 2000 & Life, his 2005 debut, as showing Ghetts is 'one of the best', in an entry noting his complex, hard-hitting lyrics since his N.A.S.T.Y. Crew days.",
      "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2016-03-14"
     }
    ],
    "context": [
@@ -10221,19 +11083,22 @@
      "text": "His first release, made after leaving prison in 2003; Ghetts is from Plaistow, Newham, and was in N.A.S.T.Y. Crew before founding The Movement (Wikipedia).",
      "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Ghetts.html",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2026 (IPFS Wikipedia snapshot)"
     },
     {
      "text": "Listed in Vice's 'Top 10 Mixtapes' of 2006 (published Jan 2007).",
      "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
-     "g": "A",
-     "checked": false
+     "g": "C",
+     "checked": true,
+     "pub": "2007-01-02"
     },
     {
      "text": "Link Up TV (2019) bought it at Deal Real, the Carnaby Street hip-hop shop, and says it 'garnered some buzz'.",
      "url": "https://www.thelinkup.com/content/533/home",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2019-11-28"
     }
    ],
    "calls": [
@@ -10287,7 +11152,41 @@
      "domain": "thelinkup.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://music.apple.com/us/artist/ghetts/306419632",
+     "retrieved": "2026-11-16",
+     "note": "Not listed on the Ghetts artist page (id 306419632); earliest releases there are 2014."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://www.qobuz.com/gb-en/interpreter/ghetts/697142",
+     "retrieved": "2026-11-16",
+     "note": "Not in page 1 (21 of 36) of the Ghetts discography; the Qobuz biography names it as a 2005 mixtape released as Ghetto. Page 2 not checked."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -10353,26 +11252,29 @@
     "status": "Voucher",
     "of": "Grime",
     "holotype": null,
-    "basis": "Evidence specimen; a pop single built on a lounge-salsa sample, filed as grime by its album's sources and as pop by a 2005 trade review."
+    "basis": "Evidence specimen; a pop single built on a salsa-quoting sample, filed as pop by a 2005 trade sheet and as grime by sources on its album."
    },
    "sound": [
     {
      "text": "Built on a sample of 'Mambo Craze' by De Phazz featuring Pat Appleton (45worlds sleeve notes; Wikipedia; Record of the Day, 2005).",
      "url": "https://mail.45worlds.com/cdsingle/cd/relcd22",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "undated listing"
     },
     {
      "text": "Record of the Day (2005) calls it summer fun and pop, but 'smart and witty'.",
      "url": "https://www.recordoftheday.com/record-of-the-day/2005-08-25/shake-a-leg",
-     "g": "C",
-     "checked": false
+     "g": "A",
+     "checked": true,
+     "pub": "2005-08-25"
     },
     {
      "text": "PopMatters (2006) hears the salsa-quoting hook as reminiscent of 'Mambo No. 5'.",
      "url": "https://popmatters.com/rolldeep_inatthedeep-2495674581.html",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "2006-01-13"
     }
    ],
    "context": [
@@ -10380,19 +11282,22 @@
      "text": "Official Singles Chart peak no. 24 (first chart date 22/10/2005, 5 weeks); no. 18 on the Physical Singles Chart and no. 31 on Downloads (OCC).",
      "url": "https://www.officialcharts.com/songs/roll-deep-shake-a-leg/",
      "g": "A",
-     "checked": false
+     "checked": true,
+     "pub": "2005 chart record"
     },
     {
      "text": "Record of the Day (Oct 2005) notes it ranked seventh on the pre-release airplay chart despite a modest midweek chart position.",
      "url": "https://www.recordoftheday.com/record-of-the-day/2005-10-13/shake-a-leg",
-     "g": "C",
-     "checked": false
+     "g": "A",
+     "checked": true,
+     "pub": "2005-10-13"
     },
     {
      "text": "Simon Reynolds (Spin, 2005) wrote that the parent album 'skimps on uncut grime' in favour of conventional hip hop and novelty tunes.",
      "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
-     "g": "A",
-     "checked": false
+     "g": "C",
+     "checked": true,
+     "pub": "2017-10-31 (repost of Spin, Aug 2005)"
     }
    ],
    "calls": [
@@ -10468,7 +11373,47 @@
      "domain": "reynoldsretro.blogspot.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "found",
+     "labels": [
+      "Rock"
+     ],
+     "match": "version",
+     "release": "In At the Deep End",
+     "level": "album",
+     "url": "https://music.apple.com/gm/album/in-at-the-deep-end/714654803",
+     "retrieved": "2026-11-16",
+     "note": "Single not listed on the artist page; parent album page shows 'Rock · 2005', ℗ 2005 Universal Music Operations Limited (15 songs; track list not visible, so the track's presence is not confirmed on Apple). A 'Shake a Leg' music video is listed on the album page.",
+     "verdict": "wrong"
+    },
+    {
+     "platform": "Qobuz",
+     "status": "found",
+     "labels": [
+      "Hip-Hop/Rap"
+     ],
+     "match": "exact",
+     "release": "Shake A Leg",
+     "level": "album",
+     "url": "https://www.qobuz.com/fi-en/interpreter/roll-deep/227066",
+     "retrieved": "2026-11-16",
+     "note": "Read from the artist discography listing: Relentless/Virgin, 1 Jan 2005 (likely placeholder date). Also 'Shake A Leg (Radio Edit)' (Hip-Hop/Rap). On Qobuz the album In At The Deep End is Hip-Hop/Rap.",
+     "verdict": "broad"
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -10477,7 +11422,7 @@
    "sort": "2006-03-01",
    "year": 2006,
    "date": "2006",
-   "kind": "12-inch",
+   "kind": "Single or EP track (format not stated)",
    "artist": "Rebound X",
    "title": "Rhythm & Gash (Pt. 1)",
    "label": "White label",
@@ -10540,13 +11485,15 @@
      "text": "RA (2020) describes a bouncy, traditional eight-bar grime structure with a very impactful drop, a heaving drums-and-bass push and a diva-style vocal sample; a source quoted by RA calls it 'a really unique way of using a vocal sample'.",
      "url": "https://ra.co/reviews/25204",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2020-11-20"
     },
     {
      "text": "Complex (Joseph JP Patterson, April 2016) calls it a lyric-free, 'rolling, bass-bouncing' and haunting riddim.",
      "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2016-04-08"
     }
    ],
    "context": [
@@ -10554,25 +11501,29 @@
      "text": "RA (Carlos Hawthorn, 'Rewind', 20 Nov 2020): Rebound X posted on the RWD and VIP2 forums and appears to have left the internet around 2008; Mr. Mitch said the tune 'didn't really get no love' when first shared on the forums; some say it was never registered with PRS.",
      "url": "https://ra.co/reviews/25204",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2020-11-20"
     },
     {
      "text": "RA says Skepta named it 'tune of the month' on a 2007 Rinse FM recording and that Skepta and JME's 'Spaceship Freestyle' was the turning point; DJ Logan Sama describes it as a dependable call-and-response dancefloor record.",
      "url": "https://ra.co/reviews/25204",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2020-11-20"
     },
     {
      "text": "VICE (Josh Baines, 27 Nov 2015): Elijah of Butterz suggests it may be the biggest grime instrumental, says it 'came out back in 2006', and notes DJ EZ playing Flava D's remix revived it.",
      "url": "https://www.vice.com/en/article/elijah-and-skilliams-essential-grime-instrumentals",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2015-11-27"
     },
     {
      "text": "Complex (2016) quotes Faze Miyake calling it 'one of the most universal grime tunes out' and Plastician saying its popularity may not yet have peaked.",
      "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2016-04-08"
     }
    ],
    "calls": [
@@ -10637,7 +11588,41 @@
      "domain": "musicismysanctuary.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -10668,7 +11653,8 @@
      "text": "Wikipedia says it has 17 original productions with Stryder on the mic throughout, and guests including Wiley, Kano and Flow Dan.",
      "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2026 (IPFS Wikipedia snapshot)"
     }
    ],
    "context": [
@@ -10676,13 +11662,15 @@
      "text": "First of Tinchy Stryder's three mixtapes (Wikipedia).",
      "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2026 (IPFS Wikipedia snapshot)"
     },
     {
-     "text": "Vice (Jan 2007) says JME and Skepta co-signed the release, calling it an album, as part of Boy Better Know's 2006 output.",
+     "text": "VICE (Jan 2007) names JME and Skepta's co-signing of I'm Back U Know among Boy Better Know's 2006 activity.",
      "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2007-01-02"
     }
    ],
    "calls": [
@@ -10728,7 +11716,41 @@
      "domain": "vice.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://music.apple.com/au/artist/tinchy-stryder/23583808",
+     "retrieved": "2026-11-16",
+     "note": "Not listed on the Tinchy Stryder artist page (id 23583808); earliest album there is Star In the Hood (2007)."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://www.qobuz.com/us-en/interpreter/tinchy-stryder/79988",
+     "retrieved": "2026-11-16",
+     "note": "Not in the Tinchy Stryder discography (19 releases); the Qobuz biography names it as a 2006 mixtape."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -10737,7 +11759,7 @@
    "sort": "2006-05-01",
    "year": 2006,
    "date": "2006 (Stereogum gives 2007)",
-   "kind": "12-inch",
+   "kind": "Track or single (format not stated)",
    "artist": "Skepta (with guest MCs)",
    "title": "Duppy",
    "label": "Boy Better Know",
@@ -10793,20 +11815,22 @@
     "status": "Voucher",
     "of": "Grime",
     "holotype": null,
-    "basis": "Evidence specimen; a drum-and-bass-feel riddim with nine MCs trading bars."
+    "basis": "Evidence specimen; a drum-and-bass-feel riddim voiced by a crowd of MCs (sources count eight or nine)."
    },
    "sound": [
     {
      "text": "Stereogum (2016) describes it as a drum-and-bass-influenced standout that became an instant club hit.",
      "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2016-03-14"
     },
     {
      "text": "Mixmag (2016) calls it a sticky, 'bling-bling' club anthem of the Boy Better Know era.",
      "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2016-07-01"
     }
    ],
    "context": [
@@ -10814,25 +11838,29 @@
      "text": "FACT's '20 best grime records ever made' (Tom Lea; page dated 22 April 2012, originally 2011) lists it as Boy Better Know, 2006, and one of the last big anthems of the white-label era.",
      "url": "https://factmag.com/2012/04/22/20-best-grime",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2012-04-22"
     },
     {
      "text": "Mixmag says DJ EZ included it on his Pure Garage mix a year after release.",
      "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2016-07-01"
     },
     {
      "text": "Complex's 25 best Skepta songs says it was originally released in 2006, appeared on Greatest Hits the following year, and cemented Skepta's reputation 'as both MC and producer'.",
      "url": "https://www.complex.com/music/a/joseph-jp-patterson/25-best-skepta-songs",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2026-11-04 (page date as shown; list originally c.2015-16)"
     },
     {
      "text": "Stereogum calls it one of the last grime anthems of the early-to-mid 2000s.",
      "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2016-03-14"
     }
    ],
    "calls": [
@@ -10891,7 +11919,44 @@
      "domain": "complex.com"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "found",
+     "labels": [
+      "Hip-Hop/Rap"
+     ],
+     "match": "uncertain",
+     "release": "Greatest Hits",
+     "level": "album",
+     "url": "https://music.apple.com/bs/album/greatest-hits/1286357906",
+     "retrieved": "2026-11-16",
+     "note": "Greatest Hits listed as a compilation on the artist page; album page shows 'Hip-Hop/Rap · 2007', release 17 Sep 2007, ℗ 2007 Boy Better Know. Track list not visible and 'Duppy' does not appear on the page, so its presence is not confirmed on Apple.",
+     "verdict": "uncertain match"
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://www.qobuz.com/fi-en/interpreter/skepta/172660",
+     "retrieved": "2026-11-16",
+     "note": "Not in page 1 (21 of 83) of the Skepta discography; Greatest Hits is mentioned only in the biography. Later pages not checked."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -10918,22 +11983,24 @@
    "geno": null,
    "type": {
     "status": "Context artefact",
-    "of": "Eskibeat",
+    "of": "Grime",
     "holotype": null,
-    "basis": "Album placed by XLR8R (2007) in Wiley's eski style."
+    "basis": "Album; Wikipedia tags it grime and eskibeat, but no source checked ties it to the eski style directly, so it is held under grime."
    },
    "sound": [
     {
      "text": "Complex (2015) describes album track 'Stormy Weather' as reflective and grimey, with a drawn-out heavy low end and a Rihanna-sampling beat.",
      "url": "https://www.complex.com/music/2015/06/25-best-wiley-songs",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2015-06-09"
     },
     {
-     "text": "XLR8R (2007) places it within Wiley's 'Eski' style, a darker, stripped-down take on grime.",
+     "text": "XLR8R (2007) describes Wiley's earlier 'Eski' style as a darker, stripped-down take on grime, and lists Da 2nd Phase (sic) among his 2006 releases; it does not link the two.",
      "url": "https://xlr8r.com/?p=110091",
      "g": "C",
-     "checked": false
+     "checked": false,
+     "pub": "2007-09-21"
     }
    ],
    "context": [
@@ -10941,19 +12008,22 @@
      "text": "Vice (Jan 2007) says JME and Skepta persuaded Wiley to leave his Roll Deep entourage and oversaw the release of the 'much-delayed' album.",
      "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2007-01-02"
     },
     {
      "text": "Released by Boy Better Know after Wiley left XL Recordings (Wikipedia); Boy Better Know was founded in North London in 2005 by JME and Skepta.",
-     "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Boy_Better_Know.html",
+     "url": "https://en.wikipedia.org/wiki/Da_2nd_Phaze",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2026 (IPFS Wikipedia snapshot)"
     },
     {
      "text": "XLR8R (2007) says the album and the Tunnel Vision mixtapes both came out through JME's Boy Better Know imprint.",
      "url": "https://xlr8r.com/?p=110091",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2007-09-21"
     }
    ],
    "calls": [
@@ -11020,7 +12090,41 @@
      "domain": "wikipedia (mirror)"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://www.qobuz.com/gb-en/interpreter/wiley/172614",
+     "retrieved": "2026-11-16",
+     "note": "Not in page 1 (21 of 129) of the Wiley discography; the Qobuz biography names it as a 2006 mixtape on Boy Better Know. Later pages not checked."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -11049,7 +12153,8 @@
      "text": "Complex (2015) says 'Old School' from the tape shows JME's lyrical evolution, with outburst-style delivery and humorous lines.",
      "url": "https://www.complex.com/music/2015/05/tbt-7-jme-songs-you-should-revisit",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2015-05-07"
     }
    ],
    "context": [
@@ -11057,19 +12162,22 @@
      "text": "Vice (Jan 2007) credits JME's Boy Better Know camp with releasing 'grime's first real catalogue' of street albums and mixtapes in 2006, not just white labels.",
      "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2007-01-02"
     },
     {
      "text": "JME, born in Hackney and raised in Tottenham, was in Meridian Crew with his brother Skepta and co-founded Boy Better Know (Wikipedia).",
      "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/JME_(MC).html",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2026 (IPFS Wikipedia snapshot)"
     },
     {
      "text": "Vice (2007) says JME and Skepta 'got SERIOUS' after JME's three solo mixtapes.",
      "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
      "g": "C",
-     "checked": false
+     "checked": true,
+     "pub": "2007-01-02"
     }
    ],
    "calls": [
@@ -11127,7 +12235,41 @@
      "domain": "wikipedia (mirror)"
     }
    ],
-   "audit": [],
+   "audit": [
+    {
+     "platform": "Apple Music",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://music.apple.com/artist/453427098",
+     "retrieved": "2026-11-16",
+     "note": "Not listed on the Jme artist page (id 453427098)."
+    },
+    {
+     "platform": "Qobuz",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": "https://www.qobuz.com/us-en/interpreter/jme/626979",
+     "retrieved": "2026-11-16",
+     "note": "Not in page 1 (21 of 226) of the JME discography; the Qobuz biography mentions it. Later pages not checked."
+    },
+    {
+     "platform": "Bandcamp",
+     "status": "not_available",
+     "labels": [],
+     "match": null,
+     "release": null,
+     "level": null,
+     "url": null,
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com."
+    }
+   ],
    "round": 2
   },
   {
@@ -11262,7 +12404,8 @@
      "release": null,
      "level": null,
      "url": "https://music.apple.com/us/artist/ruff-sqwad/125323722",
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not listed on Ruff Sqwad artist page (id 125323722)."
     },
     {
      "platform": "Qobuz",
@@ -11272,7 +12415,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
     },
     {
      "platform": "Bandcamp",
@@ -11282,7 +12426,8 @@
      "release": null,
      "level": null,
      "url": null,
-     "retrieved": "2026-11-16"
+     "retrieved": "2026-11-16",
+     "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
     }
    ],
    "round": 1
@@ -11467,58 +12612,62 @@
  "audit": {
   "platforms": {
    "Apple Music": {
-    "listed": 28,
-    "absent": 12,
-    "scored": 24,
-    "score": 5.25,
+    "listed": 38,
+    "absent": 28,
+    "scored": 31,
+    "score": 6.5,
     "verdicts": {
-     "broad": 21,
-     "uncertain match": 4,
-     "wrong": 3
+     "wrong": 5,
+     "broad": 26,
+     "uncertain match": 7
     },
     "labels": {
-     "Hip-Hop/Rap": 10,
-     "Electronic": 12,
+     "Pop": 2,
+     "Electronic": 14,
+     "Hip-Hop/Rap": 15,
+     "Breakbeat": 1,
      "Dance": 2,
-     "Rock": 2,
-     "Pop": 1,
+     "Rock": 3,
      "Hip-Hop": 1
+    },
+    "fidelity": 21,
+    "grime_named": 0
+   },
+   "Qobuz": {
+    "listed": 30,
+    "absent": 38,
+    "scored": 27,
+    "score": 6.0,
+    "verdicts": {
+     "wrong": 3,
+     "uncertain match": 3,
+     "broad": 24
+    },
+    "labels": {
+     "Pop": 2,
+     "Hip-Hop/Rap": 13,
+     "Miscellaneous": 1,
+     "Electronic": 11,
+     "Dance": 2,
+     "Rock": 1
     },
     "fidelity": 22,
     "grime_named": 0
    },
-   "Qobuz": {
-    "listed": 21,
-    "absent": 20,
-    "scored": 21,
-    "score": 5.0,
-    "verdicts": {
-     "broad": 20,
-     "wrong": 1
-    },
-    "labels": {
-     "Electronic": 10,
-     "Hip-Hop/Rap": 8,
-     "Dance": 2,
-     "Rock": 1
-    },
-    "fidelity": 24,
-    "grime_named": 0
-   },
    "Bandcamp": {
-    "listed": 10,
-    "absent": 31,
-    "scored": 9,
-    "score": 9.0,
+    "listed": 11,
+    "absent": 57,
+    "scored": 10,
+    "score": 10.0,
     "verdicts": {
-     "correct": 9,
+     "correct": 10,
      "uncertain match": 1
     },
     "labels": {
-     "dubstep": 2,
-     "electronic": 9,
+     "dubstep": 3,
+     "electronic": 10,
      "garage": 3,
-     "grime": 11,
+     "grime": 12,
      "uk bass": 1,
      "United Kingdom": 1,
      "beats": 4,
@@ -11535,9 +12684,9 @@
      "vintage": 2,
      "vinyl": 2,
      "Croydon": 3,
-     "London": 5,
+     "London": 6,
      "terr001": 1,
-     "bass": 1,
+     "bass": 2,
      "fight": 1,
      "instrumental": 2,
      "mark one": 1,
@@ -11549,6 +12698,8 @@
      "jon e cash": 1,
      "sublow": 1,
      "war": 1,
+     "drill": 1,
+     "footwork": 1,
      "grindnoise": 1,
      "d&b": 1,
      "hip hop": 1,
@@ -11556,7 +12707,7 @@
      "house": 1
     },
     "fidelity": 100,
-    "grime_named": 14
+    "grime_named": 15
    }
   },
   "scores": {

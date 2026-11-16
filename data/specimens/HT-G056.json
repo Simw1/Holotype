@@ -4,7 +4,7 @@
  "sort": "2004-10-25",
  "year": 2004,
  "date": "2004 or earlier",
- "kind": "12-inch",
+ "kind": "Single (format not stated)",
  "artist": "DJ Target",
  "title": "Poltergeist",
  "label": "Aim High Recordings",
@@ -65,32 +65,28 @@
  "sound": [],
  "context": [
   {
-   "text": "Chantelle Fiddy ('Hitting the Target', first in Touch magazine, posted 25 Oct 2004) lists Poltergeist/Runaway and a Terror Danjah remix among releases on Target's Aim High label.",
+   "text": "Chantelle Fiddy ('Hitting the Target', 25 Oct 2004; a version also ran in Touch magazine) lists Poltergeist/Runaway and 'the Poltergeist Remix by Terror Danger' [sic] among Aim High releases then available.",
    "url": "https://chantellefiddy.blogspot.com/2004/10/hitting-target.html",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "2004-10-25"
   },
   {
    "text": "The Aim High Vol. 2 press release posted by Fiddy (7 Jan 2005) gives Aim High's catalogue: AIM001 'Pick Yourself Up', AIM002 'Poltergeist', AIM003 'Chosen One' feat. Riko, AIM004 'Poltergeist Rmx' by Terror Danjah, AIM005 'STDS' feat. OT Crew.",
    "url": "https://chantellefiddy.blogspot.com/2005/01/aim-high-2-press-release.html?m=1",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "2005-01-07"
   },
   {
-   "text": "DJ Target (Darren Joseph) is an East London producer, formerly of Pay As U Go, and a co-founder of Roll Deep with Wiley.",
+   "text": "DJ Target (Darren Joseph) is an East London grime producer, formerly of Pay As U Go, who formed Roll Deep with Wiley, Breeze and Flow Dan after PAUG broke up.",
    "url": "https://www.nts.live/artists/21097-dj-target",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated (page shows 2015-2016 activity)"
   }
  ],
- "calls": [
-  {
-   "label": "grime (Planet Mu frames the Gremlinz VIP among Terror Danjah's grime instrumentals)",
-   "source": "Planet Mu",
-   "year": 2009,
-   "url": "https://planet.mu/?p=1062"
-  }
- ],
+ "calls": [],
  "rels": [
   {
    "type": "remix",
@@ -123,6 +119,46 @@
    "domain": "planet.mu"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "uncertain",
+   "release": "Gremlinz (The Instrumentals 2003-2009)",
+   "level": "album",
+   "url": "https://music.apple.com/us/album/gremlinz-the-instrumentals-2003-2009/712691193",
+   "retrieved": "2026-11-16",
+   "note": "Original Aim High release not found. Album page shows 'Electronic · 2009', ℗ 2009 Planet Mu Records; track list not visible and 'Poltergeist' does not appear on the page. Link to this album rests on a Last.fm search-result title listing 'Poltergeist (Terror Danjah V.I.P. Remix)' on Gremlinz (Last.fm not fetched).",
+   "verdict": "uncertain match"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "uncertain",
+   "release": "Gremlinz (The Instrumentals 2003-2009)",
+   "level": "album",
+   "url": "https://www.qobuz.com/gb-en/interpreter/terror-danjah/427376",
+   "retrieved": "2026-11-16",
+   "note": "Original not found. Genre from the round-one reading of the Terror Danjah discography (not re-fetched this round); track list not checked. Same evidence basis as the Apple entry.",
+   "verdict": "uncertain match"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

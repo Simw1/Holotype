@@ -136,7 +136,8 @@
    "release": null,
    "level": null,
    "url": "https://music.apple.com/us/album/industry-standard-part-4-ep/712459222",
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Only 'Industry Standard Part 4 - EP' found (a later release); original 2004 EP not found."
   },
   {
    "platform": "Qobuz",
@@ -146,7 +147,8 @@
    "release": null,
    "level": null,
    "url": "https://www.qobuz.com/gb-en/interpreter/terror-danjah/427376",
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Artist discography lists 'Industry Standard Part 4' (Electronic, 2009) and 'Gremlinz (The Instrumentals 2003-2009)' (Electronic), but not the 2004 EP."
   },
   {
    "platform": "Bandcamp",
@@ -156,7 +158,8 @@
    "release": null,
    "level": null,
    "url": "https://terrordanjah.bandcamp.com/releases",
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Terror Danjah's Bandcamp lists other releases (Red Card Riddim, Invasion, Scene 1, Module); no Industry Standard EP."
   }
  ],
  "round": 1

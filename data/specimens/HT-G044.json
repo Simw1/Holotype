@@ -191,6 +191,46 @@
    "domain": "wikipedia (mirror)"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "exact",
+   "release": "Oh No (Sentimental Things) - EP",
+   "level": "album",
+   "url": "https://music.apple.com/gb/album/oh-no-sentimental-things-ep/1458134790",
+   "retrieved": "2026-11-16",
+   "note": "EP page shows 'Electronic · 2000'; ℗ 2000 Craft Recordings; track 4 is 'Dilemma'. Same artist's albums show Hip-Hop/Rap. Remix versions also appear on They Don't Know and Oxide & Neutrino's Execute.",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "uncertain",
+   "release": "Oh No (Sentimental Things)",
+   "level": "album",
+   "url": "https://www.qobuz.com/nz-en/interpreter/so-solid-crew/172673",
+   "retrieved": "2026-11-16",
+   "note": "Read from the artist discography listing (Craft Recordings, dated 1/01/2000, likely a placeholder date). Album page could not be fetched, so presence of 'Dilemma' on this release is not confirmed. Differs from Apple's 'Electronic' for the same EP.",
+   "verdict": "uncertain match"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

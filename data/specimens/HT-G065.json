@@ -26,7 +26,8 @@
    "text": "Wikipedia says it has 17 original productions with Stryder on the mic throughout, and guests including Wiley, Kano and Flow Dan.",
    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2026 (IPFS Wikipedia snapshot)"
   }
  ],
  "context": [
@@ -34,13 +35,15 @@
    "text": "First of Tinchy Stryder's three mixtapes (Wikipedia).",
    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2026 (IPFS Wikipedia snapshot)"
   },
   {
-   "text": "Vice (Jan 2007) says JME and Skepta co-signed the release, calling it an album, as part of Boy Better Know's 2006 output.",
+   "text": "VICE (Jan 2007) names JME and Skepta's co-signing of I'm Back U Know among Boy Better Know's 2006 activity.",
    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2007-01-02"
   }
  ],
  "calls": [
@@ -86,6 +89,40 @@
    "domain": "vice.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://music.apple.com/au/artist/tinchy-stryder/23583808",
+   "retrieved": "2026-11-16",
+   "note": "Not listed on the Tinchy Stryder artist page (id 23583808); earliest album there is Star In the Hood (2007)."
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://www.qobuz.com/us-en/interpreter/tinchy-stryder/79988",
+   "retrieved": "2026-11-16",
+   "note": "Not in the Tinchy Stryder discography (19 releases); the Qobuz biography names it as a 2006 mixtape."
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

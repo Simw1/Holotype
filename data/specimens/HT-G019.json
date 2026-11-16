@@ -124,6 +124,7 @@
    "level": "album",
    "url": "https://music.apple.com/gb/album/treddin-on-thin-ice/1136792572",
    "retrieved": "2026-11-16",
+   "note": "Visible line 'Electronic · 2004'. Page date 5 Apr 2004 (differs from register's 26 Apr 2004).",
    "verdict": "broad"
   },
   {
@@ -137,6 +138,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/us-en/interpreter/wiley/172614",
    "retrieved": "2026-11-16",
+   "note": "XL Recordings, 05/04/2004. The French album page (https://www.qobuz.com/fr-fr/album/treddin-on-thin-ice-wiley/0634904017880) shows the localised 'Électronique'; English discography listing shows 'Electronic'.",
    "verdict": "broad"
   },
   {
@@ -147,7 +149,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
   }
  ],
  "round": 1

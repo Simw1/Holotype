@@ -142,6 +142,7 @@
    "level": "album",
    "url": "https://music.apple.com/ca/album/plasticman-remastered/910468283",
    "retrieved": "2026-11-16",
+   "note": "Album page shows 'Electronic · 2014' (21 songs) but no track list was visible, so presence of Venom and Shockwave is not confirmed on Apple; inferred from the Bandcamp deluxe edition track list. 2014 remastered reissue.",
    "verdict": "uncertain match"
   },
   {
@@ -152,7 +153,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple. Searches for Plastician returned only Plastikman."
   },
   {
    "platform": "Bandcamp",
@@ -180,6 +182,7 @@
    "level": "tags",
    "url": "https://plastician.bandcamp.com/album/plasticman-remastered-deluxe-edition",
    "retrieved": "2026-11-16",
+   "note": "Album tags (tracks 1 and 2) of 2014 remastered reissue by the artist.",
    "verdict": "correct"
   }
  ],

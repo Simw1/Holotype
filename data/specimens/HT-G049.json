@@ -134,6 +134,43 @@
    "domain": "officialcharts.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://music.apple.com/sa/artist/oxide-neutrino/14751823",
+   "retrieved": "2026-11-16",
+   "note": "Single not listed on the Oxide & Neutrino artist page (id 14751823). 'Only Wanna Know U Cos Ure Famous' is presumably on the Execute album ('Pop · 2000') but Apple's track list was not visible."
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Pop"
+   ],
+   "match": "exact",
+   "release": "Rap Dis (U Can't Stop Dis Shit) / Only Wanna Know U Cos Ure Famous",
+   "level": "album",
+   "url": "https://www.qobuz.com/dk-en/interpreter/oxide-and-neutrino/360480",
+   "retrieved": "2026-11-16",
+   "note": "Read from the artist discography listing: Atlantic Records UK, 26 Nov 2001. Release page not fetchable, so featured-artist credits (Kaish, Harvey, Scat D, Swiss) not checked. 'Only Wanna Know U Cos Ure Famous' is also track 14 on Execute (Pop).",
+   "verdict": "wrong"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

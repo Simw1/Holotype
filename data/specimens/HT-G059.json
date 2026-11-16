@@ -60,26 +60,29 @@
   "status": "Voucher",
   "of": "Grime",
   "holotype": null,
-  "basis": "Evidence specimen at the pop edge of the scene; reviews call it peppy pop with grime roots."
+  "basis": "Evidence specimen at the pop edge of the scene: one 2006 review calls it peppy pop and contrasts it with her earlier, scatter-mouthed grime."
  },
  "sound": [
   {
    "text": "Contains a sample from the film Time Bandits (Wikipedia).",
    "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "Wikipedia (undated)"
   },
   {
    "text": "PopMatters (2006) places it at the poppy end of her range, calling it 'peppy pop'.",
    "url": "https://www.popmatters.com/lady-sovereign-public-warning-2495703251.html",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "2006-10-16"
   },
   {
    "text": "The FADER (2005) says her sing-song choruses temper the roughness associated with grime, and that her album draws on ska, electro and new wave.",
    "url": "https://thefader.com/2005/11/15/a-common-phenomenon",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "2005-11-15"
   }
  ],
  "context": [
@@ -87,19 +90,22 @@
    "text": "Official Singles Chart peak no. 33 (first chart date 20/08/2005, 3 weeks); no. 17 on the Official Dance Singles Chart (OCC).",
    "url": "https://www.officialcharts.com/songs/lady-sovereign-9-to-5/",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "2005 chart record"
   },
   {
    "text": "A re-recorded Ordinary Boys version, 'Nine2Five' (2006), reached UK no. 6 (Wikipedia); The FADER (2005) reported the Ordinary Boys had been commissioned to cover it.",
    "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "Wikipedia (undated)"
   },
   {
    "text": "NPR (2007) introduces her as coming out of Britain's grime scene.",
    "url": "https://www.npr.org/2007/01/29/7061254/lady-sovereign-little-rapper-with-a-big-voice",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2007-01-29 (from URL; page shows no date)"
   }
  ],
  "calls": [
@@ -167,6 +173,43 @@
    "domain": "reynoldsretro.blogspot.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "version",
+   "release": "Public Warning",
+   "level": "album",
+   "url": "https://music.apple.com/us/album/public-warning/1445866050",
+   "retrieved": "2026-11-16",
+   "note": "Single not listed; artist page links '9 To 5' to a Public Warning album id 1444047621 (different from the album id 1445866050 shown here). Album page shows 'Hip-Hop/Rap · 2006', ℗ 2006 Universal Island Records. Also 'Nine2Five (feat. Lady Sovereign)' by The Ordinary Boys (2006).",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://www.qobuz.com/ca-en/interpreter/lady-sovereign/94748",
+   "retrieved": "2026-11-16",
+   "note": "Single not in the Lady Sovereign discography (5 releases, all Hip-Hop/Rap). Public Warning is listed twice (Universal-Island Records Ltd., Hip-Hop/Rap) but its track list was not checked."
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

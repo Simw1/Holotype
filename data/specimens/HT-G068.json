@@ -24,7 +24,8 @@
    "text": "Complex (2015) says 'Old School' from the tape shows JME's lyrical evolution, with outburst-style delivery and humorous lines.",
    "url": "https://www.complex.com/music/2015/05/tbt-7-jme-songs-you-should-revisit",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2015-05-07"
   }
  ],
  "context": [
@@ -32,19 +33,22 @@
    "text": "Vice (Jan 2007) credits JME's Boy Better Know camp with releasing 'grime's first real catalogue' of street albums and mixtapes in 2006, not just white labels.",
    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2007-01-02"
   },
   {
    "text": "JME, born in Hackney and raised in Tottenham, was in Meridian Crew with his brother Skepta and co-founded Boy Better Know (Wikipedia).",
    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/JME_(MC).html",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2026 (IPFS Wikipedia snapshot)"
   },
   {
    "text": "Vice (2007) says JME and Skepta 'got SERIOUS' after JME's three solo mixtapes.",
    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2007-01-02"
   }
  ],
  "calls": [
@@ -102,6 +106,40 @@
    "domain": "wikipedia (mirror)"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://music.apple.com/artist/453427098",
+   "retrieved": "2026-11-16",
+   "note": "Not listed on the Jme artist page (id 453427098)."
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://www.qobuz.com/us-en/interpreter/jme/626979",
+   "retrieved": "2026-11-16",
+   "note": "Not in page 1 (21 of 226) of the JME discography; the Qobuz biography mentions it. Later pages not checked."
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

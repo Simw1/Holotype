@@ -135,6 +135,7 @@
    "level": "track",
    "url": "https://music.apple.com/us/song/ghetto-kyote/1500424992",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Duration 0:27 on a 2007 compilation; probably an excerpt, not the full record.",
    "verdict": "uncertain match"
   },
   {
@@ -145,7 +146,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
   },
   {
    "platform": "Bandcamp",
@@ -166,6 +168,7 @@
    "level": "tags",
    "url": "https://kyoteguy.bandcamp.com/album/ghetto-kyote",
    "retrieved": "2026-11-16",
+   "note": "Producer's own digital release dated 31 Jan 2014 of the 2004 record (instrumental, remix, Kamikaze vocal). Tags listed as shown, including duplicates 'garage' and 'grime'.",
    "verdict": "correct"
   }
  ],

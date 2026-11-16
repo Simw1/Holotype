@@ -147,6 +147,7 @@
    "level": "track",
    "url": "https://music.apple.com/gb/song/when-im-ere/714655101",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Album track; other entries exist (id 716532386, 1286390978, a DJ-mix version).",
    "verdict": "wrong"
   },
   {
@@ -160,6 +161,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/gb-en/album/in-at-the-deep-end-roll-deep/0724347731259",
    "retrieved": "2026-11-16",
+   "note": "Album-level genre (album track).",
    "verdict": "broad"
   },
   {
@@ -170,7 +172,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced)."
   }
  ],
  "round": 1

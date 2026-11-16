@@ -4,7 +4,7 @@
  "sort": "2006-05-01",
  "year": 2006,
  "date": "2006 (Stereogum gives 2007)",
- "kind": "12-inch",
+ "kind": "Track or single (format not stated)",
  "artist": "Skepta (with guest MCs)",
  "title": "Duppy",
  "label": "Boy Better Know",
@@ -60,20 +60,22 @@
   "status": "Voucher",
   "of": "Grime",
   "holotype": null,
-  "basis": "Evidence specimen; a drum-and-bass-feel riddim with nine MCs trading bars."
+  "basis": "Evidence specimen; a drum-and-bass-feel riddim voiced by a crowd of MCs (sources count eight or nine)."
  },
  "sound": [
   {
    "text": "Stereogum (2016) describes it as a drum-and-bass-influenced standout that became an instant club hit.",
    "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2016-03-14"
   },
   {
    "text": "Mixmag (2016) calls it a sticky, 'bling-bling' club anthem of the Boy Better Know era.",
    "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2016-07-01"
   }
  ],
  "context": [
@@ -81,25 +83,29 @@
    "text": "FACT's '20 best grime records ever made' (Tom Lea; page dated 22 April 2012, originally 2011) lists it as Boy Better Know, 2006, and one of the last big anthems of the white-label era.",
    "url": "https://factmag.com/2012/04/22/20-best-grime",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2012-04-22"
   },
   {
    "text": "Mixmag says DJ EZ included it on his Pure Garage mix a year after release.",
    "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2016-07-01"
   },
   {
    "text": "Complex's 25 best Skepta songs says it was originally released in 2006, appeared on Greatest Hits the following year, and cemented Skepta's reputation 'as both MC and producer'.",
    "url": "https://www.complex.com/music/a/joseph-jp-patterson/25-best-skepta-songs",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2026-11-04 (page date as shown; list originally c.2015-16)"
   },
   {
    "text": "Stereogum calls it one of the last grime anthems of the early-to-mid 2000s.",
    "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2016-03-14"
   }
  ],
  "calls": [
@@ -158,6 +164,43 @@
    "domain": "complex.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "uncertain",
+   "release": "Greatest Hits",
+   "level": "album",
+   "url": "https://music.apple.com/bs/album/greatest-hits/1286357906",
+   "retrieved": "2026-11-16",
+   "note": "Greatest Hits listed as a compilation on the artist page; album page shows 'Hip-Hop/Rap · 2007', release 17 Sep 2007, ℗ 2007 Boy Better Know. Track list not visible and 'Duppy' does not appear on the page, so its presence is not confirmed on Apple.",
+   "verdict": "uncertain match"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://www.qobuz.com/fi-en/interpreter/skepta/172660",
+   "retrieved": "2026-11-16",
+   "note": "Not in page 1 (21 of 83) of the Skepta discography; Greatest Hits is mentioned only in the biography. Later pages not checked."
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

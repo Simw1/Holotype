@@ -22,22 +22,24 @@
  "geno": null,
  "type": {
   "status": "Context artefact",
-  "of": "Eskibeat",
+  "of": "Grime",
   "holotype": null,
-  "basis": "Album placed by XLR8R (2007) in Wiley's eski style."
+  "basis": "Album; Wikipedia tags it grime and eskibeat, but no source checked ties it to the eski style directly, so it is held under grime."
  },
  "sound": [
   {
    "text": "Complex (2015) describes album track 'Stormy Weather' as reflective and grimey, with a drawn-out heavy low end and a Rihanna-sampling beat.",
    "url": "https://www.complex.com/music/2015/06/25-best-wiley-songs",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2015-06-09"
   },
   {
-   "text": "XLR8R (2007) places it within Wiley's 'Eski' style, a darker, stripped-down take on grime.",
+   "text": "XLR8R (2007) describes Wiley's earlier 'Eski' style as a darker, stripped-down take on grime, and lists Da 2nd Phase (sic) among his 2006 releases; it does not link the two.",
    "url": "https://xlr8r.com/?p=110091",
    "g": "C",
-   "checked": false
+   "checked": false,
+   "pub": "2007-09-21"
   }
  ],
  "context": [
@@ -45,19 +47,22 @@
    "text": "Vice (Jan 2007) says JME and Skepta persuaded Wiley to leave his Roll Deep entourage and oversaw the release of the 'much-delayed' album.",
    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2007-01-02"
   },
   {
    "text": "Released by Boy Better Know after Wiley left XL Recordings (Wikipedia); Boy Better Know was founded in North London in 2005 by JME and Skepta.",
-   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Boy_Better_Know.html",
+   "url": "https://en.wikipedia.org/wiki/Da_2nd_Phaze",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2026 (IPFS Wikipedia snapshot)"
   },
   {
    "text": "XLR8R (2007) says the album and the Tunnel Vision mixtapes both came out through JME's Boy Better Know imprint.",
    "url": "https://xlr8r.com/?p=110091",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2007-09-21"
   }
  ],
  "calls": [
@@ -124,6 +129,40 @@
    "domain": "wikipedia (mirror)"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://www.qobuz.com/gb-en/interpreter/wiley/172614",
+   "retrieved": "2026-11-16",
+   "note": "Not in page 1 (21 of 129) of the Wiley discography; the Qobuz biography names it as a 2006 mixtape on Boy Better Know. Later pages not checked."
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

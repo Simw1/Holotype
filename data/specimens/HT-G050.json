@@ -130,6 +130,46 @@
    "domain": "daily.redbullmusicacademy.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Breakbeat"
+   ],
+   "match": "uncertain",
+   "release": "Terrible - Single",
+   "level": "album",
+   "url": "https://music.apple.com/gm/album/terrible-single/1332892626",
+   "retrieved": "2026-11-16",
+   "note": "Single page shows 'Breakbeat · 2018', release 6 Jan 2018, ℗ 2018 Stone Villager Records; 2 songs, track 2 apparently 'Terrible (Teebone Remix)'. A 2018 release, not the 2001/2002 original; identity with the Roll Deep Entourage record not confirmed.",
+   "verdict": "uncertain match"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Miscellaneous"
+   ],
+   "match": "uncertain",
+   "release": "Terrible",
+   "level": "album",
+   "url": "https://www.qobuz.com/fi-en/interpreter/roll-deep/227066",
+   "retrieved": "2026-11-16",
+   "note": "Read from the artist discography listing: Stone Villager, 6 Jan 2018. Apparently the same 2018 release as on Apple (where it is 'Breakbeat'); identity with the original not confirmed.",
+   "verdict": "uncertain match"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

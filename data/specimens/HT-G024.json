@@ -145,6 +145,7 @@
    "level": "album",
    "url": "https://music.apple.com/ca/album/plasticman-remastered/910468283",
    "retrieved": "2026-11-16",
+   "note": "Album page shows 'Electronic · 2014' but no track list visible; Cha not confirmed on Apple; EP as such not found.",
    "verdict": "uncertain match"
   },
   {
@@ -155,7 +156,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
   },
   {
    "platform": "Bandcamp",
@@ -183,6 +185,7 @@
    "level": "tags",
    "url": "https://plastician.bandcamp.com/album/plasticman-remastered-deluxe-edition",
    "retrieved": "2026-11-16",
+   "note": "Album tags; tracks 10 'Cha' and 23 'Cha VIP'. The EP itself not found.",
    "verdict": "correct"
   }
  ],

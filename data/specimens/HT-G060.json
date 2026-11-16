@@ -7,8 +7,8 @@
  "kind": "Album",
  "artist": "Lethal Bizzle",
  "title": "Against All Oddz",
- "label": "V2",
- "cat": null,
+ "label": "J-DID / V2",
+ "cat": "JAD1033592",
  "format": "Album (format of the earliest release not stated in sources opened)",
  "producers": [
   "Sticky",
@@ -26,20 +26,22 @@
   "status": "Context artefact",
   "of": "Grime",
   "holotype": null,
-  "basis": "Album; promoted as grime crossing into rock."
+  "basis": "Album; before release, Reynolds (2005) reported Bizzle promising some grime and rock fusions."
  },
  "sound": [
   {
-   "text": "Simon Reynolds (Spin, 2005), before release, reported Bizzle promising grime/rock fusions, citing Green Day and Nirvana as influences.",
+   "text": "Simon Reynolds (Spin, Aug 2005; blog repost 2017), writing before release, reported that Bizzle promised 'some grime/rock fusions' on the album and was a big fan of Green Day and Nirvana.",
    "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
-   "g": "A",
-   "checked": false
+   "g": "C",
+   "checked": true,
+   "pub": "2017-10-31 (repost of Spin, Aug 2005)"
   },
   {
    "text": "Complex (2015) describes a balance between 'head-rushing cuts' and calmer tracks such as 'Should Of Known'.",
    "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2015-08-19"
   }
  ],
  "context": [
@@ -47,19 +49,22 @@
    "text": "Official Albums Chart peak no. 89 (first chart date 27/08/2005, 1 week); no. 7 on the Independent Albums Chart (17 weeks) and no. 15 on Dance Albums (OCC).",
    "url": "https://www.officialcharts.com/albums/lethal-bizzle-against-all-oddz/",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "2005 chart record"
   },
   {
    "text": "Single 'Fire' (J-DID/V2, JAD5035653) reached no. 34 on the Official Singles Chart from 29/10/2005, and no. 8 Dance and no. 4 Independent (OCC).",
    "url": "https://officialcharts.com/songs/lethal-bizzle-fire",
    "g": "A",
-   "checked": false
+   "checked": true,
+   "pub": "2005 chart record"
   },
   {
    "text": "Complex (2015) says the album 'barely scraped into the top 90' and calls Bizzle grime's most successful singles act and arguably the first grime act to take DIY to social media.",
    "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2015-08-19"
   }
  ],
  "calls": [
@@ -123,6 +128,46 @@
    "domain": "reynoldsretro.blogspot.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Against All Oddz",
+   "level": "album",
+   "url": "https://music.apple.com/us/album/against-all-oddz/1552878059",
+   "retrieved": "2026-11-16",
+   "note": "Album page shows 'Hip-Hop/Rap · 2005', release 15 Aug 2005, ℗ 2005 Dench Records.",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Against All Oddz",
+   "level": "album",
+   "url": "https://www.qobuz.com/us-en/interpreter/lethal-bizzle/189194",
+   "retrieved": "2026-11-16",
+   "note": "Read from the artist discography listing: Stay Dench Recordings, 15 Aug 2005.",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

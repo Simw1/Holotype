@@ -104,6 +104,7 @@
    "level": "album",
    "url": "https://music.apple.com/us/album/one-way/724042162",
    "retrieved": "2026-11-16",
+   "note": "Visible line 'Electronic · 2004'; 27 Sep 2004; ℗ 2004 Planet Mu Records.",
    "verdict": "broad"
   },
   {
@@ -114,7 +115,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple. Only 'Planet Mu 30' and unrelated 'One Way' releases surfaced."
   },
   {
    "platform": "Bandcamp",
@@ -124,7 +126,8 @@
    "release": null,
    "level": null,
    "url": "https://planetmu.bandcamp.com/music",
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found; Planet Mu Bandcamp music page did not show it."
   }
  ],
  "round": 1

@@ -174,6 +174,46 @@
    "domain": "wikipedia (mirror)"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "21 Seconds - Single",
+   "level": "album",
+   "url": "https://music.apple.com/gb/album/21-seconds-single/1503425038",
+   "retrieved": "2026-11-16",
+   "note": "Single page shows 'Hip-Hop/Rap · 2001', release date 6 Aug 2001, ℗ 2020 Craft Recordings (reissue rights line); 6 songs incl. a BBC Radio 1 live version. Track also on They Don't Know (Hip-Hop/Rap).",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "21 Seconds",
+   "level": "album",
+   "url": "https://www.qobuz.com/nz-en/interpreter/so-solid-crew/172673",
+   "retrieved": "2026-11-16",
+   "note": "Read from the artist discography listing (Craft Recordings). Also listed: '21 Seconds EP' (18/09/2001) and '21 Seconds (Live At BBC Radio 1 Lamacq Live / 2002)' (6/08/2001), both Hip-Hop/Rap.",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

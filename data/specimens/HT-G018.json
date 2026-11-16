@@ -196,6 +196,7 @@
    "level": "album",
    "url": "https://music.apple.com/ng/album/wot-do-u-call-it-single/1450123666",
    "retrieved": "2026-11-16",
+   "note": "Visible line 'Electronic · 2004'; date 5 Apr 2004; ℗ 2004 XL.",
    "verdict": "broad"
   },
   {
@@ -209,6 +210,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/us-en/interpreter/wiley/172614",
    "retrieved": "2026-11-16",
+   "note": "Single not found; album-level genre of parent album (track 3). The French album page (https://www.qobuz.com/fr-fr/album/treddin-on-thin-ice-wiley/0634904017880) shows the localised 'Électronique'; English discography listing shows 'Electronic'.",
    "verdict": "broad"
   },
   {
@@ -219,7 +221,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com (only bootlegs/remixes or unrelated items surfaced). A DJ mix track by DJ Fricktion includes the instrumental."
   }
  ],
  "round": 1

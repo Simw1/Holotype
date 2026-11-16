@@ -186,6 +186,7 @@
    "level": "track",
    "url": "https://music.apple.com/ug/song/ps-and-qs/160984787",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Appears on the 2005 Typical Me single, not the Nov 2004 P's and Q's release.",
    "verdict": "wrong"
   },
   {
@@ -199,6 +200,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/ie-en/album/home-sweet-home-kano/0643443518468",
    "retrieved": "2026-11-16",
+   "note": "Album version on 2005 album; album header 'Genre: Dance', About section lists 'Electronic' and 'Dance'.",
    "verdict": "broad"
   },
   {
@@ -209,7 +211,8 @@
    "release": null,
    "level": null,
    "url": "https://kano.bandcamp.com/music",
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "kano.bandcamp.com lists only two other releases; not found."
   }
  ],
  "round": 1

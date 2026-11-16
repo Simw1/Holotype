@@ -169,7 +169,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found; Jon E Cash artist pages and 'Still at War' (DA Black OP's) surfaced, not War."
   },
   {
    "platform": "Qobuz",
@@ -179,7 +180,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple. Kurupt FM compilation has a different Jon E Cash track ('Cash Beat AKA: Hoods Up Dub')."
   },
   {
    "platform": "Bandcamp",
@@ -200,6 +202,7 @@
    "level": "tags",
    "url": "https://blackopssublow.bandcamp.com/album/war",
    "retrieved": "2026-11-16",
+   "note": "Digital re-release dated 21 Dec 2023, notes say '2003 release'; includes 'WAR BONUS'. A track 'WAR' on album SUBLOW (2025) has tags: edm, electronic, ukg, grime, instrumental, sublow, London (https://jonecash.bandcamp.com/track/war).",
    "verdict": "correct"
   }
  ],

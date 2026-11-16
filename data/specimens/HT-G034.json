@@ -137,6 +137,7 @@
    "level": "album",
    "url": "https://music.apple.com/gb/album/typical-me-cd-1-single/49314962",
    "retrieved": "2026-11-16",
+   "note": "Visible line 'Electronic · 2005'; date 14 Mar 2005; ℗ 2005 679 Recordings. A 'Typical Me (CD 2) - EP' and a 'Typical Me - Single' (id 160984783) also exist and were not fetched.",
    "verdict": "broad"
   },
   {
@@ -150,6 +151,7 @@
    "level": "album",
    "url": "https://www.qobuz.com/gb-en/interpreter/kano/25020",
    "retrieved": "2026-11-16",
+   "note": "Read from artist discography listing: 'Typical Me: Rock, 28 Feb 2005'. That discography page merges several artists named Kano. Home Sweet Home album (Dance) also contains 'Typical Me (Feat. Ghetto Main Mix album & single version)'.",
    "verdict": "wrong"
   },
   {
@@ -160,7 +162,8 @@
    "release": null,
    "level": null,
    "url": "https://kano.bandcamp.com/music",
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "kano.bandcamp.com lists only two other releases; not found."
   }
  ],
  "round": 1

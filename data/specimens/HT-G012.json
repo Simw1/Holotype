@@ -127,7 +127,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found. Searches surfaced Plastician 'Plasticman Remixed I - EP' (Electronic · 2014) but its track list was not visible, so a match could not be confirmed."
   },
   {
    "platform": "Qobuz",
@@ -137,7 +138,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
   },
   {
    "platform": "Bandcamp",
@@ -164,6 +166,7 @@
    "level": "tags",
    "url": "https://mrk1music.bandcamp.com/album/fight",
    "retrieved": "2026-11-16",
+   "note": "Artist's own page; 'released November 1, 2003', catalogue TERR001, both tracks.",
    "verdict": "correct"
   }
  ],

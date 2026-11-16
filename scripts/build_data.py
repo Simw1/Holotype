@@ -12,7 +12,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 R = os.path.join(ROOT, 'research', 'raw')
 sys.path.insert(0, HERE)
-from curation_round2 import NEW, LANES_EXTRA_FIRST, LANES_EXTRA_LAST, EDGES_NEW, OVERRIDE, PRODUCER_FIX, DROP_KEYS
+from curation_round2 import NEW, LANES_EXTRA_FIRST, LANES_EXTRA_LAST, EDGES_NEW, OVERRIDE, PRODUCER_FIX, DROP_KEYS, CALL_DROP
 
 recs = {}
 for f in sorted(glob.glob(os.path.join(R, 'batch_*.json'))):
@@ -185,6 +185,8 @@ def codes(s):
 
 # ---------------------------------------------------------------- round 2 build
 ROUND1 = sorted(T, key=lambda k: T[k][0])             # accession numbers HT-G001..041 are permanent
+ROUND2 = sorted(NEW, key=lambda k: NEW[k][0])
+T.update(NEW)
 for k, v in OVERRIDE.items():
     t = list(T[k]); st = list(t[9])
     for f, val in v.items():
@@ -192,12 +194,13 @@ for k, v in OVERRIDE.items():
         elif f == 'kind': t[2] = val
         elif f == 'artist': t[3] = val
         elif f == 'label': t[5] = val
+        elif f == 'title': t[4] = val
+        elif f == 'cat': t[6] = val
         elif f == 'codes': t[8] = val
         elif f == 'basis': st[3] = val
+        elif f == 'of': st[1] = val
     t[9] = tuple(st); T[k] = tuple(t)
 for k in PRODUCER_FIX: recs[k]['producers'] = PRODUCER_FIX[k]
-ROUND2 = sorted(NEW, key=lambda k: NEW[k][0])
-T.update(NEW)
 LANES = LANES_EXTRA_FIRST + LANES + LANES_EXTRA_LAST
 EDGES = EDGES + EDGES_NEW
 idmap = {k: f'HT-G{n:03d}' for n, k in enumerate(ROUND1 + ROUND2, 1)}
@@ -271,7 +274,7 @@ for k in ids:
     for x in LAB:
         if x['key'] != k or x['status'] == 'not_accessible': continue
         a = {'platform': x['platform'], 'status': x['status'], 'labels': x.get('labels') or [], 'match': x.get('match_quality'),
-             'release': x.get('matched_release'), 'level': x.get('level'), 'url': x.get('url'), 'retrieved': x.get('retrieved')}
+             'release': x.get('matched_release'), 'level': x.get('level'), 'url': x.get('url'), 'retrieved': x.get('retrieved'), 'note': x.get('note')}
         if x['status'] == 'found':
             a['verdict'] = verdict(a['labels'], target) if a['match'] != 'uncertain' else 'uncertain match'
         aud.append(a)
@@ -281,7 +284,7 @@ for k in ids:
         'producers': r.get('producers') or [], 'lane': lane, 'geno': codes(cs),
         'type': {'status': status, 'of': of, 'holotype': idmap.get(holo) if holo else None, 'basis': basis},
         'sound': sound, 'context': ctx,
-        'calls': [{'label': c.get('label'), 'source': c.get('source'), 'year': c.get('year'), 'url': c.get('url')} for c in (r.get('genre_calls') or [])],
+        'calls': [{'label': c.get('label'), 'source': c.get('source'), 'year': c.get('year'), 'url': c.get('url')} for ci, c in enumerate(r.get('genre_calls') or []) if (k, ci) not in CALL_DROP],
         'rels': [{'type': x.get('type'), 'other': x.get('other'), 'url': x.get('url')} for x in (r.get('relationships') or [])],
         'uncertainty': r.get('uncertainty'), 'tracklist': r.get('tracklist_note'),
         'sources': [{'url': u, 'domain': domain(u)} for u in urls],

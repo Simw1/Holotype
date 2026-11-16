@@ -170,6 +170,7 @@
    "level": "track",
    "url": "https://music.apple.com/us/song/dizzee-rascal-ice-rink/290943817",
    "retrieved": "2026-11-16",
+   "note": "Song-page genre read from Apple's meta keywords (no visible genre line on song pages). Vocal version on 2008 mixtape, not the 2003 Ice Rink release.",
    "verdict": "broad"
   },
   {
@@ -180,7 +181,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not found as a release. Treddin' On Thin Ice contains 'Icerink (Interlude)', a different track. Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
   },
   {
    "platform": "Bandcamp",
@@ -190,7 +192,8 @@
    "release": null,
    "level": null,
    "url": null,
-   "retrieved": "2026-11-16"
+   "retrieved": "2026-11-16",
+   "note": "Not searched individually; no official Wiley (grime) Bandcamp found (wileyband.bandcamp.com is an unrelated US act)."
   }
  ],
  "round": 1

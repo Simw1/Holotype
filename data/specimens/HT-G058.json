@@ -3,7 +3,7 @@
  "key": "low-deep-straight-flush-2005",
  "sort": "2005-06-01",
  "year": 2005,
- "date": "2005",
+ "date": "2005 (tracklist metadata only)",
  "kind": "12-inch",
  "artist": "Low Deep",
  "title": "Straight Flush",
@@ -68,25 +68,29 @@
    "text": "The beat began as eight bars Low Deep made at 17 for a producer challenge on the RWD Forum.",
    "url": "https://www.last.fm/music/Low+Deep/+wiki",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated (bio c.2008)"
   },
   {
    "text": "The vinyl came out on Colourful State Records, the label he had just signed to, and sold over 2,000 copies.",
    "url": "https://www.nts.live/artists/7246-low-deep",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated"
   },
   {
    "text": "Low Deep is from Luton; his beats were later used on BBC Top Gear and in the 2007 film Mr. Lonely.",
    "url": "https://www.last.fm/music/Low+Deep/+wiki",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "undated (bio c.2008)"
   },
   {
    "text": "Low Deep's 'Jedi' appears in Son Raw's 2014 'Classic Grime Riddims' mix.",
    "url": "https://www.musicismysanctuary.com/?p=42268",
    "g": "C",
-   "checked": false
+   "checked": true,
+   "pub": "2014-10-13"
   }
  ],
  "calls": [
@@ -120,6 +124,40 @@
    "domain": "musicismysanctuary.com"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found in web searches of music.apple.com (the iTunes Search API was blocked from this environment in round two)."
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web searches restricted to qobuz.com (Qobuz's own catalogue search needs JS/app); absence is less certain than on Apple."
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }

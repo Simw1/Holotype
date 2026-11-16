@@ -118,6 +118,46 @@
    "domain": "wikipedia (mirror)"
   }
  ],
- "audit": [],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "They Don't Know",
+   "level": "album",
+   "url": "https://music.apple.com/gb/album/they-dont-know/1458137896",
+   "retrieved": "2026-11-16",
+   "note": "Album page shows 'Hip-Hop/Rap · 2001', release 19 Nov 2001, ℗ 2001 Craft Recordings, 20 songs.",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "They Don't Know",
+   "level": "album",
+   "url": "https://www.qobuz.com/no-en/album/they-dont-know-so-solid-crew/fs6gpoxx9wdcc",
+   "retrieved": "2026-11-16",
+   "note": "Label shown: Craft Recordings (Qobuz biography says Relentless Records). Release 11/19/01; 20 tracks.",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16",
+   "note": "Not found via web search restricted to bandcamp.com."
+  }
+ ],
  "round": 2
 }
