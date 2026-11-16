@@ -1,0 +1,975 @@
+[
+ {
+  "key": "dj-target-poltergeist-aim002-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005-01-07",
+  "release_field": "cat",
+  "release_value": "AIM002",
+  "note": "Fiddy press-release post lists 'Aim002 - Poltergeist'. Artist DJ Target and label Aim High supported by both Fiddy posts."
+ },
+ {
+  "key": "dj-target-poltergeist-aim002-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004-10-25",
+  "release_field": "date",
+  "release_value": "2004 or earlier",
+  "note": "Fiddy (25 Oct 2004) says Poltergeist/Runaway is 'currently available from the label', so '2004 or earlier' holds. No exact date in any source."
+ },
+ {
+  "key": "dj-target-poltergeist-aim002-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2004-10-25",
+  "release_field": "kind",
+  "release_value": "Single (format not stated; probably vinyl)",
+  "note": "No source says 12-inch. Fiddy only praises 'the label's vinyl releases' in general; the press release names no format for the singles. The record's own 'format' field admits this, but 'kind: 12-inch' states it as fact."
+ },
+ {
+  "key": "dj-target-poltergeist-aim002-2004",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2004-10-25",
+  "new_text": "Chantelle Fiddy ('Hitting the Target', 25 Oct 2004; a version also ran in Touch magazine) lists Poltergeist/Runaway and 'the Poltergeist Remix by Terror Danger' [sic] among Aim High releases then available.",
+  "note": "The post says 'A version of this article appeared in Touch magazine 2004'. It does not say Touch ran first. It spells the remixer 'Terror Danger'. The post also gives the A/B pairing 'Poltergeist/Runaway'."
+ },
+ {
+  "key": "dj-target-poltergeist-aim002-2004",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005-01-07",
+  "note": "Catalogue list matches verbatim. AIM001 is 'Pick Yourself Up feat. Wiley, J2K, Riko & Breeze'."
+ },
+ {
+  "key": "dj-target-poltergeist-aim002-2004",
+  "field": "context",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated (page shows 2015-2016 activity)",
+  "new_text": "DJ Target (Darren Joseph) is an East London grime producer, formerly of Pay As U Go, who formed Roll Deep with Wiley, Breeze and Flow Dan after PAUG broke up.",
+  "note": "NTS: 'real name Darren Joseph', 'grime producer from East London', former Pay As You Go member, and says he formed Roll Deep with Wiley, Breeze and Flow Dan. It does not use 'co-founder', and it names more founders than Wiley. Fiddy 2004 gives the name and the PAUG membership at grade A."
+ },
+ {
+  "key": "dj-target-poltergeist-aim002-2004",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Evidence specimen; no description of its sound was found' is true of the sources opened. Side note: the calls[] label says 'Gremlinz VIP', but Planet Mu (28 Sep 2009) lists the track as 'DJ Target: Poltergeist (Terror Danjah V.I.P. Remix)'. That is a VIP of the Poltergeist remix, not of this AIM002 original. Fix the label."
+ },
+ {
+  "key": "aftershock-payback-remix-ep-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2026-03 (Wikipedia snapshot)",
+  "release_field": "date",
+  "release_value": "2004",
+  "note": "Wikipedia mirror: 'the 2004 various artist remix EP Payback'. FACT gives no year, but places it after Industry Standard (2004)."
+ },
+ {
+  "key": "aftershock-payback-remix-ep-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2026-03 (Wikipedia snapshot)",
+  "release_field": "kind",
+  "release_value": "Remix EP (format not stated)",
+  "note": "No source opened says 12-inch. FACT calls it 'that EP of remixes'."
+ },
+ {
+  "key": "aftershock-payback-remix-ep-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2009-09-02",
+  "release_field": "label",
+  "release_value": "Aftershock",
+  "note": "FACT: Terror says Payback was one of Aftershock's top sellers. Wikipedia also names Aftershock."
+ },
+ {
+  "key": "aftershock-payback-remix-ep-2004",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "B",
+  "pub_date": "2009-09-02",
+  "new_text": "In FACT (2009) Simon Reynolds hears a 'harmonically rich', edge-of-dissonance synth on Terror Danjah's 'Creep Crawler' remix of 'Frontline'. Terror says it is a normal synth that he processes and textures, and won't say how.",
+  "note": "Simon Reynolds interview. The remix is Terror's 'Creep Crawler' remix of 'Frontline'; Reynolds says he merged it with his own 'Creep Crawler'. Reynolds calls the synth 'harmonically rich' with a 'sour, edge-of-dissonance tonality'. Terror says 'It's a normal synth' and 'I can't tell you how, though'. The gist is right, but 'processes and textures heavily' is a paraphrase. He contrasts his approach with people who use it 'without any processing or texture'. Graded B because the page is a maker interview."
+ },
+ {
+  "key": "aftershock-payback-remix-ep-2004",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2009-09-28",
+  "new_text": "Planet Mu (2009) describes Terror Danjah's general style: a signature palette of sounds he adds to occasionally, shifting syncopated rhythms around 140 bpm, and a gremlin-cackle audio logo.",
+  "note": "Planet Mu's blurb for Gremlinz (The Instrumentals 2003-2009) says 'both producers' (comparing Terror with another producer) use 'a signature palate of sounds, adding to them occasionally' and 'shifting, syncopated rhythms', 'around the tempo of 140 bpm', plus the gremlin cackle as audio-logo. It does not say 'small set'. It describes his general style, not Payback."
+ },
+ {
+  "key": "aftershock-payback-remix-ep-2004",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "B",
+  "pub_date": "2009-09-02",
+  "new_text": "Terror Danjah tells FACT (2009) that Payback, which followed the Industry Standard EP (2004), 'was the biggest' and one of Aftershock's top sellers; he singles out his 'Creep Crawler' remix of 'Frontline'.",
+  "note": "Terror: 'Payback was the biggest. That EP of remixes was one of Aftershock's top sellers', given in answer to what came after Industry Standard. 'Especially the Frontline remix' is a separate remark ('especially my Creep Crawler remix of Frontline. That cemented it for us'). FACT doesn't say clearly whether that was about Payback's sales or the label's standing."
+ },
+ {
+  "key": "aftershock-payback-remix-ep-2004",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2026-03 (Wikipedia snapshot)",
+  "note": "Wikipedia: 2004 various-artist remix EP, 'reportedly' one of the top sellers; Big E-D's 2003 'Frontline' featuring D Double E. Text should keep 'reportedly'."
+ },
+ {
+  "key": "aftershock-payback-remix-ep-2004",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2009-09-02",
+  "new_text": "Terror Danjah (FACT, 2009): after Crazy Titch's 'I Can C U' and N.A.S.T.Y.'s 'Cock Back', Aftershock's third release was Big E.D.'s 'Frontline'.",
+  "note": "Terror: first two releases were 'I Can C U' and 'Cock Back', 'Then it was Big E.D.'s Frontline and then in 2004 I put out the Industry Standard EP'. The speaker is Terror Danjah, not FACT narration."
+ },
+ {
+  "key": "aftershock-payback-remix-ep-2004",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Basis says some characters are drafted from his general style, which the sources bear out (Planet Mu describes style, not this record). Side note: the calls[] label says FACT describes Aftershock as a 'grime label/collective', but FACT calls it 'his own now-defunct (sort of) Aftershock crew' and 'the label', never 'grime label'. 'Headphone grime' is Reynolds on Industry Standard, not Payback."
+ },
+ {
+  "key": "low-deep-straight-flush-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated",
+  "release_field": "date",
+  "release_value": "2005 (NTS tracklist metadata only)",
+  "note": "No bio gives a year. The NTS tracklist shows 'Straight Flush (Original)' on Colourfulstate Records dated 2005, plus a separate 2007 entry on Colourful State. This is weak support for 2005."
+ },
+ {
+  "key": "low-deep-straight-flush-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated",
+  "release_field": "label",
+  "release_value": "Colourful State Records",
+  "note": "NTS and Last.fm both say it came out on Colourful State Records, as vinyl. 12-inch size is not stated."
+ },
+ {
+  "key": "low-deep-straight-flush-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (bio c.2008)",
+  "note": "Last.fm: entered the scene at 17 with Straight Flush, which began as eight bars for an RWD Forum producer challenge. The bio mentions a debut album due 15 Sep 2008, so it was probably written then. Read as a whole, the claim is self-reported biography."
+ },
+ {
+  "key": "low-deep-straight-flush-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated",
+  "note": "NTS: 'The Straight Flush vinyl went on to sell over 2000 copies' on Colourful State Records, the label he had just signed to."
+ },
+ {
+  "key": "low-deep-straight-flush-2005",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (bio c.2008)",
+  "note": "Last.fm: from Luton; beats used on BBC Top Gear and in the 2007 film Mr. Lonely."
+ },
+ {
+  "key": "low-deep-straight-flush-2005",
+  "field": "context",
+  "index": 3,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2014-10-13",
+  "note": "Supported as stated: 'Jedi' is in Son Raw's 'Classic Grime Riddims (2002-2008)' mix. But Straight Flush is NOT on that tracklist. The item is about another Low Deep track and adds nothing on this specimen; it should not be read as the canon placing this record."
+ },
+ {
+  "key": "low-deep-straight-flush-2005",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Correct: no source opened describes the sound of Straight Flush."
+ },
+ {
+  "key": "lady-sovereign-9-to-5-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005 chart record",
+  "release_field": "cat",
+  "release_value": "12IS898",
+  "note": "OCC: Island, cat 12IS898, first charted 20/08/2005. Wikipedia: released 8 August 2005, labels Island and Def Jam, producer Medasyn. 12IS898 is the 12-inch number OCC uses. Wikipedia lists CD1, CD2 and 12-inch editions."
+ },
+ {
+  "key": "lady-sovereign-9-to-5-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "Wikipedia (undated)",
+  "release_field": "date",
+  "release_value": "8 Aug 2005",
+  "note": "Wikipedia infobox: 8 August 2005."
+ },
+ {
+  "key": "lady-sovereign-9-to-5-2005",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "Wikipedia (undated)",
+  "note": "'contains a sample from the British movie Time Bandits'."
+ },
+ {
+  "key": "lady-sovereign-9-to-5-2005",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2006-10-16",
+  "note": "Dan Raper: her range 'naturally runs from peppy pop (\"9 to 5\") to scatter-mouthed grime'."
+ },
+ {
+  "key": "lady-sovereign-9-to-5-2005",
+  "field": "sound",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2005-11-15",
+  "note": "FADER: 'the sing-song quality of her choruses temper the roughness associated with the genre'; on Public Warning she 'incorporated sonic references to ska, electro and new wave'. Supported about her generally, but it is not said of '9 to 5' specifically."
+ },
+ {
+  "key": "lady-sovereign-9-to-5-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005 chart record",
+  "note": "OCC: peak 33, first chart 20/08/2005, 3 weeks; Dance Singles peak 17; also Physical Singles 33."
+ },
+ {
+  "key": "lady-sovereign-9-to-5-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "Wikipedia (undated)",
+  "note": "Wikipedia: 'Nine2Five', a re-recorded version of the Ordinary Boys' remix, reached UK no. 6 in 2006. The FADER half is true (FADER 15 Nov 2005, grade A), but its URL is not the cited one. Split it into its own item with the FADER URL."
+ },
+ {
+  "key": "lady-sovereign-9-to-5-2005",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2007-01-29 (from URL; page shows no date)",
+  "note": "NPR: 'She comes out of the grime scene in Britain'."
+ },
+ {
+  "key": "lady-sovereign-9-to-5-2005",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Reviews call it peppy pop' holds: PopMatters 2006, one review. Use 'a review'. But 'with grime roots' is not said of this track by any source. FADER and NPR place the artist in grime; PopMatters calls the track pop and contrasts it with 'scatter-mouthed grime'. Suggest: 'Evidence specimen at the pop edge of the scene; a 2006 review calls the track peppy pop, from an artist reviewers place in grime.'"
+ },
+ {
+  "key": "lethal-bizzle-against-all-oddz-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2005 chart record",
+  "release_field": "cat",
+  "release_value": "JAD1033592 (J-DID/V2, per OCC)",
+  "note": "OCC lists the label as 'J-DID/V2' and the cat as JAD1033592. The register has V2 with no cat. Wikipedia says V2 Records. Add the cat and J-DID imprint."
+ },
+ {
+  "key": "lethal-bizzle-against-all-oddz-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "Wikipedia (undated)",
+  "release_field": "date",
+  "release_value": "15 Aug 2005",
+  "note": "Wikipedia: released 15 August 2005; producers list matches exactly; genre grime."
+ },
+ {
+  "key": "lethal-bizzle-against-all-oddz-2005",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2017-10-31 (repost of Spin, Aug 2005)",
+  "new_text": "Simon Reynolds (Spin, Aug 2005; blog repost 2017), writing before release, reported that Bizzle promised 'some grime/rock fusions' on the album and was a big fan of Green Day and Nirvana.",
+  "note": "Simon Reynolds blog 'director's cut' posted 31 Oct 2017 of his Spin piece, Aug 2005; graded by the citable page (C), original Spin Aug 2005. The text says Bizzle 'promises some grime/rock fusions' and is a big fan of Green Day and Nirvana. It does not say he cited them as influences on the album. The register's 'before release' is correct for Aug 2005."
+ },
+ {
+  "key": "lethal-bizzle-against-all-oddz-2005",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2015-08-19",
+  "note": "Aniefiok Ekpoudom: 'head-rushing cuts like What We Do and No' against the poise of 'Should Of Known' and the title track."
+ },
+ {
+  "key": "lethal-bizzle-against-all-oddz-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005 chart record",
+  "note": "OCC: Albums 89 (27/08/2005, 1 wk); Independent 7 (17 wks); Dance 15 (5 wks)."
+ },
+ {
+  "key": "lethal-bizzle-against-all-oddz-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2005 chart record",
+  "note": "OCC figures are right (Singles 34 from 29/10/2005; Dance 8; Independent 4; J-DID/V2, JAD5035653). But no source opened says 'Fire' is from Against All Oddz. The link is assumed."
+ },
+ {
+  "key": "lethal-bizzle-against-all-oddz-2005",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2015-08-19",
+  "note": "'barely scraped into the top 90'; 'Grime's most successful singles act'; 'arguably the first grime act to take the DIY ethos to social media'. Hedge kept."
+ },
+ {
+  "key": "lethal-bizzle-against-all-oddz-2005",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Promoted as grime crossing into rock' overstates. The only source is one pre-release Reynolds line saying Bizzle 'promises some grime/rock fusions'. No source shows the album's promotion or marketing. Suggest: 'Album; before release, Bizzle promised some grime/rock fusions (Spin, 2005).'"
+ },
+ {
+  "key": "southside-allstars-southside-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2018-06-06",
+  "release_field": "title",
+  "release_value": "'Southside Allstars' (Mixmag/Guardian) or 'Southside' (Complex 2014)",
+  "note": "The title is uncertain. Mixmag (Hancox, 2018) and the Guardian call the track 'Southside Allstars', with the instrumental 'Southside Riddim'. Complex (2014) calls it Southside Allstars, 'Southside'. Note both. The Guardian names creators Nikki S and Nyke (Milkymans), with 15 south London MCs; the artist field should say who led it."
+ },
+ {
+  "key": "southside-allstars-southside-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2014-09-05",
+  "release_field": "date",
+  "release_value": "2005",
+  "note": "Complex and Mixmag both give 2005. The Guardian gives no year."
+ },
+ {
+  "key": "southside-allstars-southside-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2014-09-05",
+  "release_field": "kind",
+  "release_value": "Track/video (release format unconfirmed)",
+  "note": "Kind 'Single': no source says it was issued as a single. The sources show a Channel U video and a riddim. Label unconfirmed is correct."
+ },
+ {
+  "key": "southside-allstars-southside-2005",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "c.2017 (inkl reprint of Guardian; page undated)",
+  "new_text": "In the Guardian, co-creator Nikki S calls it 'so grimey'; Nyke says producer Alias left off his audio logo, fearing Slimzee and Geeneus would shut it down.",
+  "note": "Wrong speaker. 'It was so grimey' is Nikki S, quoted by Hancox, not Hancox's own words. The audio-logo claim is 'reportedly', and is Nyke's account: Alias feared 'his tunes would get shut down by Slimzee and Geeneus'. Name them rather than 'east London DJs' or say 'Rinse FM's Slimzee and Geeneus'. Original publisher is the Guardian; the page cited is an inkl reprint."
+ },
+ {
+  "key": "southside-allstars-southside-2005",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2018-06-06",
+  "note": "Dan Hancox: 'perhaps the most ostentatious example of grime's neighbourhood pride'. Hedge kept."
+ },
+ {
+  "key": "southside-allstars-southside-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2018-06-06",
+  "new_text": "It reflected the south-versus-east London tensions of early-2000s grime (Mixmag, 2018).",
+  "note": "Mixmag says it 'reflected the south v. east tensions of the early 2000s'. It does not say it was written in response to them."
+ },
+ {
+  "key": "southside-allstars-southside-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2014-09-05",
+  "note": "Henry Yanney: Channel U premiered the two borough anthems, with B.M.D.'s 'North Weezee' as the north London counterpart."
+ },
+ {
+  "key": "southside-allstars-southside-2005",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "c.2017 (inkl reprint of Guardian)",
+  "note": "Faces to voices from pirate radio and vinyl; early steps towards pop."
+ },
+ {
+  "key": "southside-allstars-southside-2005",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "note": "'On Alias's Southside Riddim' is supported (Mixmag; Guardian credits Alias). 'South London's answer to an East London-centred scene' goes beyond the sources. They say it reflected south-v-east tensions and showed neighbourhood pride; none calls the scene East London-centred or the track an 'answer'. Suggest: 'Evidence specimen; a south London all-star posse track on Alias's Southside Riddim, reflecting south-v-east tensions (Mixmag 2018).'"
+ },
+ {
+  "key": "ghetto-2000-and-life-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2016-03-14",
+  "release_field": "date",
+  "release_value": "2005 (VICE lists it among 2006 mixtapes)",
+  "note": "Stereogum and Wikipedia give 2005. But VICE (2 Jan 2007) lists it among the Top 10 Mixtapes of 2006, so it was in circulation or reissued in 2006. Note the conflict."
+ },
+ {
+  "key": "ghetto-2000-and-life-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "unsupported",
+  "grade": null,
+  "pub_date": null,
+  "release_field": "label",
+  "release_value": "Unknown",
+  "note": "No source opened says it was self-released. Link Up says only that it was bought at Deal Real."
+ },
+ {
+  "key": "ghetto-2000-and-life-2005",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2019-11-28",
+  "new_text": "Link Up TV (2019) says it mixed original beats with well-known US hip-hop instrumentals (Kanye West's '2 Words', Mobb Deep) and showed Ghetts 'at his raw best'.",
+  "note": "Link Up (Daniel David): 'a mixture of Ghetts spitting over original beats and other well known beats' (e.g. Kanye West's '2 Words', Mobb Deep's 'Getaway'). It does not call the originals grime beats. 'Garnered some buzz and featured Ghetts at his raw best' is supported."
+ },
+ {
+  "key": "ghetto-2000-and-life-2005",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2016-03-14",
+  "new_text": "Stereogum (2016) names 2000 & Life, his 2005 debut, as showing Ghetts is 'one of the best', in an entry noting his complex, hard-hitting lyrics since his N.A.S.T.Y. Crew days.",
+  "note": "The Stereogum entry is for Ghetts' 'Practice Hours Freestyle' (2006 DVD), not 2000 & Life. It says he 'has been known for his uncompromisingly complex and hard-hitting lyrics' since N.A.S.T.Y. days, and that 2000 & Life and his freestyles show he is 'one of the best'. It is not 'cited as proof of' that lyricism."
+ },
+ {
+  "key": "ghetto-2000-and-life-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2026 (IPFS Wikipedia snapshot)",
+  "note": "Wikipedia: released from prison in 2003 aged 18; 'put out his first release, 2000 & Life in 2005'; 24 tracks; Plaistow, Newham; NASTY Crew; founded The Movement. 'Made after' is a fair paraphrase of 'after being released'."
+ },
+ {
+  "key": "ghetto-2000-and-life-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2007-01-02",
+  "note": "VICE Staff, 'Grime in 2006', published 2 Jan 2007: a near-contemporary year review, but outside 2002-2006 so graded C under the strict rule. Fourth in the Top 10 Mixtapes list, with no commentary. The register grades this A; downgrade."
+ },
+ {
+  "key": "ghetto-2000-and-life-2005",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2019-11-28",
+  "note": "The author 'picked it up at Deal Real, the much missed hip hop shop in Carnaby Street'; 'garnered some buzz'."
+ },
+ {
+  "key": "ghetto-2000-and-life-2005",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Sold in shops' rests on one shop (Deal Real). 'Mixes grime beats with US hip-hop instrumentals' overstates: Link Up says 'original beats'. Suggest: 'Mixtape (bought at Deal Real); mixes original beats with US hip-hop instrumentals.'"
+ },
+ {
+  "key": "roll-deep-shake-a-leg-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated listing",
+  "release_field": "cat",
+  "release_value": "RELCD22",
+  "note": "45worlds: Roll Deep, Shake A Leg (Radio Edit) / Heat Up, Relentless, RELCD22, CD single, October 2005; producers Danny Weed, and Danny Weed & Wiley for Heat Up. OCC charts it under RELDX22."
+ },
+ {
+  "key": "roll-deep-shake-a-leg-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005-10-13",
+  "release_field": "date",
+  "release_value": "10 Oct 2005",
+  "note": "Record of the Day (13 Oct 2005): impact date 10 October. The 25 Aug 2005 item had said 3 October. Wikipedia mirror says released 10 October 2005."
+ },
+ {
+  "key": "roll-deep-shake-a-leg-2005",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated listing",
+  "note": "45worlds sleeve: 'Contains elements from Mambo Craze' (Pit Baumgartner), performed by De Phazz feat. Pat Appleton. Also credits 'Adios' (Madriguera/Woods) as a second source, which the register omits. ROTD (2005, A) states the Mambo Craze sample too."
+ },
+ {
+  "key": "roll-deep-shake-a-leg-2005",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005-08-25",
+  "note": "ROTD: 'irresitably great summer fun'; 'It's pop, but it's also smart and witty.' Contemporary trade sheet, so grade A, not C."
+ },
+ {
+  "key": "roll-deep-shake-a-leg-2005",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2006-01-13",
+  "note": "Dan Raper: 'salsa-quoting \"Shake a Leg\" sort of remind you of \"Mambo No. 5\"?' Posed as a question; a hedge such as 'wonders whether' would be more faithful."
+ },
+ {
+  "key": "roll-deep-shake-a-leg-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005 chart record",
+  "note": "OCC: Singles 24 (22/10/2005, 5 wks); Physical 18; Downloads 31; cat RELDX22."
+ },
+ {
+  "key": "roll-deep-shake-a-leg-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005-10-13",
+  "note": "'no 7 in the pre-release airplay chart'; 'a modest midweek chart position'. Contemporary, so grade A, not C."
+ },
+ {
+  "key": "roll-deep-shake-a-leg-2005",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2017-10-31 (repost of Spin, Aug 2005)",
+  "note": "Simon Reynolds blog 'director's cut' posted 31 Oct 2017 of his Spin piece, Aug 2005; graded by the citable page (C), original Spin Aug 2005. 'Roll Deep's debut likewise skimps on uncut grime in favour of conventional hip hop and novelty tunes.' The register grades this A; downgrade."
+ },
+ {
+  "key": "roll-deep-shake-a-leg-2005",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Filed as pop by a 2005 trade review' is supported: ROTD 25 Aug 2005 says 'It's pop'. 'Filed as grime by its album's sources' is supported: the Wikipedia In at the Deep End infobox gives Grime, Hip Hop. PopMatters calls the album 'grime-for-beginners' and 'pop-rap'. But 'lounge-salsa sample' is not supported. PopMatters says 'salsa-quoting'; no source opened calls Mambo Craze or De Phazz 'lounge'. Suggest 'a salsa-quoting sample'."
+ },
+ {
+  "key": "rebound-x-rhythm-and-gash-2006",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2020-11-20",
+  "release_field": "kind",
+  "release_value": "Single / EP track (format not stated)",
+  "note": "RA files it as label 'White label' and says the track first appeared on the 2006 EP Land Of X ('He never released another record'). No source says 12-inch or vinyl. Elijah (VICE 2015): 'came out back in 2006'."
+ },
+ {
+  "key": "rebound-x-rhythm-and-gash-2006",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2020-11-20",
+  "note": "'bouncy and fun the whole way through, in a traditional eight-bar grime style'; 'The drop is really impactful'; 'the diva wails soared over the gut-punching heave of drums and bass'. The 'really unique way of using a vocal sample' quote is Logan Sama. Naming him would be more precise than 'a source quoted by RA'."
+ },
+ {
+  "key": "rebound-x-rhythm-and-gash-2006",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2016-04-08",
+  "note": "Joseph JP Patterson: 'this lyric-free creation', 'this rolling, bass-bouncing riddim', 'haunting, soul-touching riddim'. The URL path says 2015/07, but the page is dated 8 Apr 2016."
+ },
+ {
+  "key": "rebound-x-rhythm-and-gash-2006",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2020-11-20",
+  "note": "RWD and VIP2 forums; vanished around 2008; Mr. Mitch 'it didn't really get no love'; some say he 'didn't even register the tune for PRS'."
+ },
+ {
+  "key": "rebound-x-rhythm-and-gash-2006",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2020-11-20",
+  "note": "Skepta, 2007 Rinse FM: 'It's tune of the month'; 'Spaceship Freestyle' a key turning point; Sama: 'It became a call-and-response record', 'It does the job', 'guaranteed'."
+ },
+ {
+  "key": "rebound-x-rhythm-and-gash-2006",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2015-11-27",
+  "note": "Elijah (speaker): 'the biggest grime instrumental?' (with a question mark, which 'suggests' preserves); 'came out back in 2006'; DJ EZ playing Flava D's remix."
+ },
+ {
+  "key": "rebound-x-rhythm-and-gash-2006",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2016-04-08",
+  "note": "Faze Miyake: 'one of the most universal grime tunes out'; Plastician: 'I don't think its popularity has even peaked.'"
+ },
+ {
+  "key": "rebound-x-rhythm-and-gash-2006",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Lyric-free' (Complex), 'traditional eight-bar structure' (RA) and 'often cited as a classic' (VICE, Complex, RA, and its place in Son Raw's 2014 Classic Grime Riddims mix) are all supported. All the evidence is 2015-2020 (grade C); there is no contemporary source."
+ },
+ {
+  "key": "tinchy-stryder-im-back-u-know-2006",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2026 (IPFS Wikipedia snapshot)",
+  "release_field": "date",
+  "release_value": "2 Mar 2006",
+  "note": "Wikipedia infobox: mixtape, Boy Better Know, producer Kwasi Danquah III, genre grime; release date '2 March 2006' (body text) and 'March 2nd, 2006' (infobox) agree. VICE (2007) confirms the JME/Skepta co-sign but not the BBK label as such."
+ },
+ {
+  "key": "tinchy-stryder-im-back-u-know-2006",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2026 (IPFS Wikipedia snapshot)",
+  "note": "'Featuring 17 original productions with Stryder on the mic from start to finish'; guests 'Wiley, Kano and Flow Dan'."
+ },
+ {
+  "key": "tinchy-stryder-im-back-u-know-2006",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2026 (IPFS Wikipedia snapshot)",
+  "note": "'the first of 3 mixtapes by Tinchy Stryder'."
+ },
+ {
+  "key": "tinchy-stryder-im-back-u-know-2006",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2007-01-02",
+  "new_text": "VICE (Jan 2007) names JME and Skepta's co-signing of I'm Back U Know among Boy Better Know's 2006 activity.",
+  "note": "VICE Staff, 'Grime in 2006', published 2 Jan 2007: a near-contemporary year review, but outside 2002-2006 so graded C under the strict rule. VICE says the camp was 'co-signing Tinchy Stryder's I'm Back U Know' (with Frisco's Back To The Lab). It does NOT call it an album. 'Street albums or mixtapes' describes BBK's catalogue in general."
+ },
+ {
+  "key": "tinchy-stryder-im-back-u-know-2006",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Mixtape of 17 original productions' matches Wikipedia. That is its only source, and grade C."
+ },
+ {
+  "key": "skepta-duppy-2006",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-04-22",
+  "release_field": "date",
+  "release_value": "2006 (Stereogum gives 2007, the album year)",
+  "note": "FACT heading: 'SKEPTA DUPPY (BOY BETTER KNOW, 2006)'; Complex says originally released 2006, then on Greatest Hits (17 Sep 2007, Wikipedia). Stereogum heads it 'from Greatest Hits, 2007'."
+ },
+ {
+  "key": "skepta-duppy-2006",
+  "field": "release",
+  "index": null,
+  "verdict": "unsupported",
+  "grade": null,
+  "pub_date": null,
+  "release_field": "kind",
+  "release_value": "Track/single (format not stated)",
+  "note": "No source opened gives a format. 'Kind: 12-inch' is inferred from FACT's 'white label heyday'. Wikipedia's discography lists it only as track 3 of Greatest Hits, titled 'Duppy (Doin' It Again)'."
+ },
+ {
+  "key": "skepta-duppy-2006",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2016-03-14",
+  "note": "'drum-and-bass feel made it an instant hit in clubs and raves across the UK'."
+ },
+ {
+  "key": "skepta-duppy-2006",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2016-07-01",
+  "note": "Mixmag: 'Hard-to-shake vocal hooks' (fair to paraphrase as sticky; 'sticky' itself is not used, so don't present it as a quote); 'An anthem for the bling-bling, shades-in-the-club era of Boy Better Know'."
+ },
+ {
+  "key": "skepta-duppy-2006",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-04-22",
+  "note": "Tom Lea; 'Originally posted in 2011'. 'one of the last genuine anthems from grime's white label heyday'. A quote should use 'genuine anthems', not 'big anthems'."
+ },
+ {
+  "key": "skepta-duppy-2006",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2016-07-01",
+  "note": "'an instant classic for DJ EZ who included it on Pure Garage Rewind Back To The Old Skool' 'just a year after its release'."
+ },
+ {
+  "key": "skepta-duppy-2006",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2026-11-04 (page date as shown; list originally c.2015-16)",
+  "note": "James Keith entry: originally released 2006, on Greatest Hits 'the following year', 'cemented Skepta's reputation as both MC and producer'. The page now shows a 4 Nov 2026 date, probably an update; the original date was not found."
+ },
+ {
+  "key": "skepta-duppy-2006",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2016-03-14",
+  "note": "'one of the last grime anthems to come out of the early-to-mid-2000s heyday'."
+ },
+ {
+  "key": "skepta-duppy-2006",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Drum-and-bass-feel riddim' is supported (Stereogum). 'Nine MCs trading bars' is supported only by Complex ('a grand total of nine (yes, nine) spitters': Skepta plus Trim, Wiley, Creed, JME, Jammer, Footsie, Bossman, Bearman). That page is not cited in basis or sound. Mixmag lists eight (Skepta, JME, Jammer, Wiley, Bossman Birdie, Footsie, Bear Man, Trim; no Creed). Sources disagree, so hedge to 'eight or nine MCs' or cite Complex. 'Trading bars' is a reasonable description of a posse cut but is not stated."
+ },
+ {
+  "key": "wiley-da-2nd-phaze-2006",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "Wikipedia (undated)",
+  "release_field": "label",
+  "release_value": "Boy Better Know",
+  "note": "Da 2nd Phaze article: released 1 July 2006 by Boy Better Know; producers Wiley, JME, Decoy, Rapid, Mizz Beats, Platinum 45 ('Oi', performed by More Fire Crew). Discography: CD, digital download. Caveat: XLR8R quotes Big Dada's Jamie Collinson saying Wiley 'had gone and released it on his own'."
+ },
+ {
+  "key": "wiley-da-2nd-phaze-2006",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2015-06-09",
+  "note": "Joseph 'JP' Patterson: 'drawn-out, wallowing low-end on the Rihanna-licked production'; 'A reflective grimey number for the chill-out room'. 'Heavy' is a gloss on 'wallowing'."
+ },
+ {
+  "key": "wiley-da-2nd-phaze-2006",
+  "field": "sound",
+  "index": 1,
+  "verdict": "unsupported",
+  "grade": "C",
+  "pub_date": "2007-09-21",
+  "new_text": "XLR8R (2007) describes Wiley's earlier 'Eski' style as a darker, stripped-down take on grime, and lists Da 2nd Phase (sic) among his 2006 releases; it does not link the two.",
+  "note": "XLR8R ('Wiley: Grit City', Will Fewell) describes Eski as 'a darker, stripped-down take on grime' Wiley 'soon began championing' in his early career. It never links Da 2nd Phase (its spelling) to Eski. It does not place the album in that style."
+ },
+ {
+  "key": "wiley-da-2nd-phaze-2006",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2007-01-02",
+  "note": "VICE Staff, 'Grime in 2006', published 2 Jan 2007: a near-contemporary year review, but outside 2002-2006 so graded C under the strict rule. 'much-delayed second album'; JME and Skepta convinced Wiley to leave his Roll Deep entourage and oversaw the release."
+ },
+ {
+  "key": "wiley-da-2nd-phaze-2006",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2026 (IPFS Wikipedia snapshot)",
+  "new_url": "https://en.wikipedia.org/wiki/Da_2nd_Phaze",
+  "note": "The cited BBK page supports 'founded in North London in 2005' by JME and Skepta. It does NOT mention Wiley leaving XL; that is in the Da 2nd Phaze article. Split, or cite both."
+ },
+ {
+  "key": "wiley-da-2nd-phaze-2006",
+  "field": "context",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2007-09-21",
+  "note": "XLR8R does say the album and Tunnel Vision were 'released through MC/producer JME's Boy Better Know imprint'. The same article quotes Big Dada's Jamie Collinson: Wiley 'had gone and released it on his own'. The item should note the internal conflict."
+ },
+ {
+  "key": "wiley-da-2nd-phaze-2006",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "unsupported",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Album placed by XLR8R (2007) in Wiley's eski style' is false: XLR8R does not connect the album to Eski. type.of 'Eskibeat' then rests only on the Wikipedia infobox genre ('Grime; eskibeat'), which is grade C and undated. Suggest: 'Context artefact; Wikipedia lists its genre as grime and eskibeat.' Also reconsider type.of Eskibeat vs Grime: VICE 2007 (C) treats it in a grime year review."
+ },
+ {
+  "key": "jme-shh-hut-yuh-muh-2006",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2026 (IPFS Wikipedia snapshot)",
+  "release_field": "title",
+  "release_value": "Boy Better Know - Edition 1: Shh Hut Yuh Muh",
+  "note": "Both Wikipedia mirrors: '2006: Boy Better Know - Edition 1: Shh Hut Yuh Muh'. No label is listed per mixtape (BBK is his label in the infobox). Complex spells it 'Shut Yuh Muh'."
+ },
+ {
+  "key": "jme-shh-hut-yuh-muh-2006",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2015-05-07",
+  "note": "Laura Brosnan: 'Old School' (2006) from the 'Shut Yuh Muh' mixtape [sic]; 'a great show of Jme's lyrical evolution', 'turret-like outbursts', 'hilarious lines'."
+ },
+ {
+  "key": "jme-shh-hut-yuh-muh-2006",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2007-01-02",
+  "note": "VICE Staff, 'Grime in 2006', published 2 Jan 2007: a near-contemporary year review, but outside 2002-2006 so graded C under the strict rule. 'grime's first real catalogue of street albums or mixtapes, rather than just random white labels'."
+ },
+ {
+  "key": "jme-shh-hut-yuh-muh-2006",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2026 (IPFS Wikipedia snapshot)",
+  "note": "Born in Hackney (the infobox oddly says Tottenham), grew up in Tottenham; Meridian Crew with Skepta; co-founded Boy Better Know."
+ },
+ {
+  "key": "jme-shh-hut-yuh-muh-2006",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2007-01-02",
+  "note": "VICE Staff, 'Grime in 2006', published 2 Jan 2007: a near-contemporary year review, but outside 2002-2006 so graded C under the strict rule. 'JME and his brother Skepta got SERIOUS' after three solo JME mixtapes. Note that Wikipedia lists four 2006 JME 'Edition' tapes."
+ },
+ {
+  "key": "jme-shh-hut-yuh-muh-2006",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Mixtape' is supported (Wikipedia, VICE)."
+ }
+]
