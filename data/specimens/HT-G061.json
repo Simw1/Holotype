@@ -1,0 +1,147 @@
+{
+ "id": "HT-G061",
+ "key": "southside-allstars-southside-2005",
+ "sort": "2005-09-01",
+ "year": 2005,
+ "date": "2005",
+ "kind": "Single",
+ "artist": "Southside Allstars",
+ "title": "Southside",
+ "label": "Unconfirmed",
+ "cat": null,
+ "format": null,
+ "producers": [
+  "Alias (instrumental, the 'Southside Riddim')"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; South London's answer to an East London-centred scene, on Alias's Southside Riddim."
+ },
+ "sound": [
+  {
+   "text": "Dan Hancox in the Guardian calls it 'so grimey'. Producer Alias left off his usual audio logo, reportedly fearing east London DJs would shut it down.",
+   "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Mixmag (2018) calls it perhaps the most ostentatious example of grime's neighbourhood pride.",
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Written in response to south-versus-east London rivalry in early-2000s grime (Mixmag, 2018).",
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Complex (2014) lists the 'Southside' video as a 2005 Channel U anthem representing south London, paired with B.M.D.'s north London 'North Weezee'.",
+   "url": "https://www.complex.com/music/2014/09/15-channel-u-videos-we-will-never-forget",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "The Guardian piece argues that Channel U all-star videos put faces to voices and were early steps in grime's move towards pop.",
+   "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime",
+   "source": "Mixmag",
+   "year": 2018,
+   "url": "https://mixmag.net/feature/history-of-grime"
+  },
+  {
+   "label": "grime",
+   "source": "The Guardian (via inkl)",
+   "year": null,
+   "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network"
+  }
+ ],
+ "rels": [
+  {
+   "type": "companion_or_rival_anthem",
+   "other": "B.M.D. - North Weezee (2005)",
+   "url": "https://www.complex.com/music/2014/09/15-channel-u-videos-we-will-never-forget"
+  },
+  {
+   "type": "producer",
+   "other": "Alias (also producer of 'Gladiator', researched in batch C)",
+   "url": "https://mixmag.net/feature/history-of-grime"
+  }
+ ],
+ "uncertainty": "No label, catalogue number or physical format found; the 2005 date comes from Mixmag and Complex and may refer to the video or Channel U broadcast, not a commercial release. The Guardian article was read through an inkl syndication page with no visible date; internal references suggest c. 2017.",
+ "tracklist": "All-star posse cut with verses from 15 south London MCs, each representing a crew, area or postcode (Mixmag, 2018; Guardian). Complex (2014) says Bashy and Asher D appear on it or on B.M.D.'s 'North Weezee'; it does not say which.",
+ "sources": [
+  {
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "domain": "mixmag.net"
+  },
+  {
+   "url": "https://budx.mixmag.net/feature/history-of-grime",
+   "domain": "budx.mixmag.net"
+  },
+  {
+   "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network",
+   "domain": "inkl.com"
+  },
+  {
+   "url": "https://www.complex.com/music/2014/09/15-channel-u-videos-we-will-never-forget",
+   "domain": "complex.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

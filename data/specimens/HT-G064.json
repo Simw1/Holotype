@@ -1,0 +1,169 @@
+{
+ "id": "HT-G064",
+ "key": "rebound-x-rhythm-and-gash-2006",
+ "sort": "2006-03-01",
+ "year": 2006,
+ "date": "2006",
+ "kind": "12-inch",
+ "artist": "Rebound X",
+ "title": "Rhythm & Gash (Pt. 1)",
+ "label": "White label",
+ "cat": null,
+ "format": "Uncertain: RA (2020) files it as a white-label single but also says the track appeared on the 2006 EP 'Land Of X', his only release",
+ "producers": [
+  "Rebound X"
+ ],
+ "lane": "inst",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "A lyric-free riddim with a traditional eight-bar structure, often cited as a classic."
+ },
+ "sound": [
+  {
+   "text": "RA (2020) describes a bouncy, traditional eight-bar grime structure with a very impactful drop, a heaving drums-and-bass push and a diva-style vocal sample; a source quoted by RA calls it 'a really unique way of using a vocal sample'.",
+   "url": "https://ra.co/reviews/25204",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Complex (Joseph JP Patterson, April 2016) calls it a lyric-free, 'rolling, bass-bouncing' and haunting riddim.",
+   "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "RA (Carlos Hawthorn, 'Rewind', 20 Nov 2020): Rebound X posted on the RWD and VIP2 forums and appears to have left the internet around 2008; Mr. Mitch said the tune 'didn't really get no love' when first shared on the forums; some say it was never registered with PRS.",
+   "url": "https://ra.co/reviews/25204",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "RA says Skepta named it 'tune of the month' on a 2007 Rinse FM recording and that Skepta and JME's 'Spaceship Freestyle' was the turning point; DJ Logan Sama describes it as a dependable call-and-response dancefloor record.",
+   "url": "https://ra.co/reviews/25204",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "VICE (Josh Baines, 27 Nov 2015): Elijah of Butterz suggests it may be the biggest grime instrumental, says it 'came out back in 2006', and notes DJ EZ playing Flava D's remix revived it.",
+   "url": "https://www.vice.com/en/article/elijah-and-skilliams-essential-grime-instrumentals",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Complex (2016) quotes Faze Miyake calling it 'one of the most universal grime tunes out' and Plastician saying its popularity may not yet have peaked.",
+   "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime",
+   "source": "Resident Advisor (Rewind review, Carlos Hawthorn)",
+   "year": 2020,
+   "url": "https://ra.co/reviews/25204"
+  },
+  {
+   "label": "grime instrumental",
+   "source": "VICE (Elijah & Skilliam essential grime instrumentals)",
+   "year": 2015,
+   "url": "https://www.vice.com/en/article/elijah-and-skilliams-essential-grime-instrumentals"
+  },
+  {
+   "label": "grime riddim",
+   "source": "Complex (Joseph JP Patterson)",
+   "year": 2016,
+   "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash"
+  }
+ ],
+ "rels": [
+  {
+   "type": "voiced_by",
+   "other": "Skepta and JME - 'Spaceship Freestyle' (2007)",
+   "url": "https://ra.co/reviews/25204"
+  },
+  {
+   "type": "voiced_by",
+   "other": "Tempa T and President T vocal versions (Complex places these about two years after 2007)",
+   "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash"
+  },
+  {
+   "type": "voiced_by",
+   "other": "Skepta with Jammer - 'I Spy' (per Complex 2016)",
+   "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash"
+  },
+  {
+   "type": "remix",
+   "other": "Sir Spyro remix; Murlo remix; Flava D 4x4 edit/remix (DJ EZ support)",
+   "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash"
+  }
+ ],
+ "uncertainty": "Release format is unclear: RA labels it a white-label single but also says it appeared on the 2006 'Land Of X' EP. No catalogue number or label name was found. The 2006 date rests on RA (2020) and VICE (2015); Complex's 2016 piece says it was 'ten years after its initial release' in 2015, which roughly agrees. Discogs was not reachable.",
+ "tracklist": "RA lists a single track, 'Rhythm & Gash Pt. 1'. RA says it appeared on the 2006 EP 'Land Of X'; no tracklist for that EP was found.",
+ "sources": [
+  {
+   "url": "https://ra.co/reviews/25204",
+   "domain": "ra.co"
+  },
+  {
+   "url": "https://www.vice.com/en/article/elijah-and-skilliams-essential-grime-instrumentals",
+   "domain": "vice.com"
+  },
+  {
+   "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://www.musicismysanctuary.com/?p=42268",
+   "domain": "musicismysanctuary.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

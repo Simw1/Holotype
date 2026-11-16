@@ -1,0 +1,172 @@
+{
+ "id": "HT-G059",
+ "key": "lady-sovereign-9-to-5-2005",
+ "sort": "2005-08-08",
+ "year": 2005,
+ "date": "8 Aug 2005",
+ "kind": "Single",
+ "artist": "Lady Sovereign",
+ "title": "9 to 5",
+ "label": "Island",
+ "cat": "12IS898",
+ "format": "CD single (two editions) and 12-inch, per Wikipedia",
+ "producers": [
+  "Medasyn"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen at the pop edge of the scene; reviews call it peppy pop with grime roots."
+ },
+ "sound": [
+  {
+   "text": "Contains a sample from the film Time Bandits (Wikipedia).",
+   "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "PopMatters (2006) places it at the poppy end of her range, calling it 'peppy pop'.",
+   "url": "https://www.popmatters.com/lady-sovereign-public-warning-2495703251.html",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "The FADER (2005) says her sing-song choruses temper the roughness associated with grime, and that her album draws on ska, electro and new wave.",
+   "url": "https://thefader.com/2005/11/15/a-common-phenomenon",
+   "g": "A",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Official Singles Chart peak no. 33 (first chart date 20/08/2005, 3 weeks); no. 17 on the Official Dance Singles Chart (OCC).",
+   "url": "https://www.officialcharts.com/songs/lady-sovereign-9-to-5/",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "A re-recorded Ordinary Boys version, 'Nine2Five' (2006), reached UK no. 6 (Wikipedia); The FADER (2005) reported the Ordinary Boys had been commissioned to cover it.",
+   "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "NPR (2007) introduces her as coming out of Britain's grime scene.",
+   "url": "https://www.npr.org/2007/01/29/7061254/lady-sovereign-little-rapper-with-a-big-voice",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "peppy pop (the track); grime-pop (her earlier work)",
+   "source": "PopMatters",
+   "year": 2006,
+   "url": "https://www.popmatters.com/lady-sovereign-public-warning-2495703251.html"
+  },
+  {
+   "label": "artist from the grime scene",
+   "source": "NPR",
+   "year": 2007,
+   "url": "https://www.npr.org/2007/01/29/7061254/lady-sovereign-little-rapper-with-a-big-voice"
+  },
+  {
+   "label": "'alternative grime' with ska and punk influences (the then-forthcoming album)",
+   "source": "Simon Reynolds, Spin (blog director's cut)",
+   "year": 2005,
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+  }
+ ],
+ "rels": [
+  {
+   "type": "remixed_by",
+   "other": "JME (JME remix on CD2 and 12-inch)",
+   "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)"
+  },
+  {
+   "type": "re_recorded_as",
+   "other": "The Ordinary Boys vs. Lady Sovereign - Nine2Five (2006)",
+   "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)"
+  },
+  {
+   "type": "follows",
+   "other": "Lady Sovereign - Random (already in register)",
+   "url": "https://www.popmatters.com/lady-sovereign-public-warning-2495703251.html"
+  }
+ ],
+ "uncertainty": "OCC catalogue 12IS898 presumably the 12-inch; CD catalogue numbers not found. Wikipedia's Def Jam/Island attribution not checked against a sleeve. No source opened calls the single itself grime; genre calls are about the artist or album.",
+ "tracklist": "CD1: 9 to 5 / Tango. CD2: original, 'Nine2Five' (Ordinary Boys remix), JME remix, two Tony Senghore mixes, video. 12-inch: five tracks including original, JME remix and two Tony Senghore mixes (Wikipedia). Writers: Louise Harman and Gabriel Olegavich. Later on the album Public Warning (2006).",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://www.officialcharts.com/songs/lady-sovereign-9-to-5/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://www.popmatters.com/lady-sovereign-public-warning-2495703251.html",
+   "domain": "popmatters.com"
+  },
+  {
+   "url": "https://thefader.com/2005/11/15/a-common-phenomenon",
+   "domain": "thefader.com"
+  },
+  {
+   "url": "https://www.npr.org/2007/01/29/7061254/lady-sovereign-little-rapper-with-a-big-voice",
+   "domain": "npr.org"
+  },
+  {
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "domain": "reynoldsretro.blogspot.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

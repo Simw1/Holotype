@@ -1,0 +1,171 @@
+{
+ "id": "HT-G012",
+ "key": "mark-one-fight-terr001-2003",
+ "sort": "2003-05-01",
+ "year": 2003,
+ "date": "2003",
+ "kind": "12-inch",
+ "artist": "Mark One",
+ "title": "Fight / Fight (Plasticman Remix)",
+ "label": "Terrorhythm Recordings",
+ "cat": "TERR001",
+ "format": "12\" (single)",
+ "producers": [
+  "Mark One (Mark Foster)",
+  "Plasticman (remix)"
+ ],
+ "lane": "dark",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen. No published description of its sound was found, so every character is drafted."
+ },
+ "sound": [],
+ "context": [
+  {
+   "text": "Terrorhythm was founded in 2002 by Plastician; TERR001 was Mark One's 'Fight' with a Plasticman remix.",
+   "url": "https://en.wikipedia.org/wiki/Plastician",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "In 2003 Plastician had a weekly Rinse FM slot alongside Mark One (MRK1) and Virus Syndicate.",
+   "url": "https://en.wikipedia.org/wiki/Plastician",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "Mark One later recorded as MRK1; the MRK1 article lists 'Fight' as a 2003 single on 'Terro Rhythm'.",
+   "url": "https://mdwiki.org/wiki/MRK1",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (mdwiki mirror of Wikipedia)"
+  },
+  {
+   "text": "Plastician describes 'Fight' as a collaboration with Mark One on Terrorhythm.",
+   "url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso",
+   "g": "A",
+   "checked": true,
+   "pub": "2004 (RBMA lecture, Rome)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "remix",
+   "other": "Fight (Plasticman Remix), on the same release",
+   "url": "https://en.wikipedia.org/wiki/Plastician"
+  }
+ ],
+ "uncertainty": "No published description of the sound was found. The format ('12\"') is inferred from Terrorhythm being a vinyl label and from the A/B remix pairing; Discogs could not be opened to confirm it. The MRK1 article was read on an mdwiki.org mirror of Wikipedia.",
+ "tracklist": "Original plus Plasticman remix. First release on Plasticman's Terrorhythm label.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Plastician",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://mdwiki.org/wiki/MRK1",
+   "domain": "mdwiki.org"
+  },
+  {
+   "url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso",
+   "domain": "redbullmusicacademy.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "found",
+   "labels": [
+    "electronic",
+    "terr001",
+    "bass",
+    "beats",
+    "dubstep",
+    "experimental",
+    "fight",
+    "grime",
+    "instrumental",
+    "mark one",
+    "old school",
+    "plastician",
+    "plasticman",
+    "terrorhythm",
+    "Manchester"
+   ],
+   "match": "exact",
+   "release": "Fight",
+   "level": "tags",
+   "url": "https://mrk1music.bandcamp.com/album/fight",
+   "retrieved": "2026-11-16",
+   "verdict": "correct"
+  }
+ ],
+ "round": 1
+}

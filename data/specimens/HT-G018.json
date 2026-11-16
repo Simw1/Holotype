@@ -1,0 +1,226 @@
+{
+ "id": "HT-G018",
+ "key": "wiley-wot-do-u-call-it",
+ "sort": "2004-04-05",
+ "year": 2004,
+ "date": "5 Apr 2004",
+ "kind": "Single",
+ "artist": "Wiley",
+ "title": "Wot Do U Call It?",
+ "label": "XL Recordings",
+ "cat": "XLS179CD",
+ "format": "CD single and digital EP; FACT also refers to an XL 12\"",
+ "producers": [
+  "Wiley"
+ ],
+ "lane": "eski",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Eskibeat",
+  "holotype": "HT-G005",
+  "basis": "Vocal over the Igloo instrumental; Wiley's own record about what to call the sound."
+ },
+ "sound": [
+  {
+   "text": "An up-tempo, syncopated bounce with a 'compressed brass underscore' and 8-bit, Nintendo-like effects (MusicTech).",
+   "url": "https://www.musictech.net/guides/essential-guide/genre-primer-grime/",
+   "g": "C",
+   "checked": true,
+   "pub": "undated genre primer (MusicTech)"
+  },
+  {
+   "text": "Built from 'digital tuba and caustic bass' (Son Raw, Complex, 2016).",
+   "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited",
+   "g": "C",
+   "checked": true,
+   "pub": "Apr 2016"
+  },
+  {
+   "text": "Uses the Igloo template with a more pop-oriented song structure (Complex, 2019).",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "g": "C",
+   "checked": true,
+   "pub": "6 Aug 2019"
+  },
+  {
+   "text": "PopMatters (Terry Sawyer, 2004 review) says it 'sounds like Mouse on Mars going insane inside a hip-hop song'.",
+   "url": "https://popmatters.com/wiley-treddin-2496117747.html",
+   "g": "A",
+   "checked": true,
+   "pub": "9 Sep 2004"
+  }
+ ],
+ "context": [
+  {
+   "text": "Peaked at No. 31 on the UK Official Singles Chart and No. 2 on the Independent Singles Chart; first charted 17 April 2004.",
+   "url": "https://www.officialcharts.com/songs/wiley-wot-do-u-call-it/",
+   "g": "A",
+   "checked": true,
+   "pub": "official chart record (first charted 17 Apr 2004)"
+  },
+  {
+   "text": "Wiley's debut single and the lead single from Treddin' on Thin Ice; the video was shot in his local area of East London.",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Wot_Do_U_Call_It%3F",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026 (IPFS mirror)"
+  },
+  {
+   "text": "Complex calls it eskibeat's mainstream breakout and 'the first grime tune about grime'.",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "g": "C",
+   "checked": true,
+   "pub": "6 Aug 2019"
+  },
+  {
+   "text": "In October 2003 Wiley said his next single would be 'What Do You Call It', on the Igloo rhythm, explaining 'how we started doing garage and then they started turning their back to us'.",
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+   "g": "B",
+   "checked": true,
+   "pub": "reprint c. 2014; interview Oct 2003"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "vocal_over",
+   "other": "Igloo (Wiley instrumental)",
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003"
+  },
+  {
+   "type": "vocal_over",
+   "other": "Igloo, described as the instrumental of 'Wot do u call it?'",
+   "url": "https://www.musicismysanctuary.com/?p=30046"
+  },
+  {
+   "type": "track_on",
+   "other": "Treddin' on Thin Ice (Wiley, 2004)",
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+  }
+ ],
+ "uncertainty": "The Wikipedia mirror says it was recorded in 2003. FACT mentions an XL 12\", but no 12\" catalogue number was verified. Igloo's own release details were not verified, so it is kept here as a relationship rather than a separate record.",
+ "tracklist": "CD single: 1. 'Wot Do U Call It?' (3:20); 2. 'Problems' (3:49). Digital EP: the vocal plus an instrumental.",
+ "sources": [
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Wot_Do_U_Call_It%3F",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://www.officialcharts.com/songs/wiley-wot-do-u-call-it/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://www.musictech.net/guides/essential-guide/genre-primer-grime/",
+   "domain": "musictech.net"
+  },
+  {
+   "url": "https://popmatters.com/wiley-treddin-2496117747.html",
+   "domain": "popmatters.com"
+  },
+  {
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+   "domain": "fabriclondon.com"
+  },
+  {
+   "url": "https://www.musicismysanctuary.com/?p=30046",
+   "domain": "musicismysanctuary.com"
+  },
+  {
+   "url": "https://factmag.com/2010/09/13/the-essential-wiley",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice",
+   "domain": "en.wikipedia.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "exact",
+   "release": "Wot Do U Call It? - Single",
+   "level": "album",
+   "url": "https://music.apple.com/ng/album/wot-do-u-call-it-single/1450123666",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "version",
+   "release": "Treddin' On Thin Ice",
+   "level": "album",
+   "url": "https://www.qobuz.com/us-en/interpreter/wiley/172614",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

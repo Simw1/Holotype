@@ -1,0 +1,126 @@
+{
+ "id": "HT-G045",
+ "key": "genius-cru-boom-selection-2001",
+ "sort": "2001-02-03",
+ "year": 2001,
+ "date": "2001 (chart entry 3 Feb 2001)",
+ "kind": "Single",
+ "artist": "Genius Cru",
+ "title": "Boom Selection",
+ "label": "Incentive (Kronik)",
+ "cat": "CENT17CDS",
+ "format": "12-inch and CD single (UK)",
+ "producers": [
+  "Genius Cru"
+ ],
+ "lane": "transition",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Outgroup",
+  "of": "UK garage",
+  "holotype": null,
+  "basis": "A garage-rap chart hit; sources call it UK garage and place it before the grimy era. Held as an outgroup."
+ },
+ "sound": [
+  {
+   "text": "Wikipedia notes its sample of 'Gravedigger' by the New York Rock & Roll Ensemble; no further sound description was found.",
+   "url": "https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Boom_Selection",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Official Singles Chart peak no. 12 (first chart date 3 Feb 2001); Dance chart no. 1 (2 weeks at the top, 11 weeks in all).",
+   "url": "https://officialcharts.com/songs/genius-cru-boom-selection",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Reynolds (2015, reusing his 2013 Wire Grime Primer) calls it 'the immortal Boom Selection' and places Genius Cru's playful bonhomie just before the grimy era; he treats garage rap as a flavour of 2-step and UKG.",
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-7.html",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "UK garage",
+   "source": "Wikipedia infobox",
+   "year": "accessed 2026",
+   "url": "https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Boom_Selection"
+  },
+  {
+   "label": "garage rap (a subset of 2-step/UKG), pre-'grimy era'",
+   "source": "Simon Reynolds, blissblog (Grime Primer material from 2013)",
+   "year": "2015",
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-7.html"
+  }
+ ],
+ "rels": [
+  {
+   "type": "followed_by",
+   "other": "Genius Cru – Course Bruv (late 2001)",
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-7.html"
+  }
+ ],
+ "uncertainty": "This is the weakest bridge record in the batch. Every source calls it UK garage; Reynolds sets it just before grime but does not call it grime or proto-grime, and gives no sound description. Kept as a garage-side control for the register's genre-call comparison; drop it if the register wants only records tied to grime by name.",
+ "tracklist": "12-inch: A1 Original Vocal Mix; A2 Bulletproof Dub; AA1 Gridlock Remix; the CD adds the video. Samples 'Gravedigger' by the New York Rock & Roll Ensemble.",
+ "sources": [
+  {
+   "url": "https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Boom_Selection",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://officialcharts.com/songs/genius-cru-boom-selection",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-7.html",
+   "domain": "blissout.blogspot.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

@@ -1,0 +1,147 @@
+{
+ "id": "HT-G033",
+ "key": "run-the-road-2005",
+ "sort": "2005-01-24",
+ "year": 2005,
+ "date": "24 Jan 2005",
+ "kind": "Compilation",
+ "artist": "Various artists",
+ "title": "Run the Road",
+ "label": "679 Recordings",
+ "cat": null,
+ "format": "Compilation album (CD per Discogs search listing; not verified)",
+ "producers": [],
+ "lane": "mc",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Compilation on the independent label 679, called the scene-defining survey and the first widely available in the US (Reynolds, Spin, 2005). Holds versions of several specimens."
+ },
+ "sound": [
+  {
+   "text": "PopMatters (Pierre Hamilton, 24 Mar 2005) describes electronic beats made on low-grade home computers, blending dancehall, Bronx hip hop and jungle, with thick driving bass and samples from video games, ringtones and wind chimes.",
+   "url": "https://www.popmatters.com/various-runtheroad-2496135373.html",
+   "g": "A",
+   "checked": true,
+   "pub": "24 Mar 2005"
+  },
+  {
+   "text": "The same review hears the jerkiest of flows, often grinding against the beat; it calls the opener 'Cock Back' 'hacked up and jerky'.",
+   "url": "https://www.popmatters.com/various-runtheroad-2496135373.html",
+   "g": "A",
+   "checked": true,
+   "pub": "24 Mar 2005"
+  },
+  {
+   "text": "The Daily Telegraph (Ben Thompson), quoted on Wikipedia: 'Urgent, funny, rude, and sometimes [...] alarmingly violent.'",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  }
+ ],
+ "context": [
+  {
+   "text": "RWD Magazine's Danny Walker said the first edition sold more than 20,000 copies.",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "The Evening Standard (Richard Godwin) called it an 'exhilarating introduction' to grime, and noted that several tracks were over a year old at release.",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "Simon Reynolds (Spin, 2005) called it the 'scene-defining' compilation and the first widely available in the US.",
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "g": "C",
+   "checked": true,
+   "pub": "31 Oct 2017 (blog repost)"
+  },
+  {
+   "text": "Followed by Run the Road Vol. 2 (CD plus DVD).",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "compiles",
+   "other": "Kano - P's and Q's",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road"
+  },
+  {
+   "type": "compiles",
+   "other": "Lady Sovereign - Cha Ching (Cheq 1-2 Remix)",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road"
+  },
+  {
+   "type": "compiles",
+   "other": "Terror Danjah feat. Riko, Bruza, D Double E & Hyper - Cock Back",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road"
+  },
+  {
+   "type": "compiles",
+   "other": "Jammer feat. Wiley, D Double E, Kano & Goodz - Destruction VIP",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road"
+  }
+ ],
+ "uncertainty": "No compiler or per-track producer credits were available; Discogs (master 127768) could not be fetched. PopMatters lists a release date of 8 March 2005, which matches Wikipedia's alternative-cover edition and is probably the US issue (this is inference). The catalogue number is not verified.",
+ "tracklist": "16 tracks: Terror Danjah feat. Riko, Bruza, D Double E & Hyper 'Cock Back'; Riko & Target 'Chosen One'; Roll Deep 'Let It Out'; Kano 'P's and Q's'; Jammer feat. Wiley, D Double E, Kano & Goodz 'Destruction VIP'; Dizzee Rascal feat. D Double E 'Give U More'; No Lay 'Unorthodox Daughter'; Shystie feat. Ronnie Redz, Kano & Bruza 'One Wish (Terror Remix)'; Durrty Goodz 'Gimmie Dat'; Demon feat. Big E D 'I Wont Change'; Tinchy Stryder 'Move'; Lady Sovereign 'Cha Ching (Cheq 1-2 Remix)'; Ears 'Happy Days'; The Streets feat. Kano, Donae'o, Lady Sovereign & Tinchy Stryder 'Fit But You Know It' (remix); Wonder feat. Plan B 'Cap Black'; Kano feat. Demon & Wiley 'Mic Fight'.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://www.popmatters.com/various-runtheroad-2496135373.html",
+   "domain": "popmatters.com"
+  },
+  {
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "domain": "reynoldsretro.blogspot.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://music.apple.com/us/album/run-the-road-vol-2/120196591",
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

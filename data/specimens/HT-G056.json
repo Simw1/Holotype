@@ -1,0 +1,128 @@
+{
+ "id": "HT-G056",
+ "key": "dj-target-poltergeist-aim002-2004",
+ "sort": "2004-10-25",
+ "year": 2004,
+ "date": "2004 or earlier",
+ "kind": "12-inch",
+ "artist": "DJ Target",
+ "title": "Poltergeist",
+ "label": "Aim High Recordings",
+ "cat": "AIM002",
+ "format": "Not stated (Fiddy implies vinyl but does not say so)",
+ "producers": [
+  "Not stated in sources opened (DJ Target is the credited artist)"
+ ],
+ "lane": "inst",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; no description of its sound was found, so every code is drafted."
+ },
+ "sound": [],
+ "context": [
+  {
+   "text": "Chantelle Fiddy ('Hitting the Target', first in Touch magazine, posted 25 Oct 2004) lists Poltergeist/Runaway and a Terror Danjah remix among releases on Target's Aim High label.",
+   "url": "https://chantellefiddy.blogspot.com/2004/10/hitting-target.html",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "The Aim High Vol. 2 press release posted by Fiddy (7 Jan 2005) gives Aim High's catalogue: AIM001 'Pick Yourself Up', AIM002 'Poltergeist', AIM003 'Chosen One' feat. Riko, AIM004 'Poltergeist Rmx' by Terror Danjah, AIM005 'STDS' feat. OT Crew.",
+   "url": "https://chantellefiddy.blogspot.com/2005/01/aim-high-2-press-release.html?m=1",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "DJ Target (Darren Joseph) is an East London producer, formerly of Pay As U Go, and a co-founder of Roll Deep with Wiley.",
+   "url": "https://www.nts.live/artists/21097-dj-target",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime (Planet Mu frames the Gremlinz VIP among Terror Danjah's grime instrumentals)",
+   "source": "Planet Mu",
+   "year": 2009,
+   "url": "https://planet.mu/?p=1062"
+  }
+ ],
+ "rels": [
+  {
+   "type": "remix",
+   "other": "Poltergeist (Terror Danjah remix), Aim High AIM004, 2004",
+   "url": "https://chantellefiddy.blogspot.com/2005/01/aim-high-2-press-release.html?m=1"
+  },
+  {
+   "type": "remix",
+   "other": "DJ Target: Poltergeist (Terror Danjah V.I.P. Remix), on Terror Danjah - Gremlinz (The Instrumentals 2003-2009), Planet Mu ZIQ249, 28 Sep 2009",
+   "url": "https://planet.mu/?p=1062"
+  }
+ ],
+ "uncertainty": "No source opened describes the original's sound, so sound_descriptions is empty. The producer of the original is not stated. No exact date or format was found; the 2004 date on NTS belongs to the Terror Danjah mix. Whether 'Runaway' is the B-side is inferred from Fiddy's 'Poltergeist/Runaway' wording.",
+ "tracklist": "Chantelle Fiddy's Oct 2004 post names it 'Poltergeist/Runaway'. Aim High also issued a remix by Terror Danjah ('Poltergeist Rmx', AIM004), which NTS lists as 'Poltergeist (Terra Danjah Mix)', Aim High Music, 2004.",
+ "sources": [
+  {
+   "url": "https://chantellefiddy.blogspot.com/2004/10/hitting-target.html",
+   "domain": "chantellefiddy.blogspot.com"
+  },
+  {
+   "url": "https://chantellefiddy.blogspot.com/2005/01/aim-high-2-press-release.html?m=1",
+   "domain": "chantellefiddy.blogspot.com"
+  },
+  {
+   "url": "https://www.nts.live/artists/21097-dj-target",
+   "domain": "nts.live"
+  },
+  {
+   "url": "https://planet.mu/?p=1062",
+   "domain": "planet.mu"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

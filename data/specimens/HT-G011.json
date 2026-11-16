@@ -1,0 +1,162 @@
+{
+ "id": "HT-G011",
+ "key": "plasticman-hard-graft-2003",
+ "sort": "2003-04-01",
+ "year": 2003,
+ "date": "Apr 2003",
+ "kind": "12-inch",
+ "artist": "Mark One vs. Plasticman",
+ "title": "Hard Graft",
+ "label": "Contagious Recordings",
+ "cat": "CONTAGIOUS-004",
+ "format": "12\" vinyl, 45 rpm, white label with sticker",
+ "producers": [
+  "Plasticman"
+ ],
+ "lane": "dark",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen. No published description of its sound was found, so every character is drafted."
+ },
+ "sound": [],
+ "context": [
+  {
+   "text": "Plastician called it his third release, from about 2002–03, and opened his 2004 Red Bull Music Academy lecture with it.",
+   "url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso",
+   "g": "A",
+   "checked": true,
+   "pub": "2004 (RBMA lecture, Rome)"
+  },
+  {
+   "text": "Wikipedia says that by 2003 DJ Hatcha was supporting Plasticman tracks such as 'Hard Graft'.",
+   "url": "https://en.wikipedia.org/wiki/Plastician",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "A commenter on k-punk's 2004 post called 'Hard Graft' the best track they had heard in ages (reader comment, not the author).",
+   "url": "https://k-punk.org/rephlex-grime",
+   "g": "A",
+   "checked": true,
+   "pub": "2004-04-28 (comment by \"Artifact\" on k-punk post of 2004-04-24)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "remix",
+   "other": "Hard Graft (Mark One Remix), on the B-side of the same 12\"",
+   "url": "https://www.shugarecords.com/products/mark-one-vs-plasticman-hard-graft-new-12-white-label-single-record-2003-contagious-uk-vinyl-grime-dubstep"
+  }
+ ],
+ "uncertainty": "Label conflict: the dealer listing (which cites Discogs release r22630064) says Contagious Recordings, CONTAGIOUS-004, April 2003. Wikipedia instead ties 'Hard Graft' to 2003 releases on Soulja and ROAD, Ammunition Promotions imprints. Contagious may be a third imprint, or there may be more than one pressing; this is unresolved. RBMA credits the track as 'Mark One vs. Plasticman'. No published description of the sound was found. Note: the 'Industrial Graft' on the Rephlex 'Grime' comp is a different title and was not assumed to be the same track.",
+ "tracklist": "A: Plasticman – Hard Graft (5:05); B: Hard Graft (Mark One Remix) (4:26).",
+ "sources": [
+  {
+   "url": "https://www.shugarecords.com/products/mark-one-vs-plasticman-hard-graft-new-12-white-label-single-record-2003-contagious-uk-vinyl-grime-dubstep",
+   "domain": "shugarecords.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Plastician",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso",
+   "domain": "redbullmusicacademy.com"
+  },
+  {
+   "url": "https://k-punk.org/rephlex-grime",
+   "domain": "k-punk.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "uncertain",
+   "release": "Plasticman Remastered",
+   "level": "album",
+   "url": "https://music.apple.com/ca/album/plasticman-remastered/910468283",
+   "retrieved": "2026-11-16",
+   "verdict": "uncertain match"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "found",
+   "labels": [
+    "beats",
+    "electronic",
+    "experimental",
+    "grime",
+    "wave",
+    "bass music",
+    "Croydon"
+   ],
+   "match": "compilation",
+   "release": "Plasticman Remastered (Deluxe Edition)",
+   "level": "tags",
+   "url": "https://plastician.bandcamp.com/track/hard-graft",
+   "retrieved": "2026-11-16",
+   "verdict": "correct"
+  }
+ ],
+ "round": 1
+}

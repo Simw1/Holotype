@@ -1,0 +1,128 @@
+{
+ "id": "HT-G060",
+ "key": "lethal-bizzle-against-all-oddz-2005",
+ "sort": "2005-08-15",
+ "year": 2005,
+ "date": "15 Aug 2005",
+ "kind": "Album",
+ "artist": "Lethal Bizzle",
+ "title": "Against All Oddz",
+ "label": "V2",
+ "cat": null,
+ "format": "Album (format of the earliest release not stated in sources opened)",
+ "producers": [
+  "Sticky",
+  "Charles Wilson",
+  "Dexplicit",
+  "Plasticman",
+  "Biggaman",
+  "Skillz",
+  "DJ Wonder",
+  "Kray Twinz"
+ ],
+ "lane": "mc",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Album; promoted as grime crossing into rock."
+ },
+ "sound": [
+  {
+   "text": "Simon Reynolds (Spin, 2005), before release, reported Bizzle promising grime/rock fusions, citing Green Day and Nirvana as influences.",
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Complex (2015) describes a balance between 'head-rushing cuts' and calmer tracks such as 'Should Of Known'.",
+   "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Official Albums Chart peak no. 89 (first chart date 27/08/2005, 1 week); no. 7 on the Independent Albums Chart (17 weeks) and no. 15 on Dance Albums (OCC).",
+   "url": "https://www.officialcharts.com/albums/lethal-bizzle-against-all-oddz/",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Single 'Fire' (J-DID/V2, JAD5035653) reached no. 34 on the Official Singles Chart from 29/10/2005, and no. 8 Dance and no. 4 Independent (OCC).",
+   "url": "https://officialcharts.com/songs/lethal-bizzle-fire",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Complex (2015) says the album 'barely scraped into the top 90' and calls Bizzle grime's most successful singles act and arguably the first grime act to take DIY to social media.",
+   "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime",
+   "source": "Wikipedia",
+   "year": null,
+   "url": "https://en.wikipedia.org/wiki/Against_All_Oddz"
+  },
+  {
+   "label": "grime",
+   "source": "Complex",
+   "year": 2015,
+   "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on"
+  },
+  {
+   "label": "grime crossover album with promised grime/rock fusion",
+   "source": "Simon Reynolds, Spin (blog director's cut)",
+   "year": 2005,
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+  }
+ ],
+ "rels": [
+  {
+   "type": "follows",
+   "other": "Lethal Bizzle - Pow! (Forward) (already in register)",
+   "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on"
+  },
+  {
+   "type": "produced_track",
+   "other": "Plasticman (title track)",
+   "url": "https://en.wikipedia.org/wiki/Against_All_Oddz"
+  },
+  {
+   "type": "produced_track",
+   "other": "DJ Wonder (Should Of Known)",
+   "url": "https://en.wikipedia.org/wiki/Against_All_Oddz"
+  }
+ ],
+ "uncertainty": "Wikipedia's label (V2) and the OCC's 'J-DID/V2' are reconciled here as one release. Wikipedia lists reviews (Guardian/Kitty Empire, Independent, AllMusic) that were not opened.",
+ "tracklist": "17 tracks (Wikipedia), including 'Uh Oh! (I'm Back)' (Sticky), 'Fire' (Charles Wilson), 'Against All Oddz' (Plasticman), 'Should Of Known' (DJ Wonder), 'No!' feat. Fire Camp (Dexplicit) and 'What We Do' feat. Kray Twinz, Gappy Ranks and Twista. 'Pow' is not on the album (Complex, 2015).",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Against_All_Oddz",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://www.officialcharts.com/albums/lethal-bizzle-against-all-oddz/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://officialcharts.com/songs/lethal-bizzle-fire",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "domain": "reynoldsretro.blogspot.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

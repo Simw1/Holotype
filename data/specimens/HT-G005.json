@@ -1,0 +1,236 @@
+{
+ "id": "HT-G005",
+ "key": "wiley-eskimo",
+ "sort": "2002-07-01",
+ "year": 2002,
+ "date": "Jul 2002",
+ "kind": "12-inch",
+ "artist": "Wiley",
+ "title": "Eskimo",
+ "label": "Wiley Kat Recordings (self-released)",
+ "cat": null,
+ "format": "12\" vinyl (white label instrumental)",
+ "producers": [
+  "Wiley (Richard Cowie)"
+ ],
+ "lane": "eski",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Proposed lectotype",
+  "of": "Eskibeat",
+  "holotype": null,
+  "basis": "Wiley chose the name eski beat for his sound and gave his tunes cold names (interview, November 2003). Eskimo is the first and best-known of that run, so it is proposed as the anchor; no record was designated at the time. Also a paralectotype of Grime: SPIN names it the rival contender to Pulse X as grime's founding track."
+ },
+ "sound": [
+  {
+   "text": "A rough breakbeat with plinky pentatonic melodies, clipped flutes and hollow digital basslines (Son Raw, Complex, 2019).",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "g": "C",
+   "checked": true,
+   "pub": "6 Aug 2019"
+  },
+  {
+   "text": "Sparse arrangement of minimal drum skirmishes and artificial synth stabs, with a sound like a hollow metal pole rolling around a construction yard (Dan Hancox, Mixmag, 2018).",
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "6 Jun 2018"
+  },
+  {
+   "text": "Gong, Sino-style taps and a hollow metal pole rolling around (FACT, 2010).",
+   "url": "https://factmag.com/2010/09/13/the-essential-wiley",
+   "g": "C",
+   "checked": true,
+   "pub": "13 Sep 2010"
+  },
+  {
+   "text": "'Hollow bass dumps', artificial synth stabs, clipped flutes and digital kick drums (MusicTech genre primer).",
+   "url": "https://www.musictech.net/guides/essential-guide/genre-primer-grime/",
+   "g": "C",
+   "checked": true,
+   "pub": "undated genre primer (MusicTech)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Wiley told Martin Clark (Hyperdub, Nov 2003) that he made it at Christmas 1999 or 2000 and that it 'did 10,000' copies; he says he sold well over 50,000 records in total out of his car boot.",
+   "url": "https://www.fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-2",
+   "g": "B",
+   "checked": true,
+   "pub": "reprint c. 2014; interview Nov 2003"
+  },
+  {
+   "text": "Mixmag calls it the first and most enduring of Wiley's 'eski' tracks, sold with no label, manager or publicist (over 10,000 vinyl copies).",
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "6 Jun 2018"
+  },
+  {
+   "text": "FACT's '20 best grime' list (Tom Lea, 2011/2012) calls it 'the definitive grime riddim' and says it spawned the eski micro-genre.",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "22 Apr 2012 (first posted 2011)"
+  },
+  {
+   "text": "Martin Clark, quoted in RBMA Daily (2015): 'Zomby, Logos, Boxed: it all comes downstream from Eskimo.'",
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "g": "C",
+   "checked": true,
+   "pub": "26 May 2015"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "has_sequel",
+   "other": "Eskimo 2 / Eskimo 3 / Eskimo 4 (Wiley)",
+   "url": "https://en.wikipedia.org/wiki/Eskimo_(grime_beat)"
+  },
+  {
+   "type": "has_version",
+   "other": "Eskimo 2 (Devils Mix), beatless bass version",
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003"
+  },
+  {
+   "type": "mashed_up_in",
+   "other": "'Gun Shot Riddim' ('Pulse Eskimo'), Skepta's mash-up of Eskimo and Musical Mob's 'Pulse X'",
+   "url": "https://en.wikipedia.org/wiki/Eskimo_(grime_beat)"
+  },
+  {
+   "type": "has_vocal_version",
+   "other": "'Chubby Dread vocal special' featuring Wiley, Dizzee Rascal and others",
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003"
+  },
+  {
+   "type": "reworked_as",
+   "other": "'Eskimo (Interlude)' on Treddin' on Thin Ice (2004)",
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+  }
+ ],
+ "uncertainty": "Wikipedia gives July 2002 and Wiley Kat Recordings; Mixmag says 'no label', meaning self-released. Production is dated Christmas 1999 or 2000 by Wiley himself. No catalogue number was verified. The Discogs URL was found in search results but Discogs refused every fetch, so nothing from that page was used. Complex's 'allegedly sold 10,000' wording shows the sales figure is self-reported.",
+ "tracklist": "Instrumental. Wikipedia says it was remixed several times and followed by sequels 'Eskimo 2', 'Eskimo 3' and 'Eskimo 4'. A beatless 'devil mix' was also issued (see wiley-eskimo-2-devils-mix).",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Eskimo_(grime_beat)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "domain": "mixmag.net"
+  },
+  {
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://factmag.com/2010/09/13/the-essential-wiley",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://www.musictech.net/guides/essential-guide/genre-primer-grime/",
+   "domain": "musictech.net"
+  },
+  {
+   "url": "https://www.fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-2",
+   "domain": "fabriclondon.com"
+  },
+  {
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+   "domain": "fabriclondon.com"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice",
+   "domain": "en.wikipedia.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "compilation",
+   "release": "Kurupt FM Present the Lost Tape",
+   "level": "track",
+   "url": "https://music.apple.com/gb/song/eskimo/1308395522",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "compilation",
+   "release": "Kurupt FM present The Lost Tape",
+   "level": "album",
+   "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

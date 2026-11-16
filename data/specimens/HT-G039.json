@@ -1,0 +1,177 @@
+{
+ "id": "HT-G039",
+ "key": "roll-deep-when-im-ere",
+ "sort": "2005-07-19",
+ "year": 2005,
+ "date": "2005",
+ "kind": "Album track (single status disputed)",
+ "artist": "Roll Deep",
+ "title": "When I'm 'Ere",
+ "label": "Relentless Records",
+ "cat": null,
+ "format": "B-side of 'The Avenue' CD single (2005); album track on In at the Deep End; also issued as a single with a video",
+ "producers": [
+  "Danny Weed (album version)",
+  "Wiley (the 'Wiley Remix' named by FACT)"
+ ],
+ "lane": "melodic",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 5,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; a relay of crew MCs over an accordion lead."
+ },
+ "sound": [
+  {
+   "text": "MusicTech: built around Danny Weed's 'trademark gypsy accordion and camera flash snaps', turning pirate-radio rivalry into an 'easily-digestible three minute song'.",
+   "url": "https://www.musictech.net/guides/essential-guide/genre-primer-grime/",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (MusicTech genre primer; no date or byline shown)"
+  },
+  {
+   "text": "FACT lists the Wiley Remix but nearly chose 'Poltergeist Relay' instead because this track has a chorus; it frames grime as pirate-radio cipher music with MCs passing the mic.",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-04-22 (originally posted 2011)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Included in FACT's 20 best grime tracks (2011/2012); Roachee's first verse is singled out.",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-04-22 (originally posted 2011)"
+  },
+  {
+   "text": "Wikipedia's Roll Deep page lists Trim, Roachee, Manga and Scratchy on the track and calls it one of four singles from the 2005 debut album; other Wikipedia pages do not list it as a single.",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep",
+   "g": "C",
+   "checked": true
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "b_side_of",
+   "other": "The Avenue (Roll Deep, 2005)",
+   "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html"
+  },
+  {
+   "type": "has_remix",
+   "other": "When I'm 'Ere (Wiley Remix)",
+   "url": "https://factmag.com/2012/04/22/20-best-grime"
+  }
+ ],
+ "uncertainty": "Different sources date the single to 2005 and the video to 2006. The earliest release looks like the album (6 June 2005) or 'The Avenue' CD single (18 July 2005), but which came first is unresolved. MusicTech does not say which version it describes. There is no chart entry for 'When I'm 'Ere' in the Official Charts list.",
+ "tracklist": "Track 8 on In at the Deep End (3:05, prod. Danny Weed). Also the B-side of 'The Avenue' CD single. FACT cites a 'Wiley Remix' on the Avenue EP.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/In_at_the_Deep_End",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://www.musictech.net/guides/essential-guide/genre-primer-grime/",
+   "domain": "musictech.net"
+  },
+  {
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Roll_Deep_discography",
+   "domain": "en.wikipedia.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Rock"
+   ],
+   "match": "exact",
+   "release": "In At the Deep End",
+   "level": "track",
+   "url": "https://music.apple.com/gb/song/when-im-ere/714655101",
+   "retrieved": "2026-11-16",
+   "verdict": "wrong"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "In At The Deep End",
+   "level": "album",
+   "url": "https://www.qobuz.com/gb-en/album/in-at-the-deep-end-roll-deep/0724347731259",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

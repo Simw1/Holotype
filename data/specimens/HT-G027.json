@@ -1,0 +1,164 @@
+{
+ "id": "HT-G027",
+ "key": "jammer-destruction-vip",
+ "sort": "2004-10-01",
+ "year": 2004,
+ "date": "2004",
+ "kind": "12-inch",
+ "artist": "Jammer feat. Wiley, D Double E, Kano and Durrty Goodz",
+ "title": "Destruction VIP",
+ "label": "JahmekTheWorld",
+ "cat": null,
+ "format": "Vinyl (format per FACT not stated); compilation CD 2005",
+ "producers": [
+  "Jammer (implied; not explicitly credited in sources opened)"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; a posse track later compiled on Run the Road."
+ },
+ "sound": [
+  {
+   "text": "Multi-MC posse track (no instrumental detail given).",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-04-22 (originally posted 2011)"
+  },
+  {
+   "text": "Jammer's productions generally: reggae bass weight fused with garage double-time; 'future-industrial' basslines.",
+   "url": "https://xlr8r.com/?p=114465",
+   "g": "A",
+   "checked": true,
+   "pub": "2006-03-14 (XLR8R, Sarah Bentley)"
+  }
+ ],
+ "context": [
+  {
+   "text": "FACT ranks it no. 12 in 'The 20 best Grime records ever made', calling it grime's 'Rapper's Delight'.",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-04-22 (originally posted 2011)"
+  },
+  {
+   "text": "Listed on the Run the Road tracklist in Chantelle Fiddy's blog, 25 Oct 2004.",
+   "url": "https://chantellefiddy.blogspot.com/2004/10",
+   "g": "A",
+   "checked": true,
+   "pub": "2004-10-25"
+  },
+  {
+   "text": "Jammer: Leytonstone, East London; basement studio in his family home; formerly producer for N.A.S.T.Y. Crew.",
+   "url": "https://xlr8r.com/?p=114465",
+   "g": "A",
+   "checked": true,
+   "pub": "2006-03-14 (XLR8R)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "VIP of",
+   "other": "Jammer - Destruction (original; not separately verified)",
+   "url": "https://factmag.com/2012/04/22/20-best-grime"
+  },
+  {
+   "type": "compiled on",
+   "other": "Run the Road (679 Recordings, 2005)",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road"
+  }
+ ],
+ "uncertainty": "Run the Road release date: Wikipedia gives 24 Jan 2005; Chantelle Fiddy (Oct 2004) said due mid-November 2004; PopMatters gives 8 March 2005 (likely US). Original 'Destruction' not verified.",
+ "tracklist": "Posse cut; track 5 on Run the Road (3:16).",
+ "sources": [
+  {
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://chantellefiddy.blogspot.com/2004/10",
+   "domain": "chantellefiddy.blogspot.com"
+  },
+  {
+   "url": "https://mb.videolan.org/release/2f37f644-dc33-4915-af95-19e0284e8fb8",
+   "domain": "mb.videolan.org"
+  },
+  {
+   "url": "https://xlr8r.com/?p=114465",
+   "domain": "xlr8r.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://www.qobuz.com/gb-en/interpreter/jammer/697137",
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://jammer.bandcamp.com/",
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

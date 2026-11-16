@@ -1,0 +1,174 @@
+{
+ "id": "HT-G020",
+ "key": "rephlex-grime-comp-cat156-2004",
+ "sort": "2004-05-01",
+ "year": 2004,
+ "date": "2004",
+ "kind": "Compilation",
+ "artist": "Mark One, Plasticman, Slaughter Mob",
+ "title": "Grime",
+ "label": "Rephlex",
+ "cat": "CAT 156",
+ "format": "Compilation: CD (Village Voice) and vinyl ('triple-pack LP' per Plastician; k-punk calls it an LP)",
+ "producers": [
+  "Mark One",
+  "Plasticman",
+  "Slaughter Mob"
+ ],
+ "lane": "dark",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "An early use of the word grime as a release title, on an established electronic label: evidence for when and how the name was fixed."
+ },
+ "sound": [
+  {
+   "text": "k-punk: no MCs; a South London grime with the 'silver impersonality and sleekness of stainless steel'.",
+   "url": "https://k-punk.org/rephlex-grime",
+   "g": "A",
+   "checked": true,
+   "pub": "2004-04-24"
+  },
+  {
+   "text": "Mark One's 'Stargate 92': menacing beats with early-1990s synths and MC grunts; 'Raindance' sets repeated female vocal samples over dark, repetitive bass.",
+   "url": "https://www.gridface.com/?p=226",
+   "g": "A",
+   "checked": true,
+   "pub": "2004-05-23"
+  },
+  {
+   "text": "The Village Voice hears the album's dread carried by the '18 wheels of Plasticman's Industrial Graft'.",
+   "url": "https://www.villagevoice.com/2004/09/07/dance-genre-fluent-in-british-dialect-produces-paranoid-pleasures/",
+   "g": "A",
+   "checked": false,
+   "pub": "2004-09-07"
+  },
+  {
+   "text": "Slaughter Mob: Jamaican-accented vocals and deep, rolling bass on 'Dub Weapon'; door creaks and owl hoots on 'Creeky Door'.",
+   "url": "https://www.gridface.com/?p=226",
+   "g": "A",
+   "checked": true,
+   "pub": "2004-05-23"
+  }
+ ],
+ "context": [
+  {
+   "text": "Plastician said in 2004 that Rephlex's Grant Wilson-Claridge saw him play FWD>> at Plastic People and asked for beats; in 2017 he called it 'the first grime CD'.",
+   "url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso",
+   "g": "B",
+   "checked": true,
+   "pub": "2017-01-11"
+  },
+  {
+   "text": "Rephlex used the line 'Grime. Sublow. Dubstep... It's Music' in 2004 (as quoted by a record shop).",
+   "url": "https://rubadub.co.uk/products/sublow",
+   "g": "C",
+   "checked": true,
+   "pub": "undated shop listing"
+  },
+  {
+   "text": "Plastician himself said it 'was kind of grime, but it wasn't specifically'.",
+   "url": "https://daily.redbullmusicacademy.com/2017/01/plastician-feature",
+   "g": "B",
+   "checked": true,
+   "pub": "2017-01-11"
+  },
+  {
+   "text": "A Vice 'Beats' columnist questioned whether Rephlex understood grime, given the tracklisting.",
+   "url": "https://www.vice.com/en/article/beats-v11n4/",
+   "g": "A",
+   "checked": true,
+   "pub": "2004-11-30"
+  },
+  {
+   "text": "Followed by 'Grime 2' (CAT 160), which Plastician said was technically dubstep.",
+   "url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso",
+   "g": "A",
+   "checked": true,
+   "pub": "2004 (RBMA lecture, Rome)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "sample/interpolation",
+   "other": "Technotronic – 'Pump Up the Jam' (Plasticman's track reworks it, per k-punk)",
+   "url": "https://k-punk.org/rephlex-grime"
+  }
+ ],
+ "uncertainty": "Wikipedia gives the catalogue number CAT 156 but no date. The track titles differ between reviews ('Camel Aide'/'Camel Ride'), and k-punk's 'Pump up the Jam' may be the 'Pump' named in the brief. The Vice 'Beats' column remark comes from https://www.vice.com/en/article/beats-v11n4/. This is a compilation and arguably closer to proto-dubstep; register it as a crossover document.",
+ "tracklist": "About four tracks per artist. Named tracks: Mark One 'Stargate 92', 'Raindance', 'Interference'; Plasticman 'Pump up the Jam' (k-punk) / 'Camel Ride' or 'Camel Aide' / 'Industrial Graft' / 'The Music'; Slaughter Mob 'Dub Weapon', 'Creeky Door'. Titles differ slightly between reviews.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Rephlex_Records_discography",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://k-punk.org/rephlex-grime",
+   "domain": "k-punk.org"
+  },
+  {
+   "url": "https://www.gridface.com/?p=226",
+   "domain": "gridface.com"
+  },
+  {
+   "url": "https://www.villagevoice.com/2004/09/07/dance-genre-fluent-in-british-dialect-produces-paranoid-pleasures/",
+   "domain": "villagevoice.com"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2017/01/plastician-feature",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso",
+   "domain": "redbullmusicacademy.com"
+  },
+  {
+   "url": "https://factmag.com/2014/05/30/plastician-plasticman-interview",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://rubadub.co.uk/products/sublow",
+   "domain": "rubadub.co.uk"
+  },
+  {
+   "url": "https://www.vice.com/en/article/beats-v11n4/",
+   "domain": "vice.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

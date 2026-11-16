@@ -1,0 +1,165 @@
+{
+ "id": "HT-G004",
+ "key": "danny-weed-creeper",
+ "sort": "2002-06-01",
+ "year": 2002,
+ "date": "2002 (made; release year unconfirmed)",
+ "kind": "12-inch",
+ "artist": "Danny Weed",
+ "title": "Creeper",
+ "label": "Roll Deep Recordings",
+ "cat": "RDR 001",
+ "format": "12\" vinyl",
+ "producers": [
+  "Danny Weed",
+  "Nick Cage"
+ ],
+ "lane": "melodic",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Paralectotype",
+  "of": "Grime",
+  "holotype": "HT-G002",
+  "basis": "A Roll Deep Recordings instrumental (RDR 001), made in 2002, that Risky Roadz recalls Slimzee dropping on Pay As U Go sets; adds the string-led strand to the type series."
+ },
+ "sound": [
+  {
+   "text": "An instrumental riddim built on 'echoed strings' that Risky Roadz calls 'so creepy', far removed from UK garage's fluffiness (Complex, 2017).",
+   "url": "https://www.complex.com/music/2017/05/exclusive-risky-roadz-danny-weed-creeper-video",
+   "g": "C",
+   "checked": true,
+   "pub": "2017-05-02"
+  }
+ ],
+ "context": [
+  {
+   "text": "Complex says it was made in 2002; Risky Roadz recalls it as one of the tunes Slimzee dropped on Pay As U Go sets, and wanting to buy it at Rhythm Division.",
+   "url": "https://www.complex.com/music/2017/05/exclusive-risky-roadz-danny-weed-creeper-video",
+   "g": "C",
+   "checked": true,
+   "pub": "2017-05-02"
+  },
+  {
+   "text": "Complex calls it one of grime's most iconic instrumentals. Risky Roadz made an official video about 15 years after release, in 2017.",
+   "url": "https://www.complex.com/music/2017/05/exclusive-risky-roadz-danny-weed-creeper-video",
+   "g": "C",
+   "checked": true,
+   "pub": "2017-05-02"
+  },
+  {
+   "text": "RBMA Daily says Wiley met Danny Weed at Bow Boys, a local secondary school, and lists him among Wiley's old estate friends.",
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "g": "C",
+   "checked": true,
+   "pub": "2015-05-26"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "name_shared_with",
+   "other": "Roll Deep's 'Creeper' mixtape series (Vol. 1 2003/2004, Vol. 2 2004)",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep"
+  }
+ ],
+ "uncertainty": "Complex says it was 'made' in 2002. Search-result titles for Discogs also say 2002, but Discogs could not be opened. The Vinyl Exchange listing gives the label and catalogue number but no year. The listed A-side 'Remix' may belong to a reissue rather than the first pressing.",
+ "tracklist": "A: 'Creeper (Remix)'; B: 'Creeper (Original Mix)' (from the Vinyl Exchange listing). Instrumental.",
+ "sources": [
+  {
+   "url": "https://www.complex.com/music/2017/05/exclusive-risky-roadz-danny-weed-creeper-video",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://www.vinylexchange.co.uk/products/danny-weed-creeper",
+   "domain": "vinylexchange.co.uk"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep",
+   "domain": "wikipedia (mirror)"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "compilation",
+   "release": "Kurupt FM Present the Lost Tape",
+   "level": "track",
+   "url": "https://music.apple.com/us/song/creeper/1308395835",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "compilation",
+   "release": "Kurupt FM present The Lost Tape",
+   "level": "album",
+   "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

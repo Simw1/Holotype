@@ -1,0 +1,203 @@
+{
+ "id": "HT-G028",
+ "key": "lethal-bizzle-pow-forward-2004",
+ "sort": "2004-10-25",
+ "year": 2004,
+ "date": "25 Oct 2004 (digital)",
+ "kind": "Single",
+ "artist": "Lethal Bizzle",
+ "title": "Pow! (Forward)",
+ "label": "Relentless Records",
+ "cat": "RELDX15",
+ "format": "Digital (iTunes) first, then physical CD and vinyl. The OCC lists RELDX15. Wikipedia mentions a vinyl version with a longer Hotshot verse.",
+ "producers": [
+  "Dexplicit (D'Explicit)"
+ ],
+ "lane": "garage",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "An eight-bar rally over Dexplicit's Forward Riddim; its producer singles out the 808 kick as new to grime."
+ },
+ "sound": [
+  {
+   "text": "An 'eight-bar rally': each MC delivers a short verse with no chorus or breaks, over two alternating eight-bar loops.",
+   "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "RA describes an 8-bar instrumental with a stark, bouncy synthline, claps and a militaristic fanfare. Its producer, D'Explicit, quoted by RA, says the bass enters with no intro and singles out the 808 kick as new to grime.",
+   "url": "https://pt.ra.co/reviews/36229",
+   "g": "C",
+   "checked": true,
+   "pub": "2 Nov 2024"
+  },
+  {
+   "text": "Wikipedia says Dexplicit was reportedly among the first grime producers to use American hip-hop samples and 808 drums in place of UK garage influences, and built the beat in FL Studio in under an hour.",
+   "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "Simon Reynolds (Spin, 2005) called it 'a massive jolt of sonic adrenaline' built on a 'frantic' riddim.",
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "g": "C",
+   "checked": true,
+   "pub": "31 Oct 2017 (blog repost)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Peaked at no. 11 on the Official Singles Chart (first chart date 01/01/2005, 7 weeks) and at no. 1 on the Official Dance Singles Chart.",
+   "url": "https://www.officialcharts.com/songs/lethal-bizzle-pow-forward/",
+   "g": "A",
+   "checked": true,
+   "pub": "official chart record (first charted 1 Jan 2005)"
+  },
+  {
+   "text": "Won the MOBO Award for Best Single in 2005. Some London and South East venues and radio stations banned it, and Bizzle answered with 'Do not play Lethal Bizzle' T-shirts.",
+   "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "The featured MCs come mostly from East London crews including More Fire Crew, East Connection, N.A.S.T.Y. Crew and Roll Deep.",
+   "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "Reynolds (2005) called it grime's biggest UK hit to that date and noted airplay from Funkmaster Flex on Hot 97 in the US.",
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "g": "C",
+   "checked": true,
+   "pub": "31 Oct 2017 (blog repost)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "vocal_version_of_instrumental",
+   "other": "'Forward Riddim' (Dexplicit). Chantelle Fiddy, Nov 2004: 'Pow' is a version of the Forward Riddim with a new name and a changed structure",
+   "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1"
+  },
+  {
+   "type": "remix",
+   "other": "'Da Bizzle Remix' (B-side, same riddim, Face replaces D Double E)",
+   "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)"
+  },
+  {
+   "type": "sequel",
+   "other": "Lethal Bizzle - 'Pow 2011' (feat. JME, Wiley, Chip, P Money, Ghetts, Kano), a new version, not a remix",
+   "url": "https://pt.ra.co/reviews/36229"
+  }
+ ],
+ "uncertainty": "Release dates conflict: Wikipedia gives digital 25 Oct 2004 and physical 20 Dec 2004, RA says October 2004, and Fiddy (8 Nov 2004) expected an official release in November. Catalogue numbers: the OCC lists RELDX15 and RA lists RELT 15. Formats were not confirmed per catalogue number. Discogs lists separate 'Lethal B - Forward Riddim' releases, but Discogs could not be fetched, so the instrumental's own release details are unverified.",
+ "tracklist": "Wikipedia says the B-side 'Da Bizzle Remix' features nearly all of the original artists, with Face replacing D Double E.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://www.officialcharts.com/songs/lethal-bizzle-pow-forward/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://pt.ra.co/reviews/36229",
+   "domain": "pt.ra.co"
+  },
+  {
+   "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1",
+   "domain": "chantellefiddy.blogspot.com"
+  },
+  {
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "domain": "reynoldsretro.blogspot.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Pow! (Forward) - Single",
+   "level": "album",
+   "url": "https://music.apple.com/us/album/pow-forward-single/724304734",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://www.qobuz.com/ie-en/album/best-of-bizzle-lethal-bizzle/am5c07hvvgv4a",
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

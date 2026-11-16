@@ -1,0 +1,157 @@
+{
+ "id": "HT-G037",
+ "key": "kano-home-sweet-home-2005",
+ "sort": "2005-06-27",
+ "year": 2005,
+ "date": "27 Jun 2005",
+ "kind": "Album",
+ "artist": "Kano",
+ "title": "Home Sweet Home",
+ "label": "679 Recordings",
+ "cat": null,
+ "format": "Album (the OCC also charted it on the vinyl albums chart; Discogs search shows a 3x12-inch edition, but Discogs was not fetchable)",
+ "producers": [
+  "Mikey J",
+  "Fraser T Smith",
+  "DaVinChe",
+  "Diplo",
+  "Mike Skinner",
+  "Paul Epworth",
+  "Terror Danjah",
+  "TipC",
+  "Kano"
+ ],
+ "lane": "mc",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Album; Kano said before release that he did not see himself as a grime artist, which bears on how far the label should reach."
+ },
+ "sound": [
+  {
+   "text": "Simon Reynolds (Spin, 2005) found the album 'front-loaded with mid-tempo joints', with Kano 'smooth and poised even rapping in quick time' and his flow the one most likely to appeal to American hip-hop ears.",
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "g": "A",
+   "checked": true,
+   "pub": "Spin, Aug 2005 (expanded version reposted 2017-10-31)"
+  },
+  {
+   "text": "A July 2005 review quoted on Wikipedia (publication not named, probably Q) praised its 'deft wordplay and a range of musical reference points'. Wikipedia documents samples of Black Sabbath ('War Pigs') and Asha Puthli ('I Dig Love').",
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)",
+   "g": "C",
+   "checked": true
+  },
+  {
+   "text": "Before release, Kano told i-D (Oct 2004) the album was 'very experimental' and that he did not see himself as a grime artist.",
+   "url": "https://i-d.co/?p=179988",
+   "g": "A",
+   "checked": true,
+   "pub": "Oct 2004 (i-D No. 248, The Unique Issue; online reprint 2016-01-21)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Peaked at no. 36 on the Official Albums Chart (first chart date 09/07/2005, 11 weeks) and no. 3 on the Official Hip Hop and R&B Albums Chart (48 weeks).",
+   "url": "https://www.officialcharts.com/albums/kano-home-sweet-home/",
+   "g": "A",
+   "checked": true,
+   "pub": "chart record; first chart date 09/07/2005"
+  },
+  {
+   "text": "Metacritic score of 82 from 12 reviews; Pitchfork 8.4/10. Certified Gold in the UK and Kano's best-selling album.",
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)",
+   "g": "C",
+   "checked": true
+  },
+  {
+   "text": "Released when Kano was 20.",
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)",
+   "g": "C",
+   "checked": true
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "contains",
+   "other": "Kano - P's and Q's (2004)",
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"
+  },
+  {
+   "type": "contains",
+   "other": "Kano feat. Ghetts - Typical Me (2005)",
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"
+  },
+  {
+   "type": "contains",
+   "other": "Kano - Boys Love Girls (bonus track; earlier N.A.S.T.Y.-era track)",
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"
+  },
+  {
+   "type": "producer_link",
+   "other": "Terror Danjah produced 'How We Livin''",
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"
+  }
+ ],
+ "uncertainty": "Chart entry date: Wikipedia gives the week of 3 July 2005 and the OCC gives 09/07/2005 (the OCC's chart-date convention). Wikipedia does not mention a Mercury nomination, so none is recorded here. The Pitchfork review itself was not opened; the score comes from Wikipedia.",
+ "tracklist": "16 tracks (61:42), including P's and Q's (DaVinChe), Typical Me feat. Ghetts (Fraser T Smith), Reload It feat. Demon & D Double E (Diplo; samples Asha Puthli 'I Dig Love'), Nite Nite feat. Leo the Lion & The Streets (Mike Skinner), I Don't Know Why (Paul Epworth; samples Black Sabbath 'War Pigs'), How We Livin' (Terror Danjah), and bonus track Boys Love Girls (Kano).",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://www.officialcharts.com/albums/kano-home-sweet-home/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "domain": "reynoldsretro.blogspot.com"
+  },
+  {
+   "url": "https://i-d.co/?p=179988",
+   "domain": "i-d.co"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Home Sweet Home",
+   "level": "album",
+   "url": "https://music.apple.com/us/album/home-sweet-home/259713834",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Dance"
+   ],
+   "match": "exact",
+   "release": "Home Sweet Home",
+   "level": "album",
+   "url": "https://www.qobuz.com/ie-en/album/home-sweet-home-kano/0643443518468",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://kano.bandcamp.com/music",
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

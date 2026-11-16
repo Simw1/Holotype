@@ -1,0 +1,158 @@
+{
+ "id": "HT-G038",
+ "key": "roll-deep-the-avenue",
+ "sort": "2005-07-18",
+ "year": 2005,
+ "date": "18 Jul 2005",
+ "kind": "Single",
+ "artist": "Roll Deep",
+ "title": "The Avenue",
+ "label": "Relentless Records",
+ "cat": null,
+ "format": "CD single and digital download",
+ "producers": [
+  "Wiley"
+ ],
+ "lane": "melodic",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; samples a 1983 pop record and is tagged grime and neo soul."
+ },
+ "sound": [
+  {
+   "text": "Samples the Maisonettes' 1983 song 'Heartache Avenue'; tagged grime and neo soul (Wikipedia).",
+   "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026 (IPFS mirror)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Peaked at No. 11 on the UK Official Singles Chart (first entry 30 July 2005, 9 weeks) and No. 4 on the Hip Hop and R&B Singles Chart.",
+   "url": "https://www.officialcharts.com/artist/17136/Roll-Deep",
+   "g": "A",
+   "checked": true,
+   "pub": "official chart record (first entry 30 Jul 2005)"
+  },
+  {
+   "text": "Taken from In at the Deep End (Relentless/Virgin, 6 June 2005).",
+   "url": "https://en.wikipedia.org/wiki/In_at_the_Deep_End",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "samples",
+   "other": "The Maisonettes, 'Heartache Avenue' (1983; not a grime record)",
+   "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html"
+  },
+  {
+   "type": "coupled_with",
+   "other": "When I'm 'Ere (Roll Deep)",
+   "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html"
+  }
+ ],
+ "uncertainty": "This is a crossover pop-grime single, not an underground white label, and its sound description is thin. Writers are credited as Wiley, Mark Tibenham and Lol Mason (the Maisonettes writers). The Wikipedia text came from an IPFS mirror because en.wikipedia.org was blocked for this page.",
+ "tracklist": "CD single: 'The Avenue' (Radio Edit, 2:32) and 'When I'm 'Ere'.",
+ "sources": [
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://www.officialcharts.com/artist/17136/Roll-Deep",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/In_at_the_Deep_End",
+   "domain": "en.wikipedia.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "The Avenue - Single",
+   "level": "album",
+   "url": "https://music.apple.com/gh/album/the-avenue-single/716196434",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "version",
+   "release": "In At The Deep End",
+   "level": "album",
+   "url": "https://www.qobuz.com/gb-en/album/in-at-the-deep-end-roll-deep/0724347731259",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

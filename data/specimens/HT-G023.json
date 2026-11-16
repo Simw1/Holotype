@@ -1,0 +1,179 @@
+{
+ "id": "HT-G023",
+ "key": "wonder-what-dump-valve-2004",
+ "sort": "2004-08-01",
+ "year": 2004,
+ "date": "2004",
+ "kind": "12-inch",
+ "artist": "Wonder",
+ "title": "What",
+ "label": "Dump Valve",
+ "cat": null,
+ "format": "12\" vinyl",
+ "producers": [
+  "Wonder"
+ ],
+ "lane": "sino",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Candidate",
+  "of": "Sino-grime",
+  "holotype": null,
+  "basis": "Oriental chimes over dense bass make it the strongest candidate here, but no source calls it sino-grime by name. Left as a candidate until the panel decides."
+ },
+ "sound": [
+  {
+   "text": "Frieze: oriental chimes reminiscent of Ryuichi Sakamoto over a dense, smog-thick bass.",
+   "url": "https://frieze.com/article/dump-valve",
+   "g": "C",
+   "checked": true,
+   "pub": "not shown on page"
+  },
+  {
+   "text": "Complex: a 'warping digital flute' from the Plugsound software series.",
+   "url": "https://www.complex.com/music/2016/02/the-evolution-of-grime-production",
+   "g": "C",
+   "checked": true,
+   "pub": "29 Feb 2016"
+  }
+ ],
+ "context": [
+  {
+   "text": "Frieze calls it 'perhaps Dump Valve's definitive release' and its influence on South London dubstep 'immeasurable'.",
+   "url": "https://frieze.com/article/dump-valve",
+   "g": "C",
+   "checked": true,
+   "pub": "not shown on page"
+  },
+  {
+   "text": "Dump Valve was DJ Target's label, set up in 2001 by the Pay As U Go Cartel selector.",
+   "url": "https://cn.juno.co.uk/products/wonder-wizzbit-what/550274-01/",
+   "g": "C",
+   "checked": true,
+   "pub": "undated shop listing (Rinse 20th-anniversary reissue)"
+  },
+  {
+   "text": "Recalling early grime's innovations, Slimzee lists 'What' alongside 'I Luv U' and 'Jam Hot'.",
+   "url": "https://legacy.boilerroom.tv/slimzee-asbos-breakdowns-and-dubplates",
+   "g": "C",
+   "checked": true,
+   "pub": "6 Jul 2015"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "remix",
+   "other": "Geeneus remix of 'What'",
+   "url": "https://www.vice.com/en/article/beats-v11n4/"
+  },
+  {
+   "type": "influence/near-version",
+   "other": "Digital Mystikz – 'Misty Winter' (2006), which frieze calls almost a remix of 'What'",
+   "url": "https://frieze.com/article/dump-valve"
+  },
+  {
+   "type": "same label, same sound",
+   "other": "Shots – 'Ghost EP' (Dump Valve), which frieze says keeps the oriental flavour of 'What'",
+   "url": "https://frieze.com/article/dump-valve"
+  }
+ ],
+ "uncertainty": "Neither the catalogue number nor the original format is confirmed: the Juno page is the reissue. The year 2004 comes from frieze only. A candidate for the 'sino-grime' coding (oriental chimes), but no source calls 'What' sinogrime by name. RADII says Kode9 'reportedly coined' 'Sinogrime' with his 2005 Sinogrime Minimix (https://radii.co/?p=17640).",
+ "tracklist": "Reissued about 2014 as a limited, hand-numbered 12\" in the Rinse 20th-anniversary series, backed with Wizzbit (Geeneus alias) 'Jam Hot'.",
+ "sources": [
+  {
+   "url": "https://frieze.com/article/dump-valve",
+   "domain": "frieze.com"
+  },
+  {
+   "url": "https://cn.juno.co.uk/products/wonder-wizzbit-what/550274-01/",
+   "domain": "cn.juno.co.uk"
+  },
+  {
+   "url": "https://www.complex.com/music/2016/02/the-evolution-of-grime-production",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://legacy.boilerroom.tv/slimzee-asbos-breakdowns-and-dubplates",
+   "domain": "legacy.boilerroom.tv"
+  },
+  {
+   "url": "https://www.vice.com/en/article/beats-v11n4/",
+   "domain": "vice.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

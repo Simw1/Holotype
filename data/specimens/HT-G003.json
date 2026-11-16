@@ -1,0 +1,187 @@
+{
+ "id": "HT-G003",
+ "key": "plasticman-venom-shockwave-2002",
+ "sort": "2002-04-01",
+ "year": 2002,
+ "date": "Early 2002",
+ "kind": "12-inch",
+ "artist": "Plasticman",
+ "title": "Venom / Shockwave",
+ "label": "Slimzos",
+ "cat": null,
+ "format": "12\"",
+ "producers": [
+  "Plasticman (Christopher Reed)"
+ ],
+ "lane": "dark",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Paralectotype",
+  "of": "Grime",
+  "holotype": "HT-G002",
+  "basis": "An early 2002 instrumental on Slimzee's label that its maker describes as an 8-bar grime track; extends the type series to South London."
+ },
+ "sound": [
+  {
+   "text": "Plastician describes 'Venom' as an '8-bar' grime track, made in FruityLoops when he had little production experience.",
+   "url": "https://factmag.com/2014/05/30/plastician-plasticman-interview",
+   "g": "B",
+   "checked": true,
+   "pub": "30 May 2014"
+  },
+  {
+   "text": "Wikipedia describes his early work as a 'grimy take on the instrumental sound' from the darker side of UK garage (artist-level, not track-specific).",
+   "url": "https://en.wikipedia.org/wiki/Plastician",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  }
+ ],
+ "context": [
+  {
+   "text": "Released on Slimzos, the imprint of Rinse FM DJ Slimzee; Plasticman's first 12\".",
+   "url": "https://en.wikipedia.org/wiki/Plastician",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "Plastician sent early tracks to Slimzee on CD via the Rhythm Division shop; Slimzee signed two of them to Slimzos and played them.",
+   "url": "https://legacy.boilerroom.tv/slimzee-asbos-breakdowns-and-dubplates",
+   "g": "C",
+   "checked": true,
+   "pub": "6 Jul 2015"
+  },
+  {
+   "text": "Plasticman is from Thornton Heath, in the London Borough of Croydon, South London.",
+   "url": "https://en.wikipedia.org/wiki/Plastician",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "Reissued digitally on 'Plasticman Remastered (Deluxe Edition)', 14 July 2014.",
+   "url": "https://plastician.bandcamp.com/track/shockwave",
+   "g": "C",
+   "checked": true,
+   "pub": "14 Jul 2014 (release date)"
+  }
+ ],
+ "calls": [],
+ "rels": [],
+ "uncertainty": "No catalogue number found. The track pairing 'Venom / Shockwave' and 'early 2002' come from Wikipedia only; Bandcamp confirms Shockwave on Slimzos in 2002. Discogs blocked, so not cross-checked.",
+ "tracklist": "Two tracks, 'Venom' and 'Shockwave'. Plastician's Bandcamp says 'Shockwave' was produced in 2001 and was his first release.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Plastician",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://plastician.bandcamp.com/track/shockwave",
+   "domain": "plastician.bandcamp.com"
+  },
+  {
+   "url": "https://factmag.com/2014/05/30/plastician-plasticman-interview",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://legacy.boilerroom.tv/slimzee-asbos-breakdowns-and-dubplates",
+   "domain": "legacy.boilerroom.tv"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "uncertain",
+   "release": "Plasticman Remastered",
+   "level": "album",
+   "url": "https://music.apple.com/ca/album/plasticman-remastered/910468283",
+   "retrieved": "2026-11-16",
+   "verdict": "uncertain match"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "found",
+   "labels": [
+    "beats",
+    "electronic",
+    "experimental",
+    "grime",
+    "wave",
+    "bass music",
+    "classic grime",
+    "plastician",
+    "plasticman",
+    "rap",
+    "remastered",
+    "remasters",
+    "retro",
+    "vintage",
+    "vinyl",
+    "Croydon"
+   ],
+   "match": "compilation",
+   "release": "Plasticman Remastered (Deluxe Edition)",
+   "level": "tags",
+   "url": "https://plastician.bandcamp.com/album/plasticman-remastered-deluxe-edition",
+   "retrieved": "2026-11-16",
+   "verdict": "correct"
+  }
+ ],
+ "round": 1
+}

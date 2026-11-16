@@ -1,0 +1,135 @@
+{
+ "id": "HT-G050",
+ "key": "roll-deep-entourage-terrible",
+ "sort": "2001-12-20",
+ "year": 2001,
+ "date": "2001 (Reynolds) or 2002",
+ "kind": "12-inch",
+ "artist": "Roll Deep Entourage",
+ "title": "Terrible",
+ "label": "Solid City (per Reynolds)",
+ "cat": null,
+ "format": "Vinyl (format detail not verified)",
+ "producers": [
+  "Wiley (per Simon Reynolds)"
+ ],
+ "lane": "transition",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Transitional",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Produced by Wiley; Reynolds (2005) pairs it with Know We as garage rap in his Grime Primer. Release year is uncertain."
+ },
+ "sound": [
+  {
+   "text": "Reynolds (Wire Grime Primer, 2005) pairs it with 'Know We' as 'chip-off-the-same-block': simple programmed beats, MC-carried, with a Puff Daddy soundbite.",
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
+   "g": "A",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Record shops treated it as the follow-up to 'Know We', but Wiley did not want it released under the Pay As U Go name; Flowdan suggested 'Roll Deep', after a phrase popular in bashment songs, so this record is the origin of the Roll Deep name.",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Wikipedia's Pay As U Go article says it was recorded in 2001.",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "RBMA (2015): Wiley signed 'Terrible' to Teebone with 'Know We' and 'Wickedest Ting' for a reported £300.",
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "garage rap, listed in a Grime Primer",
+   "source": "Simon Reynolds, The Wire (reposted blissblog 2015)",
+   "year": "2005",
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html"
+  }
+ ],
+ "rels": [
+  {
+   "type": "follow_up_to",
+   "other": "Pay As U Go – Know We",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep"
+  },
+  {
+   "type": "same_crew_as",
+   "other": "Roll Deep – Bounce (2002, already in register batch A)",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep"
+  }
+ ],
+ "uncertainty": "Year conflicts (2001 vs 2002). Performer lists differ (Jamakabi in the Roll Deep article vs Bubbles in the Pay As U Go article). No catalogue number, exact date or detailed sound description found; only Reynolds describes it, briefly.",
+ "tracklist": "Includes a Puff Daddy soundbite (Reynolds).",
+ "sources": [
+  {
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
+   "domain": "blissout.blogspot.com"
+  },
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "domain": "daily.redbullmusicacademy.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

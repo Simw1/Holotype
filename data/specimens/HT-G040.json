@@ -1,0 +1,173 @@
+{
+ "id": "HT-G040",
+ "key": "kamikaze-ghetto-kyote-2005",
+ "sort": "2005-09-01",
+ "year": 2005,
+ "date": "2005",
+ "kind": "12-inch",
+ "artist": "Kamikaze (Treble Clef)",
+ "title": "Ghetto Kyote",
+ "label": "White label",
+ "cat": null,
+ "format": "12\" white label (instrumental)",
+ "producers": [
+  "Treble Clef"
+ ],
+ "lane": "sino",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; a later Kano vocal is documented."
+ },
+ "sound": [
+  {
+   "text": "FACT's joint note on this and XTC's 'Funktions on the Low': lo-fi instrumentals that 'sound like they're lost in the snow'.",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-04-22 (originally posted 2011)"
+  },
+  {
+   "text": "FACT: 'one of grime's greatest, most haunting ever moments'.",
+   "url": "https://factmag.com/2013/03/20/treble-clef-the-man-behind-grime-classic-ghetto-kyote-drops-15-track-mixtape-trebles-diary",
+   "g": "C",
+   "checked": true,
+   "pub": "2013-03-20"
+  }
+ ],
+ "context": [
+  {
+   "text": "Credited to Treble Clef's crew Kamikaze; a Butterz reissue was planned but stalled.",
+   "url": "https://factmag.com/2013/03/20/treble-clef-the-man-behind-grime-classic-ghetto-kyote-drops-15-track-mixtape-trebles-diary",
+   "g": "C",
+   "checked": true,
+   "pub": "2013-03-20"
+  },
+  {
+   "text": "Treble Clef's live version of the track became a cult YouTube hit.",
+   "url": "https://factmag.com/2013/03/20/treble-clef-the-man-behind-grime-classic-ghetto-kyote-drops-15-track-mixtape-trebles-diary",
+   "g": "C",
+   "checked": true,
+   "pub": "2013-03-20"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "vocal version",
+   "other": "Kano vocal over 'Ghetto Kyote' (2006)",
+   "url": "https://factmag.com/2013/03/20/treble-clef-the-man-behind-grime-classic-ghetto-kyote-drops-15-track-mixtape-trebles-diary"
+  },
+  {
+   "type": "vocal version",
+   "other": "DaVinChe-written version of 'Ghetto Kyote' (DaVinChe says he wrote the song but did not make the beat)",
+   "url": "https://factmag.com/2014/06/05/davinche-drops-an-entire-unreleased-katie-pearl-rng-album-download-it-now"
+  }
+ ],
+ "uncertainty": "Added in place of DJ Davinche, for whom no 2002–06 release with a label could be verified. Treble Clef's area of London was not confirmed. FACT's 20 Best list credits it to 'Kamikaze / Treble Clef'. Kano is outside this batch, but the link is recorded only as a relationship.",
+ "tracklist": "Instrumental first; vocal versions followed in 2006, including one by Kano.",
+ "sources": [
+  {
+   "url": "https://factmag.com/2013/03/20/treble-clef-the-man-behind-grime-classic-ghetto-kyote-drops-15-track-mixtape-trebles-diary",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://factmag.com/2014/06/05/davinche-drops-an-entire-unreleased-katie-pearl-rng-album-download-it-now",
+   "domain": "factmag.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop"
+   ],
+   "match": "uncertain",
+   "release": "Best in '05 (The Kings Are Coming II)",
+   "level": "track",
+   "url": "https://music.apple.com/us/song/ghetto-kyote/1500424992",
+   "retrieved": "2026-11-16",
+   "verdict": "uncertain match"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "found",
+   "labels": [
+    "d&b",
+    "garage",
+    "grime",
+    "hip hop",
+    "hip-hop/rap",
+    "house",
+    "garage",
+    "grime",
+    "London"
+   ],
+   "match": "version",
+   "release": "Ghetto Kyote",
+   "level": "tags",
+   "url": "https://kyoteguy.bandcamp.com/album/ghetto-kyote",
+   "retrieved": "2026-11-16",
+   "verdict": "correct"
+  }
+ ],
+ "round": 1
+}

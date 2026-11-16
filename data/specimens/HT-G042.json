@@ -1,0 +1,193 @@
+{
+ "id": "HT-G042",
+ "key": "oxide-neutrino-bound-4-da-reload-2000",
+ "sort": "2000-05-06",
+ "year": 2000,
+ "date": "2000 (chart entry 6 May 2000)",
+ "kind": "Single",
+ "artist": "Oxide & Neutrino",
+ "title": "Bound 4 Da Reload (Casualty)",
+ "label": "East West",
+ "cat": null,
+ "format": "White-label vinyl first (about 1,000 copies, per Oxide in the Guardian interview); commercial CD single on East West (two parts) per Wikipedia",
+ "producers": [
+  "Oxide & Neutrino"
+ ],
+ "lane": "transition",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Outgroup",
+  "of": "UK garage",
+  "holotype": null,
+  "basis": "A no. 1 garage hit built on a TV-theme and film sample. Sources file it as 2-step garage; one later reader comment calls it proto-grime. Held as an outgroup: a garage reference point against which grime's characters can be compared."
+ },
+ "sound": [
+  {
+   "text": "Built around a sample of the BBC Casualty theme plus a spoken skit from the Lock, Stock and Two Smoking Barrels soundtrack; Neutrino voiced it in one take over Oxide's beat (Guardian 'How we made' interview, c. 2019).",
+   "url": "https://www.inkl.com/news/oxide-neutrino-how-we-made-bound-4-da-reload-casualty",
+   "g": "B",
+   "checked": false
+  },
+  {
+   "text": "Tom Ewing (Popular, 2015) hears a sparse, skeletal beat with deep, hollow bass, time-stretched samples and gunshot effects; the film clip sits where a chorus would be, and the structure feels fragmented rather than built up.",
+   "url": "https://popular-number1s.com/2015/03/02/oxide-and-neutrino-bound-4-da-reload-casualty/",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Ewing describes Neutrino's rough, congested delivery as true to pirate-radio MCing: prepared bars, scatting, call-and-response and simply riding the beat (Popular, 2015).",
+   "url": "https://popular-number1s.com/2015/03/02/oxide-and-neutrino-bound-4-da-reload-casualty/",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Wikipedia's infobox labels it 2-step garage; many radio stations reportedly refused to play it because of the spoken sample.",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Bound_4_Da_Reload_(Casualty).html",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Entered the Official Singles Chart at no. 1 on 6 May 2000 (15 weeks).",
+   "url": "https://officialcharts.com/artist/9084/oxide-and-neutrino",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Began as a dubplate for a pirate radio show; the pair met at the pirate station Supreme FM and were members of So Solid Crew before signing as a duo (Guardian interview).",
+   "url": "https://www.inkl.com/news/oxide-neutrino-how-we-made-bound-4-da-reload-casualty",
+   "g": "B",
+   "checked": false
+  },
+  {
+   "text": "Dan Hancox (RBMA Daily, 2019) names it, with 'I Don't Smoke', as the straws that broke the camel's back in the 'garage wars' between the UKG old guard and MC-led crews; Timmi Magic dismissed it as 'kiddie stuff, going backwards'.",
+   "url": "https://daily.redbullmusicacademy.com/2019/06/ukg-committee-garage-wars",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "In the Guardian retrospective Neutrino says the track 'sounds like the start of what was becoming grime'.",
+   "url": "https://www.inkl.com/news/oxide-neutrino-how-we-made-bound-4-da-reload-casualty",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "2-step garage / UK garage",
+   "source": "Wikipedia (Bound 4 Da Reload and Oxide & Neutrino articles)",
+   "year": "accessed 2026",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Bound_4_Da_Reload_(Casualty).html"
+  },
+  {
+   "label": "UK garage ('defining sound of UK garage')",
+   "source": "MN2S",
+   "year": "2019",
+   "url": "https://mn2s.com/news/booking-agency/garage-duo-oxide-neutrino-featured-in-the-guardian"
+  },
+  {
+   "label": "UK garage (Popular explicitly leaves grime out; a reader comment calls it proto-grime)",
+   "source": "Tom Ewing, Popular",
+   "year": "2015",
+   "url": "https://popular-number1s.com/2015/03/02/oxide-and-neutrino-bound-4-da-reload-casualty/"
+  },
+  {
+   "label": "garage that 'sounds like the start of what was becoming grime' (artist's own retrospective)",
+   "source": "Neutrino, Guardian 'How we made' interview",
+   "year": "c. 2019",
+   "url": "https://www.inkl.com/news/oxide-neutrino-how-we-made-bound-4-da-reload-casualty"
+  }
+ ],
+ "rels": [
+  {
+   "type": "same_crew_as",
+   "other": "So Solid Crew – Oh No (Sentimental Things) / Dilemma (CD single carries an 'Oxide Remix')",
+   "url": "https://eu.rarevinyl.com/products/so-solid-crew-oh-no-sentimental-things-uk-cd-single-cd5-relent8cds-262908"
+  },
+  {
+   "type": "same_artist_as",
+   "other": "Oxide & Neutrino – Rap Dis / Only Wanna Know U Cos Ure Famous (2001)",
+   "url": "https://officialcharts.com/artist/9084/oxide-and-neutrino"
+  }
+ ],
+ "uncertainty": "Exact commercial release day not found (Wikipedia: May 2000; chart entry 6 May 2000). No catalogue number seen. The Guardian piece was read through an inkl copy with no date shown; an MN2S post about it is dated 29 Jan 2019, so c. 2019 is inferred. No contemporary (2000) source calling it grime was found; the grime link is retrospective and comes from the artist himself.",
+ "tracklist": "Wikipedia CD Part 1: Radio Edit / 'Express Da Funk' / 'Bound 4 Da Reload'; Part 2: original, Remix, Video (enhanced CD). Also on the album Execute (charted 9 Jun 2001).",
+ "sources": [
+  {
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Bound_4_Da_Reload_(Casualty).html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Oxide_%26_Neutrino",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Oxide_%26_Neutrino.html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://www.inkl.com/news/oxide-neutrino-how-we-made-bound-4-da-reload-casualty",
+   "domain": "inkl.com"
+  },
+  {
+   "url": "https://mn2s.com/news/booking-agency/garage-duo-oxide-neutrino-featured-in-the-guardian",
+   "domain": "mn2s.com"
+  },
+  {
+   "url": "https://popular-number1s.com/2015/03/02/oxide-and-neutrino-bound-4-da-reload-casualty/",
+   "domain": "popular-number1s.com"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2019/06/ukg-committee-garage-wars",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://officialcharts.com/artist/9084/oxide-and-neutrino",
+   "domain": "officialcharts.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

@@ -1,0 +1,121 @@
+{
+ "id": "HT-G035",
+ "key": "ruff-sqwad-guns-and-roses-vol-1",
+ "sort": "2005-03-04",
+ "year": 2005,
+ "date": "4 Mar 2005",
+ "kind": "Mixtape",
+ "artist": "Ruff Sqwad",
+ "title": "Guns and Roses Volume. 1",
+ "label": "Ruff Sqwad Recordings",
+ "cat": null,
+ "format": "Mixtape CD",
+ "producers": [
+  "Prince Rapid",
+  "Dirty Danger (David Nkrumah)"
+ ],
+ "lane": "melodic",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Mixtape CD. A 2020 essay places it in the crew's sample-led romantic phase, but no source ties specific tracks to samples."
+ },
+ "sound": [
+  {
+   "text": "TRENCH (2020) describes Ruff Sqwad's romantic R&G-era tracks as built over '80s power ballad samples' and made on FruityLoops, naming The Police and Cutting Crew as recognisable sample sources (not specific to this mixtape).",
+   "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me",
+   "g": "C",
+   "checked": true,
+   "pub": "2020-02-12 (TRENCH, Jesse Bernard; personal essay)"
+  },
+  {
+   "text": "Guardian (Hancox): in 2003-5 the crew's sound grew grander, with synth melodies, sweeping strings and military brass; they chopped rock and classical hooks in FruityLoops and drew on film soundtracks and hip-hop producers like Just Blaze.",
+   "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it",
+   "g": "C",
+   "checked": true,
+   "pub": "c. Dec 2012 (Guardian, Dan Hancox, via inkl)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Wikipedia: debut mixtape and first of a three-part series; 'considered to be one of the best mixtapes to come from the grime scene' (cited to a record-shop page).",
+   "url": "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_1",
+   "g": "C",
+   "checked": true
+  },
+  {
+   "text": "Lyrics by Tinchy Stryder, Dirty Danger, Slix, Rapid and Shifty Rydos.",
+   "url": "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_1",
+   "g": "C",
+   "checked": true
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "features",
+   "other": "Wiley Kat on 'Wild Clipse'; Trim on 'Jampie'",
+   "url": "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_1"
+  },
+  {
+   "type": "followed by",
+   "other": "Ruff Sqwad - Guns and Roses Volume. 2 (2006)",
+   "url": "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_2"
+  }
+ ],
+ "uncertainty": "Physical format stated as CD in the Ruff Sqwad Wikipedia article; catalogue number unknown. Trench gives the Collector's Edition date as 1 Feb 2007.",
+ "tracklist": "23 tracks incl. 'Jampie' (ft. Trim), 'Wild Clipse' (ft. Wiley Kat), 'Ice Cream' (ft. Roachee), 'Stryder's Back'. Collector's Edition with extra tracks (incl. 'Together') 1 Feb 2007.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_1",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Slix",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me",
+   "domain": "trenchtrenchtrench.com"
+  },
+  {
+   "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it",
+   "domain": "inkl.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://music.apple.com/us/artist/ruff-sqwad/125323722",
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

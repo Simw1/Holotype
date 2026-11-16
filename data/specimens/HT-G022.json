@@ -1,0 +1,163 @@
+{
+ "id": "HT-G022",
+ "key": "terror-danjah-industry-standard-ep-2004",
+ "sort": "2004-07-01",
+ "year": 2004,
+ "date": "2004",
+ "kind": "12-inch EP",
+ "artist": "Terror Danjah",
+ "title": "Industry Standard EP",
+ "label": "Aftershock",
+ "cat": null,
+ "format": "EP (vinyl; Aftershock was vinyl-only at the time)",
+ "producers": [
+  "Terror Danjah"
+ ],
+ "lane": "sublow",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Coded for Creepy Crawler, the track with documented vocal versions."
+ },
+ "sound": [
+  {
+   "text": "'Creepy Crawler' has low horns 'like a Blaxploitation soundtrack' and G-funk synth squiggles.",
+   "url": "https://slowmotion.blog/2025/02/12/this-is-a-preview-of-next-year/",
+   "g": "C",
+   "checked": true,
+   "pub": "2025-02-12"
+  },
+  {
+   "text": "His beats in general: 'crunchy eight-bit noises' around G-funk-style melodies, intricate syncopation, and a distorted 'gremlin' laugh tag.",
+   "url": "https://en.wikipedia.org/wiki/Terror_Danjah",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Wikipedia describes it as Terror Danjah's breakthrough instrumental EP on Aftershock.",
+   "url": "https://en.wikipedia.org/wiki/Aftershock_(group)",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "The blog says it stood out among the dozens of 12\"s reaching London record shops at the time.",
+   "url": "https://slowmotion.blog/2025/02/12/this-is-a-preview-of-next-year/",
+   "g": "C",
+   "checked": true,
+   "pub": "2025-02-12"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "vocal version",
+   "other": "Wiley – 'Take Chances' (XL Recordings, 2004, B-side to 'Pies'), a vocal version of 'Creepy Crawler'",
+   "url": "https://en.wikipedia.org/wiki/Terror_Danjah"
+  },
+  {
+   "type": "vocal version",
+   "other": "Wiley and Breeze over 'Creepy Crawler' on the Sidewinder Bonus CD, mixed by Logan Sama",
+   "url": "https://slowmotion.blog/2025/02/12/this-is-a-preview-of-next-year/"
+  }
+ ],
+ "uncertainty": "The full tracklist, catalogue number and month are unknown, and the format is not stated directly. The MusicBrainz mirror (mb.videolan.org) shows a 12\" 'Industry Standard Trilogy EP' (Discogs 708293) with different tracks and no date; it was not used for this entry. The slowmotion.blog source is a personal blog.",
+ "tracklist": "Fully instrumental; includes 'Creepy Crawler'. A separate later 'Industry Standard Trilogy EP' (Lifesaver / Radar / Stiff / Freak Show VIP) exists and should not be confused with it.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Terror_Danjah",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Aftershock_(group)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://slowmotion.blog/2025/02/12/this-is-a-preview-of-next-year/",
+   "domain": "slowmotion.blog"
+  },
+  {
+   "url": "https://mb.videolan.org/release/f1bc712d-7b49-41b7-9a8d-5a823a67d95c",
+   "domain": "mb.videolan.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://music.apple.com/us/album/industry-standard-part-4-ep/712459222",
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://www.qobuz.com/gb-en/interpreter/terror-danjah/427376",
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://terrordanjah.bandcamp.com/releases",
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

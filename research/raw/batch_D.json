@@ -1,0 +1,379 @@
+[
+  {
+    "id_hint": "more-fire-crew-oi-2002",
+    "title": "Oi!",
+    "artist": "Platinum 45 featuring More Fire Crew",
+    "producers": ["Platinum 45"],
+    "label": "Go! Beat",
+    "catalogue_number": "GOBCD48",
+    "format": "CD single (catalogue number as listed by the Official Charts Company); Wikipedia notes a promo issue in 2001 but gives no format for it",
+    "release_date": "2002-03-04",
+    "country": "UK",
+    "tracklist_note": "Wikipedia says the CD single included the music video. The track also appears on the crew's debut album More Fire Crew C.V. (Go! Beat, 27 January 2003).",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Oi!_(song)",
+      "https://www.officialcharts.com/songs/platinum-45-featuring-more-fire-crew-oi/",
+      "https://trenchtrenchtrench.com/news/heritage-more-fire-crew-platinum-45-storm-the-uk-charts-with-their-grime-classic-oi-2002",
+      "https://en.wikipedia.org/wiki/Platinum_45",
+      "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists"
+    ],
+    "sound_descriptions": [
+      {"text": "Wikipedia describes heavy bass together with numerous UK garage-style elements, and lists the record as both grime and garage.", "url": "https://en.wikipedia.org/wiki/Oi!_(song)"},
+      {"text": "A 20th-anniversary retrospective notes stop-start rhythms, quick-fire quotable lines and punchy energy, and places the track in the moment when garage was 'darkened and twisted' into grime.", "url": "https://trenchtrenchtrench.com/news/heritage-more-fire-crew-platinum-45-storm-the-uk-charts-with-their-grime-classic-oi-2002"}
+    ],
+    "context": [
+      {"text": "Peaked at no. 8 on the Official Singles Chart (first chart date 16/03/2002, 8 weeks) and no. 2 on the Official Dance Singles Chart.", "url": "https://www.officialcharts.com/songs/platinum-45-featuring-more-fire-crew-oi/"},
+      {"text": "Wikipedia's More Fire Crew article calls it widely recognised as the first grime song to reach the UK Singles Chart; Stereogum (2016) calls it 'the inaugural grime anthem'.", "url": "https://en.wikipedia.org/wiki/Platinum_45"},
+      {"text": "More Fire Crew (Lethal Bizzle, Ozzie B, Neeko) are from Waltham Forest, London, and built their profile hosting a show on the pirate station Deja Vu FM.", "url": "https://en.wikipedia.org/wiki/Platinum_45"},
+      {"text": "The video received heavy rotation on Channel U in 2003 and became one of its most requested videos.", "url": "https://en.wikipedia.org/wiki/Oi!_(song)"}
+    ],
+    "relationships": [
+      {"type": "crew_link", "other": "Lethal Bizzle - Pow! (Forward) (2004): solo single by a More Fire Crew member, with Ozzie B and Neeko also featured", "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)"}
+    ],
+    "uncertainty": "Genre labelling differs: the song's Wikipedia page lists it as grime and garage, the More Fire Crew article and Stereogum call it grime, and the Trench retrospective places it in the transition from garage to grime. Wikipedia says a promo was issued in 2001; no promo format or catalogue number was verified. The label is styled 'Go Beat' by the OCC and on the song page, and 'Go! Beat' on the crew page. Discogs could not be fetched."
+  },
+  {
+    "id_hint": "lethal-bizzle-pow-forward-2004",
+    "title": "Pow! (Forward)",
+    "artist": "Lethal Bizzle (credited on the OCC as Lethal Bizzle); features Fumin, D Double E, Napper, Jamakabi, Neeko, Flowdan, Ozzie B, Forcer, Demon and Hotshot",
+    "producers": ["Dexplicit (D'Explicit)"],
+    "label": "Relentless Records (with Lethal Bizzle Records per Wikipedia)",
+    "catalogue_number": "RELDX15 (OCC chart listing); RA gives RELT 15 (presumably the 12-inch)",
+    "format": "Digital (iTunes) first, then physical CD and vinyl. The OCC lists RELDX15. Wikipedia mentions a vinyl version with a longer Hotshot verse.",
+    "release_date": "2004-10-25 (digital, per Wikipedia); 2004-12-20 (wider physical release, per Wikipedia); RA gives October 2004",
+    "country": "UK",
+    "tracklist_note": "Wikipedia says the B-side 'Da Bizzle Remix' features nearly all of the original artists, with Face replacing D Double E.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Pow!_(Forward)",
+      "https://www.officialcharts.com/songs/lethal-bizzle-pow-forward/",
+      "https://pt.ra.co/reviews/36229",
+      "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1",
+      "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+    ],
+    "sound_descriptions": [
+      {"text": "An 'eight-bar rally': each MC delivers a short verse with no chorus or breaks, over two alternating eight-bar loops.", "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)"},
+      {"text": "RA describes an 8-bar instrumental with a stark, bouncy synthline, claps and a militaristic fanfare. The bass enters immediately with no intro, and the 808 kick is singled out as new to grime.", "url": "https://pt.ra.co/reviews/36229"},
+      {"text": "Wikipedia says Dexplicit was reportedly among the first grime producers to use American hip-hop samples and 808 drums in place of UK garage influences, and built the beat in FL Studio in under an hour.", "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)"},
+      {"text": "Simon Reynolds (Spin, 2005) called it 'a massive jolt of sonic adrenaline' built on a 'frantic' riddim.", "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"}
+    ],
+    "context": [
+      {"text": "Peaked at no. 11 on the Official Singles Chart (first chart date 01/01/2005, 7 weeks) and at no. 1 on the Official Dance Singles Chart.", "url": "https://www.officialcharts.com/songs/lethal-bizzle-pow-forward/"},
+      {"text": "Won the MOBO Award for Best Single in 2005. Some London and South East venues and radio stations banned it, and Bizzle answered with 'Do not play Lethal Bizzle' T-shirts.", "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)"},
+      {"text": "The featured MCs come mostly from East London crews including More Fire Crew, East Connection, N.A.S.T.Y. Crew and Roll Deep.", "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)"},
+      {"text": "Reynolds (2005) called it grime's biggest UK hit to that date and noted airplay from Funkmaster Flex on Hot 97 in the US.", "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"}
+    ],
+    "relationships": [
+      {"type": "vocal_version_of_instrumental", "other": "'Forward Riddim' (Dexplicit). Chantelle Fiddy, Nov 2004: 'Pow' is a version of the Forward Riddim with a new name and a changed structure", "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1"},
+      {"type": "remix", "other": "'Da Bizzle Remix' (B-side, same riddim, Face replaces D Double E)", "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)"},
+      {"type": "sequel", "other": "Lethal Bizzle - 'Pow 2011' (feat. JME, Wiley, Chip, P Money, Ghetts, Kano), a new version, not a remix", "url": "https://pt.ra.co/reviews/36229"}
+    ],
+    "uncertainty": "Release dates conflict: Wikipedia gives digital 25 Oct 2004 and physical 20 Dec 2004, RA says October 2004, and Fiddy (8 Nov 2004) expected an official release in November. Catalogue numbers: the OCC lists RELDX15 and RA lists RELT 15. Formats were not confirmed per catalogue number. Discogs lists separate 'Lethal B - Forward Riddim' releases, but Discogs could not be fetched, so the instrumental's own release details are unverified."
+  },
+  {
+    "id_hint": "kano-ps-and-qs-2004",
+    "title": "P's and Q's",
+    "artist": "Kano",
+    "producers": ["DaVinChe"],
+    "label": "679 Recordings",
+    "catalogue_number": null,
+    "format": "Unverified for the first release (single)",
+    "release_date": "2004-11 (debut single, per Wikipedia's Home Sweet Home article; RBMA says 2004)",
+    "country": "UK",
+    "tracklist_note": "Written by K. Robinson and C. Chichester (45worlds credits). Also appears on Run the Road (Jan 2005), as the B-side of the 'Typical Me' CD single (679L096CD1), and as track 3 of Home Sweet Home (2005). Fiddy (Nov 2004) reports a 679 remix with verses from Lethal B, Ghetto and Demon.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)",
+      "https://daily.redbullmusicacademy.com/2016/04/kano-interview",
+      "https://mail.45worlds.com/cdsingle/cd/679l096cd1",
+      "https://www.popmatters.com/various-runtheroad-2496135373.html",
+      "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1",
+      "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+      "https://www.vice.com/en/article/grimewatch-v11n8/",
+      "https://i-d.co/?p=179988"
+    ],
+    "sound_descriptions": [
+      {"text": "PopMatters (2005) hears a heavily synthesised backbeat darting between the stereo channels over an imposing, hypnotic bass line, and calls it the most kinetic track on Run the Road.", "url": "https://www.popmatters.com/various-runtheroad-2496135373.html"},
+      {"text": "Stereogum (2016) describes a frantic beat that Kano rides 'effortlessly', and calls it a model for how grime should sound.", "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists"},
+      {"text": "Fiddy describes the 679 remix featuring Lethal B, Ghetto and Demon as 'As good as the original, just crunk it.'", "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1"}
+    ],
+    "context": [
+      {"text": "Kano's debut single on the independent label 679. RBMA calls it an underground anthem that marked him as a rising star.", "url": "https://daily.redbullmusicacademy.com/2016/04/kano-interview"},
+      {"text": "Already playlisted on Choice FM by early November 2004, according to Fiddy.", "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1"},
+      {"text": "Certified Gold in May 2025, mainly on streaming and downloads.", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"},
+      {"text": "A contemporary dissent: Vice's Grimewatch (Nov 2004) called it a 'soft single' and 'far from his best work'.", "url": "https://www.vice.com/en/article/grimewatch-v11n8/"}
+    ],
+    "relationships": [
+      {"type": "remix", "other": "P's & Q's (remix) feat. Lethal B, Ghetto and Demon (679, 2004)", "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1"},
+      {"type": "b_side_of", "other": "Kano feat. Ghetto - Typical Me (679L096CD1, 2005)", "url": "https://mail.45worlds.com/cdsingle/cd/679l096cd1"},
+      {"type": "compiled_on", "other": "Run the Road (679, 2005), track 4", "url": "https://en.wikipedia.org/wiki/Run_the_Road"},
+      {"type": "album_track", "other": "Kano - Home Sweet Home (2005), track 3", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"}
+    ],
+    "uncertainty": "The format and catalogue number of the first release are not verified, because Discogs (which lists release IDs 350982 and 324366 and master 167599) could not be fetched. Stereogum dates the track 2005, while Wikipedia and RBMA give 2004 (November 2004 per Wikipedia). No chart position was verified. Wikipedia says 'Typical Me' was Kano's first UK Singles Chart appearance, which implies P's and Q's did not chart, but this is an inference."
+  },
+  {
+    "id_hint": "kano-typical-me-2005",
+    "title": "Typical Me",
+    "artist": "Kano feat. Ghetto (Ghetts)",
+    "producers": ["Fraser T Smith", "Kano"],
+    "label": "679 Recordings",
+    "catalogue_number": "679L096CD1 (CD1, per 45worlds); 679L096CD2 (catalogue number shown by the OCC)",
+    "format": "CD single (two CD editions)",
+    "release_date": "2005-02-28",
+    "country": "UK",
+    "tracklist_note": "CD1 (679L096CD1): 1. Typical Me (K. Robinson, F. Smith; prod. Kano, Fraser T. Smith); 2. P's And Q's (K. Robinson, C. Chichester; prod. Davinche). Barcode 5050467713925.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://mail.45worlds.com/cdsingle/cd/679l096cd1",
+      "https://www.officialcharts.com/songs/kano-typical-me/",
+      "https://en.wikipedia.org/wiki/Typical_Me",
+      "https://en.wikipedia.org/wiki/Ghetts"
+    ],
+    "sound_descriptions": [
+      {"text": "Wikipedia's infobox lists the genre as rap rock (4:34). No published description of the beat was found in the sources opened.", "url": "https://en.wikipedia.org/wiki/Typical_Me"}
+    ],
+    "context": [
+      {"text": "Peaked at no. 22 on the Official Singles Chart (first chart date 12/03/2005, 3 weeks) and no. 6 on the Official Hip Hop and R&B Singles Chart.", "url": "https://www.officialcharts.com/songs/kano-typical-me/"},
+      {"text": "Wikipedia says it was Kano's first appearance on the UK Singles Chart. It was the second single from Home Sweet Home.", "url": "https://en.wikipedia.org/wiki/Typical_Me"},
+      {"text": "Ghetts, then known as Ghetto, was from Plaistow and joined N.A.S.T.Y. Crew in 2005. He featured twice on Home Sweet Home and toured with Kano and Mike Skinner.", "url": "https://en.wikipedia.org/wiki/Ghetts"}
+    ],
+    "relationships": [
+      {"type": "b_side", "other": "Kano - P's and Q's (2004)", "url": "https://mail.45worlds.com/cdsingle/cd/679l096cd1"},
+      {"type": "album_track", "other": "Kano - Home Sweet Home (2005), track 5", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"}
+    ],
+    "uncertainty": "The release date of 28 Feb 2005 comes from Wikipedia and from a 45worlds user comment citing a Blues & Soul advert. The sound description is thin (genre tag only). Wikipedia credits Fraser T Smith alone as producer, while 45worlds credits Kano and Fraser T. Smith."
+  },
+  {
+    "id_hint": "kano-home-sweet-home-2005",
+    "title": "Home Sweet Home",
+    "artist": "Kano",
+    "producers": ["Mikey J", "Fraser T Smith", "DaVinChe", "Diplo", "Mike Skinner", "Paul Epworth", "Terror Danjah", "TipC", "Kano"],
+    "label": "679 Recordings",
+    "catalogue_number": "5046788872 (as listed by the OCC)",
+    "format": "Album (the OCC also charted it on the vinyl albums chart; Discogs search shows a 3x12-inch edition, but Discogs was not fetchable)",
+    "release_date": "2005-06-27",
+    "country": "UK",
+    "tracklist_note": "16 tracks (61:42), including P's and Q's (DaVinChe), Typical Me feat. Ghetts (Fraser T Smith), Reload It feat. Demon & D Double E (Diplo; samples Asha Puthli 'I Dig Love'), Nite Nite feat. Leo the Lion & The Streets (Mike Skinner), I Don't Know Why (Paul Epworth; samples Black Sabbath 'War Pigs'), How We Livin' (Terror Danjah), and bonus track Boys Love Girls (Kano).",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)",
+      "https://www.officialcharts.com/albums/kano-home-sweet-home/",
+      "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+      "https://i-d.co/?p=179988"
+    ],
+    "sound_descriptions": [
+      {"text": "Simon Reynolds (Spin, 2005) found the album 'front-loaded with mid-tempo joints' leaning towards conventional hip hop, with Kano's flow 'smooth and poised even rapping in quick time'.", "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"},
+      {"text": "Mojo, quoted on Wikipedia, praised its deft wordplay and range of musical reference points. Wikipedia also documents rock and soul samples (Black Sabbath, Asha Puthli).", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"},
+      {"text": "Before release, Kano told i-D (Oct 2004) the album was 'very experimental' and that he did not see himself as a grime artist.", "url": "https://i-d.co/?p=179988"}
+    ],
+    "context": [
+      {"text": "Peaked at no. 36 on the Official Albums Chart (first chart date 09/07/2005, 11 weeks) and no. 3 on the Official Hip Hop and R&B Albums Chart (48 weeks).", "url": "https://www.officialcharts.com/albums/kano-home-sweet-home/"},
+      {"text": "Metacritic score of 82 from 12 reviews; Pitchfork 8.4/10. Certified Gold in the UK and Kano's best-selling album.", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"},
+      {"text": "Released when Kano was 20.", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"}
+    ],
+    "relationships": [
+      {"type": "contains", "other": "Kano - P's and Q's (2004)", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"},
+      {"type": "contains", "other": "Kano feat. Ghetts - Typical Me (2005)", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"},
+      {"type": "contains", "other": "Kano - Boys Love Girls (bonus track; earlier N.A.S.T.Y.-era track)", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"},
+      {"type": "producer_link", "other": "Terror Danjah produced 'How We Livin''", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"}
+    ],
+    "uncertainty": "Chart entry date: Wikipedia gives the week of 3 July 2005 and the OCC gives 09/07/2005 (the OCC's chart-date convention). Wikipedia does not mention a Mercury nomination, so none is recorded here. The Pitchfork review itself was not opened; the score comes from Wikipedia."
+  },
+  {
+    "id_hint": "run-the-road-2005",
+    "title": "Run the Road",
+    "artist": "Various Artists",
+    "producers": [],
+    "label": "679 Recordings (the series was also released through Vice)",
+    "catalogue_number": null,
+    "format": "Compilation album (CD per Discogs search listing; not verified)",
+    "release_date": "2005-01-24 (UK); alternative-cover edition 2005-03-08",
+    "country": "UK",
+    "tracklist_note": "16 tracks: Terror Danjah feat. Riko, Bruza, D Double E & Hyper 'Cock Back'; Riko & Target 'Chosen One'; Roll Deep 'Let It Out'; Kano 'P's and Q's'; Jammer feat. Wiley, D Double E, Kano & Goodz 'Destruction VIP'; Dizzee Rascal feat. D Double E 'Give U More'; No Lay 'Unorthodox Daughter'; Shystie feat. Ronnie Redz, Kano & Bruza 'One Wish (Terror Remix)'; Durrty Goodz 'Gimmie Dat'; Demon feat. Big E D 'I Wont Change'; Tinchy Stryder 'Move'; Lady Sovereign 'Cha Ching (Cheq 1-2 Remix)'; Ears 'Happy Days'; The Streets feat. Kano, Donae'o, Lady Sovereign & Tinchy Stryder 'Fit But You Know It' (remix); Wonder feat. Plan B 'Cap Black'; Kano feat. Demon & Wiley 'Mic Fight'.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Run_the_Road",
+      "https://www.popmatters.com/various-runtheroad-2496135373.html",
+      "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+    ],
+    "sound_descriptions": [
+      {"text": "PopMatters (Pierre Hamilton, 24 Mar 2005) describes electronic beats made on low-grade home computers, blending dancehall, Bronx hip hop and jungle, with thick driving bass and samples from video games, ringtones and wind chimes.", "url": "https://www.popmatters.com/various-runtheroad-2496135373.html"},
+      {"text": "The same review hears the jerkiest of flows, often grinding against the beat; it calls the opener 'Cock Back' 'hacked up and jerky'.", "url": "https://www.popmatters.com/various-runtheroad-2496135373.html"},
+      {"text": "The Daily Telegraph (Ben Thompson), quoted on Wikipedia: 'Urgent, funny, rude, and sometimes [...] alarmingly violent.'", "url": "https://en.wikipedia.org/wiki/Run_the_Road"}
+    ],
+    "context": [
+      {"text": "RWD Magazine's Danny Walker said the first edition sold more than 20,000 copies.", "url": "https://en.wikipedia.org/wiki/Run_the_Road"},
+      {"text": "The Evening Standard (Richard Godwin) called it an 'exhilarating introduction' to grime, and noted that several tracks were over a year old at release.", "url": "https://en.wikipedia.org/wiki/Run_the_Road"},
+      {"text": "Simon Reynolds (Spin, 2005) called it the 'scene-defining' compilation and the first widely available in the US.", "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"},
+      {"text": "Followed by Run the Road Vol. 2 (CD plus DVD).", "url": "https://en.wikipedia.org/wiki/Run_the_Road"}
+    ],
+    "relationships": [
+      {"type": "compiles", "other": "Kano - P's and Q's", "url": "https://en.wikipedia.org/wiki/Run_the_Road"},
+      {"type": "compiles", "other": "Lady Sovereign - Cha Ching (Cheq 1-2 Remix)", "url": "https://en.wikipedia.org/wiki/Run_the_Road"},
+      {"type": "compiles", "other": "Terror Danjah feat. Riko, Bruza, D Double E & Hyper - Cock Back", "url": "https://en.wikipedia.org/wiki/Run_the_Road"},
+      {"type": "compiles", "other": "Jammer feat. Wiley, D Double E, Kano & Goodz - Destruction VIP", "url": "https://en.wikipedia.org/wiki/Run_the_Road"}
+    ],
+    "uncertainty": "No compiler or per-track producer credits were available; Discogs (master 127768) could not be fetched. PopMatters lists a release date of 8 March 2005, which matches Wikipedia's alternative-cover edition and is probably the US issue (this is inference). The catalogue number is not verified."
+  },
+  {
+    "id_hint": "lord-of-the-mics-1-2004",
+    "title": "Lord of the Mics (Vol. 1)",
+    "artist": "Jammer (creator) with Ratty (Chad Stennett) and Capo; various MCs",
+    "producers": ["Jammer"],
+    "label": "Self-released street DVD, distributed through Hothead (Capo and Ratty's promotion/distribution set-up); no formal label named",
+    "catalogue_number": null,
+    "format": "DVD (with an accompanying compilation CD, per RBMA)",
+    "release_date": "2004",
+    "country": "UK",
+    "tracklist_note": "Clashes on the first edition, per The Fader: Wiley vs Kano; Slix vs Domino; Scratchy vs Footsie. Wikipedia's list of LOTM 1 clashes adds Ghetto vs Napper (organised on radio), SLK vs Younger Nasty, Kal Serious vs Corey Johnson and Bruza vs Crazy Titch.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Lord_of_the_Mics",
+      "https://daily.redbullmusicacademy.com/2012/12/jammer-interview",
+      "https://www.thefader.com/2015/09/11/jammer-lord-of-the-mics-interview",
+      "https://www.clashmusic.com/features/life-at-140-lord-of-the-mics-special",
+      "https://www.vice.com/en/article/grimewatch-v11n8/"
+    ],
+    "sound_descriptions": [
+      {"text": "Clash describes the format as two MCs, a beat and a camera, filmed simply in Jammer's basement.", "url": "https://www.clashmusic.com/features/life-at-140-lord-of-the-mics-special"},
+      {"text": "Jammer (RBMA, 2012) recalls simply playing a beat in the basement and filming on a handheld camera. The instrumentals used are not named.", "url": "https://daily.redbullmusicacademy.com/2012/12/jammer-interview"}
+    ],
+    "context": [
+      {"text": "Filmed in Jammer's basement. Wikipedia describes the series as the first platform to release filmed grime clashes. Jammer cited the US Smack DVD series as an influence.", "url": "https://en.wikipedia.org/wiki/Lord_of_the_Mics"},
+      {"text": "Sold as a street DVD from the back of Jammer's car and in local record shops. Viewers voted by text, but winners were never published.", "url": "https://www.thefader.com/2015/09/11/jammer-lord-of-the-mics-interview"},
+      {"text": "Jammer claims Wiley and Kano both got record deals soon after the DVD, and that Kano's GMTV appearance brought calls about it.", "url": "https://www.thefader.com/2015/09/11/jammer-lord-of-the-mics-interview"},
+      {"text": "Vice's Grimewatch (Nov 2004) reported that Capo & Ratty were duplicating the DVD in quantity.", "url": "https://www.vice.com/en/article/grimewatch-v11n8/"}
+    ],
+    "relationships": [
+      {"type": "features_artist", "other": "Kano (vs Wiley); links to P's and Q's era", "url": "https://daily.redbullmusicacademy.com/2012/12/jammer-interview"},
+      {"type": "features_artist", "other": "Crazy Titch (vs Bruza)", "url": "https://en.wikipedia.org/wiki/Lord_of_the_Mics"},
+      {"type": "series_sequel", "other": "Lord of the Mics 2 (includes Skepta vs Devilman); LOTM I and II were re-released as a double DVD in 2015", "url": "https://en.wikipedia.org/wiki/Lord_of_the_Mics"}
+    ],
+    "uncertainty": "Only the year (2004) is verified, with no month. The clash lists differ between Wikipedia and The Fader: The Fader is unclear whether Ghetto vs Napper appeared on the first DVD. RBMA describes the Wiley-Kano clash as set up 'in the studio' and also as in the basement (Jammer's basement studio). It is an artefact, not an audio release."
+  },
+  {
+    "id_hint": "nasty-kano-boys-love-girls-2003",
+    "title": "Boys Love Girls (also listed as 'Vice Versa (Boys Love Girls)')",
+    "artist": "Kano / N.A.S.T.Y. Crew (credited to Kano in the Nasty Crew Wikipedia release list)",
+    "producers": ["Kano (per Home Sweet Home bonus-track credit and Kano's own statement to i-D)"],
+    "label": "Jahmek the World (per Wikipedia)",
+    "catalogue_number": null,
+    "format": "Vinyl, white label in circulation (per Vice, Nov 2004); format of the Jahmek release unverified",
+    "release_date": "2003 (per Wikipedia's Nasty Crew article)",
+    "country": "UK",
+    "tracklist_note": "Later included as a bonus track on Kano's Home Sweet Home (2005), credited to Kano as producer.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Nasty_Crew",
+      "https://i-d.co/?p=179988",
+      "https://daily.redbullmusicacademy.com/2016/04/kano-interview",
+      "https://www.vice.com/en/article/grimewatch-v11n8/",
+      "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"
+    ],
+    "sound_descriptions": [],
+    "context": [
+      {"text": "Kano told i-D (Oct 2004) it was the most important track of his career so far, and that he produced and wrote it at 16.", "url": "https://i-d.co/?p=179988"},
+      {"text": "Kano (RBMA, 2016) says he made it before joining N.A.S.T.Y., and that it was the first time he wrote lyrics for a specific piece of music.", "url": "https://daily.redbullmusicacademy.com/2016/04/kano-interview"},
+      {"text": "Vice's Grimewatch (Nov 2004) called it a 'classic' that was not scheduled for release, though 500 people at E3 already had it on white label.", "url": "https://www.vice.com/en/article/grimewatch-v11n8/"},
+      {"text": "N.A.S.T.Y. Crew were from Plaistow, Newham, East London, and had a Monday-night show on Deja Vu FM from 2002.", "url": "https://en.wikipedia.org/wiki/Nasty_Crew"}
+    ],
+    "relationships": [
+      {"type": "later_version", "other": "Kano - Boys Love Girls (bonus track on Home Sweet Home, 2005)", "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"}
+    ],
+    "uncertainty": "The status of the release is unclear. Wikipedia lists a 2003 Jahmek the World release by Kano, while Vice (Nov 2004) says it was not scheduled for release and circulated only on white label. The credited artist (Kano solo or N.A.S.T.Y.) is unclear. No published description of its sound was found, so sound_descriptions is empty; treat this record as low-confidence."
+  },
+  {
+    "id_hint": "crazy-titch-sing-along-2004",
+    "title": "Sing Along (listed by Fiddy as 'Sing-a-Long')",
+    "artist": "Crazy Titch",
+    "producers": ["Crazy Tim (per Chantelle Fiddy, Nov 2004)"],
+    "label": "White label (per Fiddy)",
+    "catalogue_number": null,
+    "format": "12-inch white label (vinyl, per Fiddy's 'vinyl preview')",
+    "release_date": "2004",
+    "country": "UK",
+    "tracklist_note": null,
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1",
+      "https://chantellefiddy.blogspot.com/2004/11/new-crazy-titch-biog.html?m=0",
+      "https://en.wikipedia.org/wiki/Crazy_Titch",
+      "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+    ],
+    "sound_descriptions": [
+      {"text": "Fiddy (Nov 2004) notes a string sample that she likens to ballroom dancing.", "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1"},
+      {"text": "Reynolds (Spin, 2005) describes a 'bizarre' rhythm built from a chopped-up classical symphony.", "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"}
+    ],
+    "context": [
+      {"text": "His second solo single, described as a popular DJ dubplate. His first was 'I Can C U', playlisted on 1Xtra and popular on Channel U.", "url": "https://chantellefiddy.blogspot.com/2004/11/new-crazy-titch-biog.html?m=0"},
+      {"text": "Raised in Plaistow, East London. Formed Boyz In Da Hood with Durrty Goodz, and appeared on pirate stations including Rinse, Deja Vu, Heat and Freeze.", "url": "https://chantellefiddy.blogspot.com/2004/11/new-crazy-titch-biog.html?m=0"},
+      {"text": "Wikipedia lists 'Sing Along' as a notable 2004 track.", "url": "https://en.wikipedia.org/wiki/Crazy_Titch"}
+    ],
+    "relationships": [
+      {"type": "artist_link", "other": "Lord of the Mics 1 (Bruza vs Crazy Titch, per Wikipedia)", "url": "https://en.wikipedia.org/wiki/Lord_of_the_Mics"}
+    ],
+    "uncertainty": "Label, catalogue number and exact date are unverified. 'White' in Fiddy's preview indicates a white label. The producer credit 'Crazy Tim' is from one source only. Spellings vary ('Sing Along' / 'Sing-a-Long')."
+  },
+  {
+    "id_hint": "lady-sovereign-random-2005",
+    "title": "Random",
+    "artist": "Lady Sovereign",
+    "producers": ["Menta"],
+    "label": "Casual Records",
+    "catalogue_number": null,
+    "format": "CD single, 12-inch promo vinyl, digital EP",
+    "release_date": "2005-03-14",
+    "country": "UK",
+    "tracklist_note": "The 12-inch includes the instrumental and an a cappella. The CD and digital EP add the Menta remix (feat. Riko) and an A. Rucker & Sinden remix. Written by Louise Harman and Gabriel Olegavich.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)",
+      "https://en.wikipedia.org/wiki/Vertically_Challenged_(EP)",
+      "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+    ],
+    "sound_descriptions": [
+      {"text": "Pitchfork, quoted on Wikipedia, called its sound 'blippy' and 'futuristic'. The infobox lists electronic, hip hop, rap and grime.", "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)"},
+      {"text": "Billboard, quoted on the Vertically Challenged EP page (which opens with 'Random'), described hands-in-the-air breakbeats and Colecovision sound effects.", "url": "https://en.wikipedia.org/wiki/Vertically_Challenged_(EP)"}
+    ],
+    "context": [
+      {"text": "Peaked at no. 73 in the UK (one week). It was her first CD single, and her second and last Casual single of 2005, followed by her signing to Def Jam.", "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)"},
+      {"text": "Pitchfork ranked it no. 8 of its Top 50 Singles of 2005.", "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)"},
+      {"text": "Reynolds (2005) placed Lady Sovereign in an 'alternative grime' direction with ska and punk influences, describing her work as fizzing 'with cartoony humor'.", "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"}
+    ],
+    "relationships": [
+      {"type": "preceded_by", "other": "Lady Sovereign - Ch Ching (Cheque 1 2), a limited white-label promo 12-inch; a 'Cheq 1-2 Remix' appears on Run the Road", "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)"},
+      {"type": "remix", "other": "Random (Menta remix feat. Riko)", "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)"},
+      {"type": "reissued_on", "other": "Vertically Challenged EP (Chocolate Industries, US, 15 Nov 2005)", "url": "https://en.wikipedia.org/wiki/Vertically_Challenged_(EP)"}
+    ],
+    "uncertainty": "The OCC page was not opened, so the no. 73 peak comes from Wikipedia. No catalogue number was found. Her status as grime is debated: Reynolds frames her as 'alternative grime'. The remixer's name is spelled inconsistently on Wikipedia ('Rucker'/'Brucker'). 'Ch Ching (Cheque 1 2)' was not entered separately because its date, label and producer could not be verified."
+  },
+  {
+    "id_hint": "skepta-private-caller-2005",
+    "title": "Private Caller",
+    "artist": "Skepta (vocal version features JME, Meridian Dan, Pres T, with Big H on the intro, per Melodic Distraction)",
+    "producers": ["Skepta (Wikipedia lists it among his instrumentals)"],
+    "label": null,
+    "catalogue_number": null,
+    "format": "Unverified (Wikipedia describes it as an instrumental release)",
+    "release_date": "2005 (per Melodic Distraction)",
+    "country": "UK",
+    "tracklist_note": null,
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Skepta",
+      "https://www.melodicdistraction.com/skepta-a-song-by-song-history"
+    ],
+    "sound_descriptions": [
+      {"text": "Melodic Distraction describes 'electric aggression' with pirate-radio and rave energy: bouncy bass, grime drum patterns and a winding synth. The hook is about ignoring private callers.", "url": "https://www.melodicdistraction.com/skepta-a-song-by-song-history"}
+    ],
+    "context": [
+      {"text": "Skepta was the DJ for Meridian Crew, a Tottenham collective heard on pirate radio, most notably Heat FM. His released instrumentals included 'DTI (Pirate Station Anthem)' and 'Private Caller'.", "url": "https://en.wikipedia.org/wiki/Skepta"},
+      {"text": "Melodic Distraction calls it his breakthrough track and an early glimpse of the North London grime scene.", "url": "https://www.melodicdistraction.com/skepta-a-song-by-song-history"}
+    ],
+    "relationships": [
+      {"type": "vocal_version_of_instrumental", "other": "Skepta - Private Caller (instrumental), per Wikipedia; Melodic Distraction describes a vocal version with JME, Meridian Dan and Pres T", "url": "https://www.melodicdistraction.com/skepta-a-song-by-song-history"}
+    ],
+    "uncertainty": "LOW CONFIDENCE. No label, catalogue number, format or exact date was verified. Wikipedia presents 'Private Caller' as an instrumental, while Melodic Distraction describes a vocal track with several MCs, so they may be different versions. The year 2005 comes from one source. Discogs and MusicBrainz (both blocked) would be needed to confirm. Consider dropping this entry if a stricter threshold applies."
+  }
+]

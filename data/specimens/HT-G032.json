@@ -1,0 +1,181 @@
+{
+ "id": "HT-G032",
+ "key": "jammer-murkle-man",
+ "sort": "2005-01-01",
+ "year": 2005,
+ "date": "c. 2004 to 2005",
+ "kind": "Single",
+ "artist": "Jammer",
+ "title": "Murkle Man",
+ "label": null,
+ "cat": null,
+ "format": "Unverified (single with video)",
+ "producers": [
+  "Jammer (per PRS M magazine) - Clash says Wiley produced it; conflicting"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Release details provisional. Jammer says he recorded it after making beats for Wiley; the producer credit is unconfirmed."
+ },
+ "sound": [
+  {
+   "text": "Performance clip notes the reload comes almost immediately after the track starts (crowd energy rather than musical detail).",
+   "url": "https://trenchtrenchtrench.com/news/heritage-risky-roadz-captures-jammer-tearing-young-man-standing-apart-with-murkle-man",
+   "g": "C",
+   "checked": true,
+   "pub": "2017-11-06"
+  }
+ ],
+ "context": [
+  {
+   "text": "Jammer's solo breakthrough; 'tongue-in-cheek' video of him in a cape with an M patrolling his area.",
+   "url": "https://www.clashmusic.com/features/tales-from-the-grime-generation-jammer-interviewed",
+   "g": "C",
+   "checked": true,
+   "pub": "2014-05-22 (Clash, Aniefiok Ekpoudom)"
+  },
+  {
+   "text": "Jammer told XLR8R (2006) he was filming outside Leytonstone Underground Station with '40 mans watching' when he committed to the Merkle Man persona.",
+   "url": "https://xlr8r.com/?p=114465",
+   "g": "A",
+   "checked": true,
+   "pub": "2006-03-14 (XLR8R)"
+  },
+  {
+   "text": "DJ Cameo played it at a Run the Road event at Fabric and called Jammer up to perform; Wiley played it on his pirate show.",
+   "url": "https://prsformusic.com/m-magazine/features/interview-jammer",
+   "g": "B",
+   "checked": true,
+   "pub": "2013-06-28 (PRS M magazine, Jim Ottewill)"
+  },
+  {
+   "text": "Risky Roadz captured Jammer performing it at Young Man Standing (2005).",
+   "url": "https://trenchtrenchtrench.com/news/heritage-risky-roadz-captures-jammer-tearing-young-man-standing-apart-with-murkle-man",
+   "g": "C",
+   "checked": true,
+   "pub": "2017-11-06"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "production advice",
+   "other": "Skepta advised on edits (per Jammer)",
+   "url": "https://prsformusic.com/m-magazine/features/interview-jammer"
+  }
+ ],
+ "uncertainty": "Producer conflict: Clash says Wiley produced it; PRS M magazine quotes Jammer saying he made it with Skepta advising edits. Label, format, catalogue number and exact date NOT verified (Discogs blocked). Keep provisional. Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs.",
+ "tracklist": "Vocal track. Alias 'Merkle Man' spelling used by xlr8r 2006.",
+ "sources": [
+  {
+   "url": "https://www.clashmusic.com/features/tales-from-the-grime-generation-jammer-interviewed",
+   "domain": "clashmusic.com"
+  },
+  {
+   "url": "https://prsformusic.com/m-magazine/features/interview-jammer",
+   "domain": "prsformusic.com"
+  },
+  {
+   "url": "https://trenchtrenchtrench.com/news/heritage-risky-roadz-captures-jammer-tearing-young-man-standing-apart-with-murkle-man",
+   "domain": "trenchtrenchtrench.com"
+  },
+  {
+   "url": "https://xlr8r.com/?p=114465",
+   "domain": "xlr8r.com"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2012/12/jammer-interview",
+   "domain": "daily.redbullmusicacademy.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Murkle Man - Single",
+   "level": "album",
+   "url": "https://music.apple.com/us/album/murkle-man-single/1327398749",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Murkle Man",
+   "level": "album",
+   "url": "https://www.qobuz.com/gb-en/interpreter/jammer/697137",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "found",
+   "labels": [
+    "electronic",
+    "grime",
+    "grindnoise",
+    "London"
+   ],
+   "match": "uncertain",
+   "release": "Top Producer",
+   "level": "tags",
+   "url": "https://jammer.bandcamp.com/track/murkle-man",
+   "retrieved": "2026-11-16",
+   "verdict": "uncertain match"
+  }
+ ],
+ "round": 1
+}

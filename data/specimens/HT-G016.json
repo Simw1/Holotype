@@ -1,0 +1,175 @@
+{
+ "id": "HT-G016",
+ "key": "nasty-crew-cock-back-2003",
+ "sort": "2003-09-01",
+ "year": 2003,
+ "date": "Sep 2003",
+ "kind": "12-inch",
+ "artist": "Nasty Crew",
+ "title": "Cock Back",
+ "label": "Aftershock",
+ "cat": null,
+ "format": "12\" vinyl single",
+ "producers": [
+  "Terror Danjah"
+ ],
+ "lane": "sublow",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; produced by Terror Danjah, with documented later versions."
+ },
+ "sound": [
+  {
+   "text": "Samples the film 'Shottas'.",
+   "url": "https://en.wikipedia.org/wiki/Terror_Danjah",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "Terror Danjah's producer tag, a distorted 'gremlin' laugh from a drum and bass sample CD, is part of his sound (artist-level, not confirmed on this track).",
+   "url": "https://en.wikipedia.org/wiki/Terror_Danjah",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  }
+ ],
+ "context": [
+  {
+   "text": "It was the 'Power Play' on Deja Vu FM and topped the sales chart at Rhythm Division; Terror Danjah claimed sales of about 10,000.",
+   "url": "https://en.wikipedia.org/wiki/Nasty_Crew",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "Nasty Crew was founded in 1999 by Plaistow-based artists, with members mainly from Newham; Terror Danjah, from Forest Gate (per his own Wikipedia page), was invited in.",
+   "url": "https://en.wikipedia.org/wiki/Nasty_Crew",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "Aftershock was co-founded in 2002 by Terror Danjah and Flash, initially as a vinyl-only label, with printed colour labels from its second release.",
+   "url": "https://en.wikipedia.org/wiki/Aftershock_(group)",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "version",
+   "other": "Cock Back (East Co. Version), 2004, on 'Box Bloody Fresh', featuring Jookie Mundo and Demon",
+   "url": "https://en.wikipedia.org/wiki/Nasty_Crew"
+  },
+  {
+   "type": "version",
+   "other": "Cock Back V1.2, featuring Riko Dan and Bruza, on 'Run the Road' (679 Recordings, 24 January 2005)",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road"
+  },
+  {
+   "type": "sample",
+   "other": "Shottas (film)",
+   "url": "https://en.wikipedia.org/wiki/Terror_Danjah"
+  }
+ ],
+ "uncertainty": "The artist credit varies: the Nasty Crew article gives Hitman Hyper and D Double E with guests Crazy Titch and Riko Dan, while the Aftershock article says 'Nasty Crew feat. Titch and Riko Dan'. The Run the Road article credits 'Terror Danjah featuring Riko, Bruza, D Double E and Hyper' (the V1.2 version). No catalogue number was found.",
+ "tracklist": "Vocal record over a Terror Danjah beat; later versions are listed under relationships.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Terror_Danjah",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Nasty_Crew",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Aftershock_(group)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road",
+   "domain": "en.wikipedia.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://music.apple.com/gb/artist/nasty-crew/1445578480",
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

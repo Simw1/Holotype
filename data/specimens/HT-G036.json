@@ -1,0 +1,173 @@
+{
+ "id": "HT-G036",
+ "key": "lady-sovereign-random-2005",
+ "sort": "2005-03-14",
+ "year": 2005,
+ "date": "14 Mar 2005",
+ "kind": "Single",
+ "artist": "Lady Sovereign",
+ "title": "Random",
+ "label": "Casual Records",
+ "cat": null,
+ "format": "CD single, 12-inch promo vinyl, digital EP",
+ "producers": [
+  "Menta"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; Wikipedia tags it grime and hip hop."
+ },
+ "sound": [
+  {
+   "text": "Pitchfork, quoted on Wikipedia, heard 'blippy quipping coming off futuristic'. The infobox lists grime and hip hop.",
+   "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)",
+   "g": "C",
+   "checked": true
+  },
+  {
+   "text": "Billboard, quoted on the Vertically Challenged EP page (which opens with 'Random'), described hands-in-the-air breakbeats and Colecovision sound effects.",
+   "url": "https://en.wikipedia.org/wiki/Vertically_Challenged_(EP)",
+   "g": "C",
+   "checked": true
+  }
+ ],
+ "context": [
+  {
+   "text": "Peaked at no. 73 in the UK (one week). It was her first CD single, and her second and last Casual single of 2005, followed by her signing to Def Jam.",
+   "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)",
+   "g": "C",
+   "checked": true
+  },
+  {
+   "text": "Pitchfork ranked it no. 8 of its Top 50 Singles of 2005.",
+   "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)",
+   "g": "C",
+   "checked": true
+  },
+  {
+   "text": "Reynolds (Spin, 2005) said her forthcoming debut veered into 'alternative grime' with ska and punk influences, and that its tracks 'Tango' and 'Public Warning' fizz with cartoony humour.",
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "g": "A",
+   "checked": true,
+   "pub": "Spin, Aug 2005 (expanded 'director's cut' reposted 2017-10-31)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "preceded_by",
+   "other": "Lady Sovereign - Ch Ching (Cheque 1 2), a limited white-label promo 12-inch; a 'Cheq 1-2 Remix' appears on Run the Road",
+   "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)"
+  },
+  {
+   "type": "remix",
+   "other": "Random (Menta remix feat. Riko)",
+   "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)"
+  },
+  {
+   "type": "reissued_on",
+   "other": "Vertically Challenged EP (Chocolate Industries, US, 15 Nov 2005)",
+   "url": "https://en.wikipedia.org/wiki/Vertically_Challenged_(EP)"
+  }
+ ],
+ "uncertainty": "The OCC page was not opened, so the no. 73 peak comes from Wikipedia. No catalogue number was found. Her status as grime is debated: Reynolds frames her as 'alternative grime'. The remixer's name is spelled inconsistently on Wikipedia ('Rucker'/'Brucker'). 'Ch Ching (Cheque 1 2)' was not entered separately because its date, label and producer could not be verified.",
+ "tracklist": "The 12-inch includes the instrumental and an a cappella. The CD and digital EP add the Menta remix (feat. Riko) and an A. Rucker & Sinden remix. Written by Louise Harman and Gabriel Olegavich.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Random_(Lady_Sovereign_song)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Vertically_Challenged_(EP)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "domain": "reynoldsretro.blogspot.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Pop"
+   ],
+   "match": "exact",
+   "release": "Public Warning",
+   "level": "track",
+   "url": "https://music.apple.com/au/song/random/1443899084",
+   "retrieved": "2026-11-16",
+   "verdict": "wrong"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "version",
+   "release": "Public Warning",
+   "level": "album",
+   "url": "https://www.qobuz.com/nz-en/album/public-warning-lady-sovereign/o1ostk7sitlsa",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

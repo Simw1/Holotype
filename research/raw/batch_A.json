@@ -1,0 +1,651 @@
+[
+  {
+    "id_hint": "wiley-eskimo",
+    "title": "Eskimo",
+    "artist": "Wiley (credited as Wiley Kat on some listings)",
+    "producers": [
+      "Wiley (Richard Cowie)"
+    ],
+    "label": "Wiley Kat Recordings",
+    "catalogue_number": null,
+    "format": "12\" vinyl (white label instrumental)",
+    "release_date": "2002-07",
+    "country": "UK",
+    "tracklist_note": "Instrumental. Wikipedia says it was remixed several times and followed by sequels 'Eskimo 2', 'Eskimo 3' and 'Eskimo 4'. A beatless 'devil mix' was also issued (see wiley-eskimo-2-devils-mix).",
+    "discogs_url": "https://www.discogs.com/release/320262-Wiley-Kat-Eskimo",
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Eskimo_(grime_beat)",
+      "https://mixmag.net/feature/history-of-grime",
+      "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+      "https://factmag.com/2012/04/22/20-best-grime",
+      "https://factmag.com/2010/09/13/the-essential-wiley",
+      "https://www.musictech.net/guides/essential-guide/genre-primer-grime/",
+      "https://www.fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-2",
+      "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+      "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+      "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "A rough breakbeat with plinky pentatonic melodies, clipped flutes and hollow digital basslines (Son Raw, Complex, 2019).",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      },
+      {
+        "text": "Sparse arrangement of minimal drums, sci-fi synth stabs, heavy bass and off-kilter rhythms, with a rolling metal-pole sound (Dan Hancox, Mixmag, 2018).",
+        "url": "https://mixmag.net/feature/history-of-grime"
+      },
+      {
+        "text": "Gong, Sino-style taps and a hollow metal pole rolling around (FACT, 2010).",
+        "url": "https://factmag.com/2010/09/13/the-essential-wiley"
+      },
+      {
+        "text": "'Hollow bass dumps', artificial synth stabs, clipped flutes and digital kick drums (MusicTech genre primer).",
+        "url": "https://www.musictech.net/guides/essential-guide/genre-primer-grime/"
+      }
+    ],
+    "context": [
+      {
+        "text": "Wiley told Martin Clark (Hyperdub, Nov 2003) that he made it at Christmas 1999 or 2000 and that it sold 10,000 copies out of his car boot.",
+        "url": "https://www.fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-2"
+      },
+      {
+        "text": "Mixmag calls it the first and most enduring of Wiley's 'eski' tracks, sold with no label, manager or publicist (over 10,000 vinyl copies); Complex says it was sold through local shops such as Rhythm Division.",
+        "url": "https://mixmag.net/feature/history-of-grime"
+      },
+      {
+        "text": "FACT's '20 best grime' list (Tom Lea, 2011/2012) calls it 'the definitive grime riddim' and says it spawned the eski micro-genre.",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "text": "Martin Clark, quoted in RBMA Daily (2015): 'Zomby, Logos, Boxed: it all comes downstream from Eskimo.'",
+        "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "has_sequel",
+        "other": "Eskimo 2 / Eskimo 3 / Eskimo 4 (Wiley)",
+        "url": "https://en.wikipedia.org/wiki/Eskimo_(grime_beat)"
+      },
+      {
+        "type": "has_version",
+        "other": "Eskimo 2 (Devils Mix), beatless bass version",
+        "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003"
+      },
+      {
+        "type": "mashed_up_in",
+        "other": "'Gun Shot Riddim' ('Pulse Eskimo'), Skepta's mash-up of Eskimo and Musical Mob's 'Pulse X'",
+        "url": "https://en.wikipedia.org/wiki/Eskimo_(grime_beat)"
+      },
+      {
+        "type": "has_vocal_version",
+        "other": "'Chubby Dread vocal special' featuring Wiley, Dizzee Rascal and others",
+        "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003"
+      },
+      {
+        "type": "reworked_as",
+        "other": "'Eskimo (Interlude)' on Treddin' on Thin Ice (2004)",
+        "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+      }
+    ],
+    "uncertainty": "Wikipedia gives July 2002 and Wiley Kat Recordings; Mixmag says 'no label', meaning self-released. Production is dated Christmas 1999 or 2000 by Wiley himself. No catalogue number was verified. The Discogs URL was found in search results but Discogs refused every fetch, so nothing from that page was used. Complex's 'allegedly sold 10,000' wording shows the sales figure is self-reported."
+  },
+  {
+    "id_hint": "wiley-eskimo-2-devils-mix",
+    "title": "Eskimo 2 (Devils Mix)",
+    "artist": "Wiley Kat",
+    "producers": [
+      "Wiley"
+    ],
+    "label": "Wiley Kat Records",
+    "catalogue_number": null,
+    "format": "12\" vinyl, 45 rpm, white label",
+    "release_date": "2002",
+    "country": "UK",
+    "tracklist_note": "Single track, 'Eskimo 2 (Devils Mix)', 4:23 according to a marketplace listing. A 'devil mix' is the tune with the drums taken out, leaving bass for MCs.",
+    "discogs_url": "https://www.discogs.com/sell/release/325528",
+    "other_source_urls": [
+      "https://www.ebay.co.uk/itm/294051267786",
+      "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+      "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+      "https://www.musicismysanctuary.com/?p=30046"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Devil mixes are versions with the drums removed, leaving bass and room for the MC; Wiley later renamed them 'bass mix' (Martin Clark interview, Oct 2003).",
+        "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003"
+      },
+      {
+        "text": "The Eskimo Devil Mix is bassier and drops the breakbeat entirely (Son Raw, Complex).",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      },
+      {
+        "text": "On early eski white labels the B-side usually held a 'Devils' or bass mix containing only the bassline.",
+        "url": "https://www.musicismysanctuary.com/?p=30046"
+      }
+    ],
+    "context": [
+      {
+        "text": "Wiley said the devil mix of Eskimo sold very quickly.",
+        "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003"
+      },
+      {
+        "text": "Bass-only mixes were made for MCs on pirate radio.",
+        "url": "https://www.musicismysanctuary.com/?p=30046"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "version_of",
+        "other": "Eskimo (Wiley, 2002)",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      }
+    ],
+    "uncertainty": "Label, year, format and duration come only from an eBay listing, which is a weak source. The Discogs page could not be fetched, so its contents were not used. It is unclear whether this was a separate 12\" or a B-side of another Eskimo pressing. A 2009 eBay lot (popsike) also lists 'Wiley - Eskimo 2 (Devils)' as a white label."
+  },
+  {
+    "id_hint": "wiley-eskimo-3-ice-pole",
+    "title": "Eskimo 3 / Ice Pole",
+    "artist": "Wiley Kat",
+    "producers": [
+      "Wiley"
+    ],
+    "label": "Wiley Kat (white label)",
+    "catalogue_number": "WK007",
+    "format": "12\" vinyl, white label",
+    "release_date": "2002",
+    "country": "UK",
+    "tracklist_note": "A: Ice Pole; B: Eskimo 3 (taken from the seller description of a 2014 eBay auction archived on popsike).",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://www.popsike.com/Grime-Vinyl-Record-Wiley-Kat-Eskimo-3-Ice-Pole-2002-Rare/121318133908.html",
+      "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+      "https://mixmag.net/feature/history-of-grime",
+      "https://factmag.com/2010/09/13/the-essential-wiley",
+      "https://en.wikipedia.org/wiki/Eskimo_(grime_beat)"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Ice Pole opens with a synth melody, then drops into an aggressive, off-kilter counter-melody that the author compares to dancehall and tango; the track moves in 8-bar sections (Son Raw, Complex).",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      }
+    ],
+    "context": [
+      {
+        "text": "Complex says Ice Pole's opening melody helped inspire the 'sinogrime' subgenre.",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      },
+      {
+        "text": "Mixmag and FACT both name 'Ice Pole' among Wiley's eskibeat tracks.",
+        "url": "https://mixmag.net/feature/history-of-grime"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "sequel_of",
+        "other": "Eskimo (Wiley, 2002); Wikipedia lists 'Eskimo 3' as a sequel",
+        "url": "https://en.wikipedia.org/wiki/Eskimo_(grime_beat)"
+      }
+    ],
+    "uncertainty": "The catalogue number WK007, the year 2002 and the A/B order come only from a resold eBay auction record (popsike), a weak source. No sound description of 'Eskimo 3' itself was found. Treat the release metadata as provisional."
+  },
+  {
+    "id_hint": "wiley-ice-rink",
+    "title": "Ice Rink (instrumental; also issued as Ice Rink Vocal EPs)",
+    "artist": "Wiley (Wiley Kat)",
+    "producers": [
+      "Wiley"
+    ],
+    "label": "Wiley Kat",
+    "catalogue_number": "WK015 (for the 'Eskiboy / Ice Rink' 12\", from a marketplace listing)",
+    "format": "12\" vinyl, white label",
+    "release_date": "2003",
+    "country": "UK",
+    "tracklist_note": "An eBay listing pairs 'Eskiboy' and 'Ice Rink' on one white label, WK015. Separately there were vocal EP 12\"s: Wiley told Clark only two vocal vinyls came out, with MCs including Flirta D and Kano (Crazy Titch's version unreleased). Complex lists Kano, Riko, Tinchy Stryder and Dizzee Rascal as vocalists on the EPs, alongside an instrumental.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://factmag.com/2012/04/22/20-best-grime",
+      "https://factmag.com/2010/09/13/the-essential-wiley",
+      "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+      "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+      "https://www.ebay.co.uk/itm/117485438001",
+      "https://www.musicismysanctuary.com/?p=30046",
+      "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Minimal, with no melody: drums that 'sound like slamming car doors' plus eski clicks, landing on unexpected beats; too fast for garage purists (Son Raw, Complex).",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      },
+      {
+        "text": "FACT calls it 'one of the most powerful instrumentals he ever made'.",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "text": "FACT (2010) says nothing in grime matches the beat's sheer power.",
+        "url": "https://factmag.com/2010/09/13/the-essential-wiley"
+      }
+    ],
+    "context": [
+      {
+        "text": "Wiley said he made the riddim quickly and vocalled it himself before releasing vocal 12\"s with other MCs (Martin Clark interview, Oct 2003).",
+        "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003"
+      },
+      {
+        "text": "Complex ranks it alongside 'Sleng Teng' and 'Rapper's Delight' as a sonic game-changer.",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      },
+      {
+        "text": "FACT lists it as a 2003 Wiley Kat release and notes many vocal versions exist.",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "same_riddim",
+        "other": "Dizzee Rascal 'Ice Rink Freestyle' and Wiley 'Sorry Sorry Pardon What' (2006 revisit) on the same beat",
+        "url": "https://factmag.com/2010/09/13/the-essential-wiley"
+      },
+      {
+        "type": "has_vocal_versions",
+        "other": "Ice Rink Vocal EPs (Kano, Flirta D, Riko, Tinchy Stryder, Dizzee Rascal)",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      },
+      {
+        "type": "reworked_as",
+        "other": "'Ice-Rink (Interlude)' on Treddin' on Thin Ice (2004)",
+        "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+      }
+    ],
+    "uncertainty": "The year (2003) and label (Wiley Kat) come from FACT. WK015 and the Eskiboy pairing come from one eBay listing, which oddly names the label 'Pirate Sessions Recordings'. The two sources disagree on which MCs appear on the vocal EPs. Discogs entries for 'Ice Rink Vocal EP 1/2' and 'Eskiboy / Ice Rink' showed up in search but could not be opened. This entry combines the instrumental and vocal releases and may need splitting."
+  },
+  {
+    "id_hint": "wiley-wot-do-u-call-it",
+    "title": "Wot Do U Call It?",
+    "artist": "Wiley",
+    "producers": [
+      "Wiley"
+    ],
+    "label": "XL Recordings",
+    "catalogue_number": "XLS179CD (CD single)",
+    "format": "CD single and digital EP; FACT also refers to an XL 12\"",
+    "release_date": "2004-04-05",
+    "country": "UK",
+    "tracklist_note": "CD single: 1. 'Wot Do U Call It?' (3:20); 2. 'Problems' (3:49). Digital EP: the vocal plus an instrumental.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Wot_Do_U_Call_It%3F",
+      "https://www.officialcharts.com/songs/wiley-wot-do-u-call-it/",
+      "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+      "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited",
+      "https://www.musictech.net/guides/essential-guide/genre-primer-grime/",
+      "https://popmatters.com/wiley-treddin-2496117747.html",
+      "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+      "https://www.musicismysanctuary.com/?p=30046",
+      "https://factmag.com/2010/09/13/the-essential-wiley",
+      "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "An up-tempo, syncopated bounce with a 'compressed brass underscore' and 8-bit, Nintendo-like effects (MusicTech).",
+        "url": "https://www.musictech.net/guides/essential-guide/genre-primer-grime/"
+      },
+      {
+        "text": "Built from 'digital tuba and caustic bass' (Son Raw, Complex, 2016).",
+        "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited"
+      },
+      {
+        "text": "Uses the Igloo template with a more pop-oriented song structure (Complex, 2019).",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      },
+      {
+        "text": "Chaotic, glitchy production that PopMatters likens to Mouse on Mars inside a hip-hop song (2004 review).",
+        "url": "https://popmatters.com/wiley-treddin-2496117747.html"
+      }
+    ],
+    "context": [
+      {
+        "text": "Peaked at No. 31 on the UK Official Singles Chart and No. 2 on the Independent Singles Chart; first charted 17 April 2004.",
+        "url": "https://www.officialcharts.com/songs/wiley-wot-do-u-call-it/"
+      },
+      {
+        "text": "Wiley's debut single and the lead single from Treddin' on Thin Ice; the video was shot in his local area of East London.",
+        "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Wot_Do_U_Call_It%3F"
+      },
+      {
+        "text": "Complex calls it eskibeat's mainstream breakout and 'the first grime tune about grime'; MusicTech calls it grime's 'original national anthem'.",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      },
+      {
+        "text": "In 2003 Wiley described it as a planned album single about garage artists being pushed out of the scene.",
+        "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "vocal_over",
+        "other": "Igloo (Wiley instrumental)",
+        "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003"
+      },
+      {
+        "type": "vocal_over",
+        "other": "Igloo, described as the instrumental of 'Wot do u call it?'",
+        "url": "https://www.musicismysanctuary.com/?p=30046"
+      },
+      {
+        "type": "track_on",
+        "other": "Treddin' on Thin Ice (Wiley, 2004)",
+        "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+      }
+    ],
+    "uncertainty": "The Wikipedia mirror says it was recorded in 2003. FACT mentions an XL 12\", but no 12\" catalogue number was verified. Igloo's own release details were not verified, so it is kept here as a relationship rather than a separate record."
+  },
+  {
+    "id_hint": "wiley-treddin-on-thin-ice",
+    "title": "Treddin' on Thin Ice",
+    "artist": "Wiley",
+    "producers": [
+      "Wiley",
+      "TNT",
+      "Target",
+      "Danny Weed",
+      "Cage (additional)"
+    ],
+    "label": "XL Recordings",
+    "catalogue_number": null,
+    "format": "Album (CD and digital)",
+    "release_date": "2004-04-26",
+    "country": "UK",
+    "tracklist_note": "15 tracks, including 'Wot Do U Call It?', 'Pies', 'Reasons', and short interludes based on 'Eskimo', 'Avalanche' and 'Ice-Rink'. 'Pick U R Self Up' was produced by Target and Danny Weed; 'The Game' by TNT.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice",
+      "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited",
+      "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+      "https://popmatters.com/wiley-treddin-2496117747.html",
+      "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+      "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Wiley_discography.html"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Eski beats made from 'frosty squarewaves and pentatonic bass plunks', bent into new tempos (Son Raw, Complex, 2016).",
+        "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited"
+      },
+      {
+        "text": "Fragmented orchestral samples 'scraped to the bone' and reassembled; twitchy, off-kilter beats; drum'n'bass-derived drums on 'Doorway' (PopMatters, 2004).",
+        "url": "https://popmatters.com/wiley-treddin-2496117747.html"
+      },
+      {
+        "text": "'Reasons' runs at double time; its B-side 'Bang Bang' is clicks, sub-bass and near-jungle-speed percussion (Complex, 2019).",
+        "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+      }
+    ],
+    "context": [
+      {
+        "text": "Released about six months after Dizzee Rascal's Boy In Da Corner and widely compared to it, unfavourably; it sold below expectations and Wiley left XL.",
+        "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited"
+      },
+      {
+        "text": "Peaked at No. 45 on the UK albums chart, according to a Wikipedia discography mirror.",
+        "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Wiley_discography.html"
+      },
+      {
+        "text": "Pitchfork scored it 7.6/10, as reported on Wikipedia.",
+        "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "contains_interlude_of",
+        "other": "Eskimo; Ice Rink; Avalanche",
+        "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+      },
+      {
+        "type": "contains",
+        "other": "Wot Do U Call It?; Pies",
+        "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+      }
+    ],
+    "uncertainty": "26 April 2004 is the UK date. The PopMatters review gives 24 August 2004, which is presumably the US release. In 2003 Wiley called the album 'The Next Level' (fabric interview). No catalogue number was verified."
+  },
+  {
+    "id_hint": "wiley-pies",
+    "title": "Pies (12\" with 'Take Chances')",
+    "artist": "Wiley",
+    "producers": [
+      "Wiley ('Pies', per the album credits)",
+      "Terror Danjah ('Take Chances', per a marketplace listing)"
+    ],
+    "label": "XL Recordings",
+    "catalogue_number": null,
+    "format": "12\" vinyl, 45 rpm",
+    "release_date": "2004",
+    "country": "UK",
+    "tracklist_note": "A1: 'Pies' (vocal, from Treddin' on Thin Ice); B: 'Take Chances' (Wiley Kat, produced by Terror Danjah), according to an eBay listing that may not show the full tracklist.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://www.ebay.com/itm/297463627720",
+      "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice",
+      "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Wiley_discography.html",
+      "https://popmatters.com/wiley-treddin-2496117747.html",
+      "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "A frenetic, scattering texture that PopMatters compares to a Japanese remix of Q-Bert sound effects (2004).",
+        "url": "https://popmatters.com/wiley-treddin-2496117747.html"
+      },
+      {
+        "text": "Complex mentions the album's 'pie-related hooks' among its non-sequitur lyrics.",
+        "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited"
+      }
+    ],
+    "context": [
+      {
+        "text": "Second single from Treddin' on Thin Ice (2004); peaked at UK No. 45 per a Wikipedia discography mirror, though the mirror infers the year.",
+        "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Wiley_discography.html"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "track_on",
+        "other": "Treddin' on Thin Ice (2004)",
+        "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+      },
+      {
+        "type": "coupled_with",
+        "other": "'Take Chances' (Wiley Kat, prod. Terror Danjah)",
+        "url": "https://www.ebay.com/itm/297463627720"
+      }
+    ],
+    "uncertainty": "This entry is weak. The 12\" format and B-side come only from an eBay listing, and the chart peak comes from a mirror that marks the year as inferred. Release date and catalogue number are unknown. Its B-side links to Terror Danjah, who is covered by another batch."
+  },
+  {
+    "id_hint": "danny-weed-creeper",
+    "title": "Creeper",
+    "artist": "Danny Weed",
+    "producers": [
+      "Danny Weed",
+      "Nick Cage"
+    ],
+    "label": "Roll Deep Recordings",
+    "catalogue_number": "RDR 001",
+    "format": "12\" vinyl",
+    "release_date": "2002",
+    "country": "UK",
+    "tracklist_note": "A: 'Creeper (Remix)'; B: 'Creeper (Original Mix)' (from the Vinyl Exchange listing). Instrumental.",
+    "discogs_url": "https://www.discogs.com/master/444507-Danny-Weed-Creeper",
+    "other_source_urls": [
+      "https://www.complex.com/music/2017/05/exclusive-risky-roadz-danny-weed-creeper-video",
+      "https://www.vinylexchange.co.uk/products/danny-weed-creeper",
+      "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+      "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "An instrumental riddim built on 'echoed strings' that Risky Roadz calls 'so creepy', far removed from UK garage's fluffiness (Complex, 2017).",
+        "url": "https://www.complex.com/music/2017/05/exclusive-risky-roadz-danny-weed-creeper-video"
+      }
+    ],
+    "context": [
+      {
+        "text": "Complex says it was made in 2002 and that Slimzee played it often in his Pay As U Go sets, which sent listeners to buy it at Rhythm Division.",
+        "url": "https://www.complex.com/music/2017/05/exclusive-risky-roadz-danny-weed-creeper-video"
+      },
+      {
+        "text": "Complex calls it one of grime's most iconic instrumentals. Risky Roadz made an official video about 15 years after release, in 2017.",
+        "url": "https://www.complex.com/music/2017/05/exclusive-risky-roadz-danny-weed-creeper-video"
+      },
+      {
+        "text": "Danny Weed was a Roll Deep member and a schoolmate of Wiley's at Bow Boys (RBMA Daily).",
+        "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "name_shared_with",
+        "other": "Roll Deep's 'Creeper' mixtape series (Vol. 1 2003/2004, Vol. 2 2004)",
+        "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep"
+      }
+    ],
+    "uncertainty": "Complex says it was 'made' in 2002. Search-result titles for Discogs also say 2002, but Discogs could not be opened. The Vinyl Exchange listing gives the label and catalogue number but no year. The listed A-side 'Remix' may belong to a reissue rather than the first pressing."
+  },
+  {
+    "id_hint": "roll-deep-bounce",
+    "title": "Bounce",
+    "artist": "Roll Deep",
+    "producers": [],
+    "label": "Wiley Kat Records",
+    "catalogue_number": "WK005",
+    "format": "12\" vinyl (inferred from listing dimensions)",
+    "release_date": "2002",
+    "country": "UK",
+    "tracklist_note": "A vocal featuring Biggie Pitbull, Breeze, Bubbles, Dizzee Rascal, Flowdan, Jamakabi, Jet Li, Scratchy and Wiley, plus an instrumental (DNR Vinyl listing). Wikipedia says Dizzee Rascal sang the hook.",
+    "discogs_url": "https://discogs.com/Roll-Deep-Bounce/release/256431",
+    "other_source_urls": [
+      "https://dnrvinyl.co.uk/product/bounce-roll-deep/",
+      "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep",
+      "https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Dizzee_Rascal",
+      "https://www.popsike.com/9-WileyEskimo-12-vinyl-records-rare-white-labels/220367169890.html"
+    ],
+    "sound_descriptions": [],
+    "context": [
+      {
+        "text": "Wikipedia dates 'Bounce' to 2002, with Dizzee Rascal on the hook and Biggie Pitbull, Bubbles and Jamakabi also appearing. It belongs to the period when Roll Deep formed out of Pay As U Go in Bow.",
+        "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep"
+      },
+      {
+        "text": "A Wikipedia list credits writers including Marc Veira (Flowdan), Dylan Mills (Dizzee Rascal) and Richard Cowie Jr. (Wiley), and places the track on the 2009 compilation Street Anthems.",
+        "url": "https://en.wikipedia.org/wiki/List_of_songs_recorded_by_Dizzee_Rascal"
+      }
+    ],
+    "relationships": [],
+    "uncertainty": "No published description of the sound was found, so musical coding cannot draw on a source. The producer is not credited in any page opened. The date of 2002 comes from Wikipedia and a shop tag. WK005 comes from a shop listing. The 2009 date on the Dizzee list refers to a later compilation. The Discogs URL came from search and was not opened. Dizzee Rascal appears only as a featured MC; this is a Roll Deep record. Consider dropping it if sound evidence is required."
+  },
+  {
+    "id_hint": "roll-deep-when-im-ere",
+    "title": "When I'm 'Ere",
+    "artist": "Roll Deep (featuring Trim, Roachee and Manga)",
+    "producers": [
+      "Danny Weed (album version)",
+      "Wiley (the 'Wiley Remix' named by FACT)"
+    ],
+    "label": "Relentless Records / Virgin",
+    "catalogue_number": null,
+    "format": "B-side of 'The Avenue' CD single (2005); album track on In at the Deep End; also issued as a single with a video",
+    "release_date": "2005",
+    "country": "UK",
+    "tracklist_note": "Track 8 on In at the Deep End (3:05, prod. Danny Weed). Also the B-side of 'The Avenue' CD single. FACT cites a 'Wiley Remix' on the Avenue EP.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/In_at_the_Deep_End",
+      "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html",
+      "https://www.musictech.net/guides/essential-guide/genre-primer-grime/",
+      "https://factmag.com/2012/04/22/20-best-grime",
+      "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep",
+      "https://en.wikipedia.org/wiki/Roll_Deep_discography"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Built on a 'trademark gypsy accordion' played by Danny Weed, with camera-flash snaps; three minutes of clash-style pirate-radio energy (MusicTech).",
+        "url": "https://www.musictech.net/guides/essential-guide/genre-primer-grime/"
+      },
+      {
+        "text": "FACT picks the Wiley Remix because it has a chorus while keeping a cipher-style relay of MCs.",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      }
+    ],
+    "context": [
+      {
+        "text": "Included in FACT's 20 best grime tracks (2011/2012); Roachee's first verse is singled out.",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "text": "Featured Trim, Roachee and Manga; one of the singles from Roll Deep's 2005 debut album.",
+        "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "b_side_of",
+        "other": "The Avenue (Roll Deep, 2005)",
+        "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html"
+      },
+      {
+        "type": "has_remix",
+        "other": "When I'm 'Ere (Wiley Remix)",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      }
+    ],
+    "uncertainty": "Different sources date the single to 2005 and the video to 2006. The earliest release looks like the album (6 June 2005) or 'The Avenue' CD single (18 July 2005), but which came first is unresolved. MusicTech does not say which version it describes. There is no chart entry for 'When I'm 'Ere' in the Official Charts list."
+  },
+  {
+    "id_hint": "roll-deep-the-avenue",
+    "title": "The Avenue",
+    "artist": "Roll Deep",
+    "producers": [
+      "Wiley"
+    ],
+    "label": "Relentless Records",
+    "catalogue_number": null,
+    "format": "CD single and digital download",
+    "release_date": "2005-07-18",
+    "country": "UK",
+    "tracklist_note": "CD single: 'The Avenue' (Radio Edit, 2:32) and 'When I'm 'Ere'.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html",
+      "https://www.officialcharts.com/artist/17136/Roll-Deep",
+      "https://en.wikipedia.org/wiki/In_at_the_Deep_End"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Samples the Maisonettes' 1983 song 'Heartache Avenue'; tagged grime and neo soul (Wikipedia).",
+        "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html"
+      }
+    ],
+    "context": [
+      {
+        "text": "Peaked at No. 11 on the UK Official Singles Chart (first entry 30 July 2005, 9 weeks) and No. 4 on the Hip Hop and R&B Singles Chart.",
+        "url": "https://www.officialcharts.com/artist/17136/Roll-Deep"
+      },
+      {
+        "text": "The first Roll Deep single without Dizzee Rascal; taken from In at the Deep End (Relentless/Virgin, 6 June 2005).",
+        "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "samples",
+        "other": "The Maisonettes, 'Heartache Avenue' (1983; not a grime record)",
+        "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html"
+      },
+      {
+        "type": "coupled_with",
+        "other": "When I'm 'Ere (Roll Deep)",
+        "url": "https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html"
+      }
+    ],
+    "uncertainty": "This is a crossover pop-grime single, not an underground white label, and its sound description is thin. Writers are credited as Wiley, Mark Tibenham and Lol Mason (the Maisonettes writers). The Wikipedia text came from an IPFS mirror because en.wikipedia.org was blocked for this page."
+  }
+]

@@ -1,0 +1,181 @@
+{
+ "id": "HT-G063",
+ "key": "roll-deep-shake-a-leg-2005",
+ "sort": "2005-10-10",
+ "year": 2005,
+ "date": "10 Oct 2005",
+ "kind": "Single",
+ "artist": "Roll Deep",
+ "title": "Shake a Leg",
+ "label": "Relentless",
+ "cat": "RELCD22",
+ "format": "CD single (RELCD22, per 45worlds); OCC lists a further catalogue number RELDX22, format not stated",
+ "producers": [
+  "Danny Weed (Shake a Leg)",
+  "Danny Weed and Wiley (Heat Up)"
+ ],
+ "lane": "melodic",
+ "geno": [
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; a pop single built on a lounge-salsa sample, filed as grime by its album's sources and as pop by a 2005 trade review."
+ },
+ "sound": [
+  {
+   "text": "Built on a sample of 'Mambo Craze' by De Phazz featuring Pat Appleton (45worlds sleeve notes; Wikipedia; Record of the Day, 2005).",
+   "url": "https://mail.45worlds.com/cdsingle/cd/relcd22",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Record of the Day (2005) calls it summer fun and pop, but 'smart and witty'.",
+   "url": "https://www.recordoftheday.com/record-of-the-day/2005-08-25/shake-a-leg",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "PopMatters (2006) hears the salsa-quoting hook as reminiscent of 'Mambo No. 5'.",
+   "url": "https://popmatters.com/rolldeep_inatthedeep-2495674581.html",
+   "g": "A",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Official Singles Chart peak no. 24 (first chart date 22/10/2005, 5 weeks); no. 18 on the Physical Singles Chart and no. 31 on Downloads (OCC).",
+   "url": "https://www.officialcharts.com/songs/roll-deep-shake-a-leg/",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Record of the Day (Oct 2005) notes it ranked seventh on the pre-release airplay chart despite a modest midweek chart position.",
+   "url": "https://www.recordoftheday.com/record-of-the-day/2005-10-13/shake-a-leg",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Simon Reynolds (Spin, 2005) wrote that the parent album 'skimps on uncut grime' in favour of conventional hip hop and novelty tunes.",
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "g": "A",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime, hip hop (album)",
+   "source": "Wikipedia (In at the Deep End)",
+   "year": null,
+   "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/In_At_The_Deep_End.html"
+  },
+  {
+   "label": "pop",
+   "source": "Record of the Day",
+   "year": 2005,
+   "url": "https://www.recordoftheday.com/record-of-the-day/2005-08-25/shake-a-leg"
+  },
+  {
+   "label": "grime-for-beginners, Brit-hop, pop-rap (album)",
+   "source": "PopMatters",
+   "year": 2006,
+   "url": "https://popmatters.com/rolldeep_inatthedeep-2495674581.html"
+  }
+ ],
+ "rels": [
+  {
+   "type": "samples",
+   "other": "De Phazz feat. Pat Appleton - The Mambo Craze",
+   "url": "https://mail.45worlds.com/cdsingle/cd/relcd22"
+  },
+  {
+   "type": "from_album",
+   "other": "Roll Deep - In at the Deep End (2005)",
+   "url": "https://en.wikipedia-on-ipfs.org/wiki/Shake_a_Leg"
+  },
+  {
+   "type": "follows_single",
+   "other": "Roll Deep - The Avenue (already in register)",
+   "url": "https://www.recordoftheday.com/record-of-the-day/2005-08-25/shake-a-leg"
+  }
+ ],
+ "uncertainty": "OCC catalogue RELDX22 differs from the 45worlds CD RELCD22; probably a second format, not confirmed. 45worlds gives only 'October 2005'.",
+ "tracklist": "CD single: 1. Shake A Leg (Radio Edit); 2. Heat Up. Track 1 lyrics credited to Wiley, Breeze and Scratchy; track 2 lyrics to Jet Le, Breeze, Scratchy, Trim and Flow Dan (45worlds). Taken from the album In at the Deep End (Relentless/Virgin, 6 June 2005).",
+ "sources": [
+  {
+   "url": "https://www.officialcharts.com/songs/roll-deep-shake-a-leg/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://mail.45worlds.com/cdsingle/cd/relcd22",
+   "domain": "mail.45worlds.com"
+  },
+  {
+   "url": "https://www.recordoftheday.com/record-of-the-day/2005-08-25/shake-a-leg",
+   "domain": "recordoftheday.com"
+  },
+  {
+   "url": "https://www.recordoftheday.com/record-of-the-day/2005-10-13/shake-a-leg",
+   "domain": "recordoftheday.com"
+  },
+  {
+   "url": "https://en.wikipedia-on-ipfs.org/wiki/Shake_a_Leg",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/In_At_The_Deep_End.html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://popmatters.com/rolldeep_inatthedeep-2495674581.html",
+   "domain": "popmatters.com"
+  },
+  {
+   "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1",
+   "domain": "reynoldsretro.blogspot.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

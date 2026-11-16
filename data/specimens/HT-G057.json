@@ -1,0 +1,152 @@
+{
+ "id": "HT-G057",
+ "key": "aftershock-payback-remix-ep-2004",
+ "sort": "2004-11-01",
+ "year": 2004,
+ "date": "2004",
+ "kind": "12-inch EP",
+ "artist": "Various (Aftershock)",
+ "title": "Payback (remix EP)",
+ "label": "Aftershock",
+ "cat": null,
+ "format": "EP (format not stated in sources opened)",
+ "producers": [
+  "Terror Danjah (remixer of Frontline)"
+ ],
+ "lane": "sublow",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Coded for Terror Danjah's Frontline remix; several characters are drafted from descriptions of his style rather than this track."
+ },
+ "sound": [
+  {
+   "text": "In FACT (2009), Simon Reynolds calls the synth on the Frontline remix 'harmonically rich'. Terror says it is a normal synth that he processes and textures heavily, and he declines to explain how.",
+   "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Planet Mu (2009) describes Terror Danjah's style as a small set of signature sounds, shifting syncopated rhythms, around 140 bpm, and a gremlin-cackle audio logo.",
+   "url": "https://planet.mu/?p=1062",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Terror Danjah tells FACT that Payback was 'one of Aftershock's top sellers', especially the Frontline remix, and places it after the Industry Standard EP (2004).",
+   "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "The Aftershock (group) Wikipedia article lists Payback as a 2004 various-artist remix EP and repeats that it was one of the label's top sellers. It describes the original 'Frontline' (2003) as Big E-D featuring D Double E.",
+   "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Aftershock_(group)",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "FACT: Big E.D.'s 'Frontline' followed Crazy Titch's 'I Can C U' and N.A.S.T.Y.'s 'Cock Back' as an early Aftershock release.",
+   "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime (Aftershock described as a grime label/collective; Industry Standard called 'headphone grime')",
+   "source": "FACT (Simon Reynolds interview)",
+   "year": 2009,
+   "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2"
+  },
+  {
+   "label": "grime instrumental (on Gremlinz)",
+   "source": "Planet Mu",
+   "year": 2009,
+   "url": "https://planet.mu/?p=1062"
+  }
+ ],
+ "rels": [
+  {
+   "type": "remix_of",
+   "other": "Big E-D feat. D Double E - Frontline (Aftershock, 2003)",
+   "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Aftershock_(group)"
+  },
+  {
+   "type": "label_mate",
+   "other": "Terror Danjah - Industry Standard EP (in register as terror-danjah-industry-standard-ep-2004)",
+   "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2"
+  },
+  {
+   "type": "compiled_on",
+   "other": "Terror Danjah - Gremlinz (The Instrumentals 2003-2009), Planet Mu ZIQ249 (2009), track 1",
+   "url": "https://planet.mu/?p=1062"
+  }
+ ],
+ "uncertainty": "No catalogue number, format or exact date was found. The Terror Danjah Wikipedia article says the 'Creepy Crawler' instrumental (2003) came out on Industry Standard (2004) and was voiced by Wiley as 'Take Chances', while FACT ties a 'Creepy Crawler' remix of Frontline to Payback. These may be the same riddim in two forms. The planet.mu sound description covers Terror's general style, not this record specifically.",
+ "tracklist": "Full tracklist not found. FACT (2009) names the 'Creep[y] Crawler' remix of Big E-D's 'Frontline' as its standout. Planet Mu's Gremlinz (2009) opens with 'Big-E-D: Frontline (Terror Danjah's Creepy Crawler Remix)'.",
+ "sources": [
+  {
+   "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Aftershock_(group)",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Terror_Danjah",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://planet.mu/?p=1062",
+   "domain": "planet.mu"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

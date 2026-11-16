@@ -1,0 +1,157 @@
+{
+ "id": "HT-G041",
+ "key": "ruff-sqwad-died-in-ur-arms",
+ "sort": "2006-10-13",
+ "year": 2006,
+ "date": "13 Oct 2006",
+ "kind": "Mixtape track",
+ "artist": "Ruff Sqwad",
+ "title": "Died in Ur Arms",
+ "label": "Ruff Sqwad Recordings",
+ "cat": null,
+ "format": "Track on mixtape (Guns and Roses Volume. 2)",
+ "producers": [
+  "Prince Rapid",
+  "Dirty Danger (David Nkrumah)"
+ ],
+ "lane": "melodic",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; its title and a 2020 essay suggest a sample of Cutting Crew's 1986 power ballad, not confirmed by a source."
+ },
+ "sound": [
+  {
+   "text": "TRENCH (2020) mentions Cutting Crew's '(I Just) Died In Your Arms' as a recognisable sample in Ruff Sqwad's R&G tracks; the title suggests this track uses it, but no source states so. Made on FruityLoops (crew generally).",
+   "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me",
+   "g": "C",
+   "checked": true,
+   "pub": "2020-02-12 (TRENCH, personal essay)"
+  },
+  {
+   "text": "Afropop pairs it ('Dying in Your Arms') with 'Functions on the Low' as cuts reflecting the crew's 'genuine melodic gifts', borrowing a chipmunked house sample and a cheesy synth tone.",
+   "url": "https://afropop.org/articles/white-label-classics",
+   "g": "C",
+   "checked": true,
+   "pub": "2013-01-16 (Afropop, Sam Backer)"
+  }
+ ],
+ "context": [
+  {
+   "text": "TRENCH (2020) recalls it on a 2007 Valentine's mix CD from the period when R&G (rhythm and grime) 'had fully arrived'.",
+   "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me",
+   "g": "C",
+   "checked": true,
+   "pub": "2020-02-12"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "sample of",
+   "other": "Cutting Crew - (I Just) Died In Your Arms",
+   "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me"
+  },
+  {
+   "type": "compiled on",
+   "other": "Ruff Sqwad - White Label Classics (2012)",
+   "url": "https://thequietus.com/?p=10535"
+  }
+ ],
+ "uncertainty": "Production credit is the blanket mixtape credit (all tracks Rapid & Dirty Danger). No standalone 2000s vinyl release verified.",
+ "tracklist": "Track 5 of Guns and Roses Volume. 2; instrumental later on White Label Classics (CD only) as 'Died in Your Arms'.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_2",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me",
+   "domain": "trenchtrenchtrench.com"
+  },
+  {
+   "url": "https://afropop.org/articles/white-label-classics",
+   "domain": "afropop.org"
+  },
+  {
+   "url": "https://thequietus.com/?p=10535",
+   "domain": "thequietus.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://music.apple.com/us/artist/ruff-sqwad/125323722",
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

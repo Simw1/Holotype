@@ -1,0 +1,163 @@
+{
+ "id": "HT-G066",
+ "key": "skepta-duppy-2006",
+ "sort": "2006-05-01",
+ "year": 2006,
+ "date": "2006 (Stereogum gives 2007)",
+ "kind": "12-inch",
+ "artist": "Skepta (with guest MCs)",
+ "title": "Duppy",
+ "label": "Boy Better Know",
+ "cat": null,
+ "format": "Not stated in any source opened; FACT calls it one of the last big white-label-era anthems",
+ "producers": [
+  "Skepta (implied by Complex; not stated outright in any source opened)"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; a drum-and-bass-feel riddim with nine MCs trading bars."
+ },
+ "sound": [
+  {
+   "text": "Stereogum (2016) describes it as a drum-and-bass-influenced standout that became an instant club hit.",
+   "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Mixmag (2016) calls it a sticky, 'bling-bling' club anthem of the Boy Better Know era.",
+   "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "FACT's '20 best grime records ever made' (Tom Lea; page dated 22 April 2012, originally 2011) lists it as Boy Better Know, 2006, and one of the last big anthems of the white-label era.",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Mixmag says DJ EZ included it on his Pure Garage mix a year after release.",
+   "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Complex's 25 best Skepta songs says it was originally released in 2006, appeared on Greatest Hits the following year, and cemented Skepta's reputation 'as both MC and producer'.",
+   "url": "https://www.complex.com/music/a/joseph-jp-patterson/25-best-skepta-songs",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Stereogum calls it one of the last grime anthems of the early-to-mid 2000s.",
+   "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime",
+   "source": "FACT (20 best grime records)",
+   "year": 2012,
+   "url": "https://factmag.com/2012/04/22/20-best-grime"
+  },
+  {
+   "label": "grime anthem (drum-and-bass-influenced)",
+   "source": "Stereogum",
+   "year": 2016,
+   "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists"
+  },
+  {
+   "label": "grime / Boy Better Know club anthem",
+   "source": "Mixmag",
+   "year": 2016,
+   "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11"
+  }
+ ],
+ "rels": [
+  {
+   "type": "album_inclusion",
+   "other": "Skepta - Greatest Hits (Boy Better Know, 17 Sep 2007), as 'Duppy (Doin' It Again)'",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Skepta_discography"
+  },
+  {
+   "type": "posse_cut",
+   "other": "Voiced by JME, Jammer, Wiley, Footsie, Trim, Bossman Birdie, Bearman and MC Creed",
+   "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11"
+  }
+ ],
+ "uncertainty": "Format and catalogue number unknown. Stereogum dates it by its album appearance (Greatest Hits, 2007), while FACT, Mixmag and Complex give 2006 for the original release. The production credit to Skepta is implied by Complex, not stated outright. It is mainly known as a vocal posse cut, not a standalone instrumental.",
+ "tracklist": "Later included as 'Duppy (Doin' It Again)', track 3 on Skepta's album Greatest Hits (Boy Better Know, 17 September 2007), featuring Bearman, Bossman, Footsie, Jme, Jammer, MC Creed, Trim and Wiley.",
+ "sources": [
+  {
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+   "domain": "stereogum.com"
+  },
+  {
+   "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11",
+   "domain": "mixmag.net"
+  },
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Skepta_discography",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://www.complex.com/music/a/joseph-jp-patterson/25-best-skepta-songs",
+   "domain": "complex.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

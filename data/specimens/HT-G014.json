@@ -1,0 +1,161 @@
+{
+ "id": "HT-G014",
+ "key": "dizzee-rascal-boy-in-da-corner",
+ "sort": "2003-07-21",
+ "year": 2003,
+ "date": "21 Jul 2003",
+ "kind": "Album",
+ "artist": "Dizzee Rascal",
+ "title": "Boy in da Corner",
+ "label": "XL Recordings",
+ "cat": null,
+ "format": "Album (LP/CD; formats not itemised in sources opened)",
+ "producers": [
+  "Dizzee Rascal",
+  "Chubby Dread",
+  "Moulders",
+  "Mr. Cage",
+  "Taz",
+  "Vanguard"
+ ],
+ "lane": "mc",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Album: holds several specimens. Multi-track items are not coded as a single genotype."
+ },
+ "sound": [
+  {
+   "text": "Dizzee says none of the album's tracks is at 140 bpm; the 140 bpm norm came later.",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "g": "B",
+   "checked": true,
+   "pub": "2016-05-05"
+  },
+  {
+   "text": "Tracks usually started from drums; samples were spread across a keyboard, one per key; no MPC used.",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "g": "B",
+   "checked": true,
+   "pub": "2016-05-05"
+  },
+  {
+   "text": "Entertainment Weekly (via Wikipedia): UK garage beats combined with a distinctly British sensibility; Pitchfork praised its 'cutting sonics'.",
+   "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "Rock edge attributed by Dizzee to grunge and Black Sabbath influences ('Stop Dat').",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "g": "B",
+   "checked": true,
+   "pub": "2016-05-05"
+  }
+ ],
+ "context": [
+  {
+   "text": "Won the 2003 Mercury Prize; peaked at no. 23 on the UK Albums Chart; later certified platinum (BPI, 2018).",
+   "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "Complex (B.J. Steiner) credits it with bringing grime to the rest of the world.",
+   "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "Ranked no. 4 in FACT's 'The 20 best Grime records ever made'.",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-04-22"
+  },
+  {
+   "text": "Made in about a year, when Dizzee was largely unknown outside London pirate radio; he was 18 at release.",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "g": "C",
+   "checked": true,
+   "pub": "2016-05-05"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "contains",
+   "other": "I Luv U; Fix Up, Look Sharp; Jus' a Rascal",
+   "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+  },
+  {
+   "type": "built on another producer's beat",
+   "other": "Round We Go (Chubby Dread beat, originally made for More Fire Crew)",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+  }
+ ],
+ "uncertainty": "Catalogue number not verified. Mixmag (2018) lists 'Imagine' as 2004 and from Boy in da Corner; not cross-checked. No Discogs URL found.",
+ "tracklist": "15 tracks, 57:08; US edition adds 'Vexed'. Singles: I Luv U, Fix Up Look Sharp, Jus' a Rascal. Recorded Oct 2001 - Mar 2003 at Belly of the Beast and Raskits Lair, London.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "domain": "mixmag.net"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Boy In Da Corner",
+   "level": "album",
+   "url": "https://music.apple.com/gb/album/boy-in-da-corner/1438903422",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Boy In Da Corner",
+   "level": "album",
+   "url": "https://www.qobuz.com/us-en/interpreter/dizzee-rascal/108698",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

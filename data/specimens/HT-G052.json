@@ -1,0 +1,173 @@
+{
+ "id": "HT-G052",
+ "key": "heartless-crew-heartless-theme-2002",
+ "sort": "2002-05-25",
+ "year": 2002,
+ "date": "2002 (chart entry 25 May 2002)",
+ "kind": "Single",
+ "artist": "Heartless Crew",
+ "title": "The Heartless Theme (a.k.a. The Superglue Riddim)",
+ "label": "East West",
+ "cat": "HEART02CD",
+ "format": "CD single (per OCC catalogue); also track 14 on disc 1 of the mix album Heartless Crew Presents Crisp Biscuit Vol 1 (East West, May 2002)",
+ "producers": [
+  "Heartless Crew (Trench calls it the crew's only original production on the mix CD)"
+ ],
+ "lane": "transition",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Transitional",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "FACT (2013): too spartan to be called garage, too breezy to qualify as grime. Recorded exactly on the boundary."
+ },
+ "sound": [
+  {
+   "text": "Trench (2022): high-speed patois and a catchy hook; a mission statement for the crew's inclusive, multi-genre approach.",
+   "url": "https://trenchtrenchtrench.com/features/how-heartless-crew-united-all-strands-of-bass-music-with-crisp-biscuit-vol-1",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "FACT (2013): spartan and bass-heavy, 'Too spartan to be called garage, too breezy to qualify as grime'.",
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Official Singles Chart peak no. 21 (first chart date 25 May 2002, 3 weeks); Dance chart peak no. 3.",
+   "url": "https://www.officialcharts.com/songs/heartless-crew-the-heartless-crew-theme/",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "North London crew (MC Bushkin, MC Mighty Moe, DJ Fonti), on the pirate station Mission 90.6 FM by 1998; Wikipedia says they are credited with paving the way for grime alongside So Solid and Pay As U Go.",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Heartless_Crew",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Line Noise (2024) calls their 2001 clash with Pay As U Go 'another pivotal moment in the transition from UKG to grime'.",
+   "url": "https://linenoise.substack.com/p/heartless-crew-where-garage-met-grime",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Trench (2022) says it spread mostly via pirate radio, local shops and raves; by 2002 the crew had a 1Xtra Sunday show.",
+   "url": "https://trenchtrenchtrench.com/features/how-heartless-crew-united-all-strands-of-bass-music-with-crisp-biscuit-vol-1",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "between garage and grime ('Too spartan to be called garage, too breezy to qualify as grime')",
+   "source": "FACT",
+   "year": "2013",
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records"
+  },
+  {
+   "label": "garage era, linked to UK bass futurism; grime described as arriving just after 2002",
+   "source": "Trench (Son Raw)",
+   "year": "2022",
+   "url": "https://trenchtrenchtrench.com/features/how-heartless-crew-united-all-strands-of-bass-music-with-crisp-biscuit-vol-1"
+  },
+  {
+   "label": "shifts between UK garage and grime depending on context",
+   "source": "Line Noise (Ben Cardew)",
+   "year": "2024",
+   "url": "https://linenoise.substack.com/p/heartless-crew-where-garage-met-grime"
+  },
+  {
+   "label": "UK garage crew (genres listed include grime)",
+   "source": "Wikipedia",
+   "year": "accessed 2026",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Heartless_Crew"
+  }
+ ],
+ "rels": [
+  {
+   "type": "appears_on",
+   "other": "Heartless Crew Presents Crisp Biscuit Vol 1 (2002)",
+   "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Heartless_Crew_Presents_Crisp_Biscuit_Vol_1.html"
+  },
+  {
+   "type": "rivalry_context",
+   "other": "Pay As U Go (2001 clash)",
+   "url": "https://linenoise.substack.com/p/heartless-crew-where-garage-met-grime"
+  }
+ ],
+ "uncertainty": "Producer credit is inferred from Trench's 'original production' wording only. The exact single release date is not verified (chart entry 25 May 2002). Line Noise says the genre 'seems to shift from UK Garage to grime according to the context'.",
+ "tracklist": "The version on Crisp Biscuit Vol 1 runs just under two minutes (Trench).",
+ "sources": [
+  {
+   "url": "https://www.officialcharts.com/songs/heartless-crew-the-heartless-crew-theme/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Heartless_Crew",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Heartless_Crew_Presents_Crisp_Biscuit_Vol_1.html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://trenchtrenchtrench.com/features/how-heartless-crew-united-all-strands-of-bass-music-with-crisp-biscuit-vol-1",
+   "domain": "trenchtrenchtrench.com"
+  },
+  {
+   "url": "https://linenoise.substack.com/p/heartless-crew-where-garage-met-grime",
+   "domain": "linenoise.substack.com"
+  },
+  {
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
+   "domain": "factmag.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

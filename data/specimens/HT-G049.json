@@ -1,0 +1,139 @@
+{
+ "id": "HT-G049",
+ "key": "oxide-neutrino-rap-dis-2001",
+ "sort": "2001-12-08",
+ "year": 2001,
+ "date": "2001 (chart entry 8 Dec 2001)",
+ "kind": "Single",
+ "artist": "Oxide & Neutrino feat. So Solid members",
+ "title": "Rap Dis",
+ "label": "East West",
+ "cat": "OXIDE08CD1",
+ "format": "CD single (catalogue number as listed by OCC)",
+ "producers": [],
+ "lane": "transition",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Transitional",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Trench (2021) describes garage darkening and laying the foundations for grime; artist pages file it as UK garage."
+ },
+ "sound": [
+  {
+   "text": "Trench (2021) describes dramatic strings, a shuddering rhythm and rapid-fire MCing from So Solid members.",
+   "url": "https://trenchtrenchtrench.com/news/heritage-oxide-neutrino-recruit-more-of-the-so-solid-family-on-this-classic-rap-dis-2001",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Official Singles Chart peak no. 12 (first chart date 8 Dec 2001, 8 weeks).",
+   "url": "https://www.officialcharts.com/songs/oxide-and-neutrino-rap-disonly-wanna-know-u-cos-ure/",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Trench (2021) places it at the point where garage 'had been getting darker and laying the foundations for grime since the turn of the millennium'.",
+   "url": "https://trenchtrenchtrench.com/news/heritage-oxide-neutrino-recruit-more-of-the-so-solid-family-on-this-classic-rap-dis-2001",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "'Only Wanna Know U Cos Ure Famous' had already appeared on the Dance Singles chart on 9 Jun 2001 (peak 32).",
+   "url": "https://officialcharts.com/artist/9084/oxide-and-neutrino",
+   "g": "A",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "darkening garage laying foundations for grime",
+   "source": "Trench",
+   "year": "2021",
+   "url": "https://trenchtrenchtrench.com/news/heritage-oxide-neutrino-recruit-more-of-the-so-solid-family-on-this-classic-rap-dis-2001"
+  },
+  {
+   "label": "UK garage (artist-level)",
+   "source": "Wikipedia (Oxide & Neutrino)",
+   "year": "accessed 2026",
+   "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Oxide_%26_Neutrino.html"
+  }
+ ],
+ "rels": [
+  {
+   "type": "same_artist_as",
+   "other": "Oxide & Neutrino – Bound 4 Da Reload (Casualty) (2000)",
+   "url": "https://officialcharts.com/artist/9084/oxide-and-neutrino"
+  },
+  {
+   "type": "features_members_of",
+   "other": "So Solid Crew (Kaish, Harvey, Scat D, Swiss)",
+   "url": "https://trenchtrenchtrench.com/news/heritage-oxide-neutrino-recruit-more-of-the-so-solid-family-on-this-classic-rap-dis-2001"
+  }
+ ],
+ "uncertainty": "Producer not found. Album placement conflicts (Wikipedia: 2 Stepz Ahead). Only one source describes the sound (Trench, no named author). The earlier Dance-chart entry for 'Only Wanna Know U...' (June 2001) suggests an earlier issue of that track that was not verified.",
+ "tracklist": "Double-titled single. Wikipedia lists it with the album 2 Stepz Ahead (charted Oct 2002); Trench says it is not on Execute.",
+ "sources": [
+  {
+   "url": "https://www.officialcharts.com/songs/oxide-and-neutrino-rap-disonly-wanna-know-u-cos-ure/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://trenchtrenchtrench.com/news/heritage-oxide-neutrino-recruit-more-of-the-so-solid-family-on-this-classic-rap-dis-2001",
+   "domain": "trenchtrenchtrench.com"
+  },
+  {
+   "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Oxide_%26_Neutrino.html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://officialcharts.com/artist/9084/oxide-and-neutrino",
+   "domain": "officialcharts.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

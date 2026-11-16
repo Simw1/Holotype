@@ -1,0 +1,976 @@
+[
+ {
+  "key": "danny-weed-creeper",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated shop listing",
+  "note": "vinylexchange: Danny Weed, Creeper, Roll Deep Recordings, RDR 001, 12\", A Creeper (Remix) / B Creeper (Original Mix). No year on the listing.",
+  "release_field": "label",
+  "release_value": "Roll Deep Recordings"
+ },
+ {
+  "key": "danny-weed-creeper",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2017-05-02",
+  "note": "Year rests only on Complex: \"Made in 2002\" (a making date, not a release date). No source opened gives a release year. Producers Danny Weed and Nick Cage are supported by Complex.",
+  "release_field": "date",
+  "release_value": "2002 (made; release year unconfirmed)"
+ },
+ {
+  "key": "danny-weed-creeper",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2017-05-02",
+  "note": "\"echoed strings are so creepy\" is Risky Roadz; the \"fluffiness of UK garage\" contrast is Complex narration (Laura Brosnan). Text attributes correctly enough."
+ },
+ {
+  "key": "danny-weed-creeper",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2017-05-02",
+  "note": "Wrong speaker: the Slimzee / Pay As U Go and Rhythm Division lines are Risky Roadz recalling, not Complex asserting. \"Played often\" overstates \"one of the tunes you'd hear Slimzee drop\".",
+  "new_text": "Complex says it was made in 2002; Risky Roadz recalls it as one of the tunes Slimzee dropped on Pay As U Go sets, and wanting to buy it at Rhythm Division."
+ },
+ {
+  "key": "danny-weed-creeper",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2017-05-02",
+  "note": "\"one of the most iconic instrumentals to come from grime\"; \"Nearly 15 years later\". Note Complex dates the making, so \"after release\" is loose."
+ },
+ {
+  "key": "danny-weed-creeper",
+  "field": "context",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2015-05-26",
+  "note": "RBMA Daily (Emma Warren) says Wiley met Danny Weed at Bow Boys secondary school and lists him among old estate friends, but does not say he was in Roll Deep. Membership (2002-2010, producer) is on the Wikipedia Roll Deep page (C).",
+  "new_text": "RBMA Daily says Wiley met Danny Weed at Bow Boys, a local secondary school, and lists him among Wiley's old estate friends."
+ },
+ {
+  "key": "danny-weed-creeper",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "note": "\"Played heavily\" is stronger than the source; 2002 is the making year per Complex. Otherwise consistent.",
+  "new_text": "A Roll Deep Recordings instrumental (RDR 001), made in 2002, that Risky Roadz recalls Slimzee dropping on Pay As U Go sets; adds the string-led strand to the type series."
+ },
+ {
+  "key": "wiley-eskimo-2-devils-mix",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated eBay listing",
+  "note": "eBay 294051267786: artist Wiley Kat, \"Eskimo 2 (Devils Mix)\", Wiley Kat Records, 2002, 12\", single track A Eskimo 2 (Devils Mix) 4:23, no cat no. Only a marketplace listing supports this release."
+ },
+ {
+  "key": "wiley-eskimo-2-devils-mix",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2003-10 (Jockey Slut / Hyperdub interview by Martin Clark; fabric repost undated)",
+  "note": "Wiley: \"take the beats out and just leave it and MC on it\"; \"Bass mix I call them now, cos it's just bass.\" Interview dated Oct 2003 and also printed in Jockey Slut 2003."
+ },
+ {
+  "key": "wiley-eskimo-2-devils-mix",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2019-08-06",
+  "note": "Son Raw describes the devil mix of the original \"Eskimo\" (\"a bassier version that cut out the break entirely\"). Wikipedia treats \"Eskimo 2\" as a separate sequel track, so this may not describe this record.",
+  "new_text": "Son Raw describes the devil mix of the original 'Eskimo' as a bassier version that cut out the break entirely (Complex, 2019); not confirmed for Eskimo 2."
+ },
+ {
+  "key": "wiley-eskimo-2-devils-mix",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2013-02-18",
+  "note": "Music Is My Sanctuary (\"Wot U Call ESKI?\", The Elusive): B-side \"Devils or Bass mix of the same track with only the bassline\"."
+ },
+ {
+  "key": "wiley-eskimo-2-devils-mix",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2003-10 (Jockey Slut / Hyperdub interview by Martin Clark; fabric repost undated)",
+  "note": "Grade should be A (2003 interview, not C). Wiley says \"I was selling the devil mix of Eskimo\" — the original Eskimo, not necessarily Eskimo 2.",
+  "new_text": "Wiley said in 2003 that the devil mix of 'Eskimo' was selling very fast (possibly the original Eskimo rather than Eskimo 2)."
+ },
+ {
+  "key": "wiley-eskimo-2-devils-mix",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2013-02-18",
+  "note": "Source says eski tracks in general \"are meant to be spit over by MCs on pirate radios\"; it does not tie bass-only mixes specifically to that.",
+  "new_text": "Music Is My Sanctuary says eski tracks were made for MCs to spit over on pirate radio."
+ },
+ {
+  "key": "wiley-eskimo-2-devils-mix",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "note": "\"The same riddim\" is ambiguous: this is the devil mix of the sequel Eskimo 2, not of the Eskimo holotype. The drums-removed definition is supported by Wiley (2003).",
+  "new_text": "The devil (bass) mix of the sequel 'Eskimo 2': a version with the drums taken out. Shows how the eski B-side worked as a tool for MCs."
+ },
+ {
+  "key": "wiley-eskimo-3-ice-pole",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "eBay sale 2014-04-22 (popsike archive)",
+  "note": "popsike: artist \"Wiley Kat\", WK007, 2002, A Ice Pole / B Eskimo 3; label given as \"White Label\", not Wiley Kat. The WK prefix suggests Wiley Kat but no source states it. Note A-side is Ice Pole.",
+  "release_field": "label",
+  "release_value": "Wiley Kat (white label; WK007 per one archived eBay listing)"
+ },
+ {
+  "key": "wiley-eskimo-3-ice-pole",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2019-08-06",
+  "note": "\"bizarre counter-melody that's either the most aggressive dancehall ever, or a strange digital Tango\"; \"eight bar intervals\". \"Off-kilter\" is the register's word, acceptable."
+ },
+ {
+  "key": "wiley-eskimo-3-ice-pole",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2019-08-06",
+  "note": "Opening synth melody \"helped inspire\" sinogrime."
+ },
+ {
+  "key": "wiley-eskimo-3-ice-pole",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2018-06-06 (Mixmag, Dan Hancox); 2010-09-13 (FACT)",
+  "note": "Mixmag lists Ice Pole among eski track names; FACT 2010 calls \"Ice Pole\" a classic. Cited URL covers only Mixmag."
+ },
+ {
+  "key": "wiley-eskimo-3-ice-pole",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Accurate: release details rest on one archived listing (popsike, 2014). Wikipedia's Eskimo article names \"Eskimo 3\" as a sequel."
+ },
+ {
+  "key": "ruff-sqwad-pied-piper",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2012-10-31",
+  "note": "Quietus: Rapid \"2002 I'd say\"; tracks \"originally only self-released on white label\". No label name or cat in any source opened, so \"unconfirmed\" is right."
+ },
+ {
+  "key": "ruff-sqwad-pied-piper",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Guardian, Dan Hancox, via inkl; date not shown)",
+  "note": "\"dark, but with a melodic theme\" is Dirty Danger speaking (B); \"squelch-whip noises\" and \"teenage voice yet to break\" are Hancox narration (C). Fair paraphrase."
+ },
+ {
+  "key": "ruff-sqwad-pied-piper",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2013-01-03",
+  "note": "XLR8R (Si Truss): \"spartan, iconic pirate-radio beat ... feels slightly unnatural without an MC\"."
+ },
+ {
+  "key": "ruff-sqwad-pied-piper",
+  "field": "sound",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "B",
+  "pub_date": "2012-10-31",
+  "note": "Grade B (Rapid speaking), not C. Quietus says Rapid and Dirty Danger started making music on Fruity Loops 3; it does not say Pied Piper itself was made on it. Age 14-15 is supported.",
+  "new_text": "Rapid and Dirty Danger started out on FruityLoops 3; Rapid says he was about 14 or 15 when Pied Piper was made."
+ },
+ {
+  "key": "ruff-sqwad-pied-piper",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2012-10-31",
+  "note": "The \"earliest track\" framing is the interviewer's; Rapid answers \"2002 I'd say\"."
+ },
+ {
+  "key": "ruff-sqwad-pied-piper",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "Page resolves to \"Ruff Sqwad\"; all details present.",
+  "new_url": "https://en.wikipedia.org/wiki/Ruff_Sqwad"
+ },
+ {
+  "key": "ruff-sqwad-pied-piper",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Correct and properly hedged."
+ },
+ {
+  "key": "wiley-ice-rink",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2010-09-13; 2012-04-22",
+  "note": "FACT headers: \"(WILEY KAT RECORDS 12\", 2003)\" and \"(WILEY KAT, 2002 / 2003)\". Conflict: the cited eBay 117485438001 is \"Eskiboy / Ice Rink\", Pirate Sessions Recordings, WK015, 2003 — a different pressing/label; do not cite it for the Wiley Kat release."
+ },
+ {
+  "key": "wiley-ice-rink",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2019-08-06",
+  "note": "\"no melody\", \"drums that sound like slamming car doors\", \"patented Eski clicks\", \"drums land on the wrong beat\", garage purists."
+ },
+ {
+  "key": "wiley-ice-rink",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-04-22 (originally posted 2011)",
+  "note": "Exact quote present (Tom Lea)."
+ },
+ {
+  "key": "wiley-ice-rink",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2010-09-13",
+  "note": "FACT: \"nothing in grime tests that beat for sheer power\". Note the FACT 2010 entry is the Dizzee/Wiley \"Ice Rink Freestyle\" vocal 12\"."
+ },
+ {
+  "key": "wiley-ice-rink",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2003-10 (Jockey Slut / Hyperdub interview by Martin Clark; fabric repost undated)",
+  "note": "\"I made that thing quickly and vocalled it myself\"; let others do versions; \"I only put out those two vinyl\"."
+ },
+ {
+  "key": "wiley-ice-rink",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2019-08-06",
+  "note": "Son Raw names Prince Jammy's \"Sleng Teng\" and \"Sugarhill Gang putting a rap on wax\"; \"Rapper's Delight\" is not named.",
+  "new_text": "Complex sets it beside Prince Jammy's 'Sleng Teng' and the Sugarhill Gang's first rap on wax as a sonic game-changer."
+ },
+ {
+  "key": "wiley-ice-rink",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-04-22",
+  "note": "Header \"(WILEY KAT, 2002 / 2003)\"; \"countless vocal versions of it\". FACT text also says \"Two years later\", which conflicts with its own 2003 header."
+ },
+ {
+  "key": "wiley-ice-rink",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Supported by Complex 2019, FACT 2012 and the 2003 interview."
+ },
+ {
+  "key": "plasticman-hard-graft-2003",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated shop listing",
+  "note": "Shop title \"Mark One Vs. Plasticman – Hard Graft\"; RBMA 2004 lecture also credits \"Mark One vs. Plasticman\". A-side Plasticman, B-side Mark One remix. Label, cat and Apr 2003 rest on the shop listing only.",
+  "release_field": "artist",
+  "release_value": "Mark One vs. Plasticman"
+ },
+ {
+  "key": "plasticman-hard-graft-2003",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004 (RBMA lecture, Rome)",
+  "note": "Grade A, not B: a 2004 lecture. \"I think it was my third release\"; \"came out in 2002, 2003 sort of time\"; first track played."
+ },
+ {
+  "key": "plasticman-hard-graft-2003",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "Wikipedia says by 2003 DJ Hatcha supported \"tracks such as Hard Graft\"; the Ammunition imprints (Soulja, ROAD) are separate releases and not linked to Hard Graft, which is on Contagious.",
+  "new_text": "Wikipedia says that by 2003 DJ Hatcha was supporting Plasticman tracks such as 'Hard Graft'."
+ },
+ {
+  "key": "plasticman-hard-graft-2003",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004-04-28 (comment by \"Artifact\" on k-punk post of 2004-04-24)",
+  "note": "\"His original of Hard Graft was the best track i'd heard for ages.\" A second comment (2004-05-03) reports a rumour Wiley wanted it on the Roll Deep album."
+ },
+ {
+  "key": "plasticman-hard-graft-2003",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "No sound description found in the cited sources; consistent."
+ },
+ {
+  "key": "mark-one-fight-terr001-2003",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia; mdwiki)",
+  "note": "Wikipedia table: TERR001, Mark One, Fight / Fight (Plasticman Remix), 2003 (no label column; TERR prefix). mdwiki MRK1: \"Fight\", Terro Rhythm (2003). Plastician (2004 lecture, A) confirms a Mark One / Plasticman release \"Fight\" on Terrorhythm."
+ },
+ {
+  "key": "mark-one-fight-terr001-2003",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "\"Plastician runs his own record label, Terrorhythm Recordings, formed in 2002.\" Does not literally say he founded it."
+ },
+ {
+  "key": "mark-one-fight-terr001-2003",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "The slot is Plastician's, \"alongside Mark One (MRK1) & Virus Syndicate\", in the 2003 paragraph. Subject reversed.",
+  "new_text": "In 2003 Plastician had a weekly Rinse FM slot alongside Mark One (MRK1) and Virus Syndicate."
+ },
+ {
+  "key": "mark-one-fight-terr001-2003",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (mdwiki mirror of Wikipedia)",
+  "note": "\"(formerly Mark One)\"; \"Fight\", Terro Rhythm (2003)."
+ },
+ {
+  "key": "mark-one-fight-terr001-2003",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004 (RBMA lecture, Rome)",
+  "note": "Grade A, not B (2004 lecture). \"I put out a release with Mark One and myself called Fight\"; \"It's called Terrorhythm\"."
+ },
+ {
+  "key": "mark-one-fight-terr001-2003",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Consistent."
+ },
+ {
+  "key": "dizzee-rascal-boy-in-da-corner",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "21 July 2003, XL, producers as listed."
+ },
+ {
+  "key": "dizzee-rascal-boy-in-da-corner",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2016-05-05",
+  "note": "\"I don't think there's one song on this album that's 140 BPM\". Text's \"the 140 bpm norm came later\" is an inference; Dizzee hedges with \"I don't think\"."
+ },
+ {
+  "key": "dizzee-rascal-boy-in-da-corner",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2016-05-05",
+  "note": "Grade B, not C: Dizzee speaking. Drums first; samples one per key; \"I never used an MPC.\""
+ },
+ {
+  "key": "dizzee-rascal-boy-in-da-corner",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "EW quote and Pitchfork \"cutting sonics\" present."
+ },
+ {
+  "key": "dizzee-rascal-boy-in-da-corner",
+  "field": "sound",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2016-05-05",
+  "note": "Under \"Stop Dat\": grunge, \"Black Sabbath-y riffs\"."
+ },
+ {
+  "key": "dizzee-rascal-boy-in-da-corner",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "Mercury 2003; no. 23; BPI Platinum 2018."
+ },
+ {
+  "key": "dizzee-rascal-boy-in-da-corner",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "B.J. Steiner, Complex."
+ },
+ {
+  "key": "dizzee-rascal-boy-in-da-corner",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-04-22",
+  "note": "No. 04 in FACT list."
+ },
+ {
+  "key": "dizzee-rascal-boy-in-da-corner",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2016-05-05",
+  "note": "\"made within about a year\" is Dizzee (B); \"just 18 ... relatively unknown outside the London pirate radio underground\" is Hancox framing (C)."
+ },
+ {
+  "key": "dizzee-rascal-boy-in-da-corner",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Classification statement only."
+ },
+ {
+  "key": "dizzee-rascal-fix-up-look-sharp",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia; 45worlds)",
+  "note": "Label XL and 18 Aug 2003 supported. Producer credit \"Cage (per 45worlds ...)\" is not supported: 45worlds lists N. Detnon (Cage) as a composer of the video track and Cage as mixer of tracks 1-2. Wikipedia lists Nick Denton [sic] as songwriter, producer Dizzee Rascal only. Fix the producers field accordingly."
+ },
+ {
+  "key": "dizzee-rascal-fix-up-look-sharp",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "\"heavily samples the main beat and vocals\"; rap rock; 3:44."
+ },
+ {
+  "key": "dizzee-rascal-fix-up-look-sharp",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2016-05-05",
+  "note": "Grade B (Dizzee speaking). Cage played the original record on vinyl in the studio; \"started as a dubplate for Westwood\"."
+ },
+ {
+  "key": "dizzee-rascal-fix-up-look-sharp",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "No. 17 and Gold supported; \"first to peak inside the top twenty\" is tagged [citation needed] on Wikipedia.",
+  "new_text": "Peaked at no. 17 on the UK Singles Chart and was later certified gold; Wikipedia's claim that it was his first top 20 hit is uncited."
+ },
+ {
+  "key": "dizzee-rascal-fix-up-look-sharp",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia); NME list Oct 2011",
+  "note": ""
+ },
+ {
+  "key": "dizzee-rascal-fix-up-look-sharp",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2016-05-05",
+  "note": "Grade B (Dizzee speaking). \"Guns N' Roses and Nirvana and Iron Maiden\"."
+ },
+ {
+  "key": "dizzee-rascal-fix-up-look-sharp",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Rock sample and rap rock tag both on Wikipedia."
+ },
+ {
+  "key": "nasty-crew-cock-back-2003",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "\"released in September 2003\" via Aftershock; produced by Terror Danjah."
+ },
+ {
+  "key": "nasty-crew-cock-back-2003",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "\"sampled the Jamaican cult classic film Shottas\"."
+ },
+ {
+  "key": "nasty-crew-cock-back-2003",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "Hedge is correct: article does not place the gremlin laugh on Cock Back."
+ },
+ {
+  "key": "nasty-crew-cock-back-2003",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "Power Play, Rhythm Division chart, Terror Danjah's claim of ~10,000."
+ },
+ {
+  "key": "nasty-crew-cock-back-2003",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "Nasty Crew page: founded 1999 by Plaistow-based artists, membership mainly from Newham. Forest Gate is not on that page; it is on the Terror Danjah page.",
+  "new_text": "Nasty Crew was founded in 1999 by Plaistow-based artists, with members mainly from Newham; Terror Danjah, from Forest Gate (per his own Wikipedia page), was invited in."
+ },
+ {
+  "key": "nasty-crew-cock-back-2003",
+  "field": "context",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "\"late 2002\" unsupported: the article says founded in 2002, no month.",
+  "new_text": "Aftershock was co-founded in 2002 by Terror Danjah and Flash, initially as a vinyl-only label, with printed colour labels from its second release."
+ },
+ {
+  "key": "nasty-crew-cock-back-2003",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Later version: Run the Road lists \"Terror Danjah feat. Riko, Bruza, D Double E and Hyper - Cock Back\"."
+ },
+ {
+  "key": "dizzee-rascal-jus-a-rascal",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (45worlds; Wikipedia)",
+  "note": "45worlds: XL, XLS175CD, 24 Nov 2003, CD single; producers T. Rowe, V. Vardoen."
+ },
+ {
+  "key": "dizzee-rascal-jus-a-rascal",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2016-05-05",
+  "note": "Grade B (Dizzee speaking): Vanguard, Norwegian, played guitar, \"It's not a sample\", \"the opera thing\"."
+ },
+ {
+  "key": "dizzee-rascal-jus-a-rascal",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": ""
+ },
+ {
+  "key": "dizzee-rascal-jus-a-rascal",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": ""
+ },
+ {
+  "key": "dizzee-rascal-jus-a-rascal",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": ""
+ },
+ {
+  "key": "dizzee-rascal-jus-a-rascal",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": ""
+ },
+ {
+  "key": "wiley-treddin-on-thin-ice",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "26 April 2004, XL; producers Wiley, TNT, Target, Danny Weed, Cage."
+ },
+ {
+  "key": "wiley-treddin-on-thin-ice",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2016-04-26",
+  "note": "Son Raw: \"frosty squarewaves and pentatonic bass plunks to new tempos\"."
+ },
+ {
+  "key": "wiley-treddin-on-thin-ice",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004-09-09",
+  "note": "Terry Sawyer: \"butcher's cuts of symphony scraped to the bone\"; Doorway \"takes a drum 'n' bass core\"."
+ },
+ {
+  "key": "wiley-treddin-on-thin-ice",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2019-08-06",
+  "note": ""
+ },
+ {
+  "key": "wiley-treddin-on-thin-ice",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2016-04-26",
+  "note": "Complex gives no gap; Wikipedia dates (21 Jul 2003 vs 26 Apr 2004) make it about nine months, not six. Complex says it got Wiley \"dropped from XL\", not that he left.",
+  "new_text": "Released about nine months after Boy In Da Corner; Complex says every major review compared the two, unfavourably, and that it sold below expectations and got Wiley dropped from XL."
+ },
+ {
+  "key": "wiley-treddin-on-thin-ice",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (IPFS Wikipedia mirror)",
+  "note": "UK peak 45 in the mirror. Not checked against the Official Charts Company."
+ },
+ {
+  "key": "wiley-treddin-on-thin-ice",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": ""
+ },
+ {
+  "key": "wiley-treddin-on-thin-ice",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Eskimo (Interlude) and Ice-Rink (Interlude) on the tracklist; singles Wot Do U Call It? and Pies."
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004-04-24 (k-punk); 2004-09-07 (Village Voice)",
+  "note": "CAT 156 from Wikipedia Rephlex discography (no date). Artists confirmed by Village Voice: four tracks each by MarkOne, Plasticman, Slaughter Mob. Reviewed by April 2004."
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004-04-24",
+  "note": "\"the MC is nowhere to be heard\"; \"South, rather than an East, London\"; \"silver impersonality and sleekness of stainless steel\"."
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004-05-23",
+  "note": "Jacob Arnold, Gridface."
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "sound",
+  "index": 2,
+  "verdict": "unsupported",
+  "grade": "A",
+  "pub_date": "2004-09-07",
+  "note": "Village Voice has no \"slowed\", \"mechanical\", \"oppressive\", no \"Camel Ride\", no warbling or bpm. It only mentions \"18 wheels of Plasticman's Industrial Graft\" in the context of dread.",
+  "new_text": "The Village Voice hears the album's dread carried by the '18 wheels of Plasticman's Industrial Graft'."
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "sound",
+  "index": 3,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2004-05-23",
+  "note": "\"bleep, break and bass\" is not in Gridface. Jamaican-accented vocals and rolling bass are on \"Dub Weapon\"; creaks and owl hoots on \"Creeky Door\".",
+  "new_text": "Slaughter Mob: Jamaican-accented vocals and deep, rolling bass on 'Dub Weapon'; door creaks and owl hoots on 'Creeky Door'."
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "B",
+  "pub_date": "2017-01-11",
+  "note": "Grade B (Plastician speaking). The 2017 piece says Rephlex came to him via Neil Joliffe of Ammunition Promotions and he sent Grant a CD; the FWD>> account is not there. The 2004 lecture (A) does say Grant saw him play FWD>> at Plastic People and sought beats via the promoter.",
+  "new_text": "Plastician said in 2004 that Rephlex's Grant Wilson-Claridge saw him play FWD>> at Plastic People and asked for beats; in 2017 he called it 'the first grime CD'.",
+  "new_url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso"
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated shop listing",
+  "note": "Rubadub product page for Jon E Cash's Sublow repress quotes the 2004 Rephlex line."
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2017-01-11",
+  "note": "Grade B (Plastician speaking)."
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004-11-30",
+  "note": "Grade A, not C: Vice, Vol. 11 Issue 4, Tosh Lyons & Peter Shilton. \"Not judging by the tracklisting.\""
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "context",
+  "index": 4,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004 (RBMA lecture, Rome)",
+  "note": "Grade A (2004 lecture): Grime 2 \"technically ... another genre called dubstep\". CAT 160 is from the Wikipedia Rephlex discography, not the lecture."
+ },
+ {
+  "key": "rephlex-grime-comp-cat156-2004",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Title \"Grime\" on Rephlex confirmed; Plastician calls it the first grime CD."
+ },
+ {
+  "key": "wiley-pies",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated eBay listing; Wikipedia",
+  "note": "eBay: \"PIES / TAKE CHANCES\", XL Recordings, 2004, 12\", no cat. Wikipedia (Terror Danjah): Take Chances released via XL in 2004 as B-side to Pies. Treddin' credits: Pies produced by Wiley."
+ },
+ {
+  "key": "wiley-pies",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004-09-09",
+  "note": "Grade A, not C (PopMatters, 9 Sep 2004). Describes the album track."
+ },
+ {
+  "key": "wiley-pies",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2016-04-26",
+  "note": "\"bizarre pie-related hooks\"."
+ },
+ {
+  "key": "wiley-pies",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia; IPFS mirror)",
+  "note": "The mirror leaves year and album cells blank; it does not \"infer\" a year. 2004 and single status come from the Wikipedia album page. The mirror also gives 45 as the album's peak, so check both against the Official Charts Company.",
+  "new_text": "Second single from Treddin' on Thin Ice (2004, per Wikipedia); a Wikipedia discography mirror gives a UK peak of 45 but leaves the year blank."
+ },
+ {
+  "key": "wiley-pies",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Terror Danjah Wikipedia: Wiley's \"Take Chances\" is a vocal version of \"Creepy Crawler\", B-side to \"Pies\" (XL, 2004)."
+ },
+ {
+  "key": "terror-danjah-industry-standard-ep-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "2004 and Aftershock supported by Wikipedia (\"In 2004 ... instrumental EP Industry Standard via Aftershock\"). But the cited MusicBrainz mirror is \"Industry Standard Trilogy EP\" (Lifesaver / Radar / Stiff / Freak Show VIP), which is a different release without Creepy Crawler; drop it as a source. No cat no. found."
+ },
+ {
+  "key": "terror-danjah-industry-standard-ep-2004",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2025-02-12",
+  "note": "Slow Motion blog (derekwalmsley)."
+ },
+ {
+  "key": "terror-danjah-industry-standard-ep-2004",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "Quotes from Martyn Pepperell and Simon Reynolds via Wikipedia; artist-level, as stated."
+ },
+ {
+  "key": "terror-danjah-industry-standard-ep-2004",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Wikipedia)",
+  "note": "Aftershock page: \"Terror Danjah's breakthrough EP Industry Standard\" among \"fully instrumental bodies of work\"."
+ },
+ {
+  "key": "terror-danjah-industry-standard-ep-2004",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2025-02-12",
+  "note": ""
+ },
+ {
+  "key": "terror-danjah-industry-standard-ep-2004",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Vocal version \"Take Chances\" (Wiley, 2004) documented on Wikipedia."
+ }
+]

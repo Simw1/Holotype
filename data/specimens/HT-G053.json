@@ -1,0 +1,123 @@
+{
+ "id": "HT-G053",
+ "key": "dj-marsta-gridlock-2003",
+ "sort": "2003-06-15",
+ "year": 2003,
+ "date": "2003",
+ "kind": "12-inch",
+ "artist": "DJ Marsta",
+ "title": "Gridlock",
+ "label": "Total Package Recordings",
+ "cat": "TPC001",
+ "format": "Vinyl, 12\", 45 RPM, white label",
+ "producers": [
+  "DJ Marsta"
+ ],
+ "lane": "inst",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; a white-label instrumental with prominent strings."
+ },
+ "sound": [
+  {
+   "text": "The NTS bio says the production uses 'very noticeable strings'.",
+   "url": "https://nts.live/artists/22929-dj-marsta",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "DJ Marsta is a grime DJ and producer from East London; NTS says Gridlock has been played at major events ever since its 2003 release.",
+   "url": "https://nts.live/artists/22929-dj-marsta",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "NTS lists other Marsta releases, including 'Fibre (Terror Danjah Mix)' (East Iz East / Total Package, 2002) and 'Flames' (A.R.M.Y Bullet, 2004).",
+   "url": "https://nts.live/artists/22929-dj-marsta",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "Electronic / Grime",
+   "source": "Discogs",
+   "year": null,
+   "url": "https://www.discogs.com/release/1384414"
+  },
+  {
+   "label": "grime (artist described as a grime DJ and producer)",
+   "source": "NTS",
+   "year": null,
+   "url": "https://nts.live/artists/22929-dj-marsta"
+  }
+ ],
+ "rels": [
+  {
+   "type": "version",
+   "other": "Gridlock (Vocal), B-side of TPC001; vocalist not named",
+   "url": "https://www.discogs.com/release/1384414"
+  },
+  {
+   "type": "version",
+   "other": "Gridlock 4x4 (A.R.M.Y Bullet, BULLET001, 2004)",
+   "url": "https://www.discogs.com/release/1384414"
+  }
+ ],
+ "uncertainty": "Discogs gives no release date for TPC001; the 2003 date comes from NTS. Credits and the vocalist on the B-side are not listed.",
+ "tracklist": "A: Gridlock (5:08); B: Gridlock (Vocal) (3:41). Discogs also lists a stickered white-label pressing and a 'Gridlock 4x4' 12\" on A.R.M.Y Bullet (BULLET001, UK, 2004).",
+ "sources": [
+  {
+   "url": "https://nts.live/artists/22929-dj-marsta",
+   "domain": "nts.live"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

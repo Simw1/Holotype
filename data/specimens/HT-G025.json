@@ -1,0 +1,206 @@
+{
+ "id": "HT-G025",
+ "key": "xtc-functions-on-the-low",
+ "sort": "2004-09-01",
+ "year": 2004,
+ "date": "2004",
+ "kind": "12-inch",
+ "artist": "XTC",
+ "title": "Functions on the Low",
+ "label": "White label",
+ "cat": null,
+ "format": "12\" white label vinyl",
+ "producers": [
+  "XTC"
+ ],
+ "lane": "melodic",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; its instrumental was reused for Stormzy's Shut Up (2015)."
+ },
+ "sound": [
+  {
+   "text": "FACT's joint note on this and Kamikaze's 'Ghetto Kyote' calls them lo-fi instrumentals 'lost in the snow', showing grime's romantic side (FACT spells it 'Funktions on the Low').",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-04-22 (originally posted 2011)"
+  },
+  {
+   "text": "Afropop says this track and 'Dying in Your Arms' pull in bits of the past (a chipmunked house sample, a cheesy synth tone) and show the crew's melodic gifts.",
+   "url": "https://afropop.org/articles/white-label-classics",
+   "g": "C",
+   "checked": true,
+   "pub": "2013-01-16 (Sam Backer, Afropop)"
+  },
+  {
+   "text": "Five-minute piece of longing; 'neon lights seen through a torrent of tears' (Guardian, Dan Hancox).",
+   "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it",
+   "g": "C",
+   "checked": true,
+   "pub": "c. Dec 2012 (Guardian, Dan Hancox; date not shown on the inkl mirror, inferred from reference to White Label Classics out '10 December')"
+  },
+  {
+   "text": "Made in about half an hour on FruityLoops.",
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2018-06-06 (Mixmag, Dan Hancox)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Guardian (Dan Hancox): 'quite simply one of the greatest tracks in the history of British electronic music'; XTC (Fuda Guy's older brother) completed only this one track.",
+   "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it",
+   "g": "C",
+   "checked": true,
+   "pub": "c. Dec 2012 (Guardian via inkl)"
+  },
+  {
+   "text": "Ranked no. 6 in FACT's 'The 20 best Grime records ever made' (white label, 2004).",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-04-22 (originally posted 2011)"
+  },
+  {
+   "text": "Described as 'much-mythologised'; original vinyl sells for high prices.",
+   "url": "https://factmag.com/2012/12/03/died-in-your-arms-before-the-legendary-grime-unit-disbands-fact-meets-ruff-sqwad-to-talk-white-label-classics",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-12-03"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "instrumental used for",
+   "other": "Stormzy - Shut Up (2015)",
+   "url": "https://mixmag.net/feature/history-of-grime"
+  },
+  {
+   "type": "same circle / compiled on",
+   "other": "Ruff Sqwad - White Label Classics (2012)",
+   "url": "https://thequietus.com/?p=10535"
+  }
+ ],
+ "uncertainty": "Catalogue number unknown. Exact original A/B-side layout only known via the Discogs title cited on Wikipedia (page not opened). Note: the 'XTC' alias also appears in Ruff Sqwad's member list (2001-?).",
+ "tracklist": "Instrumental. Wikipedia cites a Discogs release titled 'XTC - Misty Cold Remix / Functions / Baby Wipes'. Later included on Ruff Sqwad's White Label Classics (No Hats No Hoods, 2012).",
+ "sources": [
+  {
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "domain": "mixmag.net"
+  },
+  {
+   "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it",
+   "domain": "inkl.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Slix",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://factmag.com/2012/12/03/died-in-your-arms-before-the-legendary-grime-unit-disbands-fact-meets-ruff-sqwad-to-talk-white-label-classics",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://xlr8r.com/reviews/white-label-classics/",
+   "domain": "xlr8r.com"
+  },
+  {
+   "url": "https://afropop.org/articles/white-label-classics",
+   "domain": "afropop.org"
+  },
+  {
+   "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me",
+   "domain": "trenchtrenchtrench.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "compilation",
+   "release": "Kurupt FM Present the Lost Tape",
+   "level": "track",
+   "url": "https://music.apple.com/be/song/functions-on-the-low/1308395520",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "compilation",
+   "release": "Kurupt FM present The Lost Tape",
+   "level": "album",
+   "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

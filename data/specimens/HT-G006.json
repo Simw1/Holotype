@@ -1,0 +1,165 @@
+{
+ "id": "HT-G006",
+ "key": "wiley-eskimo-2-devils-mix",
+ "sort": "2002-08-01",
+ "year": 2002,
+ "date": "2002",
+ "kind": "12-inch",
+ "artist": "Wiley",
+ "title": "Eskimo 2 (Devils Mix)",
+ "label": "Wiley Kat",
+ "cat": null,
+ "format": "12\" vinyl, 45 rpm, white label",
+ "producers": [
+  "Wiley"
+ ],
+ "lane": "eski",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Paralectotype",
+  "of": "Eskibeat",
+  "holotype": "HT-G005",
+  "basis": "The devil (bass) mix of the sequel Eskimo 2: a version with the drums taken out. Shows how the eski B-side worked as a tool for MCs."
+ },
+ "sound": [
+  {
+   "text": "Devil mixes are versions with the drums removed, leaving bass and room for the MC; Wiley later renamed them 'bass mix' (Martin Clark interview, Oct 2003).",
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+   "g": "A",
+   "checked": true,
+   "pub": "2003-10 (Jockey Slut / Hyperdub interview by Martin Clark; fabric repost undated)"
+  },
+  {
+   "text": "Son Raw describes the devil mix of the original 'Eskimo' as a bassier version that cut out the break entirely (Complex, 2019); not confirmed for Eskimo 2.",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "g": "C",
+   "checked": true,
+   "pub": "2019-08-06"
+  },
+  {
+   "text": "On early eski white labels the B-side usually held a 'Devils' or bass mix containing only the bassline.",
+   "url": "https://www.musicismysanctuary.com/?p=30046",
+   "g": "C",
+   "checked": true,
+   "pub": "2013-02-18"
+  }
+ ],
+ "context": [
+  {
+   "text": "Wiley said in 2003 that the devil mix of 'Eskimo' was selling very fast (possibly the original Eskimo rather than Eskimo 2).",
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+   "g": "A",
+   "checked": true,
+   "pub": "2003-10 (Jockey Slut / Hyperdub interview by Martin Clark; fabric repost undated)"
+  },
+  {
+   "text": "Music Is My Sanctuary says eski tracks were made for MCs to spit over on pirate radio.",
+   "url": "https://www.musicismysanctuary.com/?p=30046",
+   "g": "C",
+   "checked": true,
+   "pub": "2013-02-18"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "version_of",
+   "other": "Eskimo (Wiley, 2002)",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+  }
+ ],
+ "uncertainty": "Label, year, format and duration come only from an eBay listing, which is a weak source. The Discogs page could not be fetched, so its contents were not used. It is unclear whether this was a separate 12\" or a B-side of another Eskimo pressing. A 2009 eBay lot (popsike) also lists 'Wiley - Eskimo 2 (Devils)' as a white label.",
+ "tracklist": "Single track, 'Eskimo 2 (Devils Mix)', 4:23 according to a marketplace listing. A 'devil mix' is the tune with the drums taken out, leaving bass for MCs.",
+ "sources": [
+  {
+   "url": "https://www.ebay.co.uk/itm/294051267786",
+   "domain": "ebay.co.uk"
+  },
+  {
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+   "domain": "fabriclondon.com"
+  },
+  {
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://www.musicismysanctuary.com/?p=30046",
+   "domain": "musicismysanctuary.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

@@ -1,0 +1,162 @@
+{
+ "id": "HT-G017",
+ "key": "dizzee-rascal-jus-a-rascal",
+ "sort": "2003-11-24",
+ "year": 2003,
+ "date": "24 Nov 2003",
+ "kind": "Single",
+ "artist": "Dizzee Rascal",
+ "title": "Jus' a Rascal",
+ "label": "XL Recordings",
+ "cat": "XLS175CD",
+ "format": "Enhanced CD single",
+ "producers": [
+  "Taz (Tesmond Rowe)",
+  "Vanguard (Vanguard Vardoen)",
+  "Dizzee Rascal (per Wikipedia)"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 5,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen. Played guitar and operatic elements; another boundary case."
+ },
+ "sound": [
+  {
+   "text": "Not sample-based: beat made by Norwegian producer Vanguard, who also played guitar on it; includes sung, operatic elements.",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "g": "B",
+   "checked": true,
+   "pub": "2016-05-05"
+  },
+  {
+   "text": "Tagged British hip hop / grime / rap rock; 3:27.",
+   "url": "https://en.wikipedia.org/wiki/Jus%27_a_Rascal",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Peaked at no. 30 on the UK Singles Chart and no. 1 on the UK Indie chart.",
+   "url": "https://en.wikipedia.org/wiki/Jus%27_a_Rascal",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "Video by Nima Nourizadeh features a Tinchy Stryder cameo; used in Skins and Kidulthood.",
+   "url": "https://en.wikipedia.org/wiki/Jus%27_a_Rascal",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "single from",
+   "other": "Dizzee Rascal - Boy in da Corner",
+   "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+  }
+ ],
+ "uncertainty": "Wikipedia lists Dizzee Rascal as co-producer; 45worlds credits only T. Rowe and V. Vardoen. RBMA styles it 'feat. Taz'. No vinyl edition verified.",
+ "tracklist": "XLS175CD: Jus' A Rascal (Clean Radio) / Jus' A Rascal / Fix Up Look Sharp (video). Mixed by Cage at Belly of the Beast.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Jus%27_a_Rascal",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://mail.45worlds.com/cdsingle/cd/xls175cd",
+   "domain": "mail.45worlds.com"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "domain": "daily.redbullmusicacademy.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Jus' a Rascal",
+   "level": "album",
+   "url": "https://music.apple.com/us/album/jus-a-rascal/311185968",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "version",
+   "release": "Boy In Da Corner (20th Anniversary Edition)",
+   "level": "album",
+   "url": "https://www.qobuz.com/gb-en/album/boy-in-da-corner-dizzee-rascal/s6mv77cqg11vc",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

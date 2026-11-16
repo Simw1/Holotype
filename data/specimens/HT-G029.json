@@ -1,0 +1,216 @@
+{
+ "id": "HT-G029",
+ "key": "kano-ps-and-qs-2004",
+ "sort": "2004-11-01",
+ "year": 2004,
+ "date": "Nov 2004",
+ "kind": "Single",
+ "artist": "Kano",
+ "title": "P's and Q's",
+ "label": "679 Recordings",
+ "cat": null,
+ "format": "Unverified for the first release (single)",
+ "producers": [
+  "DaVinChe"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; produced by DaVinChe."
+ },
+ "sound": [
+  {
+   "text": "PopMatters (2005) hears a heavily synthesised backbeat darting between the stereo channels over an imposing, hypnotic bass line, and calls it the most kinetic track on Run the Road.",
+   "url": "https://www.popmatters.com/various-runtheroad-2496135373.html",
+   "g": "A",
+   "checked": true,
+   "pub": "24 Mar 2005"
+  },
+  {
+   "text": "Stereogum (2016) describes a frantic beat that Kano rides 'effortlessly', and calls it a model for how grime should sound.",
+   "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+   "g": "C",
+   "checked": true,
+   "pub": "14 Mar 2016"
+  },
+  {
+   "text": "Fiddy describes the 679 remix featuring Lethal B, Ghetto and Demon as 'As good as the original, just crunk it.'",
+   "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1",
+   "g": "A",
+   "checked": true,
+   "pub": "8 Nov 2004"
+  }
+ ],
+ "context": [
+  {
+   "text": "Kano's debut single on the independent label 679. RBMA calls it an underground anthem that marked him as a rising star.",
+   "url": "https://daily.redbullmusicacademy.com/2016/04/kano-interview",
+   "g": "C",
+   "checked": true,
+   "pub": "Apr 2016"
+  },
+  {
+   "text": "Already playlisted on Choice FM by early November 2004, according to Fiddy.",
+   "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1",
+   "g": "A",
+   "checked": true,
+   "pub": "8 Nov 2004"
+  },
+  {
+   "text": "Certified Gold in May 2025, mainly on streaming and downloads.",
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "A contemporary dissent: Vice's Grimewatch (Nov 2004) called it a 'soft single' and 'far from his best work'.",
+   "url": "https://www.vice.com/en/article/grimewatch-v11n8/",
+   "g": "A",
+   "checked": true,
+   "pub": "30 Nov 2004"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "remix",
+   "other": "P's & Q's (remix) feat. Lethal B, Ghetto and Demon (679, 2004)",
+   "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1"
+  },
+  {
+   "type": "b_side_of",
+   "other": "Kano feat. Ghetto - Typical Me (679L096CD1, 2005)",
+   "url": "https://mail.45worlds.com/cdsingle/cd/679l096cd1"
+  },
+  {
+   "type": "compiled_on",
+   "other": "Run the Road (679, 2005), track 4",
+   "url": "https://en.wikipedia.org/wiki/Run_the_Road"
+  },
+  {
+   "type": "album_track",
+   "other": "Kano - Home Sweet Home (2005), track 3",
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"
+  }
+ ],
+ "uncertainty": "The format and catalogue number of the first release are not verified, because Discogs (which lists release IDs 350982 and 324366 and master 167599) could not be fetched. Stereogum dates the track 2005, while Wikipedia and RBMA give 2004 (November 2004 per Wikipedia). No chart position was verified. Wikipedia says 'Typical Me' was Kano's first UK Singles Chart appearance, which implies P's and Q's did not chart, but this is an inference.",
+ "tracklist": "Written by K. Robinson and C. Chichester (45worlds credits). Also appears on Run the Road (Jan 2005), as the B-side of the 'Typical Me' CD single (679L096CD1), and as track 3 of Home Sweet Home (2005). Fiddy (Nov 2004) reports a 679 remix with verses from Lethal B, Ghetto and Demon.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2016/04/kano-interview",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://mail.45worlds.com/cdsingle/cd/679l096cd1",
+   "domain": "mail.45worlds.com"
+  },
+  {
+   "url": "https://www.popmatters.com/various-runtheroad-2496135373.html",
+   "domain": "popmatters.com"
+  },
+  {
+   "url": "https://chantellefiddy.blogspot.com/2004/11/vinyl-preview.html?m=1",
+   "domain": "chantellefiddy.blogspot.com"
+  },
+  {
+   "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+   "domain": "stereogum.com"
+  },
+  {
+   "url": "https://www.vice.com/en/article/grimewatch-v11n8/",
+   "domain": "vice.com"
+  },
+  {
+   "url": "https://i-d.co/?p=179988",
+   "domain": "i-d.co"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Rock"
+   ],
+   "match": "version",
+   "release": "Typical Me - Single",
+   "level": "track",
+   "url": "https://music.apple.com/ug/song/ps-and-qs/160984787",
+   "retrieved": "2026-11-16",
+   "verdict": "wrong"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Dance"
+   ],
+   "match": "version",
+   "release": "Home Sweet Home",
+   "level": "album",
+   "url": "https://www.qobuz.com/ie-en/album/home-sweet-home-kano/0643443518468",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://kano.bandcamp.com/music",
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

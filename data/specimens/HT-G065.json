@@ -1,0 +1,91 @@
+{
+ "id": "HT-G065",
+ "key": "tinchy-stryder-im-back-u-know-2006",
+ "sort": "2006-03-02",
+ "year": 2006,
+ "date": "2 Mar 2006",
+ "kind": "Mixtape",
+ "artist": "Tinchy Stryder",
+ "title": "I'm Back U Know",
+ "label": "Boy Better Know",
+ "cat": null,
+ "format": "Mixtape (physical format not stated)",
+ "producers": [
+  "Kwasi Danquah III (Tinchy Stryder), per Wikipedia infobox; track-level credits not given"
+ ],
+ "lane": "mc",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Mixtape of 17 original productions."
+ },
+ "sound": [
+  {
+   "text": "Wikipedia says it has 17 original productions with Stryder on the mic throughout, and guests including Wiley, Kano and Flow Dan.",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "First of Tinchy Stryder's three mixtapes (Wikipedia).",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Vice (Jan 2007) says JME and Skepta co-signed the release, calling it an album, as part of Boy Better Know's 2006 output.",
+   "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime",
+   "source": "Wikipedia",
+   "year": null,
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html"
+  },
+  {
+   "label": "grime (in a grime year review)",
+   "source": "Vice",
+   "year": 2007,
+   "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+  }
+ ],
+ "rels": [
+  {
+   "type": "member_of",
+   "other": "Ruff Sqwad (Slix and Shifty guest)",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html"
+  },
+  {
+   "type": "features",
+   "other": "Wiley ('Uptown Girl')",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html"
+  },
+  {
+   "type": "label",
+   "other": "Boy Better Know",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html"
+  }
+ ],
+ "uncertainty": "Thin sourcing: one Wikipedia mirror and one Vice mention, with no record-specific sound description. Wikipedia's text names Kano and Flow Dan as guests but its tracklist does not show them. Format not stated. Vice calls it an album; Wikipedia calls it a mixtape.",
+ "tracklist": "17 tracks (Wikipedia), including '96 Bars', 'I Understand It Clearly' (feat. Slix and Shifty), 'Uptown Girl' (feat. Wiley), 'Everybody's Gotta Learn' (feat. Fuda Guy), 'Kabe' (feat. Dirty Danger) and a Roachee freestyle.",
+ "sources": [
+  {
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
+   "domain": "vice.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

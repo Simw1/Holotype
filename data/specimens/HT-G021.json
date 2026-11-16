@@ -1,0 +1,167 @@
+{
+ "id": "HT-G021",
+ "key": "wiley-pies",
+ "sort": "2004-06-01",
+ "year": 2004,
+ "date": "2004",
+ "kind": "12-inch",
+ "artist": "Wiley",
+ "title": "Pies",
+ "label": "XL Recordings",
+ "cat": null,
+ "format": "12\" vinyl, 45 rpm",
+ "producers": [
+  "Wiley ('Pies', per the album credits)",
+  "Terror Danjah ('Take Chances', per a marketplace listing)"
+ ],
+ "lane": "eski",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Eskibeat",
+  "holotype": "HT-G005",
+  "basis": "Evidence specimen; its B-side is a vocal version of Terror Danjah's Creepy Crawler."
+ },
+ "sound": [
+  {
+   "text": "A frenetic, scattering texture that PopMatters compares to a Japanese remix of Q-Bert sound effects (2004).",
+   "url": "https://popmatters.com/wiley-treddin-2496117747.html",
+   "g": "A",
+   "checked": true,
+   "pub": "2004-09-09"
+  },
+  {
+   "text": "Complex mentions the album's 'pie-related hooks' among its non-sequitur lyrics.",
+   "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited",
+   "g": "C",
+   "checked": true,
+   "pub": "2016-04-26"
+  }
+ ],
+ "context": [
+  {
+   "text": "Second single from Treddin' on Thin Ice (2004, per Wikipedia); a Wikipedia discography mirror gives a UK peak of 45 but leaves the year blank.",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Wiley_discography.html",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia; IPFS mirror)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "track_on",
+   "other": "Treddin' on Thin Ice (2004)",
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+  },
+  {
+   "type": "coupled_with",
+   "other": "'Take Chances' (Wiley Kat, prod. Terror Danjah)",
+   "url": "https://www.ebay.com/itm/297463627720"
+  }
+ ],
+ "uncertainty": "This entry is weak. The 12\" format and B-side come only from an eBay listing, and the chart peak comes from a mirror that marks the year as inferred. Release date and catalogue number are unknown. Its B-side links to Terror Danjah, who is covered by another batch.",
+ "tracklist": "A1: 'Pies' (vocal, from Treddin' on Thin Ice); B: 'Take Chances' (Wiley Kat, produced by Terror Danjah), according to an eBay listing that may not show the full tracklist.",
+ "sources": [
+  {
+   "url": "https://www.ebay.com/itm/297463627720",
+   "domain": "ebay.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Wiley_discography.html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://popmatters.com/wiley-treddin-2496117747.html",
+   "domain": "popmatters.com"
+  },
+  {
+   "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited",
+   "domain": "complex.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "exact",
+   "release": "Treddin' on Thin Ice",
+   "level": "track",
+   "url": "https://music.apple.com/gb/song/pies/1136793596",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "version",
+   "release": "Treddin' On Thin Ice",
+   "level": "album",
+   "url": "https://www.qobuz.com/us-en/interpreter/wiley/172614",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

@@ -1,0 +1,613 @@
+[
+ {
+  "id_hint": "rebound-x-rhythm-and-gash-2006",
+  "title": "Rhythm & Gash (Pt. 1)",
+  "artist": "Rebound X (RBX; real name given by RA as Benjamin Darroux)",
+  "producers": [
+   "Rebound X"
+  ],
+  "label": "White label (per RA)",
+  "catalogue_number": null,
+  "format": "Uncertain: RA (2020) files it as a white-label single but also says the track appeared on the 2006 EP 'Land Of X', his only release",
+  "release_date": "2006",
+  "country": "UK",
+  "tracklist_note": "RA lists a single track, 'Rhythm & Gash Pt. 1'. RA says it appeared on the 2006 EP 'Land Of X'; no tracklist for that EP was found.",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://ra.co/reviews/25204",
+   "https://www.vice.com/en/article/elijah-and-skilliams-essential-grime-instrumentals",
+   "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash",
+   "https://www.musicismysanctuary.com/?p=42268"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "RA (2020) describes a bouncy, traditional eight-bar grime structure with a very impactful drop, a heaving drums-and-bass push and a diva-style vocal sample; a source quoted by RA calls it 'a really unique way of using a vocal sample'.",
+    "url": "https://ra.co/reviews/25204"
+   },
+   {
+    "text": "Complex (Joseph JP Patterson, April 2016) calls it a lyric-free, 'rolling, bass-bouncing' and haunting riddim.",
+    "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash"
+   }
+  ],
+  "context": [
+   {
+    "text": "RA (Carlos Hawthorn, 'Rewind', 20 Nov 2020): Rebound X posted on the RWD and VIP2 forums and appears to have left the internet around 2008; Mr. Mitch said the tune 'didn't really get no love' when first shared on the forums; some say it was never registered with PRS.",
+    "url": "https://ra.co/reviews/25204"
+   },
+   {
+    "text": "RA says Skepta named it 'tune of the month' on a 2007 Rinse FM recording and that Skepta and JME's 'Spaceship Freestyle' was the turning point; DJ Logan Sama describes it as a dependable call-and-response dancefloor record.",
+    "url": "https://ra.co/reviews/25204"
+   },
+   {
+    "text": "VICE (Josh Baines, 27 Nov 2015): Elijah of Butterz suggests it may be the biggest grime instrumental, says it 'came out back in 2006', and notes DJ EZ playing Flava D's remix revived it.",
+    "url": "https://www.vice.com/en/article/elijah-and-skilliams-essential-grime-instrumentals"
+   },
+   {
+    "text": "Complex (2016) quotes Faze Miyake calling it 'one of the most universal grime tunes out' and Plastician saying its popularity may not yet have peaked.",
+    "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "voiced_by",
+    "other": "Skepta and JME - 'Spaceship Freestyle' (2007)",
+    "url": "https://ra.co/reviews/25204"
+   },
+   {
+    "type": "voiced_by",
+    "other": "Tempa T and President T vocal versions (Complex places these about two years after 2007)",
+    "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash"
+   },
+   {
+    "type": "voiced_by",
+    "other": "Skepta with Jammer - 'I Spy' (per Complex 2016)",
+    "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash"
+   },
+   {
+    "type": "remix",
+    "other": "Sir Spyro remix; Murlo remix; Flava D 4x4 edit/remix (DJ EZ support)",
+    "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash"
+   }
+  ],
+  "uncertainty": "Release format is unclear: RA labels it a white-label single but also says it appeared on the 2006 'Land Of X' EP. No catalogue number or label name was found. The 2006 date rests on RA (2020) and VICE (2015); Complex's 2016 piece says it was 'ten years after its initial release' in 2015, which roughly agrees. Discogs was not reachable.",
+  "genre_calls": [
+   {
+    "label": "grime",
+    "source": "Resident Advisor (Rewind review, Carlos Hawthorn)",
+    "year": 2020,
+    "url": "https://ra.co/reviews/25204"
+   },
+   {
+    "label": "grime instrumental",
+    "source": "VICE (Elijah & Skilliam essential grime instrumentals)",
+    "year": 2015,
+    "url": "https://www.vice.com/en/article/elijah-and-skilliams-essential-grime-instrumentals"
+   },
+   {
+    "label": "grime riddim",
+    "source": "Complex (Joseph JP Patterson)",
+    "year": 2016,
+    "url": "https://www.complex.com/music/2015/07/the-rise-of-rebound-x-rhythm-and-gash"
+   }
+  ]
+ },
+ {
+  "id_hint": "skepta-duppy-2006",
+  "title": "Duppy",
+  "artist": "Skepta (vocal version with JME, Jammer, Wiley, Footsie, Trim, Bossman Birdie, Bearman, with MC Creed on the hook)",
+  "producers": [
+   "Skepta (implied by Complex; not stated outright in any source opened)"
+  ],
+  "label": "Boy Better Know (per FACT 2011/2012)",
+  "catalogue_number": null,
+  "format": "Not stated in any source opened; FACT calls it one of the last big white-label-era anthems",
+  "release_date": "2006",
+  "country": "UK",
+  "tracklist_note": "Later included as 'Duppy (Doin' It Again)', track 3 on Skepta's album Greatest Hits (Boy Better Know, 17 September 2007), featuring Bearman, Bossman, Footsie, Jme, Jammer, MC Creed, Trim and Wiley.",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://factmag.com/2012/04/22/20-best-grime",
+   "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+   "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11",
+   "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Skepta_discography",
+   "https://www.complex.com/music/a/joseph-jp-patterson/25-best-skepta-songs"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Stereogum (2016) describes it as a drum-and-bass-influenced standout that became an instant club hit.",
+    "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists"
+   },
+   {
+    "text": "Mixmag (2016) calls it a sticky, 'bling-bling' club anthem of the Boy Better Know era.",
+    "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11"
+   }
+  ],
+  "context": [
+   {
+    "text": "FACT's '20 best grime records ever made' (Tom Lea; page dated 22 April 2012, originally 2011) lists it as Boy Better Know, 2006, and one of the last big anthems of the white-label era.",
+    "url": "https://factmag.com/2012/04/22/20-best-grime"
+   },
+   {
+    "text": "Mixmag says DJ EZ included it on his Pure Garage mix a year after release.",
+    "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11"
+   },
+   {
+    "text": "Complex's 25 best Skepta songs says it was originally released in 2006, appeared on Greatest Hits the following year, and cemented Skepta's reputation 'as both MC and producer'.",
+    "url": "https://www.complex.com/music/a/joseph-jp-patterson/25-best-skepta-songs"
+   },
+   {
+    "text": "Stereogum calls it one of the last grime anthems of the early-to-mid 2000s.",
+    "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "album_inclusion",
+    "other": "Skepta - Greatest Hits (Boy Better Know, 17 Sep 2007), as 'Duppy (Doin' It Again)'",
+    "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Skepta_discography"
+   },
+   {
+    "type": "posse_cut",
+    "other": "Voiced by JME, Jammer, Wiley, Footsie, Trim, Bossman Birdie, Bearman and MC Creed",
+    "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11"
+   }
+  ],
+  "uncertainty": "Format and catalogue number unknown. Stereogum dates it by its album appearance (Greatest Hits, 2007), while FACT, Mixmag and Complex give 2006 for the original release. The production credit to Skepta is implied by Complex, not stated outright. It is mainly known as a vocal posse cut, not a standalone instrumental.",
+  "genre_calls": [
+   {
+    "label": "grime",
+    "source": "FACT (20 best grime records)",
+    "year": 2012,
+    "url": "https://factmag.com/2012/04/22/20-best-grime"
+   },
+   {
+    "label": "grime anthem (drum-and-bass-influenced)",
+    "source": "Stereogum",
+    "year": 2016,
+    "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists"
+   },
+   {
+    "label": "grime / Boy Better Know club anthem",
+    "source": "Mixmag",
+    "year": 2016,
+    "url": "https://mixmag.net/feature/15-tunes-from-2006-that-still-sound-banging-today/11"
+   }
+  ]
+ },
+ {
+  "id_hint": "rephlex-grime-2-cat160-2004",
+  "title": "Grime 2",
+  "artist": "Various (Kode9, Loefah, Digital Mystikz)",
+  "producers": [
+   "Kode9 (Steve Goodman)",
+   "Loefah",
+   "Digital Mystikz (Mala and Coki)"
+  ],
+  "label": "Rephlex",
+  "catalogue_number": "CAT 160",
+  "format": "Compilation (format not stated in sources opened; XLR8R says nine tracks)",
+  "release_date": "2004",
+  "country": "UK",
+  "tracklist_note": "XLR8R gives nine tracks without titles. Kode9's own Bandcamp reissue of his tracks from the comp lists 'Dislokated', 'Ping', 'Sub Kontinent' and 'Swarm'. RA (2021) says Digital Mystikz's 'CR7 Chamber' first appeared on Grime 2.",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze.ipfs.ipfs.hypha.coop/wiki/Rephlex_Records_discography",
+   "https://kode9.bandcamp.com/album/trax-from-grime-2-2004",
+   "https://xlr8r.com/reviews/grime-2/",
+   "https://brooklynrail.org/2010/06/music/future-sounds-of-london/",
+   "https://ra.co/reviews/34235",
+   "https://k-punk.org/rephlex-grime"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "The Brooklyn Rail (Dominic Umile, June 2010) describes Kode9's four tracks as crude and wordless, mixing film dialogue and Eastern reed instruments with heavy bass lines, with no vocalists.",
+    "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/"
+   },
+   {
+    "text": "XLR8R (Brion Paul, July 2005) points to Eastern-tinged hip-hop touches, acoustic-guitar R&B smoothness and jungle-style 'precision bass blasts'.",
+    "url": "https://xlr8r.com/reviews/grime-2/"
+   },
+   {
+    "text": "RA (Emeka Okonkwo, 2021) calls Digital Mystikz's 'CR7 Chamber' 'dark and glacial'.",
+    "url": "https://ra.co/reviews/34235"
+   }
+  ],
+  "context": [
+   {
+    "text": "Rephlex Records discography (Wikipedia mirror) lists CAT 156 'Grime' and CAT 160 'Grime 2' as consecutive various-artist releases.",
+    "url": "https://bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze.ipfs.ipfs.hypha.coop/wiki/Rephlex_Records_discography"
+   },
+   {
+    "text": "The Brooklyn Rail says Rephlex 'understandably misidentified' the music as grime, and links the comp to the infancy of what became dubstep.",
+    "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/"
+   },
+   {
+    "text": "RA says CR7 Chamber was among the tracks that first hooked audiences, and the duo stayed underground until DJs worldwide noticed in 2006.",
+    "url": "https://ra.co/reviews/34235"
+   },
+   {
+    "text": "Comments under k-punk's April 2004 post on the first Rephlex 'Grime' comp were already disputing whether the FWD/dubstep producers and the MC-led grime scene were the same thing; Hyperdub's steve_hyperdub says Slaughter Mob saw themselves as dubstep.",
+    "url": "https://k-punk.org/rephlex-grime"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "series",
+    "other": "Rephlex - Grime (CAT 156, 2004), already in register as rephlex-grime-comp-cat156-2004",
+    "url": "https://bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze.ipfs.ipfs.hypha.coop/wiki/Rephlex_Records_discography"
+   },
+   {
+    "type": "reissue",
+    "other": "Kode9 - 'trax from Grime 2 [2004]' (Bandcamp digital, 22 March 2020)",
+    "url": "https://kode9.bandcamp.com/album/trax-from-grime-2-2004"
+   },
+   {
+    "type": "reissue",
+    "other": "Digital Mystikz - 'CR7 Chamber' digital reissue on DMZ (August 2021)",
+    "url": "https://ra.co/reviews/34235"
+   }
+  ],
+  "uncertainty": "No exact release date or physical format was confirmed. The 2004 year comes from Kode9's Bandcamp and RA; XLR8R's review is dated July 2005. Genre is contested: the label titled it 'Grime', but later writers treat it as early dubstep. It is included as evidence of how the grime label was applied in 2004.",
+  "genre_calls": [
+   {
+    "label": "grime (title given by label)",
+    "source": "Rephlex (via Rephlex discography)",
+    "year": 2004,
+    "url": "https://bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze.ipfs.ipfs.hypha.coop/wiki/Rephlex_Records_discography"
+   },
+   {
+    "label": "London's grime scene",
+    "source": "XLR8R review",
+    "year": 2005,
+    "url": "https://xlr8r.com/reviews/grime-2/"
+   },
+   {
+    "label": "'misidentified' as grime; proto-dubstep",
+    "source": "The Brooklyn Rail",
+    "year": 2010,
+    "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/"
+   },
+   {
+    "label": "dubstep (CR7 Chamber)",
+    "source": "Resident Advisor",
+    "year": 2021,
+    "url": "https://ra.co/reviews/34235"
+   },
+   {
+    "label": "tags: bass, dubstep, grime and others",
+    "source": "Kode9 Bandcamp",
+    "year": 2020,
+    "url": "https://kode9.bandcamp.com/album/trax-from-grime-2-2004"
+   }
+  ]
+ },
+ {
+  "id_hint": "wiley-morgue",
+  "title": "Morgue",
+  "artist": "Wiley",
+  "producers": [
+   "Wiley"
+  ],
+  "label": null,
+  "catalogue_number": null,
+  "format": "Physical record sold through East London shops and from Wiley's car boot (per Slimzee); exact format not stated",
+  "release_date": null,
+  "country": "UK",
+  "tracklist_note": "Slimzee says Roll Deep (including Riko, Wiley, Scratchy and Trim) did a vocal; whether the vocal and instrumental were on the same record is not stated.",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://stage1.thequietus.com/interviews/bakers-dozen/slimzee-favourite-tracks-bakers-dozen/6/",
+   "https://districtmagazine.ie/news/5-grime-instrumentals-that-helped-shape-the-genre",
+   "https://www.complex.com/music/a/joseph-jp-patterson/classic-uk-diss-tracks",
+   "https://www.musicismysanctuary.com/?p=42268"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Slimzee (Quietus Baker's Dozen, 2023) describes an unusual half-time feel that was 'just so gritty', and says Wiley made it as a version of DJ Wonder's 'What'.",
+    "url": "https://stage1.thequietus.com/interviews/bakers-dozen/slimzee-favourite-tracks-bakers-dozen/6/"
+   }
+  ],
+  "context": [
+   {
+    "text": "Slimzee says Wiley sold it for a tenner though it cost about 50p to make, that shops bought it by the box, and that it was sold under the counter after Geeneus threatened to withhold Dump Valve tunes from shops stocking what he saw as a bootleg of 'What'.",
+    "url": "https://stage1.thequietus.com/interviews/bakers-dozen/slimzee-favourite-tracks-bakers-dozen/6/"
+   },
+   {
+    "text": "District Magazine (Cóilí Collins, 7 July 2017) lists it among five grime instrumentals that helped shape the genre, noting its later use for Skepta's diss 'Nasty'.",
+    "url": "https://districtmagazine.ie/news/5-grime-instrumentals-that-helped-shape-the-genre"
+   },
+   {
+    "text": "Included in Son Raw's 'Classic Grime Riddims' mix (Music Is My Sanctuary, October 2014).",
+    "url": "https://www.musicismysanctuary.com/?p=42268"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "version_of",
+    "other": "DJ Wonder - What (in register as wonder-what-dump-valve-2004)",
+    "url": "https://stage1.thequietus.com/interviews/bakers-dozen/slimzee-favourite-tracks-bakers-dozen/6/"
+   },
+   {
+    "type": "voiced_by",
+    "other": "Roll Deep (Riko, Wiley, Scratchy, Trim)",
+    "url": "https://stage1.thequietus.com/interviews/bakers-dozen/slimzee-favourite-tracks-bakers-dozen/6/"
+   },
+   {
+    "type": "voiced_by",
+    "other": "Skepta - 'Nasty' (2015 diss aimed at Devilman), on the 'Morgue' riddim",
+    "url": "https://www.complex.com/music/a/joseph-jp-patterson/classic-uk-diss-tracks"
+   }
+  ],
+  "uncertainty": "No release year, label, catalogue number or confirmed format was found. Because it is a version of DJ Wonder's 'What', it probably dates from the same period (the register has 'What' as 2004), but that is an inference. Slimzee's Baker's Dozen page shows no named interviewer; the page metadata gives 22 Nov 2023.",
+  "genre_calls": [
+   {
+    "label": "grime instrumental",
+    "source": "District Magazine",
+    "year": 2017,
+    "url": "https://districtmagazine.ie/news/5-grime-instrumentals-that-helped-shape-the-genre"
+   },
+   {
+    "label": "classic grime riddim",
+    "source": "Music Is My Sanctuary / Son Raw mix",
+    "year": 2014,
+    "url": "https://www.musicismysanctuary.com/?p=42268"
+   },
+   {
+    "label": "Wiley's classic riddim",
+    "source": "Complex (classic UK diss tracks)",
+    "year": 2024,
+    "url": "https://www.complex.com/music/a/joseph-jp-patterson/classic-uk-diss-tracks"
+   }
+  ]
+ },
+ {
+  "id_hint": "low-deep-straight-flush-2005",
+  "title": "Straight Flush (Original)",
+  "artist": "Low Deep (listed as 'Lowdeep')",
+  "producers": [
+   "Low Deep"
+  ],
+  "label": "Colourful State Records (listed as 'Colourfulstate Records')",
+  "catalogue_number": null,
+  "format": "Vinyl (per Low Deep bio)",
+  "release_date": "2005",
+  "country": "UK",
+  "tracklist_note": "NTS's Discogs-derived listing shows 'Straight Flush (Original)' (2005) and a later 'Straight Flush' on Colourful State dated 2007.",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://www.nts.live/artists/7246-low-deep",
+   "https://www.last.fm/music/Low+Deep/+wiki",
+   "https://www.musicismysanctuary.com/?p=42268"
+  ],
+  "sound_descriptions": [],
+  "context": [
+   {
+    "text": "The beat began as eight bars Low Deep made at 17 for a producer challenge on the RWD Forum.",
+    "url": "https://www.last.fm/music/Low+Deep/+wiki"
+   },
+   {
+    "text": "The vinyl came out on Colourful State Records, the label he had just signed to, and sold over 2,000 copies.",
+    "url": "https://www.nts.live/artists/7246-low-deep"
+   },
+   {
+    "text": "Low Deep is from Luton; his beats were later used on BBC Top Gear and in the 2007 film Mr. Lonely.",
+    "url": "https://www.last.fm/music/Low+Deep/+wiki"
+   },
+   {
+    "text": "Low Deep's 'Jedi' appears in Son Raw's 2014 'Classic Grime Riddims' mix.",
+    "url": "https://www.musicismysanctuary.com/?p=42268"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "later_version",
+    "other": "Straight Flush (Colourful State, 2007), per NTS's Discogs-derived listing",
+    "url": "https://www.nts.live/artists/7246-low-deep"
+   }
+  ],
+  "uncertainty": "The 2005 date and the 'Original' title come from NTS's artist page, which reproduces Discogs listings; Discogs itself was not reachable. No source opened describes how the track sounds, so sound_descriptions is empty. The 8-bar origin is in the context field. No catalogue number was found.",
+  "genre_calls": [
+   {
+    "label": "grime (artist described as a grime artist and producer)",
+    "source": "Last.fm biography",
+    "year": null,
+    "url": "https://www.last.fm/music/Low+Deep/+wiki"
+   }
+  ]
+ },
+ {
+  "id_hint": "dj-marsta-gridlock-2003",
+  "title": "Gridlock",
+  "artist": "DJ Marsta",
+  "producers": [
+   "DJ Marsta"
+  ],
+  "label": "Total Package Recordings",
+  "catalogue_number": "TPC001",
+  "format": "Vinyl, 12\", 45 RPM, white label",
+  "release_date": "2003",
+  "country": "UK",
+  "tracklist_note": "A: Gridlock (5:08); B: Gridlock (Vocal) (3:41). Discogs also lists a stickered white-label pressing and a 'Gridlock 4x4' 12\" on A.R.M.Y Bullet (BULLET001, UK, 2004).",
+  "discogs_url": "https://www.discogs.com/release/1384414",
+  "other_source_urls": [
+   "https://nts.live/artists/22929-dj-marsta"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "The NTS bio says the production uses 'very noticeable strings'.",
+    "url": "https://nts.live/artists/22929-dj-marsta"
+   }
+  ],
+  "context": [
+   {
+    "text": "DJ Marsta is a grime DJ and producer from East London; NTS says Gridlock has been played at major events ever since its 2003 release.",
+    "url": "https://nts.live/artists/22929-dj-marsta"
+   },
+   {
+    "text": "NTS lists other Marsta releases, including 'Fibre (Terror Danjah Mix)' (East Iz East / Total Package, 2002) and 'Flames' (A.R.M.Y Bullet, 2004).",
+    "url": "https://nts.live/artists/22929-dj-marsta"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "version",
+    "other": "Gridlock (Vocal), B-side of TPC001; vocalist not named",
+    "url": "https://www.discogs.com/release/1384414"
+   },
+   {
+    "type": "version",
+    "other": "Gridlock 4x4 (A.R.M.Y Bullet, BULLET001, 2004)",
+    "url": "https://www.discogs.com/release/1384414"
+   }
+  ],
+  "uncertainty": "Discogs gives no release date for TPC001; the 2003 date comes from NTS. Credits and the vocalist on the B-side are not listed.",
+  "genre_calls": [
+   {
+    "label": "Electronic / Grime",
+    "source": "Discogs",
+    "year": null,
+    "url": "https://www.discogs.com/release/1384414"
+   },
+   {
+    "label": "grime (artist described as a grime DJ and producer)",
+    "source": "NTS",
+    "year": null,
+    "url": "https://nts.live/artists/22929-dj-marsta"
+   }
+  ]
+ },
+ {
+  "id_hint": "dj-target-poltergeist-aim002-2004",
+  "title": "Poltergeist",
+  "artist": "DJ Target",
+  "producers": [
+   "Not stated in sources opened (DJ Target is the credited artist)"
+  ],
+  "label": "Aim High Recordings (NTS: 'Aim High Music')",
+  "catalogue_number": "AIM002",
+  "format": "Not stated (Fiddy implies vinyl but does not say so)",
+  "release_date": "2004 or earlier (it is listed as an Aim High release in a piece posted 25 Oct 2004)",
+  "country": "UK",
+  "tracklist_note": "Chantelle Fiddy's Oct 2004 post names it 'Poltergeist/Runaway'. Aim High also issued a remix by Terror Danjah ('Poltergeist Rmx', AIM004), which NTS lists as 'Poltergeist (Terra Danjah Mix)', Aim High Music, 2004.",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://chantellefiddy.blogspot.com/2004/10/hitting-target.html",
+   "https://chantellefiddy.blogspot.com/2005/01/aim-high-2-press-release.html?m=1",
+   "https://www.nts.live/artists/21097-dj-target",
+   "https://planet.mu/?p=1062"
+  ],
+  "sound_descriptions": [],
+  "context": [
+   {
+    "text": "Chantelle Fiddy ('Hitting the Target', first in Touch magazine, posted 25 Oct 2004) lists Poltergeist/Runaway and a Terror Danjah remix among releases on Target's Aim High label.",
+    "url": "https://chantellefiddy.blogspot.com/2004/10/hitting-target.html"
+   },
+   {
+    "text": "The Aim High Vol. 2 press release posted by Fiddy (7 Jan 2005) gives Aim High's catalogue: AIM001 'Pick Yourself Up', AIM002 'Poltergeist', AIM003 'Chosen One' feat. Riko, AIM004 'Poltergeist Rmx' by Terror Danjah, AIM005 'STDS' feat. OT Crew.",
+    "url": "https://chantellefiddy.blogspot.com/2005/01/aim-high-2-press-release.html?m=1"
+   },
+   {
+    "text": "DJ Target (Darren Joseph) is an East London producer, formerly of Pay As U Go, and a co-founder of Roll Deep with Wiley.",
+    "url": "https://www.nts.live/artists/21097-dj-target"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "remix",
+    "other": "Poltergeist (Terror Danjah remix), Aim High AIM004, 2004",
+    "url": "https://chantellefiddy.blogspot.com/2005/01/aim-high-2-press-release.html?m=1"
+   },
+   {
+    "type": "remix",
+    "other": "DJ Target: Poltergeist (Terror Danjah V.I.P. Remix), on Terror Danjah - Gremlinz (The Instrumentals 2003-2009), Planet Mu ZIQ249, 28 Sep 2009",
+    "url": "https://planet.mu/?p=1062"
+   }
+  ],
+  "uncertainty": "No source opened describes the original's sound, so sound_descriptions is empty. The producer of the original is not stated. No exact date or format was found; the 2004 date on NTS belongs to the Terror Danjah mix. Whether 'Runaway' is the B-side is inferred from Fiddy's 'Poltergeist/Runaway' wording.",
+  "genre_calls": [
+   {
+    "label": "grime (Planet Mu frames the Gremlinz VIP among Terror Danjah's grime instrumentals)",
+    "source": "Planet Mu",
+    "year": 2009,
+    "url": "https://planet.mu/?p=1062"
+   }
+  ]
+ },
+ {
+  "id_hint": "aftershock-payback-remix-ep-2004",
+  "title": "Payback (remix EP)",
+  "artist": "Various (Aftershock); includes Big E-D 'Frontline' (Terror Danjah's Creepy Crawler remix)",
+  "producers": [
+   "Terror Danjah (remixer of Frontline)"
+  ],
+  "label": "Aftershock",
+  "catalogue_number": null,
+  "format": "EP (format not stated in sources opened)",
+  "release_date": "2004",
+  "country": "UK",
+  "tracklist_note": "Full tracklist not found. FACT (2009) names the 'Creep[y] Crawler' remix of Big E-D's 'Frontline' as its standout. Planet Mu's Gremlinz (2009) opens with 'Big-E-D: Frontline (Terror Danjah's Creepy Crawler Remix)'.",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://factmag.com/2009/09/02/interview-terror-danjah/2",
+   "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Aftershock_(group)",
+   "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Terror_Danjah",
+   "https://planet.mu/?p=1062"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "In FACT (2009), Simon Reynolds calls the synth on the Frontline remix 'harmonically rich'. Terror says it is a normal synth that he processes and textures heavily, and he declines to explain how.",
+    "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2"
+   },
+   {
+    "text": "Planet Mu (2009) describes Terror Danjah's style as a small set of signature sounds, shifting syncopated rhythms, around 140 bpm, and a gremlin-cackle audio logo.",
+    "url": "https://planet.mu/?p=1062"
+   }
+  ],
+  "context": [
+   {
+    "text": "Terror Danjah tells FACT that Payback was 'one of Aftershock's top sellers', especially the Frontline remix, and places it after the Industry Standard EP (2004).",
+    "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2"
+   },
+   {
+    "text": "The Aftershock (group) Wikipedia article lists Payback as a 2004 various-artist remix EP and repeats that it was one of the label's top sellers. It describes the original 'Frontline' (2003) as Big E-D featuring D Double E.",
+    "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Aftershock_(group)"
+   },
+   {
+    "text": "FACT: Big E.D.'s 'Frontline' followed Crazy Titch's 'I Can C U' and N.A.S.T.Y.'s 'Cock Back' as an early Aftershock release.",
+    "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "remix_of",
+    "other": "Big E-D feat. D Double E - Frontline (Aftershock, 2003)",
+    "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Aftershock_(group)"
+   },
+   {
+    "type": "label_mate",
+    "other": "Terror Danjah - Industry Standard EP (in register as terror-danjah-industry-standard-ep-2004)",
+    "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2"
+   },
+   {
+    "type": "compiled_on",
+    "other": "Terror Danjah - Gremlinz (The Instrumentals 2003-2009), Planet Mu ZIQ249 (2009), track 1",
+    "url": "https://planet.mu/?p=1062"
+   }
+  ],
+  "uncertainty": "No catalogue number, format or exact date was found. The Terror Danjah Wikipedia article says the 'Creepy Crawler' instrumental (2003) came out on Industry Standard (2004) and was voiced by Wiley as 'Take Chances', while FACT ties a 'Creepy Crawler' remix of Frontline to Payback. These may be the same riddim in two forms. The planet.mu sound description covers Terror's general style, not this record specifically.",
+  "genre_calls": [
+   {
+    "label": "grime (Aftershock described as a grime label/collective; Industry Standard called 'headphone grime')",
+    "source": "FACT (Simon Reynolds interview)",
+    "year": 2009,
+    "url": "https://factmag.com/2009/09/02/interview-terror-danjah/2"
+   },
+   {
+    "label": "grime instrumental (on Gremlinz)",
+    "source": "Planet Mu",
+    "year": 2009,
+    "url": "https://planet.mu/?p=1062"
+   }
+  ]
+ }
+]

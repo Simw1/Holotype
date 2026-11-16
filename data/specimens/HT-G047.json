@@ -1,0 +1,118 @@
+{
+ "id": "HT-G047",
+ "key": "jaimeson-urban-hero-2001",
+ "sort": "2001-08-25",
+ "year": 2001,
+ "date": "2001 (chart entry 25 Aug 2001)",
+ "kind": "Single",
+ "artist": "Jaimeson",
+ "title": "Urban Hero (with Slow Jam)",
+ "label": "Lifestyle (per FACT)",
+ "cat": null,
+ "format": "Single (format not verified)",
+ "producers": [],
+ "lane": "transition",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Outgroup",
+  "of": "UK garage",
+  "holotype": null,
+  "basis": "FACT (2013) places it in the period when garage was spawning grime. Held as an outgroup; little is known of its sound, so every code is drafted."
+ },
+ "sound": [
+  {
+   "text": "FACT (2013) calls it one of the fattest rollers 'from that period where garage was spawning grime' (no finer detail).",
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Official Independent Singles Chart peak no. 48 (first chart date 25 Aug 2001).",
+   "url": "https://www.officialcharts.com/artist/675/jaimeson/",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Jameson attended the 2000-era UK Garage Committee meetings with Matt Mason, Viper and Maxwell D, aiming to be 'a voice' for the next generation (RBMA, 2019).",
+   "url": "https://daily.redbullmusicacademy.com/2019/06/ukg-committee-garage-wars",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "garage, from the period when garage was spawning grime",
+   "source": "FACT",
+   "year": "2013",
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records"
+  }
+ ],
+ "rels": [
+  {
+   "type": "related_title",
+   "other": "Jameson and Viper – Selecta (Urban Heroes) (chart entry 14 Sep 2002, no. 51)",
+   "url": "https://www.officialcharts.com/artist/675/jaimeson/"
+  }
+ ],
+ "uncertainty": "Thin. Only FACT places it in the garage-to-grime moment, and it gives no concrete sound detail. Producer, catalogue number and format are unknown. The relationship to the 2002 'Selecta (Urban Heroes)' is inferred from the title only.",
+ "tracklist": "OCC lists it as 'Urban Hero/Slow Jam'.",
+ "sources": [
+  {
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://www.officialcharts.com/artist/675/jaimeson/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2019/06/ukg-committee-garage-wars",
+   "domain": "daily.redbullmusicacademy.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

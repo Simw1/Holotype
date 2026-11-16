@@ -1,0 +1,167 @@
+{
+ "id": "HT-G034",
+ "key": "kano-typical-me-2005",
+ "sort": "2005-02-28",
+ "year": 2005,
+ "date": "28 Feb 2005",
+ "kind": "Single",
+ "artist": "Kano feat. Ghetto",
+ "title": "Typical Me",
+ "label": "679 Recordings",
+ "cat": "679L096CD1",
+ "format": "CD single (two CD editions)",
+ "producers": [
+  "Fraser T Smith",
+  "Kano"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 5,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; no description of the beat was found, so most characters are drafted."
+ },
+ "sound": [
+  {
+   "text": "Wikipedia's infobox lists the genre as rap rock (4:34). No published description of the beat was found in the sources opened.",
+   "url": "https://en.wikipedia.org/wiki/Typical_Me",
+   "g": "C",
+   "checked": true
+  }
+ ],
+ "context": [
+  {
+   "text": "Peaked at no. 22 on the Official Singles Chart (first chart date 12/03/2005, 3 weeks) and no. 6 on the Official Hip Hop and R&B Singles Chart.",
+   "url": "https://www.officialcharts.com/songs/kano-typical-me/",
+   "g": "A",
+   "checked": true,
+   "pub": "chart run 12/03/2005-26/03/2005 (OCC record)"
+  },
+  {
+   "text": "Wikipedia says it was Kano's first appearance on the UK Singles Chart. It was the second single from Home Sweet Home.",
+   "url": "https://en.wikipedia.org/wiki/Typical_Me",
+   "g": "C",
+   "checked": true
+  },
+  {
+   "text": "Ghetts, then known as Ghetto, was born in Plaistow and formally joined N.A.S.T.Y. Crew around the mid-2000s (no year given). He featured twice on Home Sweet Home and toured with Kano and Mike Skinner.",
+   "url": "https://en.wikipedia.org/wiki/Ghetts",
+   "g": "C",
+   "checked": true
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "b_side",
+   "other": "Kano - P's and Q's (2004)",
+   "url": "https://mail.45worlds.com/cdsingle/cd/679l096cd1"
+  },
+  {
+   "type": "album_track",
+   "other": "Kano - Home Sweet Home (2005), track 5",
+   "url": "https://en.wikipedia.org/wiki/Home_Sweet_Home_(Kano_album)"
+  }
+ ],
+ "uncertainty": "The release date of 28 Feb 2005 comes from Wikipedia and from a 45worlds user comment citing a Blues & Soul advert. The sound description is thin (genre tag only). Wikipedia credits Fraser T Smith alone as producer, while 45worlds credits Kano and Fraser T. Smith.",
+ "tracklist": "CD1 (679L096CD1): 1. Typical Me (K. Robinson, F. Smith; prod. Kano, Fraser T. Smith); 2. P's And Q's (K. Robinson, C. Chichester; prod. Davinche). Barcode 5050467713925.",
+ "sources": [
+  {
+   "url": "https://mail.45worlds.com/cdsingle/cd/679l096cd1",
+   "domain": "mail.45worlds.com"
+  },
+  {
+   "url": "https://www.officialcharts.com/songs/kano-typical-me/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Typical_Me",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ghetts",
+   "domain": "en.wikipedia.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "exact",
+   "release": "Typical Me (CD 1) - Single",
+   "level": "album",
+   "url": "https://music.apple.com/gb/album/typical-me-cd-1-single/49314962",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Rock"
+   ],
+   "match": "exact",
+   "release": "Typical Me",
+   "level": "album",
+   "url": "https://www.qobuz.com/gb-en/interpreter/kano/25020",
+   "retrieved": "2026-11-16",
+   "verdict": "wrong"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://kano.bandcamp.com/music",
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

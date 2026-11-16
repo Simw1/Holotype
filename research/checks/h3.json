@@ -1,0 +1,746 @@
+[
+ {
+  "key": "musical-mob-pulse-x",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "musical-mob-pulse-x",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "4 Dec 2012",
+  "note": "SPIN, Philip Sherburne."
+ },
+ {
+  "key": "musical-mob-pulse-x",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "22 Apr 2012 (first posted 2011)",
+  "note": "FACT, Tom Lea; paraphrase."
+ },
+ {
+  "key": "musical-mob-pulse-x",
+  "field": "sound",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "c. 2013 (page metadata 19 Aug 2021)",
+  "note": "Youngstar's own answers in a Ransom Note Q&A; text refers to 2013 events."
+ },
+ {
+  "key": "musical-mob-pulse-x",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "22 Apr 2012 (first posted 2011)",
+  "note": ""
+ },
+ {
+  "key": "musical-mob-pulse-x",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "new_text": "Widely considered the first grime beat / a 'year zero'; its minimalism is said to have set the foundations for a more MC-centred genre. Bok Bok named it his favourite example of Youngstar's 'simplistic, brutalist genius' (2014).",
+  "note": "\"Credited with making\" is stronger than Wikipedia's \"set the foundations\". Bok Bok quote is 2014 second-hand via Wikipedia."
+ },
+ {
+  "key": "musical-mob-pulse-x",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "c. 2013 (page metadata 19 Aug 2021)",
+  "note": "Changed from B: \"first 8 bar track released\" and the Blackmarket sell-out are in the publication's unattributed intro, not Youngstar's answers."
+ },
+ {
+  "key": "musical-mob-pulse-x",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "4 Dec 2012",
+  "note": ""
+ },
+ {
+  "key": "wiley-eskimo",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Aug 2019",
+  "note": "Complex, Son Raw."
+ },
+ {
+  "key": "wiley-eskimo",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "6 Jun 2018",
+  "new_text": "Sparse arrangement of minimal drum skirmishes and artificial synth stabs, with a sound like a hollow metal pole rolling around a construction yard (Dan Hancox, Mixmag, 2018).",
+  "note": "\"Heavy bass and off-kilter rhythms\" is Hancox describing eskibeat in general, not this track; \"sci-fi\" is not his word (\"artificial\")."
+ },
+ {
+  "key": "wiley-eskimo",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "13 Sep 2010",
+  "note": ""
+ },
+ {
+  "key": "wiley-eskimo",
+  "field": "sound",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated genre primer (MusicTech)",
+  "note": ""
+ },
+ {
+  "key": "wiley-eskimo",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "reprint c. 2014; interview Nov 2003",
+  "note": "Page is fabric's undated reprint of the Hyperdub webzine archive (event plug for Friday 8 Aug points to 2014). Maker speaking; original interview Hyperdub webzine, Nov 2003. Would be A if the original Hyperdub/Jockey Slut text were cited (Wayback not reachable from here)."
+ },
+ {
+  "key": "wiley-eskimo",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "6 Jun 2018",
+  "new_text": "Mixmag calls it the first and most enduring of Wiley's 'eski' tracks, sold with no label, manager or publicist (over 10,000 vinyl copies).",
+  "note": "The Complex/Rhythm Division clause is not on the Mixmag URL; it is on https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat (2019, C). Split into its own item."
+ },
+ {
+  "key": "wiley-eskimo",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "22 Apr 2012 (first posted 2011)",
+  "note": ""
+ },
+ {
+  "key": "wiley-eskimo",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "26 May 2015",
+  "note": "RBMA Daily feature by Emma Warren quoting Martin Clark."
+ },
+ {
+  "key": "more-fire-crew-oi-2002",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "more-fire-crew-oi-2002",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "4 Mar 2022",
+  "note": "20th-anniversary retrospective."
+ },
+ {
+  "key": "more-fire-crew-oi-2002",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "official chart record (chart dated 16 Mar 2002)",
+  "note": "Live OCC database page; graded as official chart record."
+ },
+ {
+  "key": "more-fire-crew-oi-2002",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": "URL /wiki/Platinum_45 serves the More Fire Crew article."
+ },
+ {
+  "key": "more-fire-crew-oi-2002",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": "Member list is incomplete: Wikipedia also names Seani B as a founder."
+ },
+ {
+  "key": "more-fire-crew-oi-2002",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "more-fire-crew-oi-2002",
+  "field": "context",
+  "index": 4,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 Mar 2016",
+  "note": ""
+ },
+ {
+  "key": "dizzee-rascal-i-luv-u",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "dizzee-rascal-i-luv-u",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "5 May 2016",
+  "note": "Dizzee speaking in first person (RBMA track-by-track, Dan Hancox)."
+ },
+ {
+  "key": "dizzee-rascal-i-luv-u",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "5 May 2016",
+  "note": "Changed from C: the call-and-response / \"Is That Your Chick?\" point is Dizzee's own words."
+ },
+ {
+  "key": "dizzee-rascal-i-luv-u",
+  "field": "sound",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 Mar 2016",
+  "note": ""
+ },
+ {
+  "key": "dizzee-rascal-i-luv-u",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "dizzee-rascal-i-luv-u",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": "Reports The Wire (original not cited) and The Pitchfork 500 (2008) second-hand."
+ },
+ {
+  "key": "dizzee-rascal-i-luv-u",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "5 May 2016",
+  "note": "Changed from C: every clause (self-produced, made before the album, dropped out of college, Deja Vu, NASTY Crew) is Dizzee speaking."
+ },
+ {
+  "key": "dizzee-rascal-i-luv-u",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 Mar 2016",
+  "note": ""
+ },
+ {
+  "key": "wiley-wot-do-u-call-it",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated genre primer (MusicTech)",
+  "note": ""
+ },
+ {
+  "key": "wiley-wot-do-u-call-it",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "Apr 2016",
+  "note": ""
+ },
+ {
+  "key": "wiley-wot-do-u-call-it",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Aug 2019",
+  "note": ""
+ },
+ {
+  "key": "wiley-wot-do-u-call-it",
+  "field": "sound",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "9 Sep 2004",
+  "note": "Contemporary PopMatters album review."
+ },
+ {
+  "key": "wiley-wot-do-u-call-it",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "official chart record (first charted 17 Apr 2004)",
+  "note": ""
+ },
+ {
+  "key": "wiley-wot-do-u-call-it",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026 (IPFS mirror)",
+  "note": ""
+ },
+ {
+  "key": "wiley-wot-do-u-call-it",
+  "field": "context",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "6 Aug 2019",
+  "new_text": "Complex calls it eskibeat's mainstream breakout and 'the first grime tune about grime'.",
+  "note": "MusicTech's \"original national anthem\" is not on the Complex URL; cite https://www.musictech.net/guides/essential-guide/genre-primer-grime/ as a separate item (C)."
+ },
+ {
+  "key": "wiley-wot-do-u-call-it",
+  "field": "context",
+  "index": 3,
+  "verdict": "partly",
+  "grade": "B",
+  "pub_date": "reprint c. 2014; interview Oct 2003",
+  "new_text": "In October 2003 Wiley said his next single would be 'What Do You Call It', on the Igloo rhythm, explaining 'how we started doing garage and then they started turning their back to us'.",
+  "note": "Changed from A by the citable-page rule. \"Album single\" is not in the source, and \"pushed out of the scene\" paraphrases \"turning their back to us\". Page is fabric's undated reprint of the Hyperdub webzine archive (event plug for Friday 8 Aug points to 2014). Maker speaking; original interview Hyperdub webzine, Oct 2003; page says also published in Jockey Slut, 2003. Would be A if the original Hyperdub/Jockey Slut text were cited (Wayback not reachable from here)."
+ },
+ {
+  "key": "lethal-bizzle-pow-forward-2004",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "lethal-bizzle-pow-forward-2004",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2 Nov 2024",
+  "note": "RA review (Christian Adofo); the no-intro bass and 808 points are producer D'Explicit quoted (B-level) inside a C page."
+ },
+ {
+  "key": "lethal-bizzle-pow-forward-2004",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "lethal-bizzle-pow-forward-2004",
+  "field": "sound",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "31 Oct 2017 (blog repost)",
+  "note": "Changed from A. Simon Reynolds blog \"director's cut\", posted 31 Oct 2017, of his Spin piece of Aug 2005. Graded by the citable page; original is Spin, Aug 2005 (A if the print issue is cited)."
+ },
+ {
+  "key": "lethal-bizzle-pow-forward-2004",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "official chart record (first charted 1 Jan 2005)",
+  "note": ""
+ },
+ {
+  "key": "lethal-bizzle-pow-forward-2004",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "lethal-bizzle-pow-forward-2004",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "lethal-bizzle-pow-forward-2004",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "31 Oct 2017 (blog repost)",
+  "note": "Changed from A. Simon Reynolds blog \"director's cut\", posted 31 Oct 2017, of his Spin piece of Aug 2005. Graded by the citable page; original is Spin, Aug 2005 (A if the print issue is cited)."
+ },
+ {
+  "key": "kano-ps-and-qs-2004",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "24 Mar 2005",
+  "note": "PopMatters review of Run the Road (Pierre Hamilton)."
+ },
+ {
+  "key": "kano-ps-and-qs-2004",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 Mar 2016",
+  "note": "\"Model\" paraphrases \"showcases how grime should sound\"."
+ },
+ {
+  "key": "kano-ps-and-qs-2004",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "8 Nov 2004",
+  "note": "Chantelle Fiddy blog post."
+ },
+ {
+  "key": "kano-ps-and-qs-2004",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "Apr 2016",
+  "note": "Author's framing in RBMA interview intro, not Kano's words."
+ },
+ {
+  "key": "kano-ps-and-qs-2004",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "8 Nov 2004",
+  "note": ""
+ },
+ {
+  "key": "kano-ps-and-qs-2004",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "kano-ps-and-qs-2004",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "30 Nov 2004",
+  "note": "Vice Grimewatch column (Cobra Peters & Pat Parson); page dated 30 Nov 2004."
+ },
+ {
+  "key": "jon-e-cash-war-2003",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Jul 2015",
+  "note": ""
+ },
+ {
+  "key": "jon-e-cash-war-2003",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated shop listing (reissue)",
+  "note": ""
+ },
+ {
+  "key": "jon-e-cash-war-2003",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated shop listing (reissue)",
+  "note": ""
+ },
+ {
+  "key": "jon-e-cash-war-2003",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Jul 2015",
+  "note": "Boiler Room, Melissa Bradshaw, relaying Slimzee's recollection."
+ },
+ {
+  "key": "jon-e-cash-war-2003",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2016 (TTRS 001EP listing)",
+  "note": ""
+ },
+ {
+  "key": "jon-e-cash-war-2003",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated shop listing (reissue)",
+  "note": "Changed from B: shop copy, not the maker speaking."
+ },
+ {
+  "key": "jon-e-cash-war-2003",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (Last.fm wiki)",
+  "note": ""
+ },
+ {
+  "key": "wonder-what-dump-valve-2004",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "not shown on page",
+  "note": "Frieze article carries no date or author; it refers to the influence on South London dubstep in retrospect."
+ },
+ {
+  "key": "wonder-what-dump-valve-2004",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "29 Feb 2016",
+  "note": ""
+ },
+ {
+  "key": "wonder-what-dump-valve-2004",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "not shown on page",
+  "note": "Undated; graded C as retrospective journalism."
+ },
+ {
+  "key": "wonder-what-dump-valve-2004",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated shop listing (Rinse 20th-anniversary reissue)",
+  "note": ""
+ },
+ {
+  "key": "wonder-what-dump-valve-2004",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Jul 2015",
+  "note": "Changed from B: the list of tracks Slimzee \"rolls off\" is the author's account, not a quotation from Slimzee."
+ },
+ {
+  "key": "plasticman-venom-shockwave-2002",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "30 May 2014",
+  "note": "FACT interview (Joe Muggs); maker speaking."
+ },
+ {
+  "key": "plasticman-venom-shockwave-2002",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "plasticman-venom-shockwave-2002",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": "Wikipedia: \"Slimzee signed Reed's first 12\" release (Venom / Shockwave) to his Slimzos imprint\"."
+ },
+ {
+  "key": "plasticman-venom-shockwave-2002",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "6 Jul 2015",
+  "note": "Changed from B: \"sent a CD via Rhythm Division\" is Plastician quoted (B-level), but the signing of two tracks is the author's account. Split if a B item is wanted."
+ },
+ {
+  "key": "plasticman-venom-shockwave-2002",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "plasticman-venom-shockwave-2002",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "14 Jul 2014 (release date)",
+  "note": "Artist-run Bandcamp release page."
+ },
+ {
+  "key": "run-the-road-2005",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "24 Mar 2005",
+  "note": ""
+ },
+ {
+  "key": "run-the-road-2005",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "24 Mar 2005",
+  "note": "Changed from C: same contemporary PopMatters review as sound[0]."
+ },
+ {
+  "key": "run-the-road-2005",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": "Original: Ben Thompson, Daily Telegraph, 2005 (not cited directly)."
+ },
+ {
+  "key": "run-the-road-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": "Original: Danny Walker, RWD Magazine (not cited directly)."
+ },
+ {
+  "key": "run-the-road-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": "Original: Richard Godwin, Evening Standard, 2005 (not cited directly)."
+ },
+ {
+  "key": "run-the-road-2005",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "31 Oct 2017 (blog repost)",
+  "note": "Changed from A. Simon Reynolds blog \"director's cut\", posted 31 Oct 2017, of his Spin piece of Aug 2005. Graded by the citable page; original is Spin, Aug 2005 (A if the print issue is cited)."
+ },
+ {
+  "key": "run-the-road-2005",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "note": ""
+ },
+ {
+  "key": "roll-deep-the-avenue",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026 (IPFS mirror)",
+  "note": ""
+ },
+ {
+  "key": "roll-deep-the-avenue",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "official chart record (first entry 30 Jul 2005)",
+  "note": "OCC artist page."
+ },
+ {
+  "key": "roll-deep-the-avenue",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "live Wikipedia page, accessed 16 Nov 2026",
+  "new_text": "Taken from In at the Deep End (Relentless/Virgin, 6 June 2005).",
+  "note": "The In_at_the_Deep_End page does not mention Dizzee Rascal. Move \"first Roll Deep single without Dizzee Rascal\" to its own item citing https://ipfs.ssi.eecc.de/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Avenue_(song).html (C)."
+ }
+]

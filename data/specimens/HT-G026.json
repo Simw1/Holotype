@@ -1,0 +1,131 @@
+{
+ "id": "HT-G026",
+ "key": "mark-one-one-way-ziq112",
+ "sort": "2004-09-27",
+ "year": 2004,
+ "date": "27 Sep 2004",
+ "kind": "Album",
+ "artist": "Mark One",
+ "title": "One Way",
+ "label": "Planet Mu",
+ "cat": "ZIQ112",
+ "format": "CD / 3x12\" (album)",
+ "producers": [
+  "Mark One"
+ ],
+ "lane": "dark",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Album on an electronic label; documents grime instrumentals reaching a wider electronic audience."
+ },
+ "sound": [
+  {
+   "text": "Planet Mu: grime fused with hip hop, electro and drum and bass, with 'menacing bass' and 'spacey production'.",
+   "url": "https://planet.mu/?p=624",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (label catalogue page)"
+  },
+  {
+   "text": "Igloo (Jan 2005): largely instrumental, 'trudging and dark'; 'Bang Bang Boy' is hard and noisy, unlike typical grime minimalism.",
+   "url": "https://igloomag.com/?p=1117",
+   "g": "A",
+   "checked": true,
+   "pub": "2005-01-25 (Igloo Magazine)"
+  },
+  {
+   "text": "Daily Lobo (Jan 2005): brooding Wu-Tang strings and instrumentals with a dub-reggae-like effect; 'Bang Bang Boy' has gun samples over a 'wobbly dred bass'.",
+   "url": "https://www.dailylobo.com/article/2005/01/dj_roughs_up_british_electronica",
+   "g": "A",
+   "checked": true,
+   "pub": "Jan 2005 (Daily Lobo, Jonny Pelham; date from URL)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Igloo calls it one of the first full-length grime albums to get wide attention outside the UK, and Planet Mu's first major grime release.",
+   "url": "https://igloomag.com/?p=1117",
+   "g": "A",
+   "checked": true,
+   "pub": "2005-01-25 (Igloo Magazine)"
+  },
+  {
+   "text": "Wikipedia lists Mark One as a past member of Manchester's Virus Syndicate, who often supplied the vocals on his solo recordings, including One Way.",
+   "url": "https://en.wikipedia.org/wiki/Virus_Syndicate",
+   "g": "C",
+   "checked": true
+  },
+  {
+   "text": "Mark One was a former drum and bass DJ (Daily Lobo).",
+   "url": "https://www.dailylobo.com/article/2005/01/dj_roughs_up_british_electronica",
+   "g": "A",
+   "checked": true,
+   "pub": "Jan 2005 (Daily Lobo)"
+  }
+ ],
+ "calls": [],
+ "rels": [],
+ "uncertainty": "Mark One's own home city was not confirmed (Virus Syndicate are from Manchester). The release date comes from Planet Mu's own listing. Format comes from the Igloo page title.",
+ "tracklist": "Mostly instrumental, with three tracks featuring Virus Syndicate MCs (JSD on 'Stand Up', MC Goldfinger on 'Ready for It', Nika D on 'Contagious Rhymin''). Other tracks named: 'Bang Bang Boy', 'Call Back', 'Blow', 'Bring the Law'.",
+ "sources": [
+  {
+   "url": "https://planet.mu/?p=624",
+   "domain": "planet.mu"
+  },
+  {
+   "url": "https://igloomag.com/?p=1117",
+   "domain": "igloomag.com"
+  },
+  {
+   "url": "https://www.dailylobo.com/article/2005/01/dj_roughs_up_british_electronica",
+   "domain": "dailylobo.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Virus_Syndicate",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://mdwiki.org/wiki/MRK1",
+   "domain": "mdwiki.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "exact",
+   "release": "One Way",
+   "level": "album",
+   "url": "https://music.apple.com/us/album/one-way/724042162",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": "https://planetmu.bandcamp.com/music",
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

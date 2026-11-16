@@ -1,0 +1,810 @@
+[
+ {
+  "id_hint": "shystie-diamond-in-the-dirt-2004",
+  "title": "Diamond in the Dirt",
+  "artist": "Shystie",
+  "producers": null,
+  "label": "Polydor",
+  "catalogue_number": null,
+  "format": "CD and digital (per Wikipedia's Shystie discography table); album",
+  "release_date": "2004-07-12",
+  "country": "UK (Wikipedia says it was released in the UK only)",
+  "tracklist_note": "15 tracks per Wikipedia, opening with 'Intro' and 'One Wish'; includes 'Make It Easy', 'Questions (Game Show)', 'Bank Robbery' (feat. Ron, E Redeyez), and bonus tracks 'Armshouse' and 'Juiced'. Singles: 'One Wish' (5 July 2004; OCC catalogue 9866875, Polydor) and 'Make It Easy' (20 September 2004). Track-level producers not given by any source opened. The 'One Wish' B-side remix featured Kano and was produced by Terror Danjah (Wikipedia).",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://en.wikipedia.org/wiki/Diamond_in_the_Dirt_(album)",
+   "https://en.wikipedia.org/wiki/Shystie",
+   "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Shystie",
+   "https://officialcharts.com/songs/shystie-one-wish",
+   "https://www.vice.com/sv/article/beats-v11n4",
+   "https://www.complex.com/music/a/kieran-yates/shystie-interview"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "A contemporary Vice review (2004) says she 'can rap' but finds much of the album so fast and high-pitched it is hard to follow; it singles out a game-show track and a live track with guitars as the standouts.",
+    "url": "https://www.vice.com/sv/article/beats-v11n4"
+   }
+  ],
+  "context": [
+   {
+    "text": "Lead single 'One Wish' entered the Official Singles Chart at no. 40 on 17/07/2004 (2 weeks) and reached no. 15 on the Official Hip Hop and R&B Singles Chart (OCC).",
+    "url": "https://officialcharts.com/songs/shystie-one-wish"
+   },
+   {
+    "text": "Wikipedia says 'One Wish' had no mainstream radio or music-TV support besides Channel U and MTV Base; it was later used in the 2006 film Kidulthood and on Dubplate Drama Vol. 1.",
+    "url": "https://en.wikipedia.org/wiki/Shystie"
+   },
+   {
+    "text": "Shystie, from Hackney, first became known in 2003 for a white-label answer to Dizzee Rascal's 'I Luv U'; touring with Basement Jaxx, The Streets and 50 Cent led to her Polydor deal. The album sold about 60,000 UK copies and she was nominated for Best Newcomer at the 2004 MOBO Awards (Wikipedia).",
+    "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Shystie"
+   },
+   {
+    "text": "Complex (2014) says she began on London pirate radio, getting her first break on Freek FM at about 17, and calls her 'the First Lady of grime'.",
+    "url": "https://www.complex.com/music/a/kieran-yates/shystie-interview"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "answer_record_to",
+    "other": "Dizzee Rascal - I Luv U (her 2003 white-label response; not this album)",
+    "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Shystie"
+   },
+   {
+    "type": "contains_single",
+    "other": "Shystie - One Wish (Polydor, 2004)",
+    "url": "https://en.wikipedia.org/wiki/Diamond_in_the_Dirt_(album)"
+   },
+   {
+    "type": "b_side_remix_features",
+    "other": "Kano (One Wish Remix, produced by Terror Danjah)",
+    "url": "https://en.wikipedia.org/wiki/Shystie"
+   }
+  ],
+  "uncertainty": "Catalogue number for the album not found; OCC catalogue 9866875 belongs to the 'One Wish' single. Vice's 2004 review prints the title as 'Diamond In the Dust'. Wikipedia lists AllMusic, BBC, Evening Standard, Guardian, Independent and Times Online reviews but the review texts were not opened. Producers uncredited in sources opened.",
+  "genre_calls": [
+   {
+    "label": "hip hop, garage, grime",
+    "source": "Wikipedia (Diamond in the Dirt)",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Diamond_in_the_Dirt_(album)"
+   },
+   {
+    "label": "grime (reviewed in a grime round-up column)",
+    "source": "Vice",
+    "year": 2004,
+    "url": "https://www.vice.com/sv/article/beats-v11n4"
+   }
+  ]
+ },
+ {
+  "id_hint": "roll-deep-shake-a-leg-2005",
+  "title": "Shake a Leg",
+  "artist": "Roll Deep",
+  "producers": [
+   "Danny Weed (Shake a Leg)",
+   "Danny Weed and Wiley (Heat Up)"
+  ],
+  "label": "Relentless",
+  "catalogue_number": "RELCD22 (CD single, 45worlds); OCC lists RELDX22",
+  "format": "CD single (RELCD22, per 45worlds); OCC lists a further catalogue number RELDX22, format not stated",
+  "release_date": "2005-10-10 (Wikipedia; Record of the Day 13 Oct 2005 also gives 10 October; earlier radio impact date 3 October)",
+  "country": "UK",
+  "tracklist_note": "CD single: 1. Shake A Leg (Radio Edit); 2. Heat Up. Track 1 lyrics credited to Wiley, Breeze and Scratchy; track 2 lyrics to Jet Le, Breeze, Scratchy, Trim and Flow Dan (45worlds). Taken from the album In at the Deep End (Relentless/Virgin, 6 June 2005).",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://www.officialcharts.com/songs/roll-deep-shake-a-leg/",
+   "https://mail.45worlds.com/cdsingle/cd/relcd22",
+   "https://www.recordoftheday.com/record-of-the-day/2005-08-25/shake-a-leg",
+   "https://www.recordoftheday.com/record-of-the-day/2005-10-13/shake-a-leg",
+   "https://en.wikipedia-on-ipfs.org/wiki/Shake_a_Leg",
+   "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/In_At_The_Deep_End.html",
+   "https://popmatters.com/rolldeep_inatthedeep-2495674581.html",
+   "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Built on a sample of 'Mambo Craze' by De Phazz featuring Pat Appleton (45worlds sleeve notes; Wikipedia; Record of the Day, 2005).",
+    "url": "https://mail.45worlds.com/cdsingle/cd/relcd22"
+   },
+   {
+    "text": "Record of the Day (2005) calls it summer fun and pop, but 'smart and witty'.",
+    "url": "https://www.recordoftheday.com/record-of-the-day/2005-08-25/shake-a-leg"
+   },
+   {
+    "text": "PopMatters (2006) hears the salsa-quoting hook as reminiscent of 'Mambo No. 5'.",
+    "url": "https://popmatters.com/rolldeep_inatthedeep-2495674581.html"
+   }
+  ],
+  "context": [
+   {
+    "text": "Official Singles Chart peak no. 24 (first chart date 22/10/2005, 5 weeks); no. 18 on the Physical Singles Chart and no. 31 on Downloads (OCC).",
+    "url": "https://www.officialcharts.com/songs/roll-deep-shake-a-leg/"
+   },
+   {
+    "text": "Record of the Day (Oct 2005) notes it ranked seventh on the pre-release airplay chart despite a modest midweek chart position.",
+    "url": "https://www.recordoftheday.com/record-of-the-day/2005-10-13/shake-a-leg"
+   },
+   {
+    "text": "Simon Reynolds (Spin, 2005) wrote that the parent album 'skimps on uncut grime' in favour of conventional hip hop and novelty tunes.",
+    "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "samples",
+    "other": "De Phazz feat. Pat Appleton - The Mambo Craze",
+    "url": "https://mail.45worlds.com/cdsingle/cd/relcd22"
+   },
+   {
+    "type": "from_album",
+    "other": "Roll Deep - In at the Deep End (2005)",
+    "url": "https://en.wikipedia-on-ipfs.org/wiki/Shake_a_Leg"
+   },
+   {
+    "type": "follows_single",
+    "other": "Roll Deep - The Avenue (already in register)",
+    "url": "https://www.recordoftheday.com/record-of-the-day/2005-08-25/shake-a-leg"
+   }
+  ],
+  "uncertainty": "OCC catalogue RELDX22 differs from the 45worlds CD RELCD22; probably a second format, not confirmed. 45worlds gives only 'October 2005'.",
+  "genre_calls": [
+   {
+    "label": "grime, hip hop (album)",
+    "source": "Wikipedia (In at the Deep End)",
+    "year": null,
+    "url": "https://ipfs.aleph.im/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/In_At_The_Deep_End.html"
+   },
+   {
+    "label": "pop",
+    "source": "Record of the Day",
+    "year": 2005,
+    "url": "https://www.recordoftheday.com/record-of-the-day/2005-08-25/shake-a-leg"
+   },
+   {
+    "label": "grime-for-beginners, Brit-hop, pop-rap (album)",
+    "source": "PopMatters",
+    "year": 2006,
+    "url": "https://popmatters.com/rolldeep_inatthedeep-2495674581.html"
+   }
+  ]
+ },
+ {
+  "id_hint": "lady-sovereign-9-to-5-2005",
+  "title": "9 to 5",
+  "artist": "Lady Sovereign",
+  "producers": [
+   "Medasyn"
+  ],
+  "label": "Island (UK); Wikipedia calls it her debut single for Def Jam",
+  "catalogue_number": "12IS898 (as listed by OCC)",
+  "format": "CD single (two editions) and 12-inch, per Wikipedia",
+  "release_date": "2005-08-08",
+  "country": "UK",
+  "tracklist_note": "CD1: 9 to 5 / Tango. CD2: original, 'Nine2Five' (Ordinary Boys remix), JME remix, two Tony Senghore mixes, video. 12-inch: five tracks including original, JME remix and two Tony Senghore mixes (Wikipedia). Writers: Louise Harman and Gabriel Olegavich. Later on the album Public Warning (2006).",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)",
+   "https://www.officialcharts.com/songs/lady-sovereign-9-to-5/",
+   "https://www.popmatters.com/lady-sovereign-public-warning-2495703251.html",
+   "https://thefader.com/2005/11/15/a-common-phenomenon",
+   "https://www.npr.org/2007/01/29/7061254/lady-sovereign-little-rapper-with-a-big-voice",
+   "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Contains a sample from the film Time Bandits (Wikipedia).",
+    "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)"
+   },
+   {
+    "text": "PopMatters (2006) places it at the poppy end of her range, calling it 'peppy pop'.",
+    "url": "https://www.popmatters.com/lady-sovereign-public-warning-2495703251.html"
+   },
+   {
+    "text": "The FADER (2005) says her sing-song choruses temper the roughness associated with grime, and that her album draws on ska, electro and new wave.",
+    "url": "https://thefader.com/2005/11/15/a-common-phenomenon"
+   }
+  ],
+  "context": [
+   {
+    "text": "Official Singles Chart peak no. 33 (first chart date 20/08/2005, 3 weeks); no. 17 on the Official Dance Singles Chart (OCC).",
+    "url": "https://www.officialcharts.com/songs/lady-sovereign-9-to-5/"
+   },
+   {
+    "text": "A re-recorded Ordinary Boys version, 'Nine2Five' (2006), reached UK no. 6 (Wikipedia); The FADER (2005) reported the Ordinary Boys had been commissioned to cover it.",
+    "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)"
+   },
+   {
+    "text": "NPR (2007) introduces her as coming out of Britain's grime scene.",
+    "url": "https://www.npr.org/2007/01/29/7061254/lady-sovereign-little-rapper-with-a-big-voice"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "remixed_by",
+    "other": "JME (JME remix on CD2 and 12-inch)",
+    "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)"
+   },
+   {
+    "type": "re_recorded_as",
+    "other": "The Ordinary Boys vs. Lady Sovereign - Nine2Five (2006)",
+    "url": "https://en.wikipedia.org/wiki/9_to_5_(Lady_Sovereign_song)"
+   },
+   {
+    "type": "follows",
+    "other": "Lady Sovereign - Random (already in register)",
+    "url": "https://www.popmatters.com/lady-sovereign-public-warning-2495703251.html"
+   }
+  ],
+  "uncertainty": "OCC catalogue 12IS898 presumably the 12-inch; CD catalogue numbers not found. Wikipedia's Def Jam/Island attribution not checked against a sleeve. No source opened calls the single itself grime; genre calls are about the artist or album.",
+  "genre_calls": [
+   {
+    "label": "peppy pop (the track); grime-pop (her earlier work)",
+    "source": "PopMatters",
+    "year": 2006,
+    "url": "https://www.popmatters.com/lady-sovereign-public-warning-2495703251.html"
+   },
+   {
+    "label": "artist from the grime scene",
+    "source": "NPR",
+    "year": 2007,
+    "url": "https://www.npr.org/2007/01/29/7061254/lady-sovereign-little-rapper-with-a-big-voice"
+   },
+   {
+    "label": "'alternative grime' with ska and punk influences (the then-forthcoming album)",
+    "source": "Simon Reynolds, Spin (blog director's cut)",
+    "year": 2005,
+    "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+   }
+  ]
+ },
+ {
+  "id_hint": "lethal-bizzle-against-all-oddz-2005",
+  "title": "Against All Oddz",
+  "artist": "Lethal Bizzle",
+  "producers": [
+   "Sticky",
+   "Charles Wilson",
+   "Dexplicit",
+   "Plasticman",
+   "Biggaman",
+   "Skillz",
+   "DJ Wonder",
+   "Kray Twinz"
+  ],
+  "label": "V2 (OCC credits J-DID/V2)",
+  "catalogue_number": "JAD1033592 (as listed by OCC)",
+  "format": "Album (format of the earliest release not stated in sources opened)",
+  "release_date": "2005-08-15",
+  "country": "UK",
+  "tracklist_note": "17 tracks (Wikipedia), including 'Uh Oh! (I'm Back)' (Sticky), 'Fire' (Charles Wilson), 'Against All Oddz' (Plasticman), 'Should Of Known' (DJ Wonder), 'No!' feat. Fire Camp (Dexplicit) and 'What We Do' feat. Kray Twinz, Gappy Ranks and Twista. 'Pow' is not on the album (Complex, 2015).",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://en.wikipedia.org/wiki/Against_All_Oddz",
+   "https://www.officialcharts.com/albums/lethal-bizzle-against-all-oddz/",
+   "https://officialcharts.com/songs/lethal-bizzle-fire",
+   "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on",
+   "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Simon Reynolds (Spin, 2005), before release, reported Bizzle promising grime/rock fusions, citing Green Day and Nirvana as influences.",
+    "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+   },
+   {
+    "text": "Complex (2015) describes a balance between 'head-rushing cuts' and calmer tracks such as 'Should Of Known'.",
+    "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on"
+   }
+  ],
+  "context": [
+   {
+    "text": "Official Albums Chart peak no. 89 (first chart date 27/08/2005, 1 week); no. 7 on the Independent Albums Chart (17 weeks) and no. 15 on Dance Albums (OCC).",
+    "url": "https://www.officialcharts.com/albums/lethal-bizzle-against-all-oddz/"
+   },
+   {
+    "text": "Single 'Fire' (J-DID/V2, JAD5035653) reached no. 34 on the Official Singles Chart from 29/10/2005, and no. 8 Dance and no. 4 Independent (OCC).",
+    "url": "https://officialcharts.com/songs/lethal-bizzle-fire"
+   },
+   {
+    "text": "Complex (2015) says the album 'barely scraped into the top 90' and calls Bizzle grime's most successful singles act and arguably the first grime act to take DIY to social media.",
+    "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "follows",
+    "other": "Lethal Bizzle - Pow! (Forward) (already in register)",
+    "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on"
+   },
+   {
+    "type": "produced_track",
+    "other": "Plasticman (title track)",
+    "url": "https://en.wikipedia.org/wiki/Against_All_Oddz"
+   },
+   {
+    "type": "produced_track",
+    "other": "DJ Wonder (Should Of Known)",
+    "url": "https://en.wikipedia.org/wiki/Against_All_Oddz"
+   }
+  ],
+  "uncertainty": "Wikipedia's label (V2) and the OCC's 'J-DID/V2' are reconciled here as one release. Wikipedia lists reviews (Guardian/Kitty Empire, Independent, AllMusic) that were not opened.",
+  "genre_calls": [
+   {
+    "label": "grime",
+    "source": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Against_All_Oddz"
+   },
+   {
+    "label": "grime",
+    "source": "Complex",
+    "year": 2015,
+    "url": "https://www.complex.com/music/2015/08/lethal-bizzle-against-all-oddz-album-ten-years-on"
+   },
+   {
+    "label": "grime crossover album with promised grime/rock fusion",
+    "source": "Simon Reynolds, Spin (blog director's cut)",
+    "year": 2005,
+    "url": "https://reynoldsretro.blogspot.com/2017/10/against-all-odds-grime-in-2005.html?m=1"
+   }
+  ]
+ },
+ {
+  "id_hint": "southside-allstars-southside-2005",
+  "title": "Southside",
+  "artist": "Southside Allstars (Nikki S and Nyke, the Milkymans, with 15 south London MCs)",
+  "producers": [
+   "Alias (instrumental, the 'Southside Riddim')"
+  ],
+  "label": null,
+  "catalogue_number": null,
+  "format": null,
+  "release_date": "2005",
+  "country": "UK",
+  "tracklist_note": "All-star posse cut with verses from 15 south London MCs, each representing a crew, area or postcode (Mixmag, 2018; Guardian). Complex (2014) says Bashy and Asher D appear on it or on B.M.D.'s 'North Weezee'; it does not say which.",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://mixmag.net/feature/history-of-grime",
+   "https://budx.mixmag.net/feature/history-of-grime",
+   "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network",
+   "https://www.complex.com/music/2014/09/15-channel-u-videos-we-will-never-forget"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Dan Hancox in the Guardian calls it 'so grimey'. Producer Alias left off his usual audio logo, reportedly fearing east London DJs would shut it down.",
+    "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network"
+   },
+   {
+    "text": "Mixmag (2018) calls it perhaps the most ostentatious example of grime's neighbourhood pride.",
+    "url": "https://mixmag.net/feature/history-of-grime"
+   }
+  ],
+  "context": [
+   {
+    "text": "Written in response to south-versus-east London rivalry in early-2000s grime (Mixmag, 2018).",
+    "url": "https://mixmag.net/feature/history-of-grime"
+   },
+   {
+    "text": "Complex (2014) lists the 'Southside' video as a 2005 Channel U anthem representing south London, paired with B.M.D.'s north London 'North Weezee'.",
+    "url": "https://www.complex.com/music/2014/09/15-channel-u-videos-we-will-never-forget"
+   },
+   {
+    "text": "The Guardian piece argues that Channel U all-star videos put faces to voices and were early steps in grime's move towards pop.",
+    "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "companion_or_rival_anthem",
+    "other": "B.M.D. - North Weezee (2005)",
+    "url": "https://www.complex.com/music/2014/09/15-channel-u-videos-we-will-never-forget"
+   },
+   {
+    "type": "producer",
+    "other": "Alias (also producer of 'Gladiator', researched in batch C)",
+    "url": "https://mixmag.net/feature/history-of-grime"
+   }
+  ],
+  "uncertainty": "No label, catalogue number or physical format found; the 2005 date comes from Mixmag and Complex and may refer to the video or Channel U broadcast, not a commercial release. The Guardian article was read through an inkl syndication page with no visible date; internal references suggest c. 2017.",
+  "genre_calls": [
+   {
+    "label": "grime",
+    "source": "Mixmag",
+    "year": 2018,
+    "url": "https://mixmag.net/feature/history-of-grime"
+   },
+   {
+    "label": "grime",
+    "source": "The Guardian (via inkl)",
+    "year": null,
+    "url": "https://www.inkl.com/news/big-up-tooting-bec-how-southside-allstars-became-grime-s-social-network"
+   }
+  ]
+ },
+ {
+  "id_hint": "ghetto-2000-and-life-2005",
+  "title": "2000 & Life",
+  "artist": "Ghetto (now Ghetts)",
+  "producers": null,
+  "label": null,
+  "catalogue_number": null,
+  "format": "Mixtape (sold in shops, e.g. Deal Real, per Link Up TV); physical format not stated",
+  "release_date": "2005 (Wikipedia; Stereogum, 2016); Vice lists it among its top mixtapes of 2006",
+  "country": "UK",
+  "tracklist_note": "24 tracks (Wikipedia). Mixes original beats with well-known ones, including 'Poverty' over a Kanye West beat and 'Getaway' over a Mobb Deep beat (Link Up TV, 2019).",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Ghetts.html",
+   "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+   "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
+   "https://www.thelinkup.com/content/533/home"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Link Up TV (2019) says it mixed original grime beats with US hip-hop instrumentals and showed Ghetts 'at his raw best'.",
+    "url": "https://www.thelinkup.com/content/533/home"
+   },
+   {
+    "text": "Stereogum (2016) cites it as proof of the uncompromising, complex lyricism Ghetts was known for from his N.A.S.T.Y. Crew days.",
+    "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists"
+   }
+  ],
+  "context": [
+   {
+    "text": "His first release, made after leaving prison in 2003; Ghetts is from Plaistow, Newham, and was in N.A.S.T.Y. Crew before founding The Movement (Wikipedia).",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Ghetts.html"
+   },
+   {
+    "text": "Listed in Vice's 'Top 10 Mixtapes' of 2006 (published Jan 2007).",
+    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+   },
+   {
+    "text": "Link Up TV (2019) bought it at Deal Real, the Carnaby Street hip-hop shop, and says it 'garnered some buzz'.",
+    "url": "https://www.thelinkup.com/content/533/home"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "member_of",
+    "other": "N.A.S.T.Y. Crew (former member)",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Ghetts.html"
+   },
+   {
+    "type": "guest_on_earlier_register_record",
+    "other": "Kano feat. Ghetto - Typical Me (already in register)",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Ghetts.html"
+   },
+   {
+    "type": "followed_by",
+    "other": "Ghetto - Ghetto Gospel (2007)",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Ghetts.html"
+   }
+  ],
+  "uncertainty": "Release year conflict: 2005 (Wikipedia, Stereogum) vs. Vice's 2006 list (which may reflect when it circulated). Label, catalogue number and format unknown. The Kanye West and Mobb Deep beats are not identified.",
+  "genre_calls": [
+   {
+    "label": "grime mixtape",
+    "source": "Vice",
+    "year": 2007,
+    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+   },
+   {
+    "label": "grime",
+    "source": "Stereogum",
+    "year": 2016,
+    "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists"
+   }
+  ]
+ },
+ {
+  "id_hint": "wiley-da-2nd-phaze-2006",
+  "title": "Da 2nd Phaze",
+  "artist": "Wiley",
+  "producers": [
+   "Wiley",
+   "JME",
+   "Decoy",
+   "Rapid",
+   "Mizz Beats",
+   "Platinum 45 (bonus track 'Oi')"
+  ],
+  "label": "Boy Better Know",
+  "catalogue_number": null,
+  "format": "CD and digital download (Wikipedia's Wiley discography album table)",
+  "release_date": "2006-07-01",
+  "country": "UK",
+  "tracklist_note": "16 tracks plus 4 bonus tracks (Wikipedia), including 'Eskiboy', 'Gangsterz', 'Stormy Weather', 'Grim' (feat. JME and Ears, prod. JME), 'Johnny Was A Badboy' (prod. Decoy), 'Ice Pole Remix', 'Saw It Coming' (feat. Jammer, Ears, JME and Syer B; prod. Mizz Beats). Bonus tracks include More Fire Crew's 'Oi'. Recorded 2004 to 2006; 'Eskiboy', 'Gangsterz' and 'Johnny Was A Badboy' were re-released on Playtime Is Over (2007).",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://en.wikipedia.org/wiki/Da_2nd_Phaze",
+   "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Wiley_discography.html",
+   "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
+   "https://xlr8r.com/?p=110091",
+   "https://www.complex.com/music/2015/06/25-best-wiley-songs",
+   "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Boy_Better_Know.html"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Complex (2015) describes album track 'Stormy Weather' as reflective and grimey, with a drawn-out heavy low end and a Rihanna-sampling beat.",
+    "url": "https://www.complex.com/music/2015/06/25-best-wiley-songs"
+   },
+   {
+    "text": "XLR8R (2007) places it within Wiley's 'Eski' style, a darker, stripped-down take on grime.",
+    "url": "https://xlr8r.com/?p=110091"
+   }
+  ],
+  "context": [
+   {
+    "text": "Vice (Jan 2007) says JME and Skepta persuaded Wiley to leave his Roll Deep entourage and oversaw the release of the 'much-delayed' album.",
+    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+   },
+   {
+    "text": "Released by Boy Better Know after Wiley left XL Recordings (Wikipedia); Boy Better Know was founded in North London in 2005 by JME and Skepta.",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Boy_Better_Know.html"
+   },
+   {
+    "text": "XLR8R (2007) says the album and the Tunnel Vision mixtapes both came out through JME's Boy Better Know imprint.",
+    "url": "https://xlr8r.com/?p=110091"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "follows",
+    "other": "Wiley - Treddin' on Thin Ice (already in register)",
+    "url": "https://en.wikipedia.org/wiki/Da_2nd_Phaze"
+   },
+   {
+    "type": "tracks_reissued_on",
+    "other": "Wiley - Playtime Is Over (2007)",
+    "url": "https://en.wikipedia.org/wiki/Da_2nd_Phaze"
+   },
+   {
+    "type": "label_run_by",
+    "other": "JME and Skepta (Boy Better Know)",
+    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+   },
+   {
+    "type": "includes_remix_of",
+    "other": "Wiley - Ice Pole (already in register as Eskimo 3 / Ice Pole)",
+    "url": "https://en.wikipedia.org/wiki/Da_2nd_Phaze"
+   }
+  ],
+  "uncertainty": "Catalogue number not found. XLR8R spells the title 'Da 2nd Phase'. Bonus track 'Oi' (More Fire Crew) on a Wiley album is as Wikipedia gives it; not checked against a sleeve. No full contemporary review found.",
+  "genre_calls": [
+   {
+    "label": "grime, eskibeat",
+    "source": "Wikipedia",
+    "year": null,
+    "url": "https://en.wikipedia.org/wiki/Da_2nd_Phaze"
+   },
+   {
+    "label": "grime (album covered in a grime year review)",
+    "source": "Vice",
+    "year": 2007,
+    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+   }
+  ]
+ },
+ {
+  "id_hint": "jme-shh-hut-yuh-muh-2006",
+  "title": "Boy Better Know - Edition 1: Shh Hut Yuh Muh",
+  "artist": "JME",
+  "producers": null,
+  "label": "Boy Better Know",
+  "catalogue_number": null,
+  "format": "Mixtape (physical format not stated)",
+  "release_date": "2006",
+  "country": "UK",
+  "tracklist_note": "First of JME's three 2006 solo mixtapes (followed by Edition 2: Poomplex and Edition 3: Derkhead, plus the instrumental Edition 4: Tropical). Includes 'Old School' (Complex, 2015). A full tracklist was not found.",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/JME_(MC).html",
+   "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Jme",
+   "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
+   "https://www.complex.com/music/2015/05/tbt-7-jme-songs-you-should-revisit",
+   "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Boy_Better_Know.html"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Complex (2015) says 'Old School' from the tape shows JME's lyrical evolution, with outburst-style delivery and humorous lines.",
+    "url": "https://www.complex.com/music/2015/05/tbt-7-jme-songs-you-should-revisit"
+   }
+  ],
+  "context": [
+   {
+    "text": "Vice (Jan 2007) credits JME's Boy Better Know camp with releasing 'grime's first real catalogue' of street albums and mixtapes in 2006, not just white labels.",
+    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+   },
+   {
+    "text": "JME, born in Hackney and raised in Tottenham, was in Meridian Crew with his brother Skepta and co-founded Boy Better Know (Wikipedia).",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/JME_(MC).html"
+   },
+   {
+    "text": "Vice (2007) says JME and Skepta 'got SERIOUS' after JME's three solo mixtapes.",
+    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "followed_by",
+    "other": "JME - Boy Better Know Edition 2: Poomplex (2006)",
+    "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Jme"
+   },
+   {
+    "type": "sibling_collaborator",
+    "other": "Skepta",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/JME_(MC).html"
+   },
+   {
+    "type": "label",
+    "other": "Boy Better Know (founded 2005)",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Boy_Better_Know.html"
+   }
+  ],
+  "uncertainty": "Title spelling varies: 'Shh Hut Yuh Muh' (Wikipedia, Vice) vs 'Shut Yuh Muh' (Complex). Exact date, format and tracklist not found. JME's 'Serious' was not verified: Wikipedia lists the 'Serious Serious EP' and 'Serious/Calm Down EP' on vinyl but gives no dates, so it was not added.",
+  "genre_calls": [
+   {
+    "label": "grime",
+    "source": "Wikipedia (artist)",
+    "year": null,
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/JME_(MC).html"
+   },
+   {
+    "label": "grime mixtape",
+    "source": "Vice",
+    "year": 2007,
+    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+   }
+  ]
+ },
+ {
+  "id_hint": "tinchy-stryder-im-back-u-know-2006",
+  "title": "I'm Back U Know",
+  "artist": "Tinchy Stryder",
+  "producers": [
+   "Kwasi Danquah III (Tinchy Stryder), per Wikipedia infobox; track-level credits not given"
+  ],
+  "label": "Boy Better Know",
+  "catalogue_number": null,
+  "format": "Mixtape (physical format not stated)",
+  "release_date": "2006-03-02",
+  "country": "UK",
+  "tracklist_note": "17 tracks (Wikipedia), including '96 Bars', 'I Understand It Clearly' (feat. Slix and Shifty), 'Uptown Girl' (feat. Wiley), 'Everybody's Gotta Learn' (feat. Fuda Guy), 'Kabe' (feat. Dirty Danger) and a Roachee freestyle.",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html",
+   "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Wikipedia says it has 17 original productions with Stryder on the mic throughout, and guests including Wiley, Kano and Flow Dan.",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html"
+   }
+  ],
+  "context": [
+   {
+    "text": "First of Tinchy Stryder's three mixtapes (Wikipedia).",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html"
+   },
+   {
+    "text": "Vice (Jan 2007) says JME and Skepta co-signed the release, calling it an album, as part of Boy Better Know's 2006 output.",
+    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "member_of",
+    "other": "Ruff Sqwad (Slix and Shifty guest)",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html"
+   },
+   {
+    "type": "features",
+    "other": "Wiley ('Uptown Girl')",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html"
+   },
+   {
+    "type": "label",
+    "other": "Boy Better Know",
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html"
+   }
+  ],
+  "uncertainty": "Thin sourcing: one Wikipedia mirror and one Vice mention, with no record-specific sound description. Wikipedia's text names Kano and Flow Dan as guests but its tracklist does not show them. Format not stated. Vice calls it an album; Wikipedia calls it a mixtape.",
+  "genre_calls": [
+   {
+    "label": "grime",
+    "source": "Wikipedia",
+    "year": null,
+    "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/I'm_Back_U_Know.html"
+   },
+   {
+    "label": "grime (in a grime year review)",
+    "source": "Vice",
+    "year": 2007,
+    "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+   }
+  ]
+ },
+ {
+  "id_hint": "skepta-duppy-2006",
+  "title": "Duppy",
+  "artist": "Skepta (with guest MCs)",
+  "producers": [
+   "Skepta"
+  ],
+  "label": "Boy Better Know (FACT, 2012)",
+  "catalogue_number": null,
+  "format": "Not confirmed; FACT (2012) places it in grime's 'white label heyday'. Later on the album Greatest Hits (2007) as 'Duppy (Doin' It Again)'",
+  "release_date": "2006 (FACT, 2012; Complex, 2026); Stereogum (2016) dates it 2007, the year of Greatest Hits",
+  "country": "UK",
+  "tracklist_note": "Posse track with nine MCs (Complex; Versus). Versus (2017) names Wiley, JME, Jammer, Footsie, Bossman, Bearman, Trim and MC Creed. Appears on Greatest Hits (Boy Better Know, 17 September 2007).",
+  "discogs_url": null,
+  "other_source_urls": [
+   "https://factmag.com/2012/04/22/20-best-grime",
+   "https://www.complex.com/music/a/joseph-jp-patterson/25-best-skepta-songs",
+   "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+   "https://versus.uk.com/2017/11/10-of-the-best-skepta-tracks",
+   "https://cavac.at/cavacopedia/Skepta%20discography"
+  ],
+  "sound_descriptions": [
+   {
+    "text": "Stereogum (2016) says its drum-and-bass feel made it an instant hit in UK clubs and raves.",
+    "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists"
+   },
+   {
+    "text": "Versus (2017) calls it a dancefloor-smashing showcase of Skepta's production.",
+    "url": "https://versus.uk.com/2017/11/10-of-the-best-skepta-tracks"
+   },
+   {
+    "text": "Complex (2026) describes nine MCs trading bars back and forth.",
+    "url": "https://www.complex.com/music/a/joseph-jp-patterson/25-best-skepta-songs"
+   }
+  ],
+  "context": [
+   {
+    "text": "FACT (2012) ranks it no. 16 of the 20 best grime records and calls it one of the last genuine anthems of the white-label heyday.",
+    "url": "https://factmag.com/2012/04/22/20-best-grime"
+   },
+   {
+    "text": "Complex (2026) says it 'cemented Skepta's reputation as both MC and producer'.",
+    "url": "https://www.complex.com/music/a/joseph-jp-patterson/25-best-skepta-songs"
+   }
+  ],
+  "relationships": [
+   {
+    "type": "features",
+    "other": "Wiley, JME, Jammer, Footsie (and others)",
+    "url": "https://versus.uk.com/2017/11/10-of-the-best-skepta-tracks"
+   },
+   {
+    "type": "collected_on",
+    "other": "Skepta - Greatest Hits (2007)",
+    "url": "https://cavac.at/cavacopedia/Skepta%20discography"
+   },
+   {
+    "type": "follows",
+    "other": "Skepta - Private Caller (already in register)",
+    "url": "https://versus.uk.com/2017/11/10-of-the-best-skepta-tracks"
+   }
+  ],
+  "uncertainty": "Release format and catalogue number unverified, and the date is disputed (2006 vs 2007). Only eight of the nine MCs are named in sources opened. The Greatest Hits title variant 'Duppy (Doin' It Again)' comes from the cavac.at Wikipedia mirror.",
+  "genre_calls": [
+   {
+    "label": "grime",
+    "source": "FACT",
+    "year": 2012,
+    "url": "https://factmag.com/2012/04/22/20-best-grime"
+   },
+   {
+    "label": "grime (with drum-and-bass feel)",
+    "source": "Stereogum",
+    "year": 2016,
+    "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists"
+   },
+   {
+    "label": "grime",
+    "source": "Complex",
+    "year": 2026,
+    "url": "https://www.complex.com/music/a/joseph-jp-patterson/25-best-skepta-songs"
+   }
+  ]
+ }
+]

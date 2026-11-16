@@ -1,0 +1,174 @@
+{
+ "id": "HT-G015",
+ "key": "dizzee-rascal-fix-up-look-sharp",
+ "sort": "2003-08-18",
+ "year": 2003,
+ "date": "18 Aug 2003",
+ "kind": "Single",
+ "artist": "Dizzee Rascal",
+ "title": "Fix Up, Look Sharp",
+ "label": "XL Recordings",
+ "cat": null,
+ "format": "CD single (with 'Stop Dat' and 'I Luv U' video)",
+ "producers": [
+  "Dizzee Rascal"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  null,
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen. Built on a rock record sample and tagged rap rock by some sources: a useful edge case for where grime's boundary sits."
+ },
+ "sound": [
+  {
+   "text": "Heavily samples the main beat and vocals of Billy Squier's 'The Big Beat'; Wikipedia tags it rap rock; 3:44.",
+   "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "Beat built around 'The Big Beat', which manager Cage played on vinyl in the studio; began as a dubplate for Tim Westwood.",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "g": "B",
+   "checked": true,
+   "pub": "2016-05-05"
+  }
+ ],
+ "context": [
+  {
+   "text": "Peaked at no. 17 on the UK Singles Chart and was later certified gold; Wikipedia's claim that it was his first top 20 hit is uncited.",
+   "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  },
+  {
+   "text": "NME ranked it no. 25 in its '150 Best Tracks of the Past 15 Years' (2011).",
+   "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia); NME list Oct 2011"
+  },
+  {
+   "text": "Dizzee cites Guns N' Roses, Nirvana and Iron Maiden as influences on its rock feel.",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "g": "B",
+   "checked": true,
+   "pub": "2016-05-05"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "sample of",
+   "other": "Billy Squier - The Big Beat",
+   "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp"
+  },
+  {
+   "type": "remix",
+   "other": "Ratatat remix (Ratatat Remixes Vol. 1)",
+   "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp"
+  },
+  {
+   "type": "single from",
+   "other": "Dizzee Rascal - Boy in da Corner",
+   "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+  }
+ ],
+ "uncertainty": "Producer credit conflicts: Wikipedia credits Dizzee Rascal; the 45worlds listing for XLS175CD credits the 'Fix Up Look Sharp' video track to Cage. Songwriting includes Billy Squier. Catalogue number of the single not verified. Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs.",
+ "tracklist": "CD: Fix Up, Look Sharp (clean radio edit) / Stop Dat / I Luv U (video).",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://mail.45worlds.com/cdsingle/cd/xls175cd",
+   "domain": "mail.45worlds.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Fix Up, Look Sharp - Single",
+   "level": "album",
+   "url": "https://music.apple.com/us/album/fix-up-look-sharp-single/1500458578",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "version",
+   "release": "Boy In Da Corner (20th Anniversary Edition)",
+   "level": "album",
+   "url": "https://www.qobuz.com/gb-en/album/boy-in-da-corner-dizzee-rascal/s6mv77cqg11vc",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

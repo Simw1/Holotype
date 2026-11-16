@@ -1,0 +1,858 @@
+[
+  {
+    "id_hint": "musical-mob-pulse-x",
+    "title": "Pulse X",
+    "artist": "Musical Mob (Youngstar)",
+    "producers": [
+      "Youngstar (Daryl Nurse)"
+    ],
+    "label": "Inspired Sounds",
+    "catalogue_number": null,
+    "format": "12\" vinyl",
+    "release_date": "2002 (Wikipedia: first 12\" in March 2002, wider release 8 July 2002)",
+    "country": "UK",
+    "tracklist_note": "Instrumental. 2015 White Peach reissue EP (WPR007, 12\" ltd 500 + digital): Pulse X / Revival / Formula / Formula 2.",
+    "discogs_url": "https://www.discogs.com/master/429754-Musical-Mob-Pulse-X",
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Pulse_X",
+      "https://factmag.com/2012/04/22/20-best-grime",
+      "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/",
+      "https://www.theransomnote.com/?p=6405",
+      "https://whitepeach.bandcamp.com/album/wpr007-youngstar-pulse-x-ep"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "A single 16-bar loop: first 8 bars in a 2-step garage style, second 8 bars stripped to kick and snare; no intro, fade-out ending; a voice sample recurs every 32 bars at the switch.",
+        "url": "https://en.wikipedia.org/wiki/Pulse_X"
+      },
+      {
+        "text": "Stripped down to overdriven bass bleeps and handclaps; lo-fi and minimal with large empty spaces.",
+        "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+      },
+      {
+        "text": "Breakbeat garage deconstructed into a minimal, twisted loop.",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "text": "Producer says he programmed the drum pattern in Propellerhead ReBirth, then sampled a bassline, sequencing in Digital Orchestrator.",
+        "url": "https://www.theransomnote.com/?p=6405"
+      }
+    ],
+    "context": [
+      {
+        "text": "Ranked no. 1 in FACT's 'The 20 best Grime records ever made' (credited Musical Mob, Inspired Sounds, 2002).",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "text": "Widely considered the first grime beat / a 'year zero'; its minimalism credited with making grime more MC-centred. Bok Bok named it his favourite example of Youngstar's 'simplistic, brutalist genius' (2014).",
+        "url": "https://en.wikipedia.org/wiki/Pulse_X"
+      },
+      {
+        "text": "Ransom Note interview describes it as 'the first 8 bar track released' and says it sold out within its first week at Blackmarket (record shop); sold heavily on vinyl.",
+        "url": "https://www.theransomnote.com/?p=6405"
+      },
+      {
+        "text": "SPIN (Philip Sherburne, 2012) argues it as grime's founding track, noting Wiley's 'Eskimo' as the rival contender later in 2002.",
+        "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "version",
+        "other": "Musical Mob - Pulse Y / Pulse Xtra / Pulse XYZ / Pulse 2005",
+        "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+      },
+      {
+        "type": "vocal version",
+        "other": "Bring Back the Ladies (Pulse X Vocal Mix), vocals by Lorraine Cato",
+        "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+      },
+      {
+        "type": "mash-up (2003 white label)",
+        "other": "Dizzee Rascal - I Luv U",
+        "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+      },
+      {
+        "type": "homage (title and sound)",
+        "other": "Wiley - Pulse Eskimo (aka Gun Shot Riddim)",
+        "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+      },
+      {
+        "type": "remix EP (2013, Liminal Sounds)",
+        "other": "Pulse X remixes by Visionist, Blackwax, Slackk, Pedro 123, Elsewhere",
+        "url": "https://en.wikipedia.org/wiki/Pulse_X"
+      },
+      {
+        "type": "inspired",
+        "other": "Mystry - Pulse 8 (opening beat on JME's Integrity>, 2015)",
+        "url": "https://en.wikipedia.org/wiki/Pulse_X"
+      }
+    ],
+    "uncertainty": "Catalogue number of the 2002 Inspired Sounds 12\" not verified (Discogs blocked). Wikipedia gives March 2002 for the first 12\" and 8 July 2002 for a wider release; SPIN and Ransom Note only imply c. 2002. Credit appears as Musical Mob on early pressings (FACT) and Youngstar on later reissues. Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs."
+  },
+  {
+    "id_hint": "dizzee-rascal-i-luv-u",
+    "title": "I Luv U",
+    "artist": "Dizzee Rascal",
+    "producers": [
+      "Dizzee Rascal"
+    ],
+    "label": "XL Recordings (official single); earlier test pressing",
+    "catalogue_number": null,
+    "format": "Test pressing circulated on pirate radio 2002; commercial CD single 2003",
+    "release_date": "Test pressing on pirate radio 2002; single 26 May 2003",
+    "country": "UK",
+    "tracklist_note": "CD: Clean Radio Edit / Remix feat. Wiley & Sharkey Major / Original Mix. Female vocal by Jeanine (Janine) Jacques.",
+    "discogs_url": "https://www.discogs.com/master/37692-Dizzee-Rascal-I-Luv-U",
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/I_Luv_U_(Dizzee_Rascal_song)",
+      "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+      "https://www.stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/franchises/list/",
+      "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Opens with a stuttering voice repeating the title, then drops into a bass-heavy rhythm.",
+        "url": "https://en.wikipedia.org/wiki/I_Luv_U_(Dizzee_Rascal_song)"
+      },
+      {
+        "text": "Dizzee: built on a dirty bassline and an unfamiliar kick (reused on 'Wot U On?'); strings are his attempt at the strings of 'What's Your Fantasy'.",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      },
+      {
+        "text": "Boy-girl call-and-response structure modelled on 'Is That Your Chick?' and 'What's Your Fantasy?'.",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      },
+      {
+        "text": "A 'dark tale' over a bass-heavy instrumental.",
+        "url": "https://www.stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/franchises/list/"
+      }
+    ],
+    "context": [
+      {
+        "text": "Peaked at no. 29 on the UK Singles Chart (his first top 40) and no. 5 on the UK Indie chart.",
+        "url": "https://en.wikipedia.org/wiki/I_Luv_U_(Dizzee_Rascal_song)"
+      },
+      {
+        "text": "The Wire compared its impact on grime to 'Anarchy in the U.K.' for punk; named in The Pitchfork 500 (2008).",
+        "url": "https://en.wikipedia.org/wiki/I_Luv_U_(Dizzee_Rascal_song)"
+      },
+      {
+        "text": "Self-produced at 16; made earlier than the rest of Boy in da Corner, after he left college and while on Deja Vu FM and associated with NASTY Crew.",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      },
+      {
+        "text": "Stereogum: one of the first grime singles to chart in the UK.",
+        "url": "https://www.stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/franchises/list/"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "remix",
+        "other": "I Luv U (Remix) feat. Wiley & Sharkey Major",
+        "url": "https://en.wikipedia.org/wiki/I_Luv_U_(Dizzee_Rascal_song)"
+      },
+      {
+        "type": "shared kick drum",
+        "other": "Dizzee Rascal - Wot U On?",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      },
+      {
+        "type": "same call-and-response template",
+        "other": "Dizzee Rascal - Jezebel",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      },
+      {
+        "type": "mash-up (2003 white label)",
+        "other": "Musical Mob - Pulse X",
+        "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+      },
+      {
+        "type": "lead single of",
+        "other": "Dizzee Rascal - Boy in da Corner",
+        "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+      }
+    ],
+    "uncertainty": "Catalogue numbers and the exact form of the 2002 pressing (white label / test pressing) not verified beyond Wikipedia's 'test pressing'. Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs."
+  },
+  {
+    "id_hint": "dizzee-rascal-boy-in-da-corner",
+    "title": "Boy in da Corner",
+    "artist": "Dizzee Rascal",
+    "producers": [
+      "Dizzee Rascal",
+      "Chubby Dread",
+      "Moulders",
+      "Mr. Cage",
+      "Taz",
+      "Vanguard"
+    ],
+    "label": "XL Recordings (UK); Matador (US, 2004)",
+    "catalogue_number": null,
+    "format": "Album (LP/CD; formats not itemised in sources opened)",
+    "release_date": "2003-07-21 (UK); 2004-01-20 (US)",
+    "country": "UK",
+    "tracklist_note": "15 tracks, 57:08; US edition adds 'Vexed'. Singles: I Luv U, Fix Up Look Sharp, Jus' a Rascal. Recorded Oct 2001 - Mar 2003 at Belly of the Beast and Raskits Lair, London.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Boy_in_da_Corner",
+      "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+      "https://factmag.com/2012/04/22/20-best-grime",
+      "https://mixmag.net/feature/history-of-grime"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Dizzee says none of the album's tracks is at 140 bpm; the 140 bpm norm came later.",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      },
+      {
+        "text": "Tracks usually started from drums; samples were spread across a keyboard, one per key; no MPC used.",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      },
+      {
+        "text": "Entertainment Weekly (via Wikipedia): UK garage beats combined with a distinctly British sensibility; Pitchfork praised its 'cutting sonics'.",
+        "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+      },
+      {
+        "text": "Rock edge attributed by Dizzee to grunge and Black Sabbath influences ('Stop Dat').",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      }
+    ],
+    "context": [
+      {
+        "text": "Won the 2003 Mercury Prize; peaked at no. 23 on the UK Albums Chart; later certified platinum (BPI, 2018).",
+        "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+      },
+      {
+        "text": "Complex (B.J. Steiner) credits it with bringing grime to the rest of the world.",
+        "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+      },
+      {
+        "text": "Ranked no. 4 in FACT's 'The 20 best Grime records ever made'.",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "text": "Made in about a year, when Dizzee was largely unknown outside London pirate radio; he was 18 at release.",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "contains",
+        "other": "I Luv U; Fix Up, Look Sharp; Jus' a Rascal",
+        "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+      },
+      {
+        "type": "built on another producer's beat",
+        "other": "Round We Go (Chubby Dread beat, originally made for More Fire Crew)",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      }
+    ],
+    "uncertainty": "Catalogue number not verified. Mixmag (2018) lists 'Imagine' as 2004 and from Boy in da Corner; not cross-checked. No Discogs URL found."
+  },
+  {
+    "id_hint": "dizzee-rascal-fix-up-look-sharp",
+    "title": "Fix Up, Look Sharp",
+    "artist": "Dizzee Rascal",
+    "producers": [
+      "Dizzee Rascal (per Wikipedia)",
+      "Cage (per 45worlds credit on XLS175CD video track)"
+    ],
+    "label": "XL Recordings",
+    "catalogue_number": null,
+    "format": "CD single (with 'Stop Dat' and 'I Luv U' video)",
+    "release_date": "2003-08-18",
+    "country": "UK",
+    "tracklist_note": "CD: Fix Up, Look Sharp (clean radio edit) / Stop Dat / I Luv U (video).",
+    "discogs_url": "https://www.discogs.com/release/185883-Dizzee-Rascal-Fix-Up-Look-Sharp",
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp",
+      "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+      "https://mail.45worlds.com/cdsingle/cd/xls175cd"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Heavily samples the main beat and vocals of Billy Squier's 'The Big Beat'; Wikipedia tags it rap rock; 3:44.",
+        "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp"
+      },
+      {
+        "text": "Beat built around 'The Big Beat', which manager Cage played on vinyl in the studio; began as a dubplate for Tim Westwood.",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      }
+    ],
+    "context": [
+      {
+        "text": "Peaked at no. 17 on the UK Singles Chart (his first top 20); later certified gold.",
+        "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp"
+      },
+      {
+        "text": "NME ranked it no. 25 in its '150 Best Tracks of the Past 15 Years' (2011).",
+        "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp"
+      },
+      {
+        "text": "Dizzee cites Guns N' Roses, Nirvana and Iron Maiden as influences on its rock feel.",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "sample of",
+        "other": "Billy Squier - The Big Beat",
+        "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp"
+      },
+      {
+        "type": "remix",
+        "other": "Ratatat remix (Ratatat Remixes Vol. 1)",
+        "url": "https://en.wikipedia.org/wiki/Fix_Up,_Look_Sharp"
+      },
+      {
+        "type": "single from",
+        "other": "Dizzee Rascal - Boy in da Corner",
+        "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+      }
+    ],
+    "uncertainty": "Producer credit conflicts: Wikipedia credits Dizzee Rascal; the 45worlds listing for XLS175CD credits the 'Fix Up Look Sharp' video track to Cage. Songwriting includes Billy Squier. Catalogue number of the single not verified. Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs."
+  },
+  {
+    "id_hint": "dizzee-rascal-jus-a-rascal",
+    "title": "Jus' a Rascal",
+    "artist": "Dizzee Rascal",
+    "producers": [
+      "Taz (Tesmond Rowe)",
+      "Vanguard (Vanguard Vardoen)",
+      "Dizzee Rascal (per Wikipedia)"
+    ],
+    "label": "XL Recordings",
+    "catalogue_number": "XLS175CD (enhanced CD single)",
+    "format": "Enhanced CD single",
+    "release_date": "2003-11-24",
+    "country": "UK",
+    "tracklist_note": "XLS175CD: Jus' A Rascal (Clean Radio) / Jus' A Rascal / Fix Up Look Sharp (video). Mixed by Cage at Belly of the Beast.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Jus%27_a_Rascal",
+      "https://mail.45worlds.com/cdsingle/cd/xls175cd",
+      "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Not sample-based: beat made by Norwegian producer Vanguard, who also played guitar on it; includes sung, operatic elements.",
+        "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+      },
+      {
+        "text": "Tagged British hip hop / grime / rap rock; 3:27.",
+        "url": "https://en.wikipedia.org/wiki/Jus%27_a_Rascal"
+      }
+    ],
+    "context": [
+      {
+        "text": "Peaked at no. 30 on the UK Singles Chart and no. 1 on the UK Indie chart.",
+        "url": "https://en.wikipedia.org/wiki/Jus%27_a_Rascal"
+      },
+      {
+        "text": "Video by Nima Nourizadeh features a Tinchy Stryder cameo; used in Skins and Kidulthood.",
+        "url": "https://en.wikipedia.org/wiki/Jus%27_a_Rascal"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "single from",
+        "other": "Dizzee Rascal - Boy in da Corner",
+        "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+      }
+    ],
+    "uncertainty": "Wikipedia lists Dizzee Rascal as co-producer; 45worlds credits only T. Rowe and V. Vardoen. RBMA styles it 'feat. Taz'. No vinyl edition verified."
+  },
+  {
+    "id_hint": "xtc-functions-on-the-low",
+    "title": "Functions on the Low",
+    "artist": "XTC (Ruff Sqwad affiliate)",
+    "producers": [
+      "XTC"
+    ],
+    "label": "White label",
+    "catalogue_number": null,
+    "format": "12\" white label vinyl",
+    "release_date": "2004 (FACT; Mixmag)",
+    "country": "UK",
+    "tracklist_note": "Instrumental. Wikipedia cites a Discogs release titled 'XTC - Misty Cold Remix / Functions / Baby Wipes'. Later included on Ruff Sqwad's White Label Classics (No Hats No Hoods, 2012).",
+    "discogs_url": "http://www.discogs.com/XTC-Misty-Cold-Remix-Functions-Baby-Wipes/release/1698948",
+    "other_source_urls": [
+      "https://factmag.com/2012/04/22/20-best-grime",
+      "https://mixmag.net/feature/history-of-grime",
+      "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it",
+      "https://en.wikipedia.org/wiki/Slix",
+      "https://factmag.com/2012/12/03/died-in-your-arms-before-the-legendary-grime-unit-disbands-fact-meets-ruff-sqwad-to-talk-white-label-classics",
+      "https://xlr8r.com/reviews/white-label-classics/",
+      "https://afropop.org/articles/white-label-classics",
+      "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Lo-fi, romantic instrumental (FACT spells it 'Funktions on the Low').",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "text": "Uses a chipmunked house sample and a 'cheesy synth tone'; melodic interlude.",
+        "url": "https://afropop.org/articles/white-label-classics"
+      },
+      {
+        "text": "Five-minute piece of longing; 'neon lights seen through a torrent of tears' (Guardian, Dan Hancox).",
+        "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it"
+      },
+      {
+        "text": "Made in about half an hour on FruityLoops.",
+        "url": "https://mixmag.net/feature/history-of-grime"
+      }
+    ],
+    "context": [
+      {
+        "text": "Guardian (Dan Hancox): 'quite simply one of the greatest tracks in the history of British electronic music'; XTC (Fuda Guy's older brother) completed only this one track.",
+        "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it"
+      },
+      {
+        "text": "Ranked no. 6 in FACT's 'The 20 best Grime records ever made' (white label, 2004).",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "text": "Described as 'much-mythologised'; original vinyl sells for high prices.",
+        "url": "https://factmag.com/2012/12/03/died-in-your-arms-before-the-legendary-grime-unit-disbands-fact-meets-ruff-sqwad-to-talk-white-label-classics"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "instrumental used for",
+        "other": "Stormzy - Shut Up (2015)",
+        "url": "https://mixmag.net/feature/history-of-grime"
+      },
+      {
+        "type": "same circle / compiled on",
+        "other": "Ruff Sqwad - White Label Classics (2012)",
+        "url": "https://thequietus.com/?p=10535"
+      }
+    ],
+    "uncertainty": "Catalogue number unknown. Exact original A/B-side layout only known via the Discogs title cited on Wikipedia (page not opened). Note: the 'XTC' alias also appears in Ruff Sqwad's member list (2001-?)."
+  },
+  {
+    "id_hint": "ruff-sqwad-pied-piper",
+    "title": "Pied Piper",
+    "artist": "Ruff Sqwad",
+    "producers": [
+      "Rapid and/or Dirty Danger (not individually credited in sources opened)"
+    ],
+    "label": "Ruff Sqwad Recordings (white label) - general label practice per Wikipedia; not verified for this title",
+    "catalogue_number": null,
+    "format": "White label vinyl (unverified for this title)",
+    "release_date": "Made c. 2002 (per Rapid); release date unverified",
+    "country": "UK",
+    "tracklist_note": "Instrumental; earliest track on White Label Classics (2012).",
+    "discogs_url": "https://www.discogs.com/release/2849597-Ruff-Sqwad-Pied-Piper",
+    "other_source_urls": [
+      "https://thequietus.com/?p=10535",
+      "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it",
+      "https://xlr8r.com/reviews/white-label-classics/",
+      "https://en.wikipedia.org/wiki/Slix"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Early Ruff Sqwad tracks such as 'Pied Piper' were dark but melodic, with squelchy, teenage-sounding noises.",
+        "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it"
+      },
+      {
+        "text": "A 'spartan' beat that feels slightly unnatural without an MC on it.",
+        "url": "https://xlr8r.com/reviews/white-label-classics/"
+      },
+      {
+        "text": "Made on FruityLoops 3 when Rapid was about 14-15.",
+        "url": "https://thequietus.com/?p=10535"
+      }
+    ],
+    "context": [
+      {
+        "text": "Rapid dates it around 2002, the earliest track on White Label Classics.",
+        "url": "https://thequietus.com/?p=10535"
+      },
+      {
+        "text": "Ruff Sqwad: crew formed 2001 in Bow, East London; played on Rinse FM, Heat, Flava, Mystic and Deja Vu FM; singles self-released on white label as Ruff Sqwad Recordings.",
+        "url": "https://en.wikipedia.org/wiki/Slix"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "compiled on",
+        "other": "Ruff Sqwad - White Label Classics (2012)",
+        "url": "https://thequietus.com/?p=10535"
+      }
+    ],
+    "uncertainty": "Release date, label and catalogue number of the original vinyl not verified (Discogs blocked; Wikipedia cites the Discogs page without detail). A 'Pied Piper (Skepta Remix)' 2004 vinyl appeared only in a search-result title and is NOT verified. Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs."
+  },
+  {
+    "id_hint": "ruff-sqwad-tings-in-boots",
+    "title": "Tings in Boots",
+    "artist": "Ruff Sqwad",
+    "producers": [
+      "Rapid",
+      "Dirty Danger"
+    ],
+    "label": "Ruff Sqwad Recordings (white label) - general label practice per Wikipedia",
+    "catalogue_number": null,
+    "format": "White label vinyl (debut single, per Wikipedia)",
+    "release_date": "Unverified (early 2000s; producers aged 14-15 when made)",
+    "country": "UK",
+    "tracklist_note": "Instrumental; on White Label Classics (2012) as track 8.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Slix",
+      "https://xlr8r.com/reviews/white-label-classics/",
+      "https://factmag.com/2012/12/03/died-in-your-arms-before-the-legendary-grime-unit-disbands-fact-meets-ruff-sqwad-to-talk-white-label-classics",
+      "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it",
+      "https://thequietus.com/?p=10535"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Built on 'hollow synth riffs' (xlr8r review spells it 'Ting n' Boots').",
+        "url": "https://xlr8r.com/reviews/white-label-classics/"
+      },
+      {
+        "text": "Made on home PCs by Rapid and Dirty Danger aged around 14-15.",
+        "url": "https://en.wikipedia.org/wiki/Slix"
+      }
+    ],
+    "context": [
+      {
+        "text": "Described as the crew's debut single.",
+        "url": "https://en.wikipedia.org/wiki/Slix"
+      },
+      {
+        "text": "A member recalls it as the first track of theirs he heard on radio, played by Chunky Bizzle on Magic FM.",
+        "url": "https://factmag.com/2012/12/03/died-in-your-arms-before-the-legendary-grime-unit-disbands-fact-meets-ruff-sqwad-to-talk-white-label-classics"
+      },
+      {
+        "text": "Tinchy Stryder named it as an early track he liked.",
+        "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "compiled on",
+        "other": "Ruff Sqwad - White Label Classics (2012)",
+        "url": "https://thequietus.com/?p=10535"
+      }
+    ],
+    "uncertainty": "No release year, label or catalogue number confirmed for the original single; 'debut single' rests on Wikipedia alone."
+  },
+  {
+    "id_hint": "ruff-sqwad-anna",
+    "title": "Anna / Down",
+    "artist": "Ruff Sqwad",
+    "producers": [
+      "Rapid and/or Dirty Danger (not individually credited)"
+    ],
+    "label": "Not stated in sources opened (Ruff Sqwad Recordings likely but unverified)",
+    "catalogue_number": null,
+    "format": "Single (format unverified)",
+    "release_date": "2004 (Wikipedia)",
+    "country": "UK",
+    "tracklist_note": "'Anna' and 'Down' are tracks 1 and 9 on White Label Classics (2012).",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Slix",
+      "https://xlr8r.com/reviews/white-label-classics/",
+      "https://thequietus.com/?p=10535",
+      "https://factmag.com/2012/12/03/died-in-your-arms-before-the-legendary-grime-unit-disbands-fact-meets-ruff-sqwad-to-talk-white-label-classics"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Built around 'hollow synth riffs' that sound iconic when given space.",
+        "url": "https://xlr8r.com/reviews/white-label-classics/"
+      },
+      {
+        "text": "Ruff Sqwad's sound generally: ominous yet woozily romantic and melodic.",
+        "url": "https://thequietus.com/?p=10535"
+      }
+    ],
+    "context": [
+      {
+        "text": "Named among praised tracks on the White Label Classics compilation.",
+        "url": "https://factmag.com/2012/12/03/died-in-your-arms-before-the-legendary-grime-unit-disbands-fact-meets-ruff-sqwad-to-talk-white-label-classics"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "compiled on",
+        "other": "Ruff Sqwad - White Label Classics (2012)",
+        "url": "https://thequietus.com/?p=10535"
+      }
+    ],
+    "uncertainty": "Only Wikipedia gives 'Anna/Down' (2004); label, format and catalogue number unverified. Treat as provisional."
+  },
+  {
+    "id_hint": "ruff-sqwad-guns-and-roses-vol-1",
+    "title": "Guns and Roses Volume. 1",
+    "artist": "Ruff Sqwad",
+    "producers": [
+      "Prince Rapid",
+      "Dirty Danger (David Nkrumah)"
+    ],
+    "label": "Ruff Sqwad Recordings",
+    "catalogue_number": null,
+    "format": "Mixtape CD",
+    "release_date": "2005-03-04",
+    "country": "UK",
+    "tracklist_note": "23 tracks incl. 'Jampie' (ft. Trim), 'Wild Clipse' (ft. Wiley Kat), 'Ice Cream' (ft. Roachee), 'Stryder's Back'. Collector's Edition with extra tracks (incl. 'Together') 1 Feb 2007.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_1",
+      "https://en.wikipedia.org/wiki/Slix",
+      "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Romantic grime era built on 1980s power-ballad samples (e.g. The Police 'Message In A Bottle'); beats made on FruityLoops.",
+        "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me"
+      },
+      {
+        "text": "By 2003-05 the crew's production grew grander: synth melodies, sweeping strings, military brass; samples from rock, classical, film and hip-hop.",
+        "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it"
+      }
+    ],
+    "context": [
+      {
+        "text": "Debut mixtape; first of a planned three-part series; considered one of the best grime mixtapes.",
+        "url": "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_1"
+      },
+      {
+        "text": "Lyrics by Tinchy Stryder, Dirty Danger, Slix, Rapid and Shifty Rydos.",
+        "url": "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_1"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "features",
+        "other": "Wiley Kat on 'Wild Clipse'; Trim on 'Jampie'",
+        "url": "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_1"
+      },
+      {
+        "type": "followed by",
+        "other": "Ruff Sqwad - Guns and Roses Volume. 2 (2006)",
+        "url": "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_2"
+      }
+    ],
+    "uncertainty": "Physical format stated as CD in the Ruff Sqwad Wikipedia article; catalogue number unknown. Trench gives the Collector's Edition date as 1 Feb 2007."
+  },
+  {
+    "id_hint": "ruff-sqwad-died-in-ur-arms",
+    "title": "Died in Ur Arms",
+    "artist": "Ruff Sqwad",
+    "producers": [
+      "Prince Rapid",
+      "Dirty Danger (David Nkrumah)"
+    ],
+    "label": "Ruff Sqwad Recordings",
+    "catalogue_number": null,
+    "format": "Track on mixtape (Guns and Roses Volume. 2)",
+    "release_date": "2006-10-13 (as part of Guns and Roses Volume. 2)",
+    "country": "UK",
+    "tracklist_note": "Track 5 of Guns and Roses Volume. 2; instrumental later on White Label Classics (CD only) as 'Died in Your Arms'.",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://en.wikipedia.org/wiki/Guns_and_Roses_Volume_2",
+      "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me",
+      "https://afropop.org/articles/white-label-classics",
+      "https://thequietus.com/?p=10535"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Samples Cutting Crew's '(I Just) Died In Your Arms' 1980s power ballad; FruityLoops production.",
+        "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me"
+      },
+      {
+        "text": "An interlude of 'unabashed electronic beauty' showing the crew's melodic gifts.",
+        "url": "https://afropop.org/articles/white-label-classics"
+      }
+    ],
+    "context": [
+      {
+        "text": "Named as part of the definitive R&G (rhythm and grime) era of Ruff Sqwad.",
+        "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "sample of",
+        "other": "Cutting Crew - (I Just) Died In Your Arms",
+        "url": "https://trenchtrenchtrench.com/features/ruff-sqwad-r-and-g-gina-and-me"
+      },
+      {
+        "type": "compiled on",
+        "other": "Ruff Sqwad - White Label Classics (2012)",
+        "url": "https://thequietus.com/?p=10535"
+      }
+    ],
+    "uncertainty": "Production credit is the blanket mixtape credit (all tracks Rapid & Dirty Danger). No standalone 2000s vinyl release verified."
+  },
+  {
+    "id_hint": "jammer-destruction-vip",
+    "title": "Destruction VIP",
+    "artist": "Jammer feat. Wiley, D Double E, Kano and Durrty Goodz",
+    "producers": [
+      "Jammer (implied; not explicitly credited in sources opened)"
+    ],
+    "label": "JahmekTheWorld (per FACT); later on Run the Road (679 Recordings)",
+    "catalogue_number": null,
+    "format": "Vinyl (format per FACT not stated); compilation CD 2005",
+    "release_date": "2004 (FACT); on Run the Road, released 24 Jan 2005 (Wikipedia)",
+    "country": "UK",
+    "tracklist_note": "Posse cut; track 5 on Run the Road (3:16).",
+    "discogs_url": null,
+    "other_source_urls": [
+      "https://factmag.com/2012/04/22/20-best-grime",
+      "https://en.wikipedia.org/wiki/Run_the_Road",
+      "https://chantellefiddy.blogspot.com/2004/10",
+      "https://mb.videolan.org/release/2f37f644-dc33-4915-af95-19e0284e8fb8"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Multi-MC posse track (no instrumental detail given).",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "text": "Jammer's productions generally: reggae bass weight fused with garage double-time; 'future-industrial' basslines.",
+        "url": "https://xlr8r.com/?p=114465"
+      }
+    ],
+    "context": [
+      {
+        "text": "FACT ranks it no. 12 in 'The 20 best Grime records ever made', calling it grime's 'Rapper's Delight'.",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "text": "Listed on the Run the Road tracklist in Chantelle Fiddy's blog, 25 Oct 2004.",
+        "url": "https://chantellefiddy.blogspot.com/2004/10"
+      },
+      {
+        "text": "Jammer: Leytonstone, East London; basement studio in his family home; formerly producer for N.A.S.T.Y. Crew.",
+        "url": "https://xlr8r.com/?p=114465"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "VIP of",
+        "other": "Jammer - Destruction (original; not separately verified)",
+        "url": "https://factmag.com/2012/04/22/20-best-grime"
+      },
+      {
+        "type": "compiled on",
+        "other": "Run the Road (679 Recordings, 2005)",
+        "url": "https://en.wikipedia.org/wiki/Run_the_Road"
+      }
+    ],
+    "uncertainty": "Run the Road release date: Wikipedia gives 24 Jan 2005; Chantelle Fiddy (Oct 2004) said due mid-November 2004; PopMatters gives 8 March 2005 (likely US). Original 'Destruction' not verified."
+  },
+  {
+    "id_hint": "jammer-murkle-man",
+    "title": "Murkle Man",
+    "artist": "Jammer",
+    "producers": [
+      "Jammer (per PRS M magazine) - Clash says Wiley produced it; conflicting"
+    ],
+    "label": "Unverified",
+    "catalogue_number": null,
+    "format": "Unverified (single with video)",
+    "release_date": "c. 2004-2005 (Clash: shortly after Lord of the Mics, 2004)",
+    "country": "UK",
+    "tracklist_note": "Vocal track. Alias 'Merkle Man' spelling used by xlr8r 2006.",
+    "discogs_url": "https://www.discogs.com/master/717881-Jammer-Murkle-Man",
+    "other_source_urls": [
+      "https://www.clashmusic.com/features/tales-from-the-grime-generation-jammer-interviewed",
+      "https://prsformusic.com/m-magazine/features/interview-jammer",
+      "https://trenchtrenchtrench.com/news/heritage-risky-roadz-captures-jammer-tearing-young-man-standing-apart-with-murkle-man",
+      "https://xlr8r.com/?p=114465",
+      "https://daily.redbullmusicacademy.com/2012/12/jammer-interview"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Performance clip notes the reload comes almost immediately after the track starts (crowd energy rather than musical detail).",
+        "url": "https://trenchtrenchtrench.com/news/heritage-risky-roadz-captures-jammer-tearing-young-man-standing-apart-with-murkle-man"
+      }
+    ],
+    "context": [
+      {
+        "text": "Jammer's solo breakthrough; 'tongue-in-cheek' video of him in a cape with an M patrolling his area.",
+        "url": "https://www.clashmusic.com/features/tales-from-the-grime-generation-jammer-interviewed"
+      },
+      {
+        "text": "Video filmed outside Leytonstone Underground Station.",
+        "url": "https://xlr8r.com/?p=114465"
+      },
+      {
+        "text": "DJ Cameo played it at a Run the Road event at Fabric and called Jammer up to perform; Wiley played it on his pirate show.",
+        "url": "https://prsformusic.com/m-magazine/features/interview-jammer"
+      },
+      {
+        "text": "Risky Roadz captured Jammer performing it at Young Man Standing (2005).",
+        "url": "https://trenchtrenchtrench.com/news/heritage-risky-roadz-captures-jammer-tearing-young-man-standing-apart-with-murkle-man"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "production advice",
+        "other": "Skepta advised on edits (per Jammer)",
+        "url": "https://prsformusic.com/m-magazine/features/interview-jammer"
+      }
+    ],
+    "uncertainty": "Producer conflict: Clash says Wiley produced it; PRS M magazine quotes Jammer saying he made it with Skepta advising edits. Label, format, catalogue number and exact date NOT verified (Discogs blocked). Keep provisional. Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs."
+  },
+  {
+    "id_hint": "wonder-what",
+    "title": "What",
+    "artist": "Wonder (DJ Wonder)",
+    "producers": [
+      "Wonder"
+    ],
+    "label": "Dump Valve",
+    "catalogue_number": null,
+    "format": "12\" vinyl (format implied by label output; not explicitly stated)",
+    "release_date": "2004 (Forced Exposure)",
+    "country": "UK",
+    "tracklist_note": "Instrumental; Forced Exposure describes it as the instrumental version of Dizzee Rascal's 'Respect Me'.",
+    "discogs_url": "https://www.discogs.com/master/425483-Wonder-What",
+    "other_source_urls": [
+      "https://forcedexposure.com/Artists/WONDER.html",
+      "https://thequietus.com/interviews/bakers-dozen/slimzee-favourite-tracks-bakers-dozen/6"
+    ],
+    "sound_descriptions": [
+      {
+        "text": "Indirect: Slimzee describes Wiley's 'Morgue' (made after 'What') as unusual half-time and gritty, and Geeneus said Morgue sounded like a 'What' bootleg, implying a similar feel.",
+        "url": "https://thequietus.com/interviews/bakers-dozen/slimzee-favourite-tracks-bakers-dozen/6"
+      }
+    ],
+    "context": [
+      {
+        "text": "Wonder: founding member of Roll Deep; built his reputation on Rinse FM; Dizzee Rascal's Showtime tour DJ.",
+        "url": "https://forcedexposure.com/Artists/WONDER.html"
+      },
+      {
+        "text": "Began his relationship with Geeneus's Dump Valve imprint with 'What' in 2004.",
+        "url": "https://forcedexposure.com/Artists/WONDER.html"
+      },
+      {
+        "text": "Geeneus objected that Wiley's 'Morgue' sounded like a bootleg of 'What', causing tension with shops and between producers.",
+        "url": "https://thequietus.com/interviews/bakers-dozen/slimzee-favourite-tracks-bakers-dozen/6"
+      }
+    ],
+    "relationships": [
+      {
+        "type": "instrumental of",
+        "other": "Dizzee Rascal - Respect Me (Wonder production)",
+        "url": "https://forcedexposure.com/Artists/WONDER.html"
+      },
+      {
+        "type": "imitated by / answer riddim",
+        "other": "Wiley - Morgue",
+        "url": "https://thequietus.com/interviews/bakers-dozen/slimzee-favourite-tracks-bakers-dozen/6"
+      }
+    ],
+    "uncertainty": "Slimzee's half-time description is of 'Morgue' in relation to 'What', so the sound attribution is indirect. Catalogue number unverified. Wonder's other appearance in window: 'Cap Back' feat. Plan B on Run the Road (2005; Wikipedia lists it as 'Cap Black'). Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs."
+  }
+]

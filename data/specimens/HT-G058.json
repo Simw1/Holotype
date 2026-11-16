@@ -1,0 +1,125 @@
+{
+ "id": "HT-G058",
+ "key": "low-deep-straight-flush-2005",
+ "sort": "2005-06-01",
+ "year": 2005,
+ "date": "2005",
+ "kind": "12-inch",
+ "artist": "Low Deep",
+ "title": "Straight Flush",
+ "label": "Colourful State Records",
+ "cat": null,
+ "format": "Vinyl (per Low Deep bio)",
+ "producers": [
+  "Low Deep"
+ ],
+ "lane": "inst",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Evidence specimen; no description of its sound was found, so every code is drafted."
+ },
+ "sound": [],
+ "context": [
+  {
+   "text": "The beat began as eight bars Low Deep made at 17 for a producer challenge on the RWD Forum.",
+   "url": "https://www.last.fm/music/Low+Deep/+wiki",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "The vinyl came out on Colourful State Records, the label he had just signed to, and sold over 2,000 copies.",
+   "url": "https://www.nts.live/artists/7246-low-deep",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Low Deep is from Luton; his beats were later used on BBC Top Gear and in the 2007 film Mr. Lonely.",
+   "url": "https://www.last.fm/music/Low+Deep/+wiki",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Low Deep's 'Jedi' appears in Son Raw's 2014 'Classic Grime Riddims' mix.",
+   "url": "https://www.musicismysanctuary.com/?p=42268",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime (artist described as a grime artist and producer)",
+   "source": "Last.fm biography",
+   "year": null,
+   "url": "https://www.last.fm/music/Low+Deep/+wiki"
+  }
+ ],
+ "rels": [
+  {
+   "type": "later_version",
+   "other": "Straight Flush (Colourful State, 2007), per NTS's Discogs-derived listing",
+   "url": "https://www.nts.live/artists/7246-low-deep"
+  }
+ ],
+ "uncertainty": "The 2005 date and the 'Original' title come from NTS's artist page, which reproduces Discogs listings; Discogs itself was not reachable. No source opened describes how the track sounds, so sound_descriptions is empty. The 8-bar origin is in the context field. No catalogue number was found.",
+ "tracklist": "NTS's Discogs-derived listing shows 'Straight Flush (Original)' (2005) and a later 'Straight Flush' on Colourful State dated 2007.",
+ "sources": [
+  {
+   "url": "https://www.nts.live/artists/7246-low-deep",
+   "domain": "nts.live"
+  },
+  {
+   "url": "https://www.last.fm/music/Low+Deep/+wiki",
+   "domain": "last.fm"
+  },
+  {
+   "url": "https://www.musicismysanctuary.com/?p=42268",
+   "domain": "musicismysanctuary.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

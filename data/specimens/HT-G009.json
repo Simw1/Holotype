@@ -1,0 +1,180 @@
+{
+ "id": "HT-G009",
+ "key": "ruff-sqwad-pied-piper",
+ "sort": "2002-11-01",
+ "year": 2002,
+ "date": "c. 2002 (made)",
+ "kind": "12-inch",
+ "artist": "Ruff Sqwad",
+ "title": "Pied Piper",
+ "label": "Ruff Sqwad Recordings (unconfirmed)",
+ "cat": null,
+ "format": "White label vinyl (unverified for this title)",
+ "producers": [
+  "Rapid and/or Dirty Danger (not individually credited in sources opened)"
+ ],
+ "lane": "melodic",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Release details provisional: made around 2002 according to its producer, but the release date and label are unconfirmed."
+ },
+ "sound": [
+  {
+   "text": "Early Ruff Sqwad tracks such as 'Pied Piper' were dark but melodic, with squelchy, teenage-sounding noises.",
+   "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Guardian, Dan Hancox, via inkl; date not shown)"
+  },
+  {
+   "text": "A 'spartan' beat that feels slightly unnatural without an MC on it.",
+   "url": "https://xlr8r.com/reviews/white-label-classics/",
+   "g": "C",
+   "checked": true,
+   "pub": "2013-01-03"
+  },
+  {
+   "text": "Rapid and Dirty Danger started out on FruityLoops 3; Rapid says he was about 14 or 15 when Pied Piper was made.",
+   "url": "https://thequietus.com/?p=10535",
+   "g": "B",
+   "checked": true,
+   "pub": "2012-10-31"
+  }
+ ],
+ "context": [
+  {
+   "text": "Rapid dates it around 2002, the earliest track on White Label Classics.",
+   "url": "https://thequietus.com/?p=10535",
+   "g": "B",
+   "checked": true,
+   "pub": "2012-10-31"
+  },
+  {
+   "text": "Ruff Sqwad: crew formed 2001 in Bow, East London; played on Rinse FM, Heat, Flava, Mystic and Deja Vu FM; singles self-released on white label as Ruff Sqwad Recordings.",
+   "url": "https://en.wikipedia.org/wiki/Ruff_Sqwad",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "compiled on",
+   "other": "Ruff Sqwad - White Label Classics (2012)",
+   "url": "https://thequietus.com/?p=10535"
+  }
+ ],
+ "uncertainty": "Release date, label and catalogue number of the original vinyl not verified (Discogs blocked; Wikipedia cites the Discogs page without detail). A 'Pied Piper (Skepta Remix)' 2004 vinyl appeared only in a search-result title and is NOT verified. Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs.",
+ "tracklist": "Instrumental; earliest track on White Label Classics (2012).",
+ "sources": [
+  {
+   "url": "https://thequietus.com/?p=10535",
+   "domain": "thequietus.com"
+  },
+  {
+   "url": "https://www.inkl.com/news/a-history-of-grime-by-the-people-who-created-it",
+   "domain": "inkl.com"
+  },
+  {
+   "url": "https://xlr8r.com/reviews/white-label-classics/",
+   "domain": "xlr8r.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Slix",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Ruff_Sqwad",
+   "domain": "en.wikipedia.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Dance"
+   ],
+   "match": "compilation",
+   "release": "White Label Classics",
+   "level": "track",
+   "url": "https://music.apple.com/us/song/pied-piper/579398648",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "compilation",
+   "release": "White Label Classics",
+   "level": "album",
+   "url": "https://www.qobuz.com/gb-en/album/white-label-classics-ruff-sqwad/bkuuqkzzi9b2a",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "found",
+   "labels": [
+    "electronic",
+    "grime",
+    "London"
+   ],
+   "match": "compilation",
+   "release": "White Label Classics",
+   "level": "tags",
+   "url": "https://nohatsnohoods.bandcamp.com/album/white-label-classics",
+   "retrieved": "2026-11-16",
+   "verdict": "correct"
+  }
+ ],
+ "round": 1
+}

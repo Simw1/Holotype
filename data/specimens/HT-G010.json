@@ -1,0 +1,197 @@
+{
+ "id": "HT-G010",
+ "key": "wiley-ice-rink",
+ "sort": "2003-03-01",
+ "year": 2003,
+ "date": "2003",
+ "kind": "12-inch",
+ "artist": "Wiley",
+ "title": "Ice Rink",
+ "label": "Wiley Kat",
+ "cat": null,
+ "format": "12\" vinyl, white label",
+ "producers": [
+  "Wiley"
+ ],
+ "lane": "eski",
+ "geno": [
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Paralectotype",
+  "of": "Eskibeat",
+  "holotype": "HT-G005",
+  "basis": "Minimal, melody-free eski instrumental with documented vocal EPs; FACT ranks it among Wiley's most powerful instrumentals."
+ },
+ "sound": [
+  {
+   "text": "Minimal, with no melody: drums that 'sound like slamming car doors' plus eski clicks, landing on unexpected beats; too fast for garage purists (Son Raw, Complex).",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "g": "C",
+   "checked": true,
+   "pub": "2019-08-06"
+  },
+  {
+   "text": "FACT calls it 'one of the most powerful instrumentals he ever made'.",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-04-22 (originally posted 2011)"
+  },
+  {
+   "text": "FACT (2010) says nothing in grime matches the beat's sheer power.",
+   "url": "https://factmag.com/2010/09/13/the-essential-wiley",
+   "g": "C",
+   "checked": true,
+   "pub": "2010-09-13"
+  }
+ ],
+ "context": [
+  {
+   "text": "Wiley said he made the riddim quickly and vocalled it himself before releasing vocal 12\"s with other MCs (Martin Clark interview, Oct 2003).",
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+   "g": "A",
+   "checked": true,
+   "pub": "2003-10 (Jockey Slut / Hyperdub interview by Martin Clark; fabric repost undated)"
+  },
+  {
+   "text": "Complex sets it beside Prince Jammy's 'Sleng Teng' and the Sugarhill Gang's first rap on wax as a sonic game-changer.",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "g": "C",
+   "checked": true,
+   "pub": "2019-08-06"
+  },
+  {
+   "text": "FACT lists it as a 2003 Wiley Kat release and notes many vocal versions exist.",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-04-22"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "same_riddim",
+   "other": "Dizzee Rascal 'Ice Rink Freestyle' and Wiley 'Sorry Sorry Pardon What' (2006 revisit) on the same beat",
+   "url": "https://factmag.com/2010/09/13/the-essential-wiley"
+  },
+  {
+   "type": "has_vocal_versions",
+   "other": "Ice Rink Vocal EPs (Kano, Flirta D, Riko, Tinchy Stryder, Dizzee Rascal)",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat"
+  },
+  {
+   "type": "reworked_as",
+   "other": "'Ice-Rink (Interlude)' on Treddin' on Thin Ice (2004)",
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+  }
+ ],
+ "uncertainty": "The year (2003) and label (Wiley Kat) come from FACT. WK015 and the Eskiboy pairing come from one eBay listing, which oddly names the label 'Pirate Sessions Recordings'. The two sources disagree on which MCs appear on the vocal EPs. Discogs entries for 'Ice Rink Vocal EP 1/2' and 'Eskiboy / Ice Rink' showed up in search but could not be opened. This entry combines the instrumental and vocal releases and may need splitting.",
+ "tracklist": "An eBay listing pairs 'Eskiboy' and 'Ice Rink' on one white label, WK015. Separately there were vocal EP 12\"s: Wiley told Clark only two vocal vinyls came out, with MCs including Flirta D and Kano (Crazy Titch's version unreleased). Complex lists Kano, Riko, Tinchy Stryder and Dizzee Rascal as vocalists on the EPs, alongside an instrumental.",
+ "sources": [
+  {
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://factmag.com/2010/09/13/the-essential-wiley",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-eski-beat-an-interview-with-wiley-part-1-october-2003",
+   "domain": "fabriclondon.com"
+  },
+  {
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://www.ebay.co.uk/itm/117485438001",
+   "domain": "ebay.co.uk"
+  },
+  {
+   "url": "https://www.musicismysanctuary.com/?p=30046",
+   "domain": "musicismysanctuary.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice",
+   "domain": "en.wikipedia.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "version",
+   "release": "Tunnel Vision Volume 3",
+   "level": "track",
+   "url": "https://music.apple.com/us/song/dizzee-rascal-ice-rink/290943817",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

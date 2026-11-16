@@ -1,0 +1,144 @@
+{
+ "id": "HT-G031",
+ "key": "lord-of-the-mics-1-2004",
+ "sort": "2004-12-15",
+ "year": 2004,
+ "date": "2004",
+ "kind": "DVD",
+ "artist": "Jammer and Ratty (creators)",
+ "title": "Lord of the Mics (Vol. 1)",
+ "label": "Self-released",
+ "cat": null,
+ "format": "DVD (with an accompanying compilation CD, per RBMA)",
+ "producers": [
+  "Jammer"
+ ],
+ "lane": "mc",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "A clash DVD, not a record: evidence of how MC battles circulated and were seen."
+ },
+ "sound": [
+  {
+   "text": "Clash describes the format as two MCs, a beat and a camera, filmed simply in Jammer's basement.",
+   "url": "https://www.clashmusic.com/features/life-at-140-lord-of-the-mics-special",
+   "g": "C",
+   "checked": true,
+   "pub": "2014-10-14 (Clash, Tomas Fraser)"
+  },
+  {
+   "text": "Jammer (RBMA, 2012) recalls simply playing a beat in the basement and filming on a handheld camera. The instrumentals used are not named.",
+   "url": "https://daily.redbullmusicacademy.com/2012/12/jammer-interview",
+   "g": "B",
+   "checked": true,
+   "pub": "2012-12-06"
+  }
+ ],
+ "context": [
+  {
+   "text": "Filmed in Jammer's basement. Wikipedia describes the series as the first platform to release filmed grime clashes. Jammer cited the US Smack DVD series as an influence.",
+   "url": "https://en.wikipedia.org/wiki/Lord_of_the_Mics",
+   "g": "C",
+   "checked": true
+  },
+  {
+   "text": "Sold as a street DVD from the back of Jammer's car and in local record shops. Viewers voted by text, but winners were never published.",
+   "url": "https://www.thefader.com/2015/09/11/jammer-lord-of-the-mics-interview",
+   "g": "B",
+   "checked": true,
+   "pub": "2015-09-11"
+  },
+  {
+   "text": "Jammer claims Wiley and Kano both got record deals soon after the DVD, and that Kano's GMTV appearance brought calls about it.",
+   "url": "https://www.thefader.com/2015/09/11/jammer-lord-of-the-mics-interview",
+   "g": "B",
+   "checked": true,
+   "pub": "2015-09-11"
+  },
+  {
+   "text": "Vice's Grimewatch (Nov 2004) said Capo & Ratty 'continue to shot [sic] hundreds of copies' of Lord of the Mics.",
+   "url": "https://www.vice.com/en/article/grimewatch-v11n8/",
+   "g": "A",
+   "checked": true,
+   "pub": "2004-11-30 (Vice, Vol. 11 Issue 8)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "features_artist",
+   "other": "Kano (vs Wiley); links to P's and Q's era",
+   "url": "https://daily.redbullmusicacademy.com/2012/12/jammer-interview"
+  },
+  {
+   "type": "features_artist",
+   "other": "Crazy Titch (vs Bruza)",
+   "url": "https://en.wikipedia.org/wiki/Lord_of_the_Mics"
+  },
+  {
+   "type": "series_sequel",
+   "other": "Lord of the Mics 2 (includes Skepta vs Devilman); LOTM I and II were re-released as a double DVD in 2015",
+   "url": "https://en.wikipedia.org/wiki/Lord_of_the_Mics"
+  }
+ ],
+ "uncertainty": "Only the year (2004) is verified, with no month. The clash lists differ between Wikipedia and The Fader: The Fader is unclear whether Ghetto vs Napper appeared on the first DVD. RBMA describes the Wiley-Kano clash as set up 'in the studio' and also as in the basement (Jammer's basement studio). It is an artefact, not an audio release.",
+ "tracklist": "Clashes on the first edition, per The Fader: Wiley vs Kano; Slix vs Domino; Scratchy vs Footsie. Wikipedia's list of LOTM 1 clashes adds Ghetto vs Napper (organised on radio), SLK vs Younger Nasty, Kal Serious vs Corey Johnson and Bruza vs Crazy Titch.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Lord_of_the_Mics",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2012/12/jammer-interview",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://www.thefader.com/2015/09/11/jammer-lord-of-the-mics-interview",
+   "domain": "thefader.com"
+  },
+  {
+   "url": "https://www.clashmusic.com/features/life-at-140-lord-of-the-mics-special",
+   "domain": "clashmusic.com"
+  },
+  {
+   "url": "https://www.vice.com/en/article/grimewatch-v11n8/",
+   "domain": "vice.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

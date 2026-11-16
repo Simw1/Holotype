@@ -1,0 +1,190 @@
+{
+ "id": "HT-G024",
+ "key": "plasticman-cha-ep-terr002",
+ "sort": "2004-08-15",
+ "year": 2004,
+ "date": "2004",
+ "kind": "12-inch EP",
+ "artist": "Plasticman",
+ "title": "Cha EP",
+ "label": "Terrorhythm Recordings",
+ "cat": "TERR002",
+ "format": "12\" EP (three tracks per Plastician)",
+ "producers": [
+  "Plasticman (Christopher Reed)"
+ ],
+ "lane": "dark",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Voucher",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Coded for the title track; every character is drafted, as no track-level description was found."
+ },
+ "sound": [
+  {
+   "text": "FACT calls 'Cha' a classic from the period when grime and dubstep were not yet separate (genre placement only, no sonic detail).",
+   "url": "https://factmag.com/2012/07/31/zomby-remixes-plasticians-classic-cha/",
+   "g": "C",
+   "checked": true,
+   "pub": "2012-07-31"
+  },
+  {
+   "text": "In his 2004 RBMA lecture Plastician said he made tracks in FruityLoops from WAV basslines, drum kits and an 808 kit; he described grime generally as around 140 bpm with 'quite fat and warm' bass (not specific to 'Cha').",
+   "url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso",
+   "g": "A",
+   "checked": true,
+   "pub": "2004 (RBMA lecture, Rome)"
+  }
+ ],
+ "context": [
+  {
+   "text": "In 2004 Plastician called 'Cha' 'quite big' and said electro DJs played it in room two at a night at Electro Works, a couple of weeks after he played Rebel Bass there.",
+   "url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso",
+   "g": "A",
+   "checked": true,
+   "pub": "2004 (RBMA lecture, Rome)"
+  },
+  {
+   "text": "Plastician (2014) said that after he started his own label he distributed his records himself, and 'Cha' was the first one through which he met grime DJs and figures in person.",
+   "url": "https://factmag.com/2014/05/30/plastician-plasticman-interview",
+   "g": "B",
+   "checked": true,
+   "pub": "2014-05-30"
+  },
+  {
+   "text": "Bandcamp: 'Produced in 2002, originally released on Terrorhythm as part of The Cha E.P. released in 2004.'",
+   "url": "https://plastician.bandcamp.com/track/cha",
+   "g": "C",
+   "checked": true,
+   "pub": "2014-07-14 (Plasticman Remastered (Deluxe Edition) release date)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "remix",
+   "other": "Zomby remix of 'Cha' (2012)",
+   "url": "https://factmag.com/2012/07/31/zomby-remixes-plasticians-classic-cha/"
+  }
+ ],
+ "uncertainty": "Release year: Wikipedia and Bandcamp both say 2004. The other tracks on the EP were not confirmed because Discogs could not be opened. There is no detailed published description of the sound of the original.",
+ "tracklist": "Plastician describes it as a three-track EP; only 'Cha' could be confirmed by name.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Plastician",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://plastician.bandcamp.com/track/cha",
+   "domain": "plastician.bandcamp.com"
+  },
+  {
+   "url": "https://redbullmusicacademy.com/lectures/plastician-plasticman-grime-virtuoso",
+   "domain": "redbullmusicacademy.com"
+  },
+  {
+   "url": "https://factmag.com/2014/05/30/plastician-plasticman-interview",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://factmag.com/2012/07/31/zomby-remixes-plasticians-classic-cha/",
+   "domain": "factmag.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "uncertain",
+   "release": "Plasticman Remastered",
+   "level": "album",
+   "url": "https://music.apple.com/ca/album/plasticman-remastered/910468283",
+   "retrieved": "2026-11-16",
+   "verdict": "uncertain match"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "found",
+   "labels": [
+    "beats",
+    "electronic",
+    "experimental",
+    "grime",
+    "wave",
+    "bass music",
+    "classic grime",
+    "plastician",
+    "plasticman",
+    "rap",
+    "remastered",
+    "remasters",
+    "retro",
+    "vintage",
+    "vinyl",
+    "Croydon"
+   ],
+   "match": "compilation",
+   "release": "Plasticman Remastered (Deluxe Edition)",
+   "level": "tags",
+   "url": "https://plastician.bandcamp.com/album/plasticman-remastered-deluxe-edition",
+   "retrieved": "2026-11-16",
+   "verdict": "correct"
+  }
+ ],
+ "round": 1
+}

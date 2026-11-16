@@ -1,0 +1,155 @@
+{
+ "id": "HT-G007",
+ "key": "wiley-eskimo-3-ice-pole",
+ "sort": "2002-09-01",
+ "year": 2002,
+ "date": "2002",
+ "kind": "12-inch",
+ "artist": "Wiley",
+ "title": "Eskimo 3 / Ice Pole",
+ "label": "White label (WK007 per one archived listing)",
+ "cat": "WK007",
+ "format": "12\" vinyl, white label",
+ "producers": [
+  "Wiley"
+ ],
+ "lane": "eski",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Paralectotype",
+  "of": "Eskibeat",
+  "holotype": "HT-G005",
+  "basis": "A sequel in the Eskimo series; release details rest on a single archived listing."
+ },
+ "sound": [
+  {
+   "text": "Ice Pole opens with a synth melody, then drops into an aggressive, off-kilter counter-melody that the author compares to dancehall and tango; the track moves in 8-bar sections (Son Raw, Complex).",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "g": "C",
+   "checked": true,
+   "pub": "2019-08-06"
+  }
+ ],
+ "context": [
+  {
+   "text": "Complex says Ice Pole's opening melody helped inspire the 'sinogrime' subgenre.",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "g": "C",
+   "checked": true,
+   "pub": "2019-08-06"
+  },
+  {
+   "text": "Mixmag and FACT both name 'Ice Pole' among Wiley's eskibeat tracks.",
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "2018-06-06 (Mixmag, Dan Hancox); 2010-09-13 (FACT)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "sequel_of",
+   "other": "Eskimo (Wiley, 2002); Wikipedia lists 'Eskimo 3' as a sequel",
+   "url": "https://en.wikipedia.org/wiki/Eskimo_(grime_beat)"
+  }
+ ],
+ "uncertainty": "The catalogue number WK007, the year 2002 and the A/B order come only from a resold eBay auction record (popsike), a weak source. No sound description of 'Eskimo 3' itself was found. Treat the release metadata as provisional.",
+ "tracklist": "A: Ice Pole; B: Eskimo 3 (taken from the seller description of a 2014 eBay auction archived on popsike).",
+ "sources": [
+  {
+   "url": "https://www.popsike.com/Grime-Vinyl-Record-Wiley-Kat-Eskimo-3-Ice-Pole-2002-Rare/121318133908.html",
+   "domain": "popsike.com"
+  },
+  {
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "domain": "mixmag.net"
+  },
+  {
+   "url": "https://factmag.com/2010/09/13/the-essential-wiley",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Eskimo_(grime_beat)",
+   "domain": "en.wikipedia.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

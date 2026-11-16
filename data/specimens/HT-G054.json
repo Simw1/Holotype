@@ -1,0 +1,151 @@
+{
+ "id": "HT-G054",
+ "key": "rephlex-grime-2-cat160-2004",
+ "sort": "2004-06-01",
+ "year": 2004,
+ "date": "2004",
+ "kind": "Compilation",
+ "artist": "Kode9, Loefah, Digital Mystikz",
+ "title": "Grime 2",
+ "label": "Rephlex",
+ "cat": "CAT 160",
+ "format": "Compilation (format not stated in sources opened; XLR8R says nine tracks)",
+ "producers": [
+  "Kode9 (Steve Goodman)",
+  "Loefah",
+  "Digital Mystikz (Mala and Coki)"
+ ],
+ "lane": "dark",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Released as grime in 2004, later described as misidentified grime and proto-dubstep (2010). Evidence of where the boundary between grime and dubstep was drawn, and redrawn."
+ },
+ "sound": [
+  {
+   "text": "The Brooklyn Rail (Dominic Umile, June 2010) describes Kode9's four tracks as crude and wordless, mixing film dialogue and Eastern reed instruments with heavy bass lines, with no vocalists.",
+   "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "XLR8R (Brion Paul, July 2005) points to Eastern-tinged hip-hop touches, acoustic-guitar R&B smoothness and jungle-style 'precision bass blasts'.",
+   "url": "https://xlr8r.com/reviews/grime-2/",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "RA (Emeka Okonkwo, 2021) calls Digital Mystikz's 'CR7 Chamber' 'dark and glacial'.",
+   "url": "https://ra.co/reviews/34235",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Rephlex Records discography (Wikipedia mirror) lists CAT 156 'Grime' and CAT 160 'Grime 2' as consecutive various-artist releases.",
+   "url": "https://bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze.ipfs.ipfs.hypha.coop/wiki/Rephlex_Records_discography",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "The Brooklyn Rail says Rephlex 'understandably misidentified' the music as grime, and links the comp to the infancy of what became dubstep.",
+   "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "RA says CR7 Chamber was among the tracks that first hooked audiences, and the duo stayed underground until DJs worldwide noticed in 2006.",
+   "url": "https://ra.co/reviews/34235",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Comments under k-punk's April 2004 post on the first Rephlex 'Grime' comp were already disputing whether the FWD/dubstep producers and the MC-led grime scene were the same thing; Hyperdub's steve_hyperdub says Slaughter Mob saw themselves as dubstep.",
+   "url": "https://k-punk.org/rephlex-grime",
+   "g": "A",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime (title given by label)",
+   "source": "Rephlex (via Rephlex discography)",
+   "year": 2004,
+   "url": "https://bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze.ipfs.ipfs.hypha.coop/wiki/Rephlex_Records_discography"
+  },
+  {
+   "label": "London's grime scene",
+   "source": "XLR8R review",
+   "year": 2005,
+   "url": "https://xlr8r.com/reviews/grime-2/"
+  },
+  {
+   "label": "'misidentified' as grime; proto-dubstep",
+   "source": "The Brooklyn Rail",
+   "year": 2010,
+   "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/"
+  },
+  {
+   "label": "dubstep (CR7 Chamber)",
+   "source": "Resident Advisor",
+   "year": 2021,
+   "url": "https://ra.co/reviews/34235"
+  },
+  {
+   "label": "tags: bass, dubstep, grime and others",
+   "source": "Kode9 Bandcamp",
+   "year": 2020,
+   "url": "https://kode9.bandcamp.com/album/trax-from-grime-2-2004"
+  }
+ ],
+ "rels": [
+  {
+   "type": "series",
+   "other": "Rephlex - Grime (CAT 156, 2004), already in register as rephlex-grime-comp-cat156-2004",
+   "url": "https://bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze.ipfs.ipfs.hypha.coop/wiki/Rephlex_Records_discography"
+  },
+  {
+   "type": "reissue",
+   "other": "Kode9 - 'trax from Grime 2 [2004]' (Bandcamp digital, 22 March 2020)",
+   "url": "https://kode9.bandcamp.com/album/trax-from-grime-2-2004"
+  },
+  {
+   "type": "reissue",
+   "other": "Digital Mystikz - 'CR7 Chamber' digital reissue on DMZ (August 2021)",
+   "url": "https://ra.co/reviews/34235"
+  }
+ ],
+ "uncertainty": "No exact release date or physical format was confirmed. The 2004 year comes from Kode9's Bandcamp and RA; XLR8R's review is dated July 2005. Genre is contested: the label titled it 'Grime', but later writers treat it as early dubstep. It is included as evidence of how the grime label was applied in 2004.",
+ "tracklist": "XLR8R gives nine tracks without titles. Kode9's own Bandcamp reissue of his tracks from the comp lists 'Dislokated', 'Ping', 'Sub Kontinent' and 'Swarm'. RA (2021) says Digital Mystikz's 'CR7 Chamber' first appeared on Grime 2.",
+ "sources": [
+  {
+   "url": "https://bafybeiaysi4s6lnjev27ln5icwm6tueaw2vdykrtjkwiphwekaywqhcjze.ipfs.ipfs.hypha.coop/wiki/Rephlex_Records_discography",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://kode9.bandcamp.com/album/trax-from-grime-2-2004",
+   "domain": "kode9.bandcamp.com"
+  },
+  {
+   "url": "https://xlr8r.com/reviews/grime-2/",
+   "domain": "xlr8r.com"
+  },
+  {
+   "url": "https://brooklynrail.org/2010/06/music/future-sounds-of-london/",
+   "domain": "brooklynrail.org"
+  },
+  {
+   "url": "https://ra.co/reviews/34235",
+   "domain": "ra.co"
+  },
+  {
+   "url": "https://k-punk.org/rephlex-grime",
+   "domain": "k-punk.org"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

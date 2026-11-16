@@ -1,0 +1,12 @@
+[
+ {"abbr":"TMP","name":"Tempo","alleles":["About 140 BPM","130 to 138 BPM (garage tempo)","Other or unclear"]},
+ {"abbr":"KCK","name":"Kick and snare frame","alleles":["2-step garage skip","Sparse half-time, snare on 3","Four to the floor","No drums or near-beatless","Broken beat or breakbeat"]},
+ {"abbr":"HAT","name":"Hats and percussion","alleles":["Shuffled garage hats","Sparse, straight hats","Busy percussion or rolls","Minimal or none"]},
+ {"abbr":"BAS","name":"Bass","alleles":["Square or saw-wave bass","Deep sine sub (sublow)","Distorted or reese bass","Garage-style warped bass","No bass"]},
+ {"abbr":"HRM","name":"Harmony","alleles":["Static minor riff","Eastern or pentatonic melody","Orchestral or string harmony","Chord progression (R&B, soul, ballad)","Atonal, sound-effect led"]},
+ {"abbr":"LED","name":"Lead sound","alleles":["Synth bleeps, stabs or flutes","Strings or orchestral hits","Game or 8-bit tones","Piano or keys","Brass or horn stabs","Played instrument (guitar, accordion)"]},
+ {"abbr":"SMP","name":"Sampling","alleles":["Programmed, no samples","Film, TV or game sample","Vocal sample or chop","Classical or orchestral sample","Rock or pop record sample"]},
+ {"abbr":"STR","name":"Structure","alleles":["8-bar sections","16-bar sections","Verse and chorus song","Long DJ-tool sections"]},
+ {"abbr":"FX","name":"Space and effects","alleles":["Dry","Reverb or echo","Gunshot, siren or effect hits"]},
+ {"abbr":"VOC","name":"Vocal","alleles":["Instrumental","Solo MC","Crew MCs","Sung or operatic element with MC","Chanted hook"]}
+]

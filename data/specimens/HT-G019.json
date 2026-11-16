@@ -1,0 +1,154 @@
+{
+ "id": "HT-G019",
+ "key": "wiley-treddin-on-thin-ice",
+ "sort": "2004-04-26",
+ "year": 2004,
+ "date": "26 Apr 2004",
+ "kind": "Album",
+ "artist": "Wiley",
+ "title": "Treddin' on Thin Ice",
+ "label": "XL Recordings",
+ "cat": null,
+ "format": "Album (CD and digital)",
+ "producers": [
+  "Wiley",
+  "TNT",
+  "Target",
+  "Danny Weed",
+  "Cage (additional)"
+ ],
+ "lane": "eski",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Eskibeat",
+  "holotype": null,
+  "basis": "Album: holds reworked interludes of Eskimo and Ice Rink and the singles Wot Do U Call It? and Pies."
+ },
+ "sound": [
+  {
+   "text": "Eski beats made from 'frosty squarewaves and pentatonic bass plunks', bent into new tempos (Son Raw, Complex, 2016).",
+   "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited",
+   "g": "C",
+   "checked": true,
+   "pub": "2016-04-26"
+  },
+  {
+   "text": "Fragmented orchestral samples 'scraped to the bone' and reassembled; twitchy, off-kilter beats; drum'n'bass-derived drums on 'Doorway' (PopMatters, 2004).",
+   "url": "https://popmatters.com/wiley-treddin-2496117747.html",
+   "g": "A",
+   "checked": true,
+   "pub": "2004-09-09"
+  },
+  {
+   "text": "'Reasons' runs at double time; its B-side 'Bang Bang' is clicks, sub-bass and near-jungle-speed percussion (Complex, 2019).",
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "g": "C",
+   "checked": true,
+   "pub": "2019-08-06"
+  }
+ ],
+ "context": [
+  {
+   "text": "Released about nine months after Boy In Da Corner; Complex says every major review compared the two, unfavourably, and that it sold below expectations and got Wiley dropped from XL.",
+   "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited",
+   "g": "C",
+   "checked": true,
+   "pub": "2016-04-26"
+  },
+  {
+   "text": "Peaked at No. 45 on the UK albums chart, according to a Wikipedia discography mirror.",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Wiley_discography.html",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (IPFS Wikipedia mirror)"
+  },
+  {
+   "text": "Pitchfork scored it 7.6/10, as reported on Wikipedia.",
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Wikipedia)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "contains_interlude_of",
+   "other": "Eskimo; Ice Rink; Avalanche",
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+  },
+  {
+   "type": "contains",
+   "other": "Wot Do U Call It?; Pies",
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice"
+  }
+ ],
+ "uncertainty": "26 April 2004 is the UK date. The PopMatters review gives 24 August 2004, which is presumably the US release. In 2003 Wiley called the album 'The Next Level' (fabric interview). No catalogue number was verified.",
+ "tracklist": "15 tracks, including 'Wot Do U Call It?', 'Pies', 'Reasons', and short interludes based on 'Eskimo', 'Avalanche' and 'Ice-Rink'. 'Pick U R Self Up' was produced by Target and Danny Weed; 'The Game' by TNT.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Treddin%27_on_Thin_Ice",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://www.complex.com/music/2016/04/wiley-treddin-on-thin-ice-revisited",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://www.complex.com/music/a/son-raw/a-journey-through-wiley-eskibeat",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://popmatters.com/wiley-treddin-2496117747.html",
+   "domain": "popmatters.com"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Wiley_discography.html",
+   "domain": "wikipedia (mirror)"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "exact",
+   "release": "Treddin' on Thin Ice",
+   "level": "album",
+   "url": "https://music.apple.com/gb/album/treddin-on-thin-ice/1136792572",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "exact",
+   "release": "Treddin' On Thin Ice",
+   "level": "album",
+   "url": "https://www.qobuz.com/us-en/interpreter/wiley/172614",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

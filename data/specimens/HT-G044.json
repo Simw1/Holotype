@@ -1,0 +1,196 @@
+{
+ "id": "HT-G044",
+ "key": "so-solid-crew-oh-no-dilemma-2000",
+ "sort": "2000-12-16",
+ "year": 2000,
+ "date": "2000 (chart entry 16 Dec 2000)",
+ "kind": "Single",
+ "artist": "So Solid Crew",
+ "title": "Oh No (Sentimental Things) / Dilemma",
+ "label": "Relentless",
+ "cat": "RELENT8CDS",
+ "format": "CD single (earliest format verified); other formats not verified",
+ "producers": [],
+ "lane": "transition",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Transitional",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Coded for Dilemma. Kode9 called it ultra-minimal in 2001; FACT (2013) calls it a proto-grime flip; the Quietus (2020) reports Wiley saying Oh No started grime. A strong candidate for the earliest record in the grime type series."
+ },
+ "sound": [
+  {
+   "text": "Steve Goodman (Kode9), writing in Deuce in 2001, calls 'Dilemma' 'ultra-minimal'.",
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-21st-century-skank-the-haunting-of-uk-garage-2001",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "The Quietus (2020): 'Dilemma' is a bare-bones rush of spartan drum hits and a mutating bassline, a moody precursor to minimal grime.",
+   "url": "https://thequietus.com/?p=28201",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "The Quietus (2020): 'Oh No' is sharp-angled, with rumbling bass and MC braggadocio, over a beat sitting between Timbaland-style R&B and UK garage two-step; Lisa Maffia sings the chorus.",
+   "url": "https://thequietus.com/?p=28201",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "FACT (2013) calls 'Dilemma' the 'freakishly minimalist proto-grime flip'.",
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "So Solid Crew are from Battersea, south London, and made their name on the pirate station Delight FM ('So Solid Sundays'), having also been on Supreme FM.",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/So_Solid_Crew.html",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "The Quietus (2020) reports that Wiley later called 'Oh No' the record that started grime.",
+   "url": "https://thequietus.com/?p=28201",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Megaman (Complex, 2021) places the turning point towards grime at 'Oh No (Sentimental Things)', not '21 Seconds', and says the crew still called their music garage at the time.",
+   "url": "https://www.complex.com/music/a/joseph-jp-patterson/so-solid-crew-21-seconds-at-20",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "OCC lists 'Oh No (Sentimental Things)' on its Hip Hop & R&B chart from 16 Dec 2000 (peak 6, 9 weeks); it did not enter the main singles chart.",
+   "url": "https://www.officialcharts.com/artist/9989/so-solid-crew",
+   "g": "A",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "dark/minimal garage ('ultra-minimal'; essay is about dark garage and 2-step)",
+   "source": "Steve Goodman, Deuce (reposted Hyperdub archive)",
+   "year": "2001",
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-21st-century-skank-the-haunting-of-uk-garage-2001"
+  },
+  {
+   "label": "proto-grime ('Dilemma')",
+   "source": "FACT",
+   "year": "2013",
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records"
+  },
+  {
+   "label": "UK garage, with 'Dilemma' as a precursor to minimal grime; Wiley reported as saying 'Oh No' started grime",
+   "source": "The Quietus (Ben Cardew)",
+   "year": "2020",
+   "url": "https://thequietus.com/?p=28201"
+  },
+  {
+   "label": "garage at the time; 'Oh No' as the grime turning point (artist's retrospective)",
+   "source": "Megaman in Complex",
+   "year": "2021",
+   "url": "https://www.complex.com/music/a/joseph-jp-patterson/so-solid-crew-21-seconds-at-20"
+  }
+ ],
+ "rels": [
+  {
+   "type": "precursor_of",
+   "other": "Musical Mob (Youngstar) – Pulse X (2002)",
+   "url": "https://thequietus.com/?p=28201"
+  },
+  {
+   "type": "remix_on",
+   "other": "So Solid Crew – They Don't Know (album, 2001), track 3 'Oh No (Sentimental Things) (Remix)'",
+   "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/They_Don't_Know_(So_Solid_Crew_album)"
+  },
+  {
+   "type": "remixed_by",
+   "other": "Oxide (of Oxide & Neutrino) – 'Oxide Remix' on the CD single",
+   "url": "https://eu.rarevinyl.com/products/so-solid-crew-oh-no-sentimental-things-uk-cd-single-cd5-relent8cds-262908"
+  }
+ ],
+ "uncertainty": "Producer not found. The exact release date and any earlier 12-inch or white-label issue were not verified. RareVinyl lists 'Oh No' as the lead title, while the Quietus calls 'Oh No' the B-side to 'Dilemma' and FACT calls 'Dilemma' the 'flip', so which side was the A-side is unclear. OCC's chart placement on a Hip Hop & R&B *albums* chart looks odd and may be a data quirk. Wiley's attribution is reported second-hand by the Quietus.",
+ "tracklist": "CD single: Radio Edit / Full Length Version / Oxide Remix / Dilemma (RareVinyl listing). An 'Oh No' remix is track 3 on the album They Don't Know; 'Dilemma' is not on the album.",
+ "sources": [
+  {
+   "url": "https://eu.rarevinyl.com/products/so-solid-crew-oh-no-sentimental-things-uk-cd-single-cd5-relent8cds-262908",
+   "domain": "eu.rarevinyl.com"
+  },
+  {
+   "url": "https://thequietus.com/?p=28201",
+   "domain": "thequietus.com"
+  },
+  {
+   "url": "https://fabriclondon.com/posts/hyperdub-archive-21st-century-skank-the-haunting-of-uk-garage-2001",
+   "domain": "fabriclondon.com"
+  },
+  {
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://www.complex.com/music/a/joseph-jp-patterson/so-solid-crew-21-seconds-at-20",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/So_Solid_Crew.html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://www.officialcharts.com/artist/9989/so-solid-crew",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/They_Don't_Know_(So_Solid_Crew_album)",
+   "domain": "wikipedia (mirror)"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

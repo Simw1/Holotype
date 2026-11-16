@@ -1,0 +1,892 @@
+[
+ {
+  "key": "plasticman-cha-ep-terr002",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Artist, title 'Cha EP', Terrorhythm, TERR002, 2004 confirmed by Wikipedia (Plastician discography) and Bandcamp ('released on Terrorhythm as part of The Cha E.P. released in 2004'). RBMA 2004 lecture calls it a three-track EP on his own label; vinyl format not confirmed by any opened page. Bandcamp says the track was produced in 2002."
+ },
+ {
+  "key": "plasticman-cha-ep-terr002",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-07-31",
+  "note": "FACT: 'a classic from the period where grime and dubstep weren't separate entities'. The only sonic description on the page is of Zomby's remix, not the original."
+ },
+ {
+  "key": "plasticman-cha-ep-terr002",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2004 (RBMA lecture, Rome)",
+  "new_text": "In his 2004 RBMA lecture Plastician said he made tracks in FruityLoops from WAV basslines, drum kits and an 808 kit; he described grime generally as around 140 bpm with 'quite fat and warm' bass (not specific to 'Cha').",
+  "note": "Lecture was given in 2004, so grade A not B/C. FruityLoops, WAV basslines/drum kits and the 808 kit are about his own production; 'fat and warm' bass and ~140 BPM are said of grime generally, not his own tracks."
+ },
+ {
+  "key": "plasticman-cha-ep-terr002",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2004 (RBMA lecture, Rome)",
+  "new_text": "In 2004 Plastician called 'Cha' 'quite big' and said electro DJs played it in room two at a night at Electro Works, a couple of weeks after he played Rebel Bass there.",
+  "note": "Grade A: speaking in 2004, not later. He played Rebel Bass at Electro Works; he heard 'Cha' played by electro DJs in room two at a later night at the same venue, not at Rebel Bass itself."
+ },
+ {
+  "key": "plasticman-cha-ep-terr002",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "B",
+  "pub_date": "2014-05-30",
+  "new_text": "Plastician (2014) said that after he started his own label he distributed his records himself, and 'Cha' was the first one through which he met grime DJs and figures in person.",
+  "note": "He says 'Cha' was the first record where distributing his own releases (after starting his own label) led to meeting grime figures in person. It does not say it was the first release he distributed himself. His first release overall was 'Venom', via Slimzee."
+ },
+ {
+  "key": "plasticman-cha-ep-terr002",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2014-07-14 (Plasticman Remastered (Deluxe Edition) release date)",
+  "note": "Quote is verbatim. Artist's own Bandcamp reissue page (later reissue listing), grade C."
+ },
+ {
+  "key": "plasticman-cha-ep-terr002",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "No opened source gives a track-level sonic description of the original 'Cha'."
+ },
+ {
+  "key": "xtc-functions-on-the-low",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "FACT heading: 'XTC 'Funktions on the Low' (White Label, 2004)'. Wikipedia (Slix) cites a Discogs entry 'XTC (7) - Misty Cold Remix / Functions / Baby Wipes' (2004), which suggests the 12-inch was a three-track record and the release title may be 'Functions'. Not independently verified (Discogs not opened)."
+ },
+ {
+  "key": "xtc-functions-on-the-low",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2012-04-22 (originally posted 2011)",
+  "new_text": "FACT's joint note on this and Kamikaze's 'Ghetto Kyote' calls them lo-fi instrumentals 'lost in the snow', showing grime's romantic side (FACT spells it 'Funktions on the Low').",
+  "note": "The 06 (XTC) entry has no text of its own. 'Lo-fi instrumentals that sound like they're lost in the snow' and 'grime's romantic side' sit in the 07 paragraph, which comments jointly on 'Funktions on the Low' and 'Ghetto Kyote'."
+ },
+ {
+  "key": "xtc-functions-on-the-low",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2013-01-16 (Sam Backer, Afropop)",
+  "new_text": "Afropop says this track and 'Dying in Your Arms' pull in bits of the past (a chipmunked house sample, a cheesy synth tone) and show the crew's melodic gifts.",
+  "note": "The 'chipmunked house-sample, a cheesy synth tone' are said jointly of 'Functions on the Low' and 'Dying in Your Arms', not of this track alone. 'Interludes of unabashed electronic beauty' refers to the album generally, not to this track."
+ },
+ {
+  "key": "xtc-functions-on-the-low",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "c. Dec 2012 (Guardian, Dan Hancox; date not shown on the inkl mirror, inferred from reference to White Label Classics out '10 December')",
+  "note": "Quotes are accurate."
+ },
+ {
+  "key": "xtc-functions-on-the-low",
+  "field": "sound",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2018-06-06 (Mixmag, Dan Hancox)",
+  "note": "'Took him half an hour to write, on FruityLoops, one morning before college.'"
+ },
+ {
+  "key": "xtc-functions-on-the-low",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "c. Dec 2012 (Guardian via inkl)",
+  "note": "Both quotes are accurate: 'the only song that its creator, XTC, ever completed'; Fuda Guy's older brother."
+ },
+ {
+  "key": "xtc-functions-on-the-low",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-04-22 (originally posted 2011)",
+  "note": "No. 6, white label, 2004."
+ },
+ {
+  "key": "xtc-functions-on-the-low",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-12-03",
+  "note": "'Much-mythologised'. The vinyl prices are said of the group's mid-2000s vinyl generally, plus Dirty Danger's joke about a seller asking £400 for this one."
+ },
+ {
+  "key": "xtc-functions-on-the-low",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Mixmag (2018) names Stormzy's 'Shut Up' (2015) as a freestyle over this instrumental, 'a full 11 years after its release'."
+ },
+ {
+  "key": "mark-one-one-way-ziq112",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Planet Mu catalogue: Mark One, 'One Way', ZIQ112, 27-09-2004. Igloo (Jan 2005) gives format CD/3x12-inch. Album is correct."
+ },
+ {
+  "key": "mark-one-one-way-ziq112",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "undated (label catalogue page)",
+  "note": "The label's own promotional text: 'fusing different styles with grime like hip hop, electro & dnb', 'menacing bass and spacey production'. Its publication date is not shown, so it may be 2004 promo copy; kept at C."
+ },
+ {
+  "key": "mark-one-one-way-ziq112",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005-01-25 (Igloo Magazine)",
+  "new_text": "Igloo (Jan 2005): largely instrumental, 'trudging and dark'; 'Bang Bang Boy' is hard and noisy, unlike typical grime minimalism.",
+  "note": "Contemporary review, so grade A not C. The page says 'largely instrumental'; 'trudging and dark'; 'Bang Bang Boy' is 'hard but noisy, a little different from a typical grime minimalism'."
+ },
+ {
+  "key": "mark-one-one-way-ziq112",
+  "field": "sound",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "Jan 2005 (Daily Lobo, Jonny Pelham; date from URL)",
+  "new_text": "Daily Lobo (Jan 2005): brooding Wu-Tang strings and instrumentals with a dub-reggae-like effect; 'Bang Bang Boy' has gun samples over a 'wobbly dred bass'.",
+  "note": "Minor misquote: the review says 'wobbly dred bass', not 'dub bass'. It also mentions 'fast Jamaican-influenced vocals'."
+ },
+ {
+  "key": "mark-one-one-way-ziq112",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2005-01-25 (Igloo Magazine)",
+  "note": "Grade A not C. Exact wording: 'Planet-mu's first big grime release' and 'one of the first full length grime albums that has received a lot of attention outside the UK'."
+ },
+ {
+  "key": "mark-one-one-way-ziq112",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": null,
+  "new_text": "Wikipedia lists Mark One as a past member of Manchester's Virus Syndicate, who often supplied the vocals on his solo recordings, including One Way.",
+  "note": "Wikipedia lists Mark One as a past member of Virus Syndicate, not merely 'linked'. It says they 'often supplied the vocal accompaniment' on his solo recordings, specifically One Way. 'Much of the album's vocals' is a slight stretch."
+ },
+ {
+  "key": "mark-one-one-way-ziq112",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "Jan 2005 (Daily Lobo)",
+  "note": "'The former drum 'n' bass DJ'."
+ },
+ {
+  "key": "mark-one-one-way-ziq112",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Igloo's 2005 review supports the album getting attention outside the UK and being on Planet Mu."
+ },
+ {
+  "key": "jammer-destruction-vip",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "FACT heading: 'JAMMER feat. WILEY, KANO, D DOUBLE E & DURRTY GOODZ 'DESTRUCTION V.I.P.' (JAHMEKTHEWORLD, 2004)'. No producer credit appears in any opened source. The mb.videolan page is an unidentified tracklist mirror (Run the Road tracklist, track 5, 3:16) with no label or date shown."
+ },
+ {
+  "key": "jammer-destruction-vip",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-04-22 (originally posted 2011)",
+  "note": "FACT names the four featured MCs and calls it 'The 'Rapper's Delight' of grime, complete with extended version'. 'Posse track' is a fair reading."
+ },
+ {
+  "key": "jammer-destruction-vip",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2006-03-14 (XLR8R, Sarah Bentley)",
+  "note": "Published 2006, so grade A not C. 'Future-industrial basslines'; 'merged the bass-heavy fundamentals of reggae with the double-time structure of garage'. These describe his production generally."
+ },
+ {
+  "key": "jammer-destruction-vip",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-04-22 (originally posted 2011)",
+  "note": "No. 12; 'The 'Rapper's Delight' of grime'."
+ },
+ {
+  "key": "jammer-destruction-vip",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2004-10-25",
+  "note": "Track 5: 'Jammer feat. Wiley, D Double E, Kano and Goodz 'Destruction VIP''."
+ },
+ {
+  "key": "jammer-destruction-vip",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "2006-03-14 (XLR8R)",
+  "note": "Grade A not C. Born in Leytonstone; basement studio 'in the house he grew up in'; 'formerly the official producer of the N.A.S.T.Y. crew'."
+ },
+ {
+  "key": "jammer-destruction-vip",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Run the Road (679, 24 Jan 2005) includes it, per Wikipedia and Chantelle Fiddy's blog (2004)."
+ },
+ {
+  "key": "ruff-sqwad-anna",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "release_field": "label",
+  "release_value": "White label (self-released) - inferred from The Quietus description of White Label Classics; not stated for this record",
+  "note": "Wikipedia (Slix) discography: 'Anna/Down' 2004, no label. The Quietus (2012) describes White Label Classics as instrumentals 'originally self-released on white label', which suggests a self-released white label, but no source states Anna's original format or label directly. Label left unconfirmed; the kind 'Single' is unverified (white-label 12-inch is more likely)."
+ },
+ {
+  "key": "ruff-sqwad-anna",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2013-01-03 (XLR8R, Si Truss)",
+  "new_text": "XLR8R pairs it with 'Ting n' Boots': their 'hollow synth riffs' sound iconic when given space to dominate.",
+  "note": "Said jointly of 'Anna' and 'Ting n' Boots': their 'hollow synth riffs' 'sound nothing short of iconic when given the space to dominate'."
+ },
+ {
+  "key": "ruff-sqwad-anna",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-10-31",
+  "note": "'Ominous, but woozily romantic and melodic' (crew's sound in general)."
+ },
+ {
+  "key": "ruff-sqwad-anna",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-12-03",
+  "new_text": "In FACT's 2012 feature, Bok Bok writes: 'I challenge you to listen to 'Anna' and not be moved.'",
+  "note": "More specific: Bok Bok writes 'I challenge you to listen to 'Anna' and not be moved'."
+ },
+ {
+  "key": "ruff-sqwad-anna",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Correct: only Wikipedia gives a date (2004), and no label is given anywhere."
+ },
+ {
+  "key": "lord-of-the-mics-1-2004",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "release_field": "artist",
+  "release_value": "Jammer and Ratty (creators); Capo associated per Vice, Nov 2004",
+  "note": "Wikipedia, Clash (2014) and RBMA (2012) name Jammer and Chad 'Ratty' Stennett as founders/creators. Wikipedia mentions Capo only for Lord of the Decks (2003). Vice (Nov 2004) does pair 'Capo & Ratty' with the DVD, so Capo's role is attested only there. Date 2004 is supported (Wikipedia; RBMA: 'released the first Lord Of The Mics DVD and accompanying compilation CD' in 2004). Note: the rel claiming a link to 'P's and Q's era' is not in the RBMA page."
+ },
+ {
+  "key": "lord-of-the-mics-1-2004",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2014-10-14 (Clash, Tomas Fraser)",
+  "note": "'Two emcees, a beat and a camera was the original format that the series adopted back in 2004'; Jammer's basement."
+ },
+ {
+  "key": "lord-of-the-mics-1-2004",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2012-12-06",
+  "note": "'We went down in the basement, played the beat'; 'this handheld camera I had'."
+ },
+ {
+  "key": "lord-of-the-mics-1-2004",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": null,
+  "note": "Wikipedia: 'LOTM was the first platform that released filmed grime clashes'; Smack DVD influence; the first clash (Wiley vs Kano) was filmed in Jammer's basement."
+ },
+ {
+  "key": "lord-of-the-mics-1-2004",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2015-09-11",
+  "note": "The voting point is Jammer speaking: 'we never released the winners'. That makes it participant testimony (B); the 'back of Jammer's car' detail is The FADER's own framing."
+ },
+ {
+  "key": "lord-of-the-mics-1-2004",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2015-09-11",
+  "note": "This is Jammer's own claim in an interview, so grade B not C. He says Kano was promoting his album on GMTV when viewers called in about LOTM."
+ },
+ {
+  "key": "lord-of-the-mics-1-2004",
+  "field": "context",
+  "index": 3,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2004-11-30 (Vice, Vol. 11 Issue 8)",
+  "new_text": "Vice's Grimewatch (Nov 2004) said Capo & Ratty 'continue to shot [sic] hundreds of copies' of Lord of the Mics.",
+  "note": "Vice wrote that 'Capo & Ratty continue to shot [sic] hundreds of copies of Lord Of The Mics'. 'Duplicating' is an interpretation: 'shot' (probably 'shift', i.e. sell) is ambiguous."
+ },
+ {
+  "key": "lord-of-the-mics-1-2004",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "A clash DVD, released in 2004 with a compilation CD (RBMA)."
+ },
+ {
+  "key": "jammer-murkle-man",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Clash (2014) dates it 'a little while after the release of the first Lord Of The Mics in 2004'; Trench has it performed live in 2005. 'c. 2004 to 2005' is fair. XLR8R 2006 spells it 'Merkle Man'."
+ },
+ {
+  "key": "jammer-murkle-man",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2017-11-06",
+  "note": "'Barely starting it before the first reload is in'."
+ },
+ {
+  "key": "jammer-murkle-man",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2014-05-22 (Clash, Aniefiok Ekpoudom)",
+  "note": "'Scored a solo success'; 'tongue-in-cheek' video, cape, 'a large M emblazed', patrolling his local area. Clash also says 'produced by Wiley'."
+ },
+ {
+  "key": "jammer-murkle-man",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "2006-03-14 (XLR8R)",
+  "new_text": "Jammer told XLR8R (2006) he was filming outside Leytonstone Underground Station with '40 mans watching' when he committed to the Merkle Man persona.",
+  "note": "Grade A not C. Jammer recalls 'There's 40 mans watching and I'm filming outside Leytonstone Underground Station'. XLR8R frames this as the moment he committed to the Merkle Man persona; it does not explicitly call it the music video shoot."
+ },
+ {
+  "key": "jammer-murkle-man",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "B",
+  "pub_date": "2013-06-28 (PRS M magazine, Jim Ottewill)",
+  "note": "Jammer is the speaker, so grade B not C. DJ Cameo played it at a Run the Road event at Fabric and 'asked me to perform it'. Wiley played it on his pirate show 'that night' after the studio session, a separate occasion from Fabric."
+ },
+ {
+  "key": "jammer-murkle-man",
+  "field": "context",
+  "index": 3,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2017-11-06",
+  "note": "Young Man Standing, 2005."
+ },
+ {
+  "key": "jammer-murkle-man",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "note": "PRS M does not credit Jammer as producer. Jammer says Wiley came to his studio, 'I did some beats for him which is when I recorded the Murkle Man', and that he made 'the tune with Skepta' advising on edits. That implies but does not state that he produced it. Clash (2014) explicitly says 'produced by Wiley'. The producers field 'Jammer (per PRS M magazine)' overstates the source. The dispute is real, but it is between one explicit credit (Wiley, Clash) and an implication (Jammer, PRS)."
+ },
+ {
+  "key": "kano-typical-me-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "45worlds: Kano Feat. Ghetto, 679 Recordings, 679L096CD1, CD single, 28 Feb 2005 (date from a Blues & Soul advert cited in a user comment). Track 1 credits Kano and Fraser T. Smith as producers; track 2 is P's And Q's (produced by Davinche). Wikipedia infobox lists only Fraser T Smith as producer and gives the same 28 February 2005 date. OCC credits the artist as 'KANO' alone."
+ },
+ {
+  "key": "kano-typical-me-2005",
+  "field": "sound",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": null,
+  "note": "Infobox: genre 'Rap rock', 4:34. Not a sonic description."
+ },
+ {
+  "key": "kano-typical-me-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart run 12/03/2005-26/03/2005 (OCC record)",
+  "note": "Singles chart: peak 22, 3 weeks. Hip Hop and R&B: peak 6, 6 weeks."
+ },
+ {
+  "key": "kano-typical-me-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": null,
+  "note": "'Marks Kano's first appearance in the UK Singles Chart'; 'the second single taken from his debut album'."
+ },
+ {
+  "key": "kano-typical-me-2005",
+  "field": "context",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": null,
+  "new_text": "Ghetts, then known as Ghetto, was born in Plaistow and formally joined N.A.S.T.Y. Crew around the mid-2000s (no year given). He featured twice on Home Sweet Home and toured with Kano and Mike Skinner.",
+  "note": "Wikipedia gives Plaistow as his birthplace. It says he 'formally joined' Nasty Crew 'around this time' without giving a year, so '2005' is not stated. Featured 'twice' on the album and toured with Kano and Mike Skinner are supported."
+ },
+ {
+  "key": "kano-typical-me-2005",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "No beat description was found in the opened sources."
+ },
+ {
+  "key": "ruff-sqwad-guns-and-roses-vol-1",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Wikipedia: 4 March 2005, Ruff Sqwad Recordings; Slix page gives format CD. The infobox's 'Producer' field names Rapid and Nkrumah as 'record executives', but the page notes state that 'All 23 tracks are produced by' Prince Rapid and Dirty Danger, so the producers field is supported."
+ },
+ {
+  "key": "ruff-sqwad-guns-and-roses-vol-1",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2020-02-12 (TRENCH, Jesse Bernard; personal essay)",
+  "new_text": "TRENCH (2020) describes Ruff Sqwad's romantic R&G-era tracks as built over '80s power ballad samples' and made on FruityLoops, naming The Police and Cutting Crew as recognisable sample sources (not specific to this mixtape).",
+  "note": "The essay does not tie these samples to Vol. 1; it talks about R&G-era tracks generally (naming 'Functions On The Low', 'Together', 'Your Love Feels'). The Police's 'Message In A Bottle' (1979) is not an 1980s power ballad, so the 'e.g.' is wrong. The FruityLoops point is supported."
+ },
+ {
+  "key": "ruff-sqwad-guns-and-roses-vol-1",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "c. Dec 2012 (Guardian, Dan Hancox, via inkl)",
+  "new_text": "Guardian (Hancox): in 2003-5 the crew's sound grew grander, with synth melodies, sweeping strings and military brass; they chopped rock and classical hooks in FruityLoops and drew on film soundtracks and hip-hop producers like Just Blaze.",
+  "note": "The 2003-5 grandeur, synth melodies, strings, brass and chopped rock/classical hooks are supported. Film soundtracks (e.g. Rocky) are 'drawn on'. The hip-hop reference is to producers they drew on (Dipset, Just Blaze), not samples. This is not specific to the mixtape."
+ },
+ {
+  "key": "ruff-sqwad-guns-and-roses-vol-1",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": null,
+  "new_text": "Wikipedia: debut mixtape and first of a three-part series; 'considered to be one of the best mixtapes to come from the grime scene' (cited to a record-shop page).",
+  "note": "Wikipedia says 'the first of a three-part album series', not 'planned'. 'Considered to be one of the best mixtapes to come from the grime scene' is cited only to a UK record-shop page."
+ },
+ {
+  "key": "ruff-sqwad-guns-and-roses-vol-1",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": null,
+  "note": "Wikipedia also adds frequent collaborator Mad Max."
+ },
+ {
+  "key": "ruff-sqwad-guns-and-roses-vol-1",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "note": "'Sample-led romantic phase' rests on the 2020 TRENCH essay, which does not name tracks from this mixtape. No source links specific Vol. 1 tracks to samples."
+ },
+ {
+  "key": "lady-sovereign-random-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Wikipedia: released 14 March 2005, Casual, producer Menta, writers Louise Harman and Gabriel Olegavich. Her first CD single."
+ },
+ {
+  "key": "lady-sovereign-random-2005",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": null,
+  "new_text": "Pitchfork, quoted on Wikipedia, heard 'blippy quipping coming off futuristic'. The infobox lists grime and hip hop.",
+  "note": "The infobox genre reads 'Grime; hip hop' only, with no 'electronic' or 'rap'. The Pitchfork phrase is 'blippy quipping coming off futuristic', so 'blippy' modifies her quipping and does not describe the sound."
+ },
+ {
+  "key": "lady-sovereign-random-2005",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": null,
+  "note": "Billboard's 'hands-in-the-air breakbeats, Colecovision sound effects' describes the Vertically Challenged EP as a whole. The item's wording correctly does not pin it on 'Random'."
+ },
+ {
+  "key": "lady-sovereign-random-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": null,
+  "note": "No. 73, one week in the top 75; first CD single; 'second and last single for Casual Records in 2005'; Def Jam after. Side note on rels: Wikipedia calls Ch Ching a 2004 12-inch promotional vinyl, not a white label."
+ },
+ {
+  "key": "lady-sovereign-random-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": null,
+  "note": "#8 on Pitchfork's Top 50 Singles of 2005."
+ },
+ {
+  "key": "lady-sovereign-random-2005",
+  "field": "context",
+  "index": 2,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "Spin, Aug 2005 (expanded 'director's cut' reposted 2017-10-31)",
+  "new_text": "Reynolds (Spin, 2005) said her forthcoming debut veered into 'alternative grime' with ska and punk influences, and that its tracks 'Tango' and 'Public Warning' fizz with cartoony humour.",
+  "note": "'Fizz with cartoony humor' is said of 'Tango' and 'Public Warning' from her forthcoming album, with Medasyn's beats, not of her work generally or of 'Random'. The 'alternative grime' with ska and punk influences is said of that forthcoming debut. Wording is from the 2017 expanded version of a 2005 Spin piece."
+ },
+ {
+  "key": "lady-sovereign-random-2005",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "new_text": "Evidence specimen; Wikipedia tags it grime and hip hop.",
+  "note": "The source tags are grime and hip hop (Wikipedia infobox), not 'electronic'. 'Electronic' was not found in the infobox."
+ },
+ {
+  "key": "kano-home-sweet-home-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Wikipedia: 27 June 2005, 679 Recordings; the producer list matches. Typical Me is track 5, P's and Q's track 3, Boys Love Girls track 16 (bonus), How We Livin' track 13 (Terror Danjah)."
+ },
+ {
+  "key": "kano-home-sweet-home-2005",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "A",
+  "pub_date": "Spin, Aug 2005 (expanded version reposted 2017-10-31)",
+  "new_text": "Simon Reynolds (Spin, 2005) found the album 'front-loaded with mid-tempo joints', with Kano 'smooth and poised even rapping in quick time' and his flow the one most likely to appeal to American hip-hop ears.",
+  "note": "'Front-loaded with mid-tempo joints' and 'smooth and poised even rapping in quick time' are accurate. 'Leaning towards conventional hip hop' is not said of this album: Reynolds uses 'conventional hip hop' of Roll Deep's debut. Of Kano he says his flow seems 'most likely to appeal to American hip-hop ears'."
+ },
+ {
+  "key": "kano-home-sweet-home-2005",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": null,
+  "new_text": "A July 2005 review quoted on Wikipedia (publication not named, probably Q) praised its 'deft wordplay and a range of musical reference points'. Wikipedia documents samples of Black Sabbath ('War Pigs') and Asha Puthli ('I Dig Love').",
+  "note": "The 'deft wordplay and a range of musical reference points' quote is on Wikipedia but footnoted only '[Jul 2005, p.115]' with no publication named. By footnote order it appears to be Q, not Mojo. The Mojo footnote reads 'Tough, yet with just enough tenderness' (Aug 2005). Samples are supported: 'I Don't Know Why' samples Black Sabbath's 'War Pigs'; 'Reload It' samples Asha Puthli's 'I Dig Love'."
+ },
+ {
+  "key": "kano-home-sweet-home-2005",
+  "field": "sound",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "Oct 2004 (i-D No. 248, The Unique Issue; online reprint 2016-01-21)",
+  "note": "'It's very experimental. None of us just do grime'; 'I would never say 'I'm a grime artist''. This is context rather than sound."
+ },
+ {
+  "key": "kano-home-sweet-home-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "A",
+  "pub_date": "chart record; first chart date 09/07/2005",
+  "note": "Albums chart peak 36, 11 weeks; Hip Hop and R&B Albums peak 3, 48 weeks (first charted there 10/09/2005)."
+ },
+ {
+  "key": "kano-home-sweet-home-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": null,
+  "note": "Metacritic 82 from 12; Pitchfork 8.4; Gold (BPI, 100,000+). 'His highest-selling album' is stated on the page."
+ },
+ {
+  "key": "kano-home-sweet-home-2005",
+  "field": "context",
+  "index": 2,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": null,
+  "note": "'Kano was 20 years old when the album was released.'"
+ },
+ {
+  "key": "kano-home-sweet-home-2005",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "i-D Oct 2004 quote confirmed."
+ },
+ {
+  "key": "roll-deep-when-im-ere",
+  "field": "release",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "release_field": "kind",
+  "release_value": "Album track / B-side (In at the Deep End, 6 Jun 2005; The Avenue CD single, 18 Jul 2005); single status disputed",
+  "note": "Sources conflict on whether it was a single. The Wikipedia Roll Deep page (IPFS mirror) lists it as one of four singles from In at the Deep End. But the In at the Deep End page lists only The Avenue (18 Jul 2005) and Shake a Leg as singles, and the discography lists it only as an album song. The Avenue CD single (Relentless, 18 Jul 2005) carries 'When I'm 'Ere' as track 2, and FACT gives the Wiley Remix as 'from AVENUE EP, RELENTLESS 2005'. Album version: track 8 of In at the Deep End (Relentless/Virgin, 6 Jun 2005), produced by Danny Weed."
+ },
+ {
+  "key": "roll-deep-when-im-ere",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "undated (MusicTech genre primer; no date or byline shown)",
+  "new_text": "MusicTech: built around Danny Weed's 'trademark gypsy accordion and camera flash snaps', turning pirate-radio rivalry into an 'easily-digestible three minute song'.",
+  "note": "MusicTech says 'built around Danny Weed's trademark gypsy accordion and camera flash snaps'. It does not say he played it (the accordion is a production sound). The 'three minute song' channels the pirate radio and rivalry energy."
+ },
+ {
+  "key": "roll-deep-when-im-ere",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2012-04-22 (originally posted 2011)",
+  "new_text": "FACT lists the Wiley Remix but nearly chose 'Poltergeist Relay' instead because this track has a chorus; it frames grime as pirate-radio cipher music with MCs passing the mic.",
+  "note": "Misread. FACT says it nearly chose 'Poltergeist Relay' instead because 'When I'm 'Ere' has a chorus, so the chorus counted against it. Roachee's first verse kept it in. FACT describes grime generally as 'pirate radio cipher music' with MCs passing the mic every 8 or 16 bars."
+ },
+ {
+  "key": "roll-deep-when-im-ere",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2012-04-22 (originally posted 2011)",
+  "note": "No. 14, 'When I'm 'Ere (Wiley Remix) (from AVENUE EP, RELENTLESS 2005)'; Roachee's first verse is singled out."
+ },
+ {
+  "key": "roll-deep-when-im-ere",
+  "field": "context",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": null,
+  "new_text": "Wikipedia's Roll Deep page lists Trim, Roachee, Manga and Scratchy on the track and calls it one of four singles from the 2005 debut album; other Wikipedia pages do not list it as a single.",
+  "note": "Members' entries list Trim, Roachee ('When I'm Here'), Manga and also Scratchy on the track. 'One of the singles' is stated on this page but contradicted by the In at the Deep End and discography pages (see release)."
+ },
+ {
+  "key": "roll-deep-when-im-ere",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Accordion lead (MusicTech) and MC relay (FACT) both appear in sources, though FACT's 'relay' wording is about grime generally."
+ },
+ {
+  "key": "kamikaze-ghetto-kyote-2005",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "FACT (2012): 'KAMIKAZE / TREBLE CLEF 'GHETTO KYOTE' (WHITE LABEL, 2005)'. FACT (2013): released on white label in 2005 under the name Kamikaze, Treble Clef's crew."
+ },
+ {
+  "key": "kamikaze-ghetto-kyote-2005",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2012-04-22 (originally posted 2011)",
+  "new_text": "FACT's joint note on this and XTC's 'Funktions on the Low': lo-fi instrumentals that 'sound like they're lost in the snow'.",
+  "note": "The 'lost in the snow' sentence is a joint note on this and XTC's 'Funktions on the Low' ('Lo-fi instrumentals', plural)."
+ },
+ {
+  "key": "kamikaze-ghetto-kyote-2005",
+  "field": "sound",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2013-03-20",
+  "note": "Verbatim. This is an evaluation, not a sonic description."
+ },
+ {
+  "key": "kamikaze-ghetto-kyote-2005",
+  "field": "context",
+  "index": 0,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2013-03-20",
+  "note": null
+ },
+ {
+  "key": "kamikaze-ghetto-kyote-2005",
+  "field": "context",
+  "index": 1,
+  "verdict": "supported",
+  "grade": "C",
+  "pub_date": "2013-03-20",
+  "note": null
+ },
+ {
+  "key": "kamikaze-ghetto-kyote-2005",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "FACT 2013: a version with Kano and others was released in 2006. DaVinChe (FACT 2014) says he wrote the song but did not make the beat."
+ },
+ {
+  "key": "ruff-sqwad-died-in-ur-arms",
+  "field": "release",
+  "index": null,
+  "verdict": "supported",
+  "grade": null,
+  "pub_date": null,
+  "note": "Wikipedia: Guns and Roses Volume 2, 13 October 2006, Ruff Sqwad Recordings; track 5 'Died in Ur Arms' (3:44); all tracks produced by Prince Rapid and Dirty Danger. White Label Classics (2012) includes 'Died in Your Arms' as CD-only (The Quietus)."
+ },
+ {
+  "key": "ruff-sqwad-died-in-ur-arms",
+  "field": "sound",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2020-02-12 (TRENCH, personal essay)",
+  "new_text": "TRENCH (2020) mentions Cutting Crew's '(I Just) Died In Your Arms' as a recognisable sample in Ruff Sqwad's R&G tracks; the title suggests this track uses it, but no source states so. Made on FruityLoops (crew generally).",
+  "note": "No opened source says this track samples Cutting Crew. TRENCH names Cutting Crew's 'Died In Your Arms' among samples the writer recognised in R&G tracks, and separately names Ruff Sqwad's 'Died In Your Arms' (Guns N Roses Vol. 2). The sample is a strong inference from the title, not a stated fact. Wikipedia (Vol. 2) mentions no samples. FruityLoops is said of the crew generally."
+ },
+ {
+  "key": "ruff-sqwad-died-in-ur-arms",
+  "field": "sound",
+  "index": 1,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2013-01-16 (Afropop, Sam Backer)",
+  "new_text": "Afropop pairs it ('Dying in Your Arms') with 'Functions on the Low' as cuts reflecting the crew's 'genuine melodic gifts', borrowing a chipmunked house sample and a cheesy synth tone.",
+  "note": "'Unabashed electronic beauty' describes the album's interludes generally. What is said of this track (spelled 'Dying in Your Arms'), jointly with 'Functions on the Low', is that both 'reflect the crew's genuine melodic gifts' and pull in a chipmunked house sample and a cheesy synth tone."
+ },
+ {
+  "key": "ruff-sqwad-died-in-ur-arms",
+  "field": "context",
+  "index": 0,
+  "verdict": "partly",
+  "grade": "C",
+  "pub_date": "2020-02-12",
+  "new_text": "TRENCH (2020) recalls it on a 2007 Valentine's mix CD from the period when R&G (rhythm and grime) 'had fully arrived'.",
+  "note": "TRENCH does not call it part of a 'definitive' R&G era. It says this track was on the writer's 2007 Valentine's mix CD, alongside 'Together', and then that 'By 2007, R&G had fully arrived'. It calls three other tracks 'arguably' the most representative of R&G."
+ },
+ {
+  "key": "ruff-sqwad-died-in-ur-arms",
+  "field": "type.basis",
+  "index": null,
+  "verdict": "partly",
+  "grade": null,
+  "pub_date": null,
+  "new_text": "Evidence specimen; its title and a 2020 essay suggest a sample of Cutting Crew's 1986 power ballad, not confirmed by a source.",
+  "note": "'Samples a 1980s power ballad' is not stated by any opened source for this track; it is inferred from the title plus TRENCH's general mention of Cutting Crew (1986). It should be hedged ('apparently samples' / 'title references')."
+ }
+]

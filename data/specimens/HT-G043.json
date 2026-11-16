@@ -1,0 +1,201 @@
+{
+ "id": "HT-G043",
+ "key": "pay-as-u-go-know-we-2000",
+ "sort": "2000-06-01",
+ "year": 2000,
+ "date": "2000 (Reynolds gives 2001)",
+ "kind": "12-inch",
+ "artist": "Pay As U Go Cartel",
+ "title": "Know We",
+ "label": "Solid City (per Reynolds; FACT says self-released)",
+ "cat": null,
+ "format": "Dubplate from late 1999, then vinyl (white labels sold to shops by Wiley, per RBMA)",
+ "producers": [
+  "Wiley (per Simon Reynolds)"
+ ],
+ "lane": "transition",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Transitional",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Produced by Wiley. Reynolds lists it in his 2005 Grime Primer as garage rap; FACT (2013) calls it vanguard grime. Its string hook and MC-first space anticipate Wiley's later records."
+ },
+ "sound": [
+  {
+   "text": "Reynolds (Wire 'Grime Primer', 2005, reposted 2015): simple programmed beats and a single violin-flourish hook, with the MCs carrying the track.",
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Trench (2019): ominous string riffs and harder-hitting drum sequences, like 'a rap cypher in a rave'.",
+   "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "FACT (2013): gritty and gruff, with a skeletal rhythm and bass drone and the MC as the focus.",
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Mixmag (2018): 'clearly demarcated space for MCs to fill with complex rhymes'.",
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "A dubplate circulated from late 1999 before the official 2000 release; the crew grew out of shows on the pirate station Rinse FM (Wikipedia).",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Reynolds (2005) says it was on dubplate from 1999 and in constant pirate rotation before release; Trench (2019) notes that members Geeneus and Slimzee co-founded Rinse FM.",
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Crew members included Wiley, Maxwell D, Flowdan, God's Gift, Slimzee, DJ Target, Geeneus, Breeze, Plague, Bubbles and Major Ace; remnants later formed Roll Deep.",
+   "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Mixmag's Dan Hancox (2018) claims it as the first grime track: a paradigm shift from dark garage to MC-centred tracks.",
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "RBMA (2015): 'Know We' started a buzz for the Pay As U Go and Bow crews, with Wiley selling white labels directly to shops.",
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "UK garage (crew-level infobox), credited with paving the way for grime",
+   "source": "Wikipedia (Pay As U Go)",
+   "year": "accessed 2026",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go"
+  },
+  {
+   "label": "garage rap, in a list headed Grime Primer",
+   "source": "Simon Reynolds, The Wire (reposted blissblog 2015)",
+   "year": "2005",
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html"
+  },
+  {
+   "label": "vanguard grime",
+   "source": "FACT",
+   "year": "2013",
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records"
+  },
+  {
+   "label": "grime: claimed as the first grime track",
+   "source": "Mixmag (Dan Hancox)",
+   "year": "2018",
+   "url": "https://mixmag.net/feature/history-of-grime"
+  },
+  {
+   "label": "'early prototype for grime' / 'grimey garage'",
+   "source": "Trench (Yemi Abiade)",
+   "year": "2019",
+   "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk"
+  }
+ ],
+ "rels": [
+  {
+   "type": "companion_of",
+   "other": "Roll Deep Entourage – Terrible (Reynolds calls them a chip-off-the-same-block pair; shops treated Terrible as its follow-up)",
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html"
+  },
+  {
+   "type": "same_crew_as",
+   "other": "Pay As U Go – Champagne Dance (2002)",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go"
+  }
+ ],
+ "uncertainty": "Year conflicts: 2000 (Wikipedia, FACT, Mixmag) vs 2001 (Reynolds). Label conflicts: Solid City (Reynolds), self-released (FACT), later Teebone (RBMA). No catalogue number found because Discogs was unavailable. Reynolds's 2001 'Unfaves of 2000' text reposted in the same post describes the 2001 pirate garage-rap sound generally, so it was not assigned to this record specifically.",
+ "tracklist": "Debut single of the crew. Per RBMA, Wiley later licensed it to Teebone in a bundle with 'Terrible' and 'Wickedest Ting'.",
+ "sources": [
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
+   "domain": "trenchtrenchtrench.com"
+  },
+  {
+   "url": "https://blissout.blogspot.com/2015/02/garage-rap-5.html",
+   "domain": "blissout.blogspot.com"
+  },
+  {
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://mixmag.net/feature/history-of-grime",
+   "domain": "mixmag.net"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Roll_Deep",
+   "domain": "wikipedia (mirror)"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

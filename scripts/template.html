@@ -1,0 +1,631 @@
+<title>Holotype Grime Register</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,500..800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: a specimen-cabinet register. Label-like cards on a cool archive-board ground; one cobalt accent marks selection and evidence. */
+:root{
+  --bg:#E4E8E5; --surface:#F7F8F6; --surface-2:#EDF0ED; --ink:#11161D; --muted:#55606B; --rule:#C2C9C4;
+  --accent:#2B45C4; --accent-soft:rgba(43,69,196,.10);
+  --good:#1E7548; --warn:#A35F00; --bad:#B3261E; --chip-ink:#FFFFFF;
+  --gA:#1E7548; --gB:#2B45C4; --gC:#6A7280;
+  --a0:#2B45C4; --a1:#0E7490; --a2:#1E7548; --a3:#A35F00; --a4:#A61E4D; --a5:#6D3BD6; --a6:#4B5563;
+  --f-display:"Archivo","Arial Narrow",Arial,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0E1115; --surface:#161A20; --surface-2:#1C2128; --ink:#E5E8EC; --muted:#99A3AE; --rule:#2C333C;
+  --accent:#8EA1FF; --accent-soft:rgba(142,161,255,.14);
+  --good:#5FCB92; --warn:#F0B04A; --bad:#FF8A80; --chip-ink:#0E1115;
+  --gA:#5FCB92; --gB:#8EA1FF; --gC:#9AA3AE;
+  --a0:#8EA1FF; --a1:#5CC6D9; --a2:#6FD19B; --a3:#F0B04A; --a4:#F27A9F; --a5:#B79BFF; --a6:#A0A8B3;
+  color-scheme:dark }}
+:root[data-theme="dark"]{
+  --bg:#0E1115; --surface:#161A20; --surface-2:#1C2128; --ink:#E5E8EC; --muted:#99A3AE; --rule:#2C333C;
+  --accent:#8EA1FF; --accent-soft:rgba(142,161,255,.14);
+  --good:#5FCB92; --warn:#F0B04A; --bad:#FF8A80; --chip-ink:#0E1115;
+  --gA:#5FCB92; --gB:#8EA1FF; --gC:#9AA3AE;
+  --a0:#8EA1FF; --a1:#5CC6D9; --a2:#6FD19B; --a3:#F0B04A; --a4:#F27A9F; --a5:#B79BFF; --a6:#A0A8B3;
+  color-scheme:dark }
+
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 var(--f-body);padding-inline:16px;padding-block:28px 64px}
+.wrap{max-width:1120px;margin-inline:auto}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0}
+h1{font-size:clamp(2.1rem,6vw,3.4rem);font-weight:800;font-stretch:125%;letter-spacing:-.01em;line-height:1}
+h2{font-size:1.55rem;font-weight:750;font-stretch:118%;line-height:1.15}
+h3{font-size:1rem;font-weight:700;font-stretch:110%}
+p{margin:0;max-width:70ch}
+.mono{font-family:var(--f-mono)}
+.num{font-variant-numeric:tabular-nums}
+.eyebrow{font-family:var(--f-mono);font-size:.74rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.muted{color:var(--muted)}
+a{color:var(--accent)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.top{display:grid;gap:14px;padding-bottom:22px;border-bottom:1px solid var(--rule)}
+.subtitle{font-family:var(--f-display);font-weight:650;font-stretch:115%;font-size:1.25rem;color:var(--muted)}
+.lead{font-size:1.06rem}
+.notice{display:grid;gap:6px;font-size:.88rem;color:var(--muted);border:1px dashed var(--rule);padding:10px 12px;border-radius:4px;max-width:86ch}
+.notice b{color:var(--ink);font-weight:600}
+.stats{display:flex;flex-wrap:wrap;gap:8px 22px;font-size:.88rem}
+.stats b{font-family:var(--f-display);font-weight:800;font-stretch:118%;font-size:1.35rem;margin-right:5px}
+nav.jump{display:flex;flex-wrap:wrap;gap:8px}
+nav.jump a{font-family:var(--f-mono);font-size:.8rem;text-decoration:none;color:var(--ink);border:1px solid var(--rule);padding:5px 10px;border-radius:999px;background:var(--surface)}
+nav.jump a:hover{border-color:var(--accent);color:var(--accent)}
+
+main{display:grid;gap:64px;padding-top:36px}
+section{display:grid;gap:18px;scroll-margin-top:16px;min-width:0}
+.sec-head{display:grid;gap:6px}
+
+/* filters + picker */
+.filters{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.chip{border:1px solid var(--rule);background:var(--surface);border-radius:999px;padding:4px 10px;font-size:.8rem;cursor:pointer}
+.chip[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft);color:var(--accent)}
+.search{border:1px solid var(--rule);background:var(--surface);border-radius:4px;padding:5px 10px;font:inherit;font-size:.86rem;color:var(--ink);min-width:0;flex:1 1 180px;max-width:280px}
+.picker{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:6px;max-height:300px;overflow:auto;padding:2px}
+.pick{border:1px solid var(--rule);background:var(--surface);border-radius:4px;padding:6px 10px;cursor:pointer;display:grid;gap:1px;text-align:left;min-width:0}
+.pick .mono{font-size:.7rem;color:var(--muted);display:flex;justify-content:space-between;gap:6px}
+.pick .t{font-size:.86rem;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pick .a{font-size:.78rem;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pick:hover{border-color:var(--muted)}
+.pick[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft)}
+.pick[aria-pressed="true"] .mono{color:var(--accent)}
+.empty{color:var(--muted);font-size:.9rem}
+
+/* card */
+.card{background:var(--surface);border:1px solid var(--rule);border-radius:6px;overflow:hidden}
+.card-head{display:grid;gap:8px;padding:18px 20px;border-bottom:1px solid var(--rule);background:var(--surface-2)}
+.card-head .row{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:baseline;justify-content:space-between}
+.acc{font-family:var(--f-mono);font-weight:600;font-size:.9rem;color:var(--accent)}
+.card-title{font-family:var(--f-display);font-size:1.75rem;font-weight:750;font-stretch:115%;line-height:1.1}
+.meta{display:flex;flex-wrap:wrap;gap:4px 18px;font-size:.88rem;color:var(--muted)}
+.meta b{color:var(--ink);font-weight:600}
+.hashline{font-family:var(--f-mono);font-size:.74rem;color:var(--muted);overflow-wrap:anywhere}
+.pill{display:inline-flex;align-items:center;gap:6px;font-family:var(--f-mono);font-size:.72rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;padding:3px 9px;border-radius:999px;border:1px solid currentColor;white-space:nowrap}
+.pill.type{color:var(--accent);background:var(--accent-soft)}
+.pill.quiet{color:var(--muted)}
+.panels{display:grid;grid-template-columns:repeat(3,minmax(0,1fr))}
+.panel{padding:18px 20px;display:grid;gap:12px;align-content:start;min-width:0;border-right:1px solid var(--rule)}
+.panel:last-child{border-right:0}
+.panel-k{display:flex;justify-content:space-between;gap:8px;align-items:baseline;flex-wrap:wrap}
+.panel-k .eyebrow{color:var(--ink);font-weight:600}
+.panel-note{font-size:.82rem;color:var(--muted)}
+@media (max-width:900px){.panels{grid-template-columns:minmax(0,1fr)}.panel{border-right:0;border-bottom:1px solid var(--rule)}.panel:last-child{border-bottom:0}}
+
+.barcode{display:grid;grid-template-columns:repeat(10,minmax(0,1fr));gap:2px}
+.bc{height:52px;display:flex;align-items:flex-end;justify-content:center;padding-bottom:4px;border-radius:2px;color:var(--chip-ink);font-family:var(--f-mono);font-size:.6rem;font-weight:600;letter-spacing:.02em;border:2px solid transparent}
+.bc.d{background:var(--surface)!important;color:var(--ink)}
+.bc.none{background:repeating-linear-gradient(45deg,var(--surface-2) 0 4px,var(--rule) 4px 5px)!important;color:var(--muted)}
+.bc.voc{margin-left:4px}
+dl.loci{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:4px 10px;margin:0;font-size:.85rem;align-items:baseline}
+dl.loci dt{font-family:var(--f-mono);font-size:.72rem;color:var(--muted);display:flex;gap:6px;align-items:center}
+dl.loci dd{margin:0}
+.sw{width:9px;height:9px;border-radius:2px;display:inline-block;flex:none;border:1.5px solid transparent}
+.basis{font-family:var(--f-mono);font-size:.66rem;font-weight:600;letter-spacing:.04em;text-transform:uppercase;padding:1px 6px;border-radius:3px;border:1px solid currentColor;white-space:nowrap}
+.basis.s{color:var(--good)} .basis.d{color:var(--warn)}
+dl.kv{display:grid;grid-template-columns:minmax(0,8.5em) minmax(0,1fr);gap:6px 12px;margin:0;font-size:.88rem}
+dl.kv dt{color:var(--muted)}
+dl.kv dd{margin:0;min-width:0;overflow-wrap:anywhere}
+.linkbtn{background:none;border:0;padding:0;color:var(--accent);cursor:pointer;font-family:var(--f-mono);font-size:.84rem;text-decoration:underline;text-underline-offset:2px}
+
+.ev{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.ev li{display:grid;grid-template-columns:auto minmax(0,1fr);gap:8px;font-size:.86rem;align-items:start}
+.ev li a{font-family:var(--f-mono);font-size:.72rem;overflow-wrap:anywhere}
+.g{font-family:var(--f-mono);font-size:.68rem;font-weight:600;width:20px;height:20px;display:inline-flex;align-items:center;justify-content:center;border-radius:3px;color:var(--chip-ink);margin-top:1px}
+.gA{background:var(--gA)} .gB{background:var(--gB)} .gC{background:var(--gC)}
+.below{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0;border-top:1px solid var(--rule)}
+.below>div{padding:18px 20px;display:grid;gap:12px;align-content:start;min-width:0}
+.below>div:first-child{border-right:1px solid var(--rule)}
+@media (max-width:900px){.below{grid-template-columns:minmax(0,1fr)}.below>div:first-child{border-right:0;border-bottom:1px solid var(--rule)}}
+.uncert{font-size:.84rem;background:var(--surface-2);border:1px solid var(--rule);border-radius:4px;padding:10px 12px;color:var(--ink)}
+.uncert b{font-weight:600}
+
+table{border-collapse:collapse;width:100%;font-size:.86rem}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--rule);vertical-align:top}
+th{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500;white-space:nowrap}
+.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+
+/* chain */
+.chain{display:grid;gap:12px}
+.chain-bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.btn{border:1px solid var(--rule);background:var(--surface);padding:7px 12px;border-radius:4px;cursor:pointer;font-size:.86rem;font-weight:500}
+.btn:hover{border-color:var(--ink)}
+.btn.primary{background:var(--ink);color:var(--surface);border-color:var(--ink)}
+.btn.danger{color:var(--bad);border-color:var(--bad)}
+.verdict-line{font-size:.88rem;padding:8px 12px;border-radius:4px;border:1px solid var(--rule);background:var(--surface-2)}
+.verdict-line.ok{border-color:var(--good);color:var(--good)}
+.verdict-line.fail{border-color:var(--bad);color:var(--bad)}
+.st{font-family:var(--f-mono);font-size:.72rem;font-weight:600;white-space:nowrap}
+.st.ok{color:var(--good)} .st.fail{color:var(--bad)} .st.idle{color:var(--muted)}
+tr.bad td{background:color-mix(in srgb,var(--bad) 7%,transparent)}
+tr.pending td{color:var(--muted);font-style:italic}
+.changed{color:var(--bad);font-weight:600}
+
+/* types */
+.types{display:grid;gap:14px}
+.tname{display:grid;grid-template-columns:minmax(0,13em) minmax(0,1fr);gap:16px;background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:16px 18px}
+@media (max-width:760px){.tname{grid-template-columns:minmax(0,1fr)}}
+.tname h3{font-size:1.25rem}
+.tname .series{display:grid;gap:8px}
+.trow{display:grid;grid-template-columns:minmax(0,10em) minmax(0,1fr);gap:4px 12px;font-size:.86rem;align-items:baseline}
+@media (max-width:520px){.trow{grid-template-columns:minmax(0,1fr)}}
+.callout{border-left:3px solid var(--warn);background:var(--surface);padding:12px 16px;border-radius:0 6px 6px 0;font-size:.9rem;display:grid;gap:6px}
+
+/* lineage */
+.figure{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:12px;min-width:0}
+.figure svg{display:block;width:100%;min-width:700px;height:auto}
+svg .ax{stroke:var(--rule)}
+svg .axt{fill:var(--muted);font-family:var(--f-mono);font-size:10.5px}
+svg .lane{fill:var(--ink);font-family:var(--f-body);font-size:11.5px;font-weight:600}
+svg .lanerule{stroke:var(--rule);stroke-dasharray:2 4}
+svg .e-inherit{stroke:var(--muted);stroke-width:1.4;fill:none}
+svg .e-transfer{stroke:var(--accent);stroke-width:1.4;fill:none;stroke-dasharray:6 4}
+svg .e-version{stroke:var(--muted);stroke-width:1.3;fill:none;stroke-dasharray:1.5 3.5}
+svg .e-contains{stroke:var(--rule);stroke-width:1.2;fill:none}
+svg .m-muted{fill:var(--muted)} svg .m-accent{fill:var(--accent)} svg .m-rule{fill:var(--rule)}
+svg .node{cursor:pointer}
+svg .node circle.dot{fill:var(--surface);stroke:var(--ink);stroke-width:1.6}
+svg .node.art circle.dot{stroke-dasharray:2 2}
+svg .node.type circle.dot{fill:var(--ink)}
+svg .node .halo{fill:none;stroke:var(--accent);stroke-width:2.2;opacity:0}
+svg .node.sel .halo{opacity:1}
+svg .node text{fill:var(--ink);font-family:var(--f-mono);font-size:10.5px}
+svg .node.sel text{fill:var(--accent);font-weight:600}
+svg .node:hover circle.dot{stroke:var(--accent)}
+.legend{display:flex;flex-wrap:wrap;gap:8px 20px;font-size:.8rem;color:var(--muted);padding:8px 4px 2px}
+.legend span{display:inline-flex;gap:8px;align-items:center}
+.lg-line{width:28px;height:0;border-top:1.6px solid var(--muted)}
+.lg-line.t{border-top:1.6px dashed var(--accent)}
+.lg-line.v{border-top:1.6px dotted var(--muted)}
+.lg-line.c{border-top:1.6px solid var(--rule)}
+.lg-dot{width:10px;height:10px;border-radius:50%;border:1.6px solid var(--ink)}
+.lg-dot.f{background:var(--ink)}
+.lg-dot.a{border-style:dashed}
+
+.align td,.align th{padding:4px 5px;text-align:center}
+.align td:first-child,.align th:first-child{text-align:left;white-space:nowrap}
+.al{display:inline-flex;width:24px;height:21px;align-items:center;justify-content:center;border-radius:3px;color:var(--chip-ink);font-family:var(--f-mono);font-size:.68rem;font-weight:600;border:1.5px solid transparent}
+.al.d{background:var(--surface)!important;color:var(--ink)}
+.al.off{opacity:.2}
+.al.none{background:transparent;color:var(--muted)}
+.align tr.cur td:first-child{color:var(--accent)}
+.align tr{cursor:pointer}
+.align tr:hover td{background:var(--surface-2)}
+.sharen{font-family:var(--f-mono);font-weight:600}
+.key{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:.8rem;color:var(--muted);align-items:center}
+
+/* audit */
+.platforms{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+@media (max-width:760px){.platforms{grid-template-columns:minmax(0,1fr)}}
+.plat{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:14px 16px;display:grid;gap:10px;align-content:start}
+.plat .score{font-family:var(--f-display);font-weight:800;font-stretch:118%;font-size:2.1rem;line-height:1}
+.stack{display:flex;height:10px;border-radius:3px;overflow:hidden;background:var(--surface-2)}
+.stack i{display:block;height:100%}
+.v{display:inline-block;font-family:var(--f-mono);font-size:.68rem;font-weight:600;padding:1px 6px;border-radius:3px;border:1px solid currentColor;white-space:nowrap}
+.v-correct{color:var(--good)} .v-adjacent{color:var(--accent)} .v-broad{color:var(--warn)} .v-wrong{color:var(--bad)} .v-absent,.v-none,.v-unc{color:var(--muted)}
+.bg-correct{background:var(--good)} .bg-adjacent{background:var(--accent)} .bg-broad{background:var(--warn)} .bg-wrong{background:var(--bad)} .bg-absent{background:var(--rule)}
+.audit td .lab{display:block;margin-bottom:3px;font-size:.8rem}
+.tick{color:var(--good);font-family:var(--f-mono);font-size:.7rem;margin-left:4px}
+.pub{color:var(--muted);font-family:var(--f-mono);font-size:.7rem}
+
+/* method */
+.two{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px}
+@media (max-width:900px){.two{grid-template-columns:minmax(0,1fr)}}
+.box{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:16px 18px;display:grid;gap:10px;align-content:start;min-width:0}
+.box ul{margin:0;padding-left:1.1em;display:grid;gap:6px;font-size:.88rem}
+.loctable td:first-child{font-family:var(--f-mono);font-size:.76rem;white-space:nowrap}
+.loctable td:nth-child(3){font-size:.82rem}
+.loctable .al{width:auto;padding:0 5px;margin:1px 4px 1px 0}
+
+/* coding + sources */
+.codebar{display:flex;height:10px;border-radius:3px;overflow:hidden;background:var(--surface-2);min-width:80px}
+.codebar i{display:block;height:100%}
+details{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:10px 14px}
+details summary{cursor:pointer;font-weight:600;font-size:.9rem}
+details ol{margin:10px 0 0;padding-left:1.4em;display:grid;gap:4px;font-size:.8rem}
+details ol a{font-family:var(--f-mono);overflow-wrap:anywhere}
+.domains{display:flex;flex-wrap:wrap;gap:6px}
+section>*{min-width:0}
+.dom{overflow-wrap:anywhere;font-family:var(--f-mono);font-size:.74rem;border:1px solid var(--rule);background:var(--surface);border-radius:3px;padding:2px 7px}
+.dom b{color:var(--accent);margin-left:4px}
+.toast{font-size:.84rem;color:var(--good)}
+footer{margin-top:64px;padding-top:16px;border-top:1px solid var(--rule);font-size:.8rem;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 18px}
+@media (prefers-reduced-motion:no-preference){.card{transition:border-color .2s}}
+</style>
+
+<header class="wrap top">
+  <div class="eyebrow">Reference register · Black British music · proof of concept v0.2</div>
+  <h1>Holotype</h1>
+  <div class="subtitle">Early grime and its garage roots, 2000 to 2006</div>
+  <p class="lead">Sixty-eight real releases from the years grime emerged, each held as a register entry: sourced release facts, evidence graded by when it was published, a ten-character musical profile, and a proposed place in a type series that anchors the names grime and eskibeat to dated records. Garage records are included as an outgroup, so the boundary can be seen rather than asserted. An audit then tests what streaming platforms call the same records.</p>
+  <div class="notice">
+    <span><b>What is solid.</b> Release facts and evidence come from published sources linked on every entry, each graded A (published at the time), B (a maker recalling later) or C (later journalism, reference works and shop listings).</span>
+    <span><b>What the audit shows.</b> <span id="auditline"></span></span>
+    <span><b>What is provisional.</b> Musical codes are drafts: some are supported by published descriptions, the rest inferred, and all await confirmation by ear. Type statuses are proposals for review, not decisions. No audio has been accessioned, so nothing is measured yet.</span>
+  </div>
+  <div class="stats num" id="stats"></div>
+  <nav class="jump" aria-label="Sections">
+    <a href="#register">Register</a><a href="#types">Type specimens</a><a href="#lineage">Lineage</a><a href="#audit">Platform audit</a><a href="#method">Method</a><a href="#coding">Coding sheet</a><a href="#sources">Sources</a>
+  </nav>
+</header>
+
+<main class="wrap">
+  <section id="register">
+    <div class="sec-head">
+      <div class="eyebrow">01 · The register</div>
+      <h2>Specimens</h2>
+      <p class="muted">Filter by working group or search, then pick a specimen. Groups are working sets for browsing, not genre claims.</p>
+    </div>
+    <div class="filters" id="filters"></div>
+    <div class="picker" id="picker" role="group" aria-label="Specimens"></div>
+    <div class="card" id="card"></div>
+    <div class="chain" id="chain"></div>
+  </section>
+
+  <section id="types">
+    <div class="sec-head">
+      <div class="eyebrow">02 · Names</div>
+      <h2>Proposed type specimens</h2>
+      <p class="muted">Each name is anchored to a dated record, not a definition. These are proposals to put in front of people from the scene, who can argue with them; disagreements will be recorded, not overwritten.</p>
+    </div>
+    <div class="types" id="typelist"></div>
+    <div class="callout" id="priority"></div>
+  </section>
+
+  <section id="lineage">
+    <div class="sec-head">
+      <div class="eyebrow">03 · Analysis</div>
+      <h2>How the records connect</h2>
+      <p class="muted">Specimens placed by release date and working group. Every line is a documented link from a source, not an inferred influence. Select a node to load it in the register and compare its codes below.</p>
+    </div>
+    <div class="figure scroll" id="graph"></div>
+    <div class="figure">
+      <div class="panel-k" style="padding:4px 4px 10px"><span class="eyebrow" style="color:var(--ink);font-weight:600">Character alignment</span><span class="panel-note" id="align-note"></span></div>
+      <div class="key" style="padding:0 4px 10px"><span><span class="al" style="background:var(--a0)">A</span> sourced code</span><span><span class="al d" style="border-color:var(--a0)">A</span> drafted, awaiting confirmation</span><span>Letters are variant codes per character; see Method.</span></div>
+      <div class="scroll" id="align"></div>
+    </div>
+  </section>
+
+  <section id="audit">
+    <div class="sec-head">
+      <div class="eyebrow">04 · Downstream use</div>
+      <h2>Platform audit</h2>
+      <p class="muted">What public music platforms call the same records, collected on 16 and 17 November 2026 from pages and APIs open without logging in. Spotify, Deezer, Last.fm, YouTube Music, Amazon Music and Tidal could not be read without an account, so they are not included.</p>
+    </div>
+    <div class="platforms" id="platforms"></div>
+    <p class="panel-note" id="auditrules"></p>
+    <div class="scroll"><table class="audit" id="audittable"></table></div>
+  </section>
+
+  <section id="method">
+    <div class="sec-head">
+      <div class="eyebrow">05 · Method</div>
+      <h2>How an entry is built</h2>
+      <p class="muted">Evidence is sealed and only ever added to; classification sits in a separate layer that can be revised. The biology terms give the evidence structure. They describe recordings, never people.</p>
+    </div>
+    <div class="two">
+      <div class="box">
+        <h3>Evidence grades</h3>
+        <table><tbody>
+          <tr><td><span class="g gA">A</span></td><td>Published at the time (2002 to 2006): chart records, contemporary reviews, interviews and blogs.</td></tr>
+          <tr><td><span class="g gB">B</span></td><td>A maker or participant recalling later.</td></tr>
+          <tr><td><span class="g gC">C</span></td><td>Later journalism, reference works and shop listings.</td></tr>
+        </tbody></table>
+        <p class="panel-note">Grades in v0.1 were assigned by rule from each source's date and type, then spot-checked. They need a full manual pass.</p>
+      </div>
+      <div class="box">
+        <h3>Type terms used here</h3>
+        <table><tbody>
+          <tr><td><b>Holotype</b></td><td>The record a name was attached to when it was coined. On the evidence so far, none of these names has one.</td></tr>
+          <tr><td><b>Lectotype</b></td><td>An anchor chosen later, when no record was named at the time. Most genre names, grime included, need one.</td></tr>
+          <tr><td><b>Paralectotype</b></td><td>The other early records in the same series once a lectotype is chosen.</td></tr>
+          <tr><td><b>Paratype</b></td><td>Other records cited alongside a holotype.</td></tr>
+          <tr><td><b>Voucher</b></td><td>Evidence for the name, with no naming role.</td></tr>
+          <tr><td><b>Transitional</b></td><td>A record sources split between UK garage and grime; part of the grime series until the priority question is settled.</td></tr>
+          <tr><td><b>Outgroup</b></td><td>A UK garage record used as a reference point, as an outgroup roots a tree in phylogenetics: it shows which characters grime inherited and which are new.</td></tr>
+          <tr><td><b>Candidate</b></td><td>A proposed anchor too weakly sourced to designate yet.</td></tr>
+          <tr><td><b>Context artefact</b></td><td>An album, compilation, mixtape or DVD: evidence about circulation, not coded as one profile.</td></tr>
+        </tbody></table>
+      </div>
+    </div>
+    <div class="box">
+      <h3>The ten characters (coding scheme v0.1, grime-specific)</h3>
+      <div class="scroll"><table class="loctable" id="loctable"></table></div>
+    </div>
+    <div class="box">
+      <h3>Where the analogy stops</h3>
+      <ul>
+        <li>Musical characters are not genes. The ten characters are a coding scheme, versioned like the taxonomy, and this version is built for grime.</li>
+        <li>Inheritance is chosen. A producer decides what to take, so links record credited reuse, versions and samples, not mutation.</li>
+        <li>Much of what makes grime grime is not in the audio: pirate radio, clashes, crews and place. That enters as graded evidence from people and documents.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="coding">
+    <div class="sec-head">
+      <div class="eyebrow">06 · Next step</div>
+      <h2>Coding sheet</h2>
+      <p class="muted">Every drafted code needs confirming by ear. The bars show how much of each character is already supported by a published description; the rest is the listening work.</p>
+    </div>
+    <div class="scroll"><table id="codesum"></table></div>
+    <div class="chain-bar"><button class="btn primary" type="button" id="copycsv">Copy the coding sheet as CSV</button><span class="toast" id="copytoast" role="status"></span></div>
+  </section>
+
+  <section id="sources">
+    <div class="sec-head">
+      <div class="eyebrow">07 · Evidence base</div>
+      <h2>Sources</h2>
+      <p class="muted">Every page cited across the register, grouped by site. Discogs and MusicBrainz could not be reached during research, so catalogue numbers are often missing; adding them is a priority for the next pass.</p>
+    </div>
+    <div class="domains" id="domains"></div>
+    <details><summary>All cited pages</summary><ol id="allsrc"></ol></details>
+  </section>
+</main>
+
+<footer class="wrap"><span>Holotype · early grime · proof of concept v0.2</span><span id="built"></span><span>Coding scheme v0.1 · taxonomy draft v0.2 (proposals only) · accession numbers are permanent</span></footer>
+
+<script>
+const DATA=/*DATA*/null;
+const LOCI=DATA.loci, SPEC=DATA.specimens, EDGES=DATA.edges, LANES=DATA.lanes;
+const byId=Object.fromEntries(SPEC.map(s=>[s.id,s]));
+const NAMING=['Holotype','Proposed lectotype'];
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+async function sha(x){const b=new TextEncoder().encode(x);const d=await crypto.subtle.digest('SHA-256',b);return Array.from(new Uint8Array(d),v=>v.toString(16).padStart(2,'0')).join('');}
+const shortH=h=>h?h.slice(0,8)+'…'+h.slice(-6):'…';
+const num=id=>id.slice(-3);
+const L=(c)=>String.fromCharCode(65+c.a);
+const laneName=k=>(LANES.find(l=>l.k===k)||{}).name||k;
+const dom=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return u}};
+const link=(u,t)=>`<a href="${esc(u)}" target="_blank" rel="noopener noreferrer">${esc(t||dom(u))}</a>`;
+
+let sel=(SPEC.find(s=>s.key==='musical-mob-pulse-x')||SPEC[0]).id;
+let laneFilter='all', query='';
+const chains={};
+
+/* ---------- header ---------- */
+function renderStats(){
+  const ev=SPEC.reduce((n,s)=>n+s.sound.length+s.context.length,0);
+  const coded=SPEC.filter(s=>s.geno).length;
+  const srcs=new Set(SPEC.flatMap(s=>s.sources.map(x=>x.url))).size;
+  $('#stats').innerHTML=`<span><b>${SPEC.length}</b>specimens</span><span><b>${coded}</b>coded</span><span><b>${ev}</b>graded evidence items</span><span><b>${srcs}</b>cited pages</span><span><b>${EDGES.length}</b>documented links</span>`;
+  $('#built').textContent=`Built ${DATA.built} from desk research (AI-assisted), with every round-one statement checked against its source`;
+}
+
+/* ---------- filters + picker ---------- */
+function renderFilters(){
+  const chips=[{k:'all',name:'All'}].concat(LANES);
+  $('#filters').innerHTML=chips.map(c=>`<button class="chip" type="button" data-lane="${c.k}" aria-pressed="${laneFilter===c.k}">${esc(c.name)}</button>`).join('')+`<input class="search" id="q" type="search" placeholder="Search title, artist, label" aria-label="Search specimens" value="${esc(query)}">`;
+}
+function visible(){
+  const q=query.trim().toLowerCase();
+  return SPEC.filter(s=>(laneFilter==='all'||s.lane===laneFilter)&&(!q||[s.title,s.artist,s.label,s.id].join(' ').toLowerCase().includes(q)));
+}
+function renderPicker(){
+  const v=visible();
+  $('#picker').innerHTML=v.length?v.map(s=>`<button class="pick" type="button" data-pick="${s.id}" aria-pressed="${s.id===sel}"><span class="mono"><span>${s.id}</span><span>${s.year}</span></span><span class="t">${esc(s.title)}</span><span class="a">${esc(s.artist)}</span></button>`).join(''):'<p class="empty">No specimens match. Clear the search or pick another group.</p>';
+}
+
+/* ---------- card ---------- */
+const evi=x=>`<li><span class="g g${x.g}" title="Grade ${x.g}">${x.g}</span><span>${esc(x.text)} ${link(x.url)}${x.pub?` <span class="pub">${esc(x.pub)}</span>`:''}${x.checked?'<span class="tick" title="Checked against the source">✓ checked</span>':''}</span></li>`;
+const VL={correct:'Correct',adjacent:'Adjacent',broad:'Too broad',wrong:'Wrong lineage','no genre':'No genre term','uncertain match':'Uncertain match'};
+const vclass=v=>v==='no genre'?'none':v==='uncertain match'?'unc':v;
+function genoPanel(s){
+  if(!s.geno) return `<div class="panel-k"><span class="eyebrow">Genotype</span><span class="panel-note">not coded</span></div><div class="barcode" role="img" aria-label="Not coded">${LOCI.map((l,i)=>`<div class="bc none${i===9?' voc':''}">${l.abbr}</div>`).join('')}</div><p class="panel-note">${esc(s.kind)}: a multi-track item, so it is not coded as one profile. Its tracks can be entered and coded as specimens in their own right.</p>`;
+  const bar=s.geno.map((c,i)=>!c?`<div class="bc none${i===9?' voc':''}" title="${esc(LOCI[i].name)}: not coded">${LOCI[i].abbr}</div>`:`<div class="bc${c.b==='d'?' d':''}${i===9?' voc':''}" style="${c.b==='d'?'border-color':'background'}:var(--a${c.a})" title="${esc(LOCI[i].name+': '+LOCI[i].alleles[c.a]+(c.b==='d'?' (drafted)':' (sourced)'))}">${LOCI[i].abbr}</div>`).join('');
+  const rows=s.geno.map((c,i)=>!c?`<dt><i class="sw" style="border-color:var(--rule)"></i>${LOCI[i].abbr}</dt><dd class="muted">Not coded: no lead sound identified</dd><dd></dd>`:`<dt><i class="sw" style="${c.b==='d'?'border-color':'background'}:var(--a${c.a})"></i>${LOCI[i].abbr}</dt><dd>${esc(LOCI[i].alleles[c.a])}</dd><dd><span class="basis ${c.b}">${c.b==='s'?'sourced':'draft'}</span></dd>`).join('');
+  const ns=s.geno.filter(c=>c&&c.b==='s').length, nd=s.geno.filter(c=>c&&c.b==='d').length;
+  return `<div class="panel-k"><span class="eyebrow">Genotype</span><span class="panel-note">coding v0.1 · ${ns} sourced, ${nd} drafted</span></div><div class="barcode" role="img" aria-label="Ten-character profile">${bar}</div><dl class="loci">${rows}</dl><p class="panel-note">Solid blocks are supported by a published description; outlined blocks are drafts awaiting confirmation by ear.</p>`;
+}
+function renderCard(){
+  const s=byId[sel], t=s.type;
+  const holo=t.holotype?`<dt>Anchored to</dt><dd><button class="linkbtn" data-pick="${t.holotype}">${t.holotype}</button> · ${esc(byId[t.holotype].title)}</dd>`:'';
+  const ctx=s.context.length?`<ul class="ev">${s.context.map(x=>evi(x)).join('')}</ul>`:'<p class="empty">No context evidence yet.</p>';
+  const sound=s.sound.length?`<ul class="ev">${s.sound.map(x=>evi(x)).join('')}</ul>`:'<p class="empty">No published description of the sound was found. Every code on this entry is drafted.</p>';
+  const rels=s.rels.length?`<ul class="ev">${s.rels.map(r=>`<li><span class="mono panel-note" style="min-width:5.5em">${esc(String(r.type||'').replace(/_/g,' '))}</span><span>${esc(r.other)}${r.url?' '+link(r.url):''}</span></li>`).join('')}</ul>`:'<p class="empty">No documented links to other records.</p>';
+  $('#card').innerHTML=`
+  <div class="card-head">
+    <div class="row"><span class="acc">${s.id}</span><span class="pill ${t.status==='Voucher'||t.status==='Context artefact'?'quiet':'type'}">${esc(t.status)} · ${esc(t.of)}</span></div>
+    <div class="card-title">${esc(s.title)}</div>
+    <div class="meta"><span><b>${esc(s.artist)}</b></span><span>${esc(s.date)}</span><span>${esc(s.label||'Label unconfirmed')}</span><span class="mono">${esc(s.cat||'no cat. no. verified')}</span><span>${esc(s.kind)}</span></div>
+    <div class="hashline">record sha256 · ${s.hash||'computing…'} · no audio accessioned</div>
+  </div>
+  <div class="panels">
+    <div class="panel">${genoPanel(s)}</div>
+    <div class="panel">
+      <div class="panel-k"><span class="eyebrow">Expression and use</span><span class="panel-note">phenotype · evidence only</span></div>
+      <dl class="kv">
+        <dt>Carrier</dt><dd>${esc(s.format||s.kind)}</dd>
+        ${s.producers&&s.producers.length?`<dt>Producers</dt><dd>${esc(s.producers.join('; '))}</dd>`:''}
+        <dt>Measured sound</dt><dd class="muted">Not measured: no audio accessioned yet</dd>
+      </dl>
+      ${ctx}
+    </div>
+    <div class="panel">
+      <div class="panel-k"><span class="eyebrow">Type and placement</span><span class="panel-note">revisable · proposal</span></div>
+      <dl class="kv">
+        <dt>Status</dt><dd><b>${esc(t.status)}</b>${NAMING.includes(t.status)?' (name-bearing)':''}</dd>
+        <dt>Name</dt><dd>${esc(t.of)}</dd>
+        ${holo}
+        <dt>Basis</dt><dd>${esc(t.basis)}</dd>
+        <dt>Group</dt><dd>${esc(laneName(s.lane))}</dd>
+        <dt>Decision</dt><dd class="muted">Not yet reviewed. Proposal v0.1.</dd>
+      </dl>
+    </div>
+  </div>
+  <div class="below">
+    <div><div class="panel-k"><span class="eyebrow" style="color:var(--ink);font-weight:600">How it sounds, according to published sources</span></div>${sound}</div>
+    <div><div class="panel-k"><span class="eyebrow" style="color:var(--ink);font-weight:600">Links to other records</span></div>${rels}
+      ${s.calls&&s.calls.length?`<div class="panel-k"><span class="eyebrow" style="color:var(--ink);font-weight:600">How sources label it</span></div><ul class="ev">${s.calls.map(c=>`<li><span class="mono panel-note" style="min-width:3.5em">${esc(c.year||'')}</span><span>${esc(c.label)}${c.source?' · '+esc(c.source):''}${c.url?' '+link(c.url):''}</span></li>`).join('')}</ul>`:''}
+      <div class="panel-k"><span class="eyebrow" style="color:var(--ink);font-weight:600">What platforms call it</span></div>
+      ${s.audit&&s.audit.length?`<ul class="ev">${s.audit.map(a=>`<li><span class="mono panel-note" style="min-width:5.5em">${esc(a.platform)}</span><span>${a.status==='not_available'?'<span class="v v-absent">Not listed</span>':`${esc(a.labels.join(', ')||'no label')} <span class="v v-${vclass(a.verdict)}">${esc(VL[a.verdict]||a.verdict)}</span>${a.match&&a.match!=='exact'?` <span class="pub">${esc(a.match)}${a.release?': '+esc(a.release):''}</span>`:''}${a.url?' '+link(a.url):''}`}</span></li>`).join('')}</ul>`:'<p class="empty">Not yet audited.</p>'}
+      ${s.uncertainty?`<div class="uncert"><b>Gaps and conflicts.</b> ${esc(s.uncertainty)}</div>`:''}
+      <div class="panel-note">${s.sources.length} cited pages: ${s.sources.map(x=>link(x.url,x.domain)).join(', ')}</div>
+    </div>
+  </div>`;
+}
+
+/* ---------- provenance chain ---------- */
+function entriesFor(s){
+  const g=s.sound.concat(s.context);const cnt=k=>g.filter(x=>x.g===k).length;
+  const ns=s.geno?s.geno.filter(c=>c&&c.b==='s').length:0, nd=s.geno?s.geno.filter(c=>c&&c.b==='d').length:0;
+  return [
+    {date:DATA.built,event:`Entry opened from desk research: ${s.sources.length} published pages`,by:'Holotype desk research'},
+    {date:DATA.built,event:`Release facts recorded${s.uncertainty?'; gaps and conflicts noted':''}`,by:'Holotype desk research'},
+    {date:DATA.built,event:`Evidence graded: ${cnt('A')} A, ${cnt('B')} B, ${cnt('C')} C`,by:'Holotype desk research'},
+    {date:DATA.built,event:s.geno?`Genotype drafted: ${ns} sourced, ${nd} drafted (coding v0.1)`:`Not coded: ${s.kind.toLowerCase()}, a multi-track item`,by:'Holotype desk research'},
+    {date:DATA.built,event:`Type status proposed: ${s.type.status} · ${s.type.of}`,by:'Proposal for review'}
+  ];
+}
+async function seal(id){const c=chains[id];let p=byId[id].hash;c.sealed=[];for(const e of c.entries){p=await sha(p+'|'+JSON.stringify(e));c.sealed.push(p);}}
+async function verify(id){const c=chains[id];let p=byId[id].hash;const r=[];for(let i=0;i<c.entries.length;i++){p=await sha(p+'|'+JSON.stringify(c.entries[i]));r.push({ok:p===c.sealed[i]});}c.result=r;}
+function renderChain(){
+  const s=byId[sel], c=chains[sel];
+  if(!c||!c.sealed.length){$('#chain').innerHTML='';return;}
+  const r=c.result, firstBad=r?r.findIndex(x=>!x.ok):-1;
+  let line='<div class="verdict-line">Each entry is sealed with a hash of itself, the entry before it and the record. Check the chain, then try backdating an entry.</div>';
+  if(r) line=firstBad<0?`<div class="verdict-line ok">All ${r.length} entries match their sealed hashes. The record is intact.</div>`:`<div class="verdict-line fail">Chain broken at entry ${firstBad+1}: the stored entry no longer matches its seal, so every later entry fails too.</div>`;
+  const rows=c.entries.map((e,i)=>{
+    const st=r?(r[i].ok?'<span class="st ok">✓ match</span>':'<span class="st fail">✕ mismatch</span>'):'<span class="st idle">sealed</span>';
+    const dc=(c.tampered&&i===0)?`<span class="changed">${e.date}</span>`:e.date;
+    return `<tr class="${r&&!r[i].ok?'bad':''}"><td class="num mono">${i+1}</td><td class="num mono">${dc}</td><td>${esc(e.event)}</td><td>${esc(e.by)}</td><td class="mono">${shortH(c.sealed[i])}</td><td>${st}</td></tr>`;}).join('')
+    +`<tr class="pending"><td class="num mono">${c.entries.length+1}</td><td class="mono">pending</td><td>${s.geno?'Codes confirmed by ear':'Tracks entered as separate specimens'}</td><td>Awaiting coder</td><td class="mono">not sealed</td><td><span class="st idle">open</span></td></tr>`
+    +`<tr class="pending"><td class="num mono">${c.entries.length+2}</td><td class="mono">pending</td><td>Type status reviewed with people from the scene</td><td>Awaiting review</td><td class="mono">not sealed</td><td><span class="st idle">open</span></td></tr>`;
+  $('#chain').innerHTML=`
+    <div class="panel-k"><h3>Provenance log, append-only</h3><span class="panel-note mono">${s.id}</span></div>
+    <div class="chain-bar"><button class="btn primary" data-action="verify">Check the chain</button>${c.tampered?'<button class="btn" data-action="restore">Restore the record</button>':'<button class="btn danger" data-action="tamper">Backdate entry 1</button>'}</div>
+    ${line}
+    <div class="scroll"><table><thead><tr><th>#</th><th>Date</th><th>Event</th><th>By</th><th>Sealed hash</th><th>Check</th></tr></thead><tbody>${rows}</tbody></table></div>`;
+}
+
+/* ---------- types ---------- */
+function renderTypes(){
+  const row=(s,st,strong)=>`<div class="trow"><span><span class="pill ${strong?'type':'quiet'}">${esc(st)}</span></span><span><button class="linkbtn" data-pick="${s.id}">${s.id}</button> <b>${esc(s.title)}</b> · ${esc(s.artist)} · ${esc(s.date)}</span></div>`;
+  const by=k=>SPEC.find(s=>s.key===k);
+  const groups=[
+    {n:'Grime',items:[...SPEC.filter(s=>s.type.of==='Grime'&&s.type.status==='Proposed lectotype').map(s=>[s,s.type.status,1]),
+      ...SPEC.filter(s=>s.type.of==='Grime'&&s.type.status==='Paralectotype').concat([by('wiley-eskimo')]).sort((a,b)=>a.sort.localeCompare(b.sort)).map(s=>[s,'Paralectotype',0]),
+      ...SPEC.filter(s=>s.type.status==='Transitional').sort((a,b)=>a.sort.localeCompare(b.sort)).map(s=>[s,'Transitional',0])]},
+    {n:'Eskibeat',items:SPEC.filter(s=>s.type.of==='Eskibeat'&&['Proposed lectotype','Paralectotype'].includes(s.type.status)).sort((a,b)=>(a.type.status==='Proposed lectotype'?-1:1)-(b.type.status==='Proposed lectotype'?-1:1)||a.sort.localeCompare(b.sort)).map(s=>[s,s.type.status,s.type.status==='Proposed lectotype'])},
+    {n:'Sublow',items:SPEC.filter(s=>s.type.of==='Sublow').map(s=>[s,s.type.status,1])},
+    {n:'Sino-grime',items:SPEC.filter(s=>s.type.of==='Sino-grime').map(s=>[s,s.type.status,0])},
+    {n:'UK garage (outgroup)',items:SPEC.filter(s=>s.type.status==='Outgroup').sort((a,b)=>a.sort.localeCompare(b.sort)).map(s=>[s,'Outgroup',0])}];
+  $('#typelist').innerHTML=groups.map(g=>{const v=SPEC.filter(s=>s.type.of===g.n&&s.type.status==='Voucher').length;
+    return `<div class="tname"><div><h3>${esc(g.n)}</h3><p class="panel-note">${g.n.startsWith('UK garage')?'Reference records that root the comparison.':`${v} further specimen${v===1?'':'s'} held as vouchers.`}</p></div><div class="series">${g.items.map(([s,st,strong])=>row(s,st,strong)).join('')}</div></div>`;}).join('');
+  $('#priority').innerHTML=`<b>The first question for review: where does grime begin?</b><span>Pulse X (March 2002) is the proposed anchor, but the register now holds five transitional records that may have priority. So Solid Crew's Dilemma (2000) was called ultra-minimal by Kode9 in 2001 and proto-grime by FACT in 2013, and the Quietus reports Wiley saying Oh No started grime. Pay As U Go's Know We (2000) and Roll Deep Entourage's Terrible (2001), both produced by Wiley, are listed as garage rap in Reynolds's 2005 Grime Primer. Oi! circulated as a promo in 2001, and Venom was made in 2001. If reviewers accept any of these as grime, priority moves the lectotype to it; if they are garage, they stay transitional. Either answer is a finding.</span>`;
+}
+
+/* ---------- lineage ---------- */
+function tOf(s){const y=+s.sort.slice(0,4),m=+s.sort.slice(5,7)||1,d=+s.sort.slice(8,10)||1;return y+(m-1)/12+(d-1)/365;}
+const X=t=>176+(t-2000)/7*560;
+const laneY={};LANES.forEach((l,i)=>laneY[l.k]=78+i*50);
+const POS={};
+(function layout(){
+  LANES.forEach(l=>{
+    const ss=SPEC.filter(s=>s.lane===l.k).sort((a,b)=>tOf(a)-tOf(b));
+    let lastX=-99,flip=0;
+    ss.forEach(s=>{const x=X(tOf(s));let dy=0;if(x-lastX<20){flip++;dy=(flip%2?-1:1)*12;}else flip=0;lastX=x;POS[s.id]={x,y:laneY[l.k]+dy};});
+  });
+})();
+function renderGraph(){
+  const W=760,H=78+LANES.length*50-10;
+  let g=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Network of documented links between specimens by date and group">`;
+  g+=`<defs>${['muted','accent','rule'].map(c=>`<marker id="ar-${c}" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="m-${c}"/></marker>`).join('')}</defs>`;
+  for(let y=2000;y<=2007;y++){const x=X(y);g+=`<line class="ax" x1="${x}" x2="${x}" y1="36" y2="${H-8}" stroke-opacity=".6"/>${y<2007?`<text class="axt" x="${x+40}" y="26" text-anchor="middle">${y}</text>`:''}`;}
+  LANES.forEach(l=>{const y=laneY[l.k];g+=`<text class="lane" x="10" y="${y+4}">${esc(l.name.length>24?l.name.slice(0,23)+'…':l.name)}<title>${esc(l.name)}</title></text><line class="lanerule" x1="168" x2="${W-10}" y1="${y}" y2="${y}" stroke-opacity=".7"/>`;});
+  EDGES.forEach(e=>{
+    const a=POS[e.f],b=POS[e.t];if(!a||!b)return;const r=8;
+    const ang=Math.atan2(b.y-a.y,b.x-a.x);const sx=a.x+r*Math.cos(ang),sy=a.y+r*Math.sin(ang),ex=b.x-r*Math.cos(ang),ey=b.y-r*Math.sin(ang);
+    const mx=(sx+ex)/2;const d=Math.abs(ex-sx)<14?`M${sx.toFixed(1)} ${sy.toFixed(1)}C${(sx+30).toFixed(1)} ${sy.toFixed(1)},${(ex+30).toFixed(1)} ${ey.toFixed(1)},${ex.toFixed(1)} ${ey.toFixed(1)}`:`M${sx.toFixed(1)} ${sy.toFixed(1)}C${mx.toFixed(1)} ${sy.toFixed(1)},${mx.toFixed(1)} ${ey.toFixed(1)},${ex.toFixed(1)} ${ey.toFixed(1)}`;
+    const m=e.k==='transfer'?'accent':e.k==='contains'?'rule':'muted';
+    g+=`<path class="e-${e.k}" d="${d}" marker-end="url(#ar-${m})"><title>${esc(e.f+' → '+e.t+': '+e.note)}</title></path>`;
+  });
+  SPEC.forEach(s=>{const p=POS[s.id];const named=NAMING.includes(s.type.status);const art=!s.geno;const showLabel=named||s.id===sel;
+    g+=`<g class="node${named?' type':''}${art?' art':''}${s.id===sel?' sel':''}" data-pick="${s.id}" tabindex="0" role="button" aria-label="${esc(s.id+' '+s.title+', '+s.artist)}"><title>${esc(s.id+' · '+s.title+' · '+s.artist+' · '+s.date+' · '+s.type.status)}</title><circle class="halo" cx="${p.x}" cy="${p.y}" r="11"/><circle class="dot" cx="${p.x}" cy="${p.y}" r="6.5"/>${showLabel?`<text x="${p.x+11}" y="${p.y-9}">${esc(s.title.length>18?s.title.slice(0,17)+'…':s.title)}</text>`:''}</g>`;});
+  g+='</svg>';
+  $('#graph').innerHTML=g+`<div class="legend"><span><i class="lg-dot f"></i>Name-bearing type</span><span><i class="lg-dot"></i>Other specimen</span><span><i class="lg-dot a"></i>Album, compilation or DVD</span><span><i class="lg-line"></i>Sequel or crew link</span><span><i class="lg-line t"></i>Mash-up or cross-producer remix</span><span><i class="lg-line v"></i>Version of one riddim</span><span><i class="lg-line c"></i>Contained in a release</span></div>`;
+}
+function renderAlign(){
+  const s=byId[sel];
+  const rows=SPEC.filter(o=>o.geno).map(o=>{
+    const cells=o.geno.map((c,i)=>{if(!c)return `<td><span class="al none">·</span></td>`;const same=s.geno&&s.geno[i]&&s.geno[i].a===c.a;return `<td><span class="al${c.b==='d'?' d':''}${s.geno&&!same?' off':''}" style="${c.b==='d'?'border-color':'background'}:var(--a${c.a})" title="${esc(LOCI[i].name+': '+LOCI[i].alleles[c.a]+(c.b==='d'?' (drafted)':' (sourced)'))}">${L(c)}</span></td>`;}).join('');
+    const sh=s.geno&&o.id!==sel?o.geno.reduce((n,c,i)=>n+(c&&s.geno[i]&&c.a===s.geno[i].a?1:0),0)+'/10':'—';
+    return `<tr class="${o.id===sel?'cur':''}" data-pick="${o.id}"><td class="mono">${num(o.id)} <span class="muted">${esc(o.title.length>16?o.title.slice(0,15)+'…':o.title)}</span></td>${cells}<td class="sharen">${sh}</td></tr>`;}).join('');
+  $('#align').innerHTML=`<table class="align"><thead><tr><th>Specimen</th>${LOCI.map(l=>`<th title="${esc(l.name)}">${l.abbr}</th>`).join('')}<th>Shared</th></tr></thead><tbody>${rows}</tbody></table>`;
+  $('#align-note').textContent=s.geno?`Faded codes differ from ${s.id}. Drafted codes make these matches provisional.`:`${s.id} is not coded; pick a coded specimen to compare.`;
+}
+
+/* ---------- audit ---------- */
+function renderAudit(){
+  const P=DATA.audit.platforms, order=['Apple Music','Qobuz','Bandcamp'], keys=['correct','adjacent','broad','wrong'];
+  $('#platforms').innerHTML=order.filter(n=>P[n]).map(n=>{const p=P[n];const tot=keys.reduce((t,k)=>t+(p.verdicts[k]||0),0)||1;
+    const owner=n==='Bandcamp'?'Tags chosen by the uploader (artist or label)':'Genre set by the platform or distributor';
+    return `<div class="plat"><div class="panel-k"><h3>${esc(n)}</h3><span class="panel-note">${p.listed} listed · ${p.absent} not listed</span></div>
+    <div><span class="score num">${p.grime_named}</span><span class="muted"> records labelled grime or a grime sub-style</span></div>
+    <div class="stack" role="img" aria-label="${keys.map(k=>(p.verdicts[k]||0)+' '+VL[k]).join(', ')}">${keys.map(k=>`<i class="bg-${k}" style="width:${(p.verdicts[k]||0)/tot*100}%" title="${VL[k]}: ${p.verdicts[k]||0}"></i>`).join('')}</div>
+    <div class="panel-note">${keys.filter(k=>p.verdicts[k]).map(k=>`${p.verdicts[k]} ${VL[k].toLowerCase()}`).join(' · ')}${p.fidelity!=null?` · fidelity ${p.fidelity}/100`:''}</div>
+    <div class="panel-note">Labels used: ${Object.entries(p.labels).sort((a,b)=>b[1]-a[1]).slice(0,6).map(([l,c])=>`${esc(l)} (${c})`).join(', ')}</div>
+    <div class="panel-note"><i>${owner}.</i></div></div>`;}).join('');
+  $('#auditrules').textContent='Scoring: '+DATA.audit.rules+' Fidelity weights correct 1, adjacent 0.5, too broad 0.25, wrong 0.';
+  const rows=SPEC.filter(s=>s.audit&&s.audit.length).map(s=>`<tr><td><button class="linkbtn" data-pick="${s.id}">${num(s.id)}</button> ${esc(s.title)}<div class="panel-note">${esc(s.type.status)} · ${esc(s.type.of)}</div></td>${order.map(n=>{const a=s.audit.find(x=>x.platform===n);if(!a)return '<td class="muted">not checked</td>';if(a.status==='not_available')return '<td><span class="v v-absent">Not listed</span></td>';return `<td><span class="lab">${esc(a.labels.join(', ')||'no label')}</span><span class="v v-${vclass(a.verdict)}">${esc(VL[a.verdict]||a.verdict)}</span></td>`;}).join('')}</tr>`).join('');
+  $('#audittable').innerHTML=`<thead><tr><th>Specimen</th>${order.map(n=>`<th>${n}</th>`).join('')}</tr></thead><tbody>${rows}</tbody>`;
+  const am=P['Apple Music'];if(am)$('#auditline').textContent=`Apple Music lists ${am.listed} of these records and labels ${am.grime_named===0?'none':am.grime_named} of them grime; ${am.absent} are not listed at all. Bandcamp, where artists and labels choose their own tags, uses grime for ${P['Bandcamp']?P['Bandcamp'].grime_named:0} of the ${P['Bandcamp']?P['Bandcamp'].listed:0} it lists.`;
+}
+
+/* ---------- method, coding, sources ---------- */
+function renderLoci(){
+  $('#loctable').innerHTML=`<thead><tr><th>Code</th><th>Character</th><th>Variants</th></tr></thead><tbody>${LOCI.map(l=>`<tr><td>${l.abbr}</td><td>${esc(l.name)}</td><td>${l.alleles.map((a,i)=>`<span class="al" style="background:var(--a${i})">${String.fromCharCode(65+i)}</span>${esc(a)}`).join(' &nbsp; ')}</td></tr>`).join('')}</tbody>`;
+}
+function renderCoding(){
+  const coded=SPEC.filter(s=>s.geno);
+  $('#codesum').innerHTML=`<thead><tr><th>Character</th><th>Sourced</th><th>Drafted</th><th>Not coded</th><th style="width:40%">Share sourced</th></tr></thead><tbody>${LOCI.map((l,i)=>{const s=coded.filter(o=>o.geno[i]&&o.geno[i].b==='s').length,d=coded.filter(o=>o.geno[i]&&o.geno[i].b==='d').length,n=coded.length-s-d;return `<tr><td>${esc(l.name)}</td><td class="num">${s}</td><td class="num">${d}</td><td class="num">${n}</td><td><div class="codebar" role="img" aria-label="${s} of ${coded.length} sourced"><i style="width:${s/coded.length*100}%;background:var(--good)"></i><i style="width:${d/coded.length*100}%;background:var(--warn);opacity:.45"></i></div></td></tr>`;}).join('')}</tbody>`;
+}
+function csv(){
+  const q=v=>`"${String(v??'').replace(/"/g,'""')}"`;
+  const rows=[['id','artist','title','date','character','code','variant','basis','confirmed (y/n)','corrected code','notes']];
+  SPEC.filter(s=>s.geno).forEach(s=>s.geno.forEach((c,i)=>rows.push([s.id,s.artist,s.title,s.date,LOCI[i].name,c?L(c):'',c?LOCI[i].alleles[c.a]:'not coded',c?(c.b==='s'?'sourced':'drafted'):'','','',''])));
+  return rows.map(r=>r.map(q).join(',')).join('\n');
+}
+function renderSources(){
+  const all=new Map();SPEC.forEach(s=>s.sources.forEach(x=>all.set(x.url,x.domain)));
+  const counts={};all.forEach(d=>counts[d]=(counts[d]||0)+1);
+  $('#domains').innerHTML=Object.entries(counts).sort((a,b)=>b[1]-a[1]).map(([d,n])=>`<span class="dom">${esc(d)}<b>${n}</b></span>`).join('');
+  $('#allsrc').innerHTML=[...all.keys()].sort().map(u=>`<li>${link(u,u)}</li>`).join('');
+}
+
+/* ---------- selection + events ---------- */
+function select(id,scroll){sel=id;renderPicker();renderCard();renderChain();renderGraph();renderAlign();if(scroll)$('#register').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});}
+document.addEventListener('click',async e=>{
+  const ch=e.target.closest('[data-lane]');if(ch){laneFilter=ch.dataset.lane;renderFilters();renderPicker();return;}
+  const p=e.target.closest('[data-pick]');
+  if(p){select(p.dataset.pick,!p.closest('#card,#picker'));return;}
+  const a=e.target.closest('[data-action]');
+  if(a){const c=chains[sel];
+    if(a.dataset.action==='verify'){await verify(sel);renderChain();}
+    if(a.dataset.action==='tamper'){c.orig=c.entries[0].date;c.entries[0]={...c.entries[0],date:'2026-11-01'};c.tampered=true;await verify(sel);renderChain();}
+    if(a.dataset.action==='restore'){c.entries[0]={...c.entries[0],date:c.orig};c.tampered=false;await verify(sel);renderChain();}
+    return;}
+  if(e.target.id==='copycsv'){
+    const text=csv();
+    try{await navigator.clipboard.writeText(text);$('#copytoast').textContent='Copied. Paste it into a spreadsheet.';}
+    catch(err){const ta=document.createElement('textarea');ta.value=text;ta.setAttribute('aria-label','Coding sheet CSV');ta.style.cssText='width:100%;height:160px;font-family:var(--f-mono);font-size:.75rem';$('#copytoast').textContent='Copying was blocked here. Select the text below and copy it.';$('#copytoast').after(ta);ta.select();}
+  }
+});
+document.addEventListener('input',e=>{if(e.target.id==='q'){query=e.target.value;renderPicker();}});
+document.addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target.matches('svg [data-pick]')){e.preventDefault();select(e.target.dataset.pick,true);}});
+
+/* ---------- init ---------- */
+renderStats();renderFilters();renderPicker();renderCard();renderTypes();renderAudit();renderGraph();renderAlign();renderLoci();renderCoding();renderSources();
+(async()=>{
+  for(const s of SPEC){
+    const sealed={id:s.id,artist:s.artist,title:s.title,label:s.label,cat:s.cat,date:s.date,kind:s.kind,sound:s.sound,context:s.context,sources:s.sources.map(x=>x.url)};
+    s.hash=await sha(JSON.stringify(sealed));
+    chains[s.id]={entries:entriesFor(s),sealed:[],result:null,tampered:false};await seal(s.id);
+  }
+  renderCard();renderChain();
+})();
+</script>

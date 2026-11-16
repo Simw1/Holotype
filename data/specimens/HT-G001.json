@@ -1,0 +1,189 @@
+{
+ "id": "HT-G001",
+ "key": "more-fire-crew-oi-2002",
+ "sort": "2002-03-04",
+ "year": 2002,
+ "date": "4 Mar 2002",
+ "kind": "Single",
+ "artist": "Platinum 45 feat. More Fire Crew",
+ "title": "Oi!",
+ "label": "Go! Beat",
+ "cat": "GOBCD48",
+ "format": "CD single (catalogue number as listed by the Official Charts Company); Wikipedia notes a promo issue in 2001 but gives no format for it",
+ "producers": [
+  "Platinum 45"
+ ],
+ "lane": "garage",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Paralectotype",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Charted at no. 8 in March 2002 and widely called the first grime song in the UK chart, but sources also tag it UK garage. Kept in the type series as a transitional specimen; whether it outranks Pulse X on priority is a question for the panel."
+ },
+ "sound": [
+  {
+   "text": "Wikipedia describes heavy bass together with numerous UK garage-style elements, and lists the record as both grime and garage.",
+   "url": "https://en.wikipedia.org/wiki/Oi!_(song)",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "A 20th-anniversary retrospective notes stop-start rhythms, quick-fire quotable lines and punchy energy, and places the track in the moment when garage was 'darkened and twisted' into grime.",
+   "url": "https://trenchtrenchtrench.com/news/heritage-more-fire-crew-platinum-45-storm-the-uk-charts-with-their-grime-classic-oi-2002",
+   "g": "C",
+   "checked": true,
+   "pub": "4 Mar 2022"
+  }
+ ],
+ "context": [
+  {
+   "text": "Peaked at no. 8 on the Official Singles Chart (first chart date 16/03/2002, 8 weeks) and no. 2 on the Official Dance Singles Chart.",
+   "url": "https://www.officialcharts.com/songs/platinum-45-featuring-more-fire-crew-oi/",
+   "g": "A",
+   "checked": true,
+   "pub": "official chart record (chart dated 16 Mar 2002)"
+  },
+  {
+   "text": "Wikipedia's More Fire Crew article calls it widely recognised as the first grime song to reach the UK Singles Chart.",
+   "url": "https://en.wikipedia.org/wiki/Platinum_45",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "More Fire Crew (Lethal Bizzle, Ozzie B, Neeko) are from Waltham Forest, London, and built their profile hosting a show on the pirate station Deja Vu FM.",
+   "url": "https://en.wikipedia.org/wiki/Platinum_45",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "The video received heavy rotation on Channel U in 2003 and became one of its most requested videos.",
+   "url": "https://en.wikipedia.org/wiki/Oi!_(song)",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "Stereogum (2016) calls it 'the inaugural grime anthem'.",
+   "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+   "g": "C",
+   "checked": true,
+   "pub": "14 Mar 2016"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "crew_link",
+   "other": "Lethal Bizzle - Pow! (Forward) (2004): solo single by a More Fire Crew member, with Ozzie B and Neeko also featured",
+   "url": "https://en.wikipedia.org/wiki/Pow!_(Forward)"
+  }
+ ],
+ "uncertainty": "Genre labelling differs: the song's Wikipedia page lists it as grime and garage, the More Fire Crew article and Stereogum call it grime, and the Trench retrospective places it in the transition from garage to grime. Wikipedia says a promo was issued in 2001; no promo format or catalogue number was verified. The label is styled 'Go Beat' by the OCC and on the song page, and 'Go! Beat' on the crew page. Discogs could not be fetched.",
+ "tracklist": "Wikipedia says the CD single included the music video. The track also appears on the crew's debut album More Fire Crew C.V. (Go! Beat, 27 January 2003).",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Oi!_(song)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://www.officialcharts.com/songs/platinum-45-featuring-more-fire-crew-oi/",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://trenchtrenchtrench.com/news/heritage-more-fire-crew-platinum-45-storm-the-uk-charts-with-their-grime-classic-oi-2002",
+   "domain": "trenchtrenchtrench.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Platinum_45",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/lists",
+   "domain": "stereogum.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "compilation",
+   "release": "Best of Bizzle",
+   "level": "track",
+   "url": "https://music.apple.com/ie/song/oi-feat-more-fire-crew/1232977876",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "compilation",
+   "release": "Kurupt FM present The Lost Tape",
+   "level": "album",
+   "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

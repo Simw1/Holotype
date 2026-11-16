@@ -1,0 +1,207 @@
+{
+ "id": "HT-G013",
+ "key": "jon-e-cash-war-2003",
+ "sort": "2003-06-01",
+ "year": 2003,
+ "date": "2003",
+ "kind": "12-inch",
+ "artist": "Jon E Cash",
+ "title": "War",
+ "label": "White label",
+ "cat": null,
+ "format": "12\" white label",
+ "producers": [
+  "Jon E Cash"
+ ],
+ "lane": "sublow",
+ "geno": [
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 4,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Proposed lectotype",
+  "of": "Sublow",
+  "holotype": null,
+  "basis": "Jon E Cash is credited with inventing sublow, and War is among the best-known Black Ops productions. The case rests on record-shop and later sources (grade C); a stronger candidate may exist among earlier Black Ops white labels."
+ },
+ "sound": [
+  {
+   "text": "Complex: 'synth-rattling, horn-blasting'.",
+   "url": "https://www.complex.com/music/2015/07/novelist-jon-e-cash-war",
+   "g": "C",
+   "checked": true,
+   "pub": "6 Jul 2015"
+  },
+  {
+   "text": "Digi-dub style horns (also on 'Battle'); Cash's sound runs at about 140 bpm with heavy, exaggerated bass and hard drums.",
+   "url": "https://meditations.jp/en/products/jon-e-cash-sublow-2lp",
+   "g": "C",
+   "checked": true,
+   "pub": "undated shop listing (reissue)"
+  },
+  {
+   "text": "Rubadub: drums 'hard as nails', bass 'tuned for maximum rave damage' (compilation-level).",
+   "url": "https://rubadub.co.uk/products/sublow",
+   "g": "C",
+   "checked": true,
+   "pub": "undated shop listing (reissue)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Jon E Cash gave Slimzee the dub at a Sidewinder rave; Slimzee played it on Rinse twice each Sunday, reportedly the only DJ with it for two years before release.",
+   "url": "https://legacy.boilerroom.tv/slimzee-asbos-breakdowns-and-dubplates",
+   "g": "C",
+   "checked": true,
+   "pub": "6 Jul 2015"
+  },
+  {
+   "text": "Jon E Cash, a West London artist and founding member of the Black Ops crew, is credited with inventing sublow, a West London pocket of grime.",
+   "url": "https://www.forcedexposure.com/Catalog/jon-e-cash-black-ops-12-/TTRS.001EP.html",
+   "g": "C",
+   "checked": true,
+   "pub": "2016 (TTRS 001EP listing)"
+  },
+  {
+   "text": "Shop copy for the reissue says he released the white labels of 'Drop Top Bimmer Kid' and named the style he fused from garage and hip-hop roots sublow.",
+   "url": "https://rubadub.co.uk/products/sublow",
+   "g": "C",
+   "checked": true,
+   "pub": "undated shop listing (reissue)"
+  },
+  {
+   "text": "Last.fm lists 'War' among the top Black Ops productions.",
+   "url": "https://last.fm/music/Jon+E+Cash/+wiki",
+   "g": "C",
+   "checked": true,
+   "pub": "undated (Last.fm wiki)"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "vocal over instrumental",
+   "other": "Novelist vocal over Jon E Cash's 'War' (2015)",
+   "url": "https://www.complex.com/music/2015/07/novelist-jon-e-cash-war"
+  },
+  {
+   "type": "same producer, same style",
+   "other": "'Battle' (also with digi-dub horns)",
+   "url": "https://meditations.jp/en/products/jon-e-cash-sublow-2lp"
+  }
+ ],
+ "uncertainty": "The release year depends on Complex's 'released on white label back in '03'. Boiler Room's 'two years before its release' suggests the dub circulated from about 2001. No label or catalogue number was found, and Discogs was blocked. Sources on sublow are mainly record-shop copy for the reissue.",
+ "tracklist": "Collected on the Sneaker Social Club compilation 'Sublow' (SNKRLP015), which covers beats from 1999 to 2005.",
+ "sources": [
+  {
+   "url": "https://www.complex.com/music/2015/07/novelist-jon-e-cash-war",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://legacy.boilerroom.tv/slimzee-asbos-breakdowns-and-dubplates",
+   "domain": "legacy.boilerroom.tv"
+  },
+  {
+   "url": "https://meditations.jp/en/products/jon-e-cash-sublow-2lp",
+   "domain": "meditations.jp"
+  },
+  {
+   "url": "https://rubadub.co.uk/products/sublow",
+   "domain": "rubadub.co.uk"
+  },
+  {
+   "url": "https://www.forcedexposure.com/Catalog/jon-e-cash-black-ops-12-/TTRS.001EP.html",
+   "domain": "forcedexposure.com"
+  },
+  {
+   "url": "https://last.fm/music/Jon+E+Cash/+wiki",
+   "domain": "last.fm"
+  },
+  {
+   "url": "https://www.complex.com/music/2016/02/the-evolution-of-grime-production",
+   "domain": "complex.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "found",
+   "labels": [
+    "electronic",
+    "classic",
+    "dablackops",
+    "grime",
+    "instrumental",
+    "jon e cash",
+    "sublow",
+    "war",
+    "London"
+   ],
+   "match": "version",
+   "release": "WAR",
+   "level": "tags",
+   "url": "https://blackopssublow.bandcamp.com/album/war",
+   "retrieved": "2026-11-16",
+   "verdict": "correct"
+  }
+ ],
+ "round": 1
+}

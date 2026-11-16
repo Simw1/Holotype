@@ -1,0 +1,212 @@
+{
+ "id": "HT-G008",
+ "key": "dizzee-rascal-i-luv-u",
+ "sort": "2002-10-01",
+ "year": 2002,
+ "date": "2002 (test pressing); single 26 May 2003",
+ "kind": "Single",
+ "artist": "Dizzee Rascal",
+ "title": "I Luv U",
+ "label": "XL Recordings",
+ "cat": null,
+ "format": "Test pressing circulated on pirate radio 2002; commercial CD single 2003",
+ "producers": [
+  "Dizzee Rascal"
+ ],
+ "lane": "mc",
+ "geno": [
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 4,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 1,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 1,
+   "b": "d"
+  }
+ ],
+ "type": {
+  "status": "Paralectotype",
+  "of": "Grime",
+  "holotype": "HT-G002",
+  "basis": "A 2002 test pressing played on pirate radio before the 2003 single, which became Dizzee Rascal's first top 40 hit (no. 29), after Oi! had reached no. 8 in 2002."
+ },
+ "sound": [
+  {
+   "text": "Opens with a stuttering voice repeating the title, then drops into a bass-heavy rhythm.",
+   "url": "https://en.wikipedia.org/wiki/I_Luv_U_(Dizzee_Rascal_song)",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "Dizzee: built on a dirty bassline and an unfamiliar kick (reused on 'Wot U On?'); strings are his attempt at the strings of 'What's Your Fantasy'.",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "g": "B",
+   "checked": true,
+   "pub": "5 May 2016"
+  },
+  {
+   "text": "Boy-girl call-and-response structure modelled on 'Is That Your Chick?' and 'What's Your Fantasy?'.",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "g": "B",
+   "checked": true,
+   "pub": "5 May 2016"
+  },
+  {
+   "text": "A 'dark tale' over a bass-heavy instrumental.",
+   "url": "https://www.stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/franchises/list/",
+   "g": "C",
+   "checked": true,
+   "pub": "14 Mar 2016"
+  }
+ ],
+ "context": [
+  {
+   "text": "Peaked at no. 29 on the UK Singles Chart (his first top 40) and no. 5 on the UK Indie chart.",
+   "url": "https://en.wikipedia.org/wiki/I_Luv_U_(Dizzee_Rascal_song)",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "The Wire compared its impact on grime to 'Anarchy in the U.K.' for punk; named in The Pitchfork 500 (2008).",
+   "url": "https://en.wikipedia.org/wiki/I_Luv_U_(Dizzee_Rascal_song)",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "Self-produced, made earlier than the rest of Boy in da Corner, just after he dropped out of college, while on Deja Vu FM and associated with NASTY Crew.",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "g": "B",
+   "checked": true,
+   "pub": "5 May 2016"
+  },
+  {
+   "text": "Stereogum: one of the first grime singles to chart in the UK.",
+   "url": "https://www.stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/franchises/list/",
+   "g": "C",
+   "checked": true,
+   "pub": "14 Mar 2016"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "remix",
+   "other": "I Luv U (Remix) feat. Wiley & Sharkey Major",
+   "url": "https://en.wikipedia.org/wiki/I_Luv_U_(Dizzee_Rascal_song)"
+  },
+  {
+   "type": "shared kick drum",
+   "other": "Dizzee Rascal - Wot U On?",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+  },
+  {
+   "type": "same call-and-response template",
+   "other": "Dizzee Rascal - Jezebel",
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner"
+  },
+  {
+   "type": "mash-up (2003 white label)",
+   "other": "Musical Mob - Pulse X",
+   "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+  },
+  {
+   "type": "lead single of",
+   "other": "Dizzee Rascal - Boy in da Corner",
+   "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner"
+  }
+ ],
+ "uncertainty": "Catalogue numbers and the exact form of the 2002 pressing (white label / test pressing) not verified beyond Wikipedia's 'test pressing'. Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs.",
+ "tracklist": "CD: Clean Radio Edit / Remix feat. Wiley & Sharkey Major / Original Mix. Female vocal by Jeanine (Janine) Jacques.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/I_Luv_U_(Dizzee_Rascal_song)",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2016/05/track-by-track-dizzee-rascal-s-boy-in-da-corner",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://www.stereogum.com/1864651/10-essential-tracks-from-the-early-years-of-grime/franchises/list/",
+   "domain": "stereogum.com"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Boy_in_da_Corner",
+   "domain": "en.wikipedia.org"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "exact",
+   "release": "Boy In Da Corner",
+   "level": "track",
+   "url": "https://music.apple.com/zm/song/i-luv-u/1438903430",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Hip-Hop/Rap"
+   ],
+   "match": "version",
+   "release": "Boy In Da Corner (20th Anniversary Edition)",
+   "level": "album",
+   "url": "https://www.qobuz.com/gb-en/album/boy-in-da-corner-dizzee-rascal/s6mv77cqg11vc",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "not_available",
+   "labels": [],
+   "match": null,
+   "release": null,
+   "level": null,
+   "url": null,
+   "retrieved": "2026-11-16"
+  }
+ ],
+ "round": 1
+}

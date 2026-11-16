@@ -1,0 +1,148 @@
+{
+ "id": "HT-G051",
+ "key": "pay-as-u-go-champagne-dance-2002",
+ "sort": "2002-04-27",
+ "year": 2002,
+ "date": "2002 (chart entry 27 Apr 2002)",
+ "kind": "Single",
+ "artist": "Pay As U Go",
+ "title": "Champagne Dance",
+ "label": "So Urban / Sony",
+ "cat": "6721362",
+ "format": "12-inch single and CD single",
+ "producers": [],
+ "lane": "transition",
+ "geno": [
+  {
+   "a": 1,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Outgroup",
+  "of": "UK garage",
+  "holotype": null,
+  "basis": "The crew's party-friendly garage single, recorded with Wiley and Geeneus. Held as an outgroup: the same crew, in its garage mode, in the same year as Eskimo."
+ },
+ "sound": [
+  {
+   "text": "Trench (2019): a memorable sung hook over bouncy, summery production, the crew's party-friendly garage mode as opposed to their darker material.",
+   "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "RBMA (2015): recorded at Island's Fallout Shelter studio with Geeneus and Wiley, with Matthew Herbert on keys.",
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Official Singles Chart peak no. 13 (first chart date 27 Apr 2002, 5 weeks); Dance chart peak no. 5.",
+   "url": "https://officialcharts.com/songs/pay-as-u-go-champagne-dance",
+   "g": "A",
+   "checked": false
+  },
+  {
+   "text": "Per RBMA (2015), Island's MD rejected it and Sony signed it.",
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Wikipedia calls it the crew's only charting hit before they split; members went on to the grime crew Roll Deep.",
+   "url": "https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Champagne_Dance",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "UK garage",
+   "source": "Wikipedia infobox",
+   "year": "accessed 2026",
+   "url": "https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Champagne_Dance"
+  },
+  {
+   "label": "mainstream garage hit / UK garage crossover",
+   "source": "Trench; FACT",
+   "year": "2019; 2013",
+   "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk"
+  }
+ ],
+ "rels": [
+  {
+   "type": "same_crew_as",
+   "other": "Pay As U Go – Know We (2000)",
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go"
+  }
+ ],
+ "uncertainty": "Year conflicts: Trench and FACT place it in 2001; OCC and Wikipedia give 2002. Peak conflicts: RBMA says no. 12, but OCC shows no. 13. Label naming differs (OCC: So Urban; Wikipedia: Sony Music; So Urban was presumably a Sony imprint, which is not verified). Producer not credited in the sources. It is included as the garage-facing counterpart to 'Know We'; no source calls it grime.",
+ "tracklist": "12-inch: A 'Brown Acid Mix'; B1 'Da Sticky Lick'; B2 'Destruction Remix'. CD: Brown Acid Radio Edit / Da Sticky Lick / Destruction Remix / video. Writers include Richard Cowie Jr (Wiley) and Darren Joseph (DJ Target).",
+ "sources": [
+  {
+   "url": "https://officialcharts.com/songs/pay-as-u-go-champagne-dance",
+   "domain": "officialcharts.com"
+  },
+  {
+   "url": "https://kaweah.freedombox.rocks/kiwix/content/wikipedia_en_all_maxi_2023-10/A/Champagne_Dance",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://ipfs.ssi.eecc.de/ipns/en.wikipedia-on-ipfs.org/wiki/Pay_As_U_Go",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://trenchtrenchtrench.com/features/pay-as-u-go-cartel-crawled-so-that-grime-could-walk",
+   "domain": "trenchtrenchtrench.com"
+  },
+  {
+   "url": "https://daily.redbullmusicacademy.com/2015/05/wiley-feature/",
+   "domain": "daily.redbullmusicacademy.com"
+  },
+  {
+   "url": "https://factmag.com/2013/10/04/sentimental-things-charting-uk-dance-music-from-2000-2009-in-100-records",
+   "domain": "factmag.com"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}

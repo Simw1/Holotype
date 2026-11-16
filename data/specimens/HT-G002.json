@@ -1,0 +1,229 @@
+{
+ "id": "HT-G002",
+ "key": "musical-mob-pulse-x",
+ "sort": "2002-03-15",
+ "year": 2002,
+ "date": "Mar 2002",
+ "kind": "12-inch",
+ "artist": "Musical Mob (Youngstar)",
+ "title": "Pulse X",
+ "label": "Inspired Sounds",
+ "cat": null,
+ "format": "12\" vinyl",
+ "producers": [
+  "Youngstar (Daryl Nurse)"
+ ],
+ "lane": "garage",
+ "geno": [
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 3,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "d"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 2,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  },
+  {
+   "a": 0,
+   "b": "s"
+  }
+ ],
+ "type": {
+  "status": "Proposed lectotype",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Earliest-dated record in this set that sources widely call the first grime beat (FACT no. 1; SPIN; Wikipedia) and described in an interview as the first 8-bar track released. No type was designated when the name grime came into use, so the first designation is a lectotype. Oi! (promo 2001) and Venom (made 2001, released early 2002) may predate it: see the priority question."
+ },
+ "sound": [
+  {
+   "text": "A single 16-bar loop: first 8 bars in a 2-step garage style, second 8 bars stripped to kick and snare; no intro, fade-out ending; a voice sample recurs every 32 bars at the switch.",
+   "url": "https://en.wikipedia.org/wiki/Pulse_X",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "Stripped down to overdriven bass bleeps and handclaps; lo-fi and minimal with large empty spaces.",
+   "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/",
+   "g": "C",
+   "checked": true,
+   "pub": "4 Dec 2012"
+  },
+  {
+   "text": "Breakbeat garage deconstructed into a minimal, twisted loop.",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "22 Apr 2012 (first posted 2011)"
+  },
+  {
+   "text": "Producer says he programmed the drum pattern in Propellerhead ReBirth, then sampled a bassline, sequencing in Digital Orchestrator.",
+   "url": "https://www.theransomnote.com/?p=6405",
+   "g": "B",
+   "checked": true,
+   "pub": "c. 2013 (page metadata 19 Aug 2021)"
+  }
+ ],
+ "context": [
+  {
+   "text": "Ranked no. 1 in FACT's 'The 20 best Grime records ever made' (credited Musical Mob, Inspired Sounds, 2002).",
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "g": "C",
+   "checked": true,
+   "pub": "22 Apr 2012 (first posted 2011)"
+  },
+  {
+   "text": "Widely considered the first grime beat / a 'year zero'; its minimalism is said to have set the foundations for a more MC-centred genre. Bok Bok named it his favourite example of Youngstar's 'simplistic, brutalist genius' (2014).",
+   "url": "https://en.wikipedia.org/wiki/Pulse_X",
+   "g": "C",
+   "checked": true,
+   "pub": "live Wikipedia page, accessed 16 Nov 2026"
+  },
+  {
+   "text": "Ransom Note interview describes it as 'the first 8 bar track released' and says it sold out within its first week at Blackmarket (record shop); sold heavily on vinyl.",
+   "url": "https://www.theransomnote.com/?p=6405",
+   "g": "C",
+   "checked": true,
+   "pub": "c. 2013 (page metadata 19 Aug 2021)"
+  },
+  {
+   "text": "SPIN (Philip Sherburne, 2012) argues it as grime's founding track, noting Wiley's 'Eskimo' as the rival contender later in 2002.",
+   "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/",
+   "g": "C",
+   "checked": true,
+   "pub": "4 Dec 2012"
+  }
+ ],
+ "calls": [],
+ "rels": [
+  {
+   "type": "version",
+   "other": "Musical Mob - Pulse Y / Pulse Xtra / Pulse XYZ / Pulse 2005",
+   "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+  },
+  {
+   "type": "vocal version",
+   "other": "Bring Back the Ladies (Pulse X Vocal Mix), vocals by Lorraine Cato",
+   "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+  },
+  {
+   "type": "mash-up (2003 white label)",
+   "other": "Dizzee Rascal - I Luv U",
+   "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+  },
+  {
+   "type": "homage (title and sound)",
+   "other": "Wiley - Pulse Eskimo (aka Gun Shot Riddim)",
+   "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/"
+  },
+  {
+   "type": "remix EP (2013, Liminal Sounds)",
+   "other": "Pulse X remixes by Visionist, Blackwax, Slackk, Pedro 123, Elsewhere",
+   "url": "https://en.wikipedia.org/wiki/Pulse_X"
+  },
+  {
+   "type": "inspired",
+   "other": "Mystry - Pulse 8 (opening beat on JME's Integrity>, 2015)",
+   "url": "https://en.wikipedia.org/wiki/Pulse_X"
+  }
+ ],
+ "uncertainty": "Catalogue number of the 2002 Inspired Sounds 12\" not verified (Discogs blocked). Wikipedia gives March 2002 for the first 12\" and 8 July 2002 for a wider release; SPIN and Ransom Note only imply c. 2002. Credit appears as Musical Mob on early pressings (FACT) and Youngstar on later reissues. Discogs URL located via web search only; Discogs pages returned errors when fetched (blocked), so no facts in this entry are taken from Discogs.",
+ "tracklist": "Instrumental. 2015 White Peach reissue EP (WPR007, 12\" ltd 500 + digital): Pulse X / Revival / Formula / Formula 2.",
+ "sources": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Pulse_X",
+   "domain": "en.wikipedia.org"
+  },
+  {
+   "url": "https://factmag.com/2012/04/22/20-best-grime",
+   "domain": "factmag.com"
+  },
+  {
+   "url": "https://www.spinmagazine.com/2012/12/youngstar-grime-anthem-pulse-x-remixes/",
+   "domain": "spinmagazine.com"
+  },
+  {
+   "url": "https://www.theransomnote.com/?p=6405",
+   "domain": "theransomnote.com"
+  },
+  {
+   "url": "https://whitepeach.bandcamp.com/album/wpr007-youngstar-pulse-x-ep",
+   "domain": "whitepeach.bandcamp.com"
+  }
+ ],
+ "audit": [
+  {
+   "platform": "Apple Music",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "compilation",
+   "release": "The Catalogue, Pt. 1",
+   "level": "track",
+   "url": "https://music.apple.com/us/song/252829705",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Qobuz",
+   "status": "found",
+   "labels": [
+    "Electronic"
+   ],
+   "match": "compilation",
+   "release": "Kurupt FM present The Lost Tape",
+   "level": "album",
+   "url": "https://www.qobuz.com/ca-en/album/kurupt-fm-present-the-lost-tape-kurupt-fm/0191404089477",
+   "retrieved": "2026-11-16",
+   "verdict": "broad"
+  },
+  {
+   "platform": "Bandcamp",
+   "status": "found",
+   "labels": [
+    "dubstep",
+    "electronic",
+    "garage",
+    "grime",
+    "uk bass",
+    "United Kingdom"
+   ],
+   "match": "compilation",
+   "release": "WPRCD001 - White Peach Instrumentals I",
+   "level": "tags",
+   "url": "https://whitepeach.bandcamp.com/track/pulse-x-2",
+   "retrieved": "2026-11-16",
+   "verdict": "correct"
+  }
+ ],
+ "round": 1
+}

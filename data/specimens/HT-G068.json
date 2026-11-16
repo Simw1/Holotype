@@ -1,0 +1,107 @@
+{
+ "id": "HT-G068",
+ "key": "jme-shh-hut-yuh-muh-2006",
+ "sort": "2006-09-01",
+ "year": 2006,
+ "date": "2006",
+ "kind": "Mixtape",
+ "artist": "JME",
+ "title": "Boy Better Know Edition 1: Shh Hut Yuh Muh",
+ "label": "Boy Better Know",
+ "cat": null,
+ "format": "Mixtape (physical format not stated)",
+ "producers": [],
+ "lane": "mc",
+ "geno": null,
+ "type": {
+  "status": "Context artefact",
+  "of": "Grime",
+  "holotype": null,
+  "basis": "Mixtape."
+ },
+ "sound": [
+  {
+   "text": "Complex (2015) says 'Old School' from the tape shows JME's lyrical evolution, with outburst-style delivery and humorous lines.",
+   "url": "https://www.complex.com/music/2015/05/tbt-7-jme-songs-you-should-revisit",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "context": [
+  {
+   "text": "Vice (Jan 2007) credits JME's Boy Better Know camp with releasing 'grime's first real catalogue' of street albums and mixtapes in 2006, not just white labels.",
+   "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "JME, born in Hackney and raised in Tottenham, was in Meridian Crew with his brother Skepta and co-founded Boy Better Know (Wikipedia).",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/JME_(MC).html",
+   "g": "C",
+   "checked": false
+  },
+  {
+   "text": "Vice (2007) says JME and Skepta 'got SERIOUS' after JME's three solo mixtapes.",
+   "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
+   "g": "C",
+   "checked": false
+  }
+ ],
+ "calls": [
+  {
+   "label": "grime",
+   "source": "Wikipedia (artist)",
+   "year": null,
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/JME_(MC).html"
+  },
+  {
+   "label": "grime mixtape",
+   "source": "Vice",
+   "year": 2007,
+   "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out"
+  }
+ ],
+ "rels": [
+  {
+   "type": "followed_by",
+   "other": "JME - Boy Better Know Edition 2: Poomplex (2006)",
+   "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Jme"
+  },
+  {
+   "type": "sibling_collaborator",
+   "other": "Skepta",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/JME_(MC).html"
+  },
+  {
+   "type": "label",
+   "other": "Boy Better Know (founded 2005)",
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Boy_Better_Know.html"
+  }
+ ],
+ "uncertainty": "Title spelling varies: 'Shh Hut Yuh Muh' (Wikipedia, Vice) vs 'Shut Yuh Muh' (Complex). Exact date, format and tracklist not found. JME's 'Serious' was not verified: Wikipedia lists the 'Serious Serious EP' and 'Serious/Calm Down EP' on vinyl but gives no dates, so it was not added.",
+ "tracklist": "First of JME's three 2006 solo mixtapes (followed by Edition 2: Poomplex and Edition 3: Derkhead, plus the instrumental Edition 4: Tropical). Includes 'Old School' (Complex, 2015). A full tracklist was not found.",
+ "sources": [
+  {
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/JME_(MC).html",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://wiki.krisyotam.com/content/wikipedia_en_all_nopic_2026-03/Jme",
+   "domain": "wikipedia (mirror)"
+  },
+  {
+   "url": "https://www.vice.com/en/article/grime-in-2006-put-the-work-in-then-put-the-work-out",
+   "domain": "vice.com"
+  },
+  {
+   "url": "https://www.complex.com/music/2015/05/tbt-7-jme-songs-you-should-revisit",
+   "domain": "complex.com"
+  },
+  {
+   "url": "https://bafybeiemxf5abjwjbikoz4mc3a3dla6ual3jsgpdr4cjr3oz3evfyavhwq.ipfs.4everland.io/wiki/Boy_Better_Know.html",
+   "domain": "wikipedia (mirror)"
+  }
+ ],
+ "audit": [],
+ "round": 2
+}
