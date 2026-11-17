@@ -44,6 +44,7 @@ scripts/
   build_page.py        builds site/index.html and docs/coding-sheet.csv
   template.html        the register page
 site/index.html        the register, as a single self-contained page
+ingest/                holotype-ingest: fingerprinting, riddim matching, set segmentation, review queue (prototype)
 docs/coding-sheet.csv  listening sheet
 ```
 

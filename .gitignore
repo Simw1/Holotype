@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 *.png
 node_modules/
+ingest-data/
+ingest/ingest-data/

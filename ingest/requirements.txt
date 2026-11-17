@@ -1,0 +1,5 @@
+numpy
+scipy
+librosa
+soundfile
+# optional: demucs (better separation), openai-whisper (transcripts)
